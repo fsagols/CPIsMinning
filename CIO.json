@@ -1,0 +1,823 @@
+{
+    "cpis": [
+        {
+            "nombre_cpi": "Centro de Investigaciones en Óptica, A.C.",
+            "siglas_cpi": "CIO",
+            "descripción_breve": "El CIO es un centro de investigación dedicado a la óptica y fotónica, promoviendo el conocimiento, desarrollo tecnológico, innovación y formación de capital humano.",
+            "descripción": "El Centro de Investigaciones en Óptica, A.C. (CIO) se dedica a la investigación, desarrollo tecnológico, innovación y formación de recursos humanos en el campo de la óptica y fotónica. Sus áreas de trabajo incluyen investigación básica y aplicada, así como la vinculación con el sector productivo.",
+            "misión": "El Centro de Investigaciones en Óptica, A.C. es un centro público cuyo propósito es desarrollar investigación básica y aplicada en el campo de la óptica y fotónica, que contribuya a los esfuerzos de la comunidad científica para impulsar las fronteras del conocimiento y su aplicación en el sector productivo y social del país, además de la formación de recursos humanos de alto nivel, el desarrollo y la transferencia de tecnología, y la contribución de una cultura científica y tecnológica en la sociedad mexicana. De acuerdo a nuestra misión, son objetivos estratégicos del CIO: Contribuir al conocimiento científico, a través de la investigación teórica y experimental en óptica y disciplinas afines, fortalecer la capacidad científica y tecnológica del país, a través de programas de especialidad y posgrados de calidad internacional, contribuir al crecimiento tecnológico del país, a través del desarrollo y la transferencia de tecnología, y coadyuvar al desarrollo de una cultura científica y tecnológica en la sociedad mexicana, a través de la divulgación y difusión del conocimiento científico.",
+            "visión": "Ser un Centro de investigación de excelencia, con liderazgo nacional y reconocimiento internacional creciente en el campo de la óptica y fotónica, ocupando un lugar central en el desarrollo de la ciencia y la tecnología de nuestro país.",
+            "titular": "Amalia Marínez Garcia",
+            "fecha_designación_titular": "2024-02-20",
+            "grado_académico_titular": "Doctorado",
+            "especialidad_titular": "Óptica",
+            "origen": "Acorde con el objetivo que el Conahcyt estableció desde sus inicios, de fomentar una cultura competitiva basada en el desarrollo científico y tecnológico, enmarcando sus acciones en las políticas y objetivos del Plan Indicativo de Ciencia y Tecnología 1976-1982, el Consejo tuteló la fundación del Centro de Investigaciones en Óptica, Asociación Civil, (CIO), en la ciudad de León Gto. Dicho proceso de creación tuvo su inicio legal el 18 de Abril de 1980, en un acto protocolario en el que se levantó el acta constitutiva de la nueva institución, donde aparecen como firmantes quienes en la época eran autoridad en niveles de gobierno y dependencias oficiales: el Dr. Edmundo Flores, Director General del Conahcyt, el Dr. Guillermo Soberón Acevedo, Rector de la UNAM, el Lic. Enrique Velasco Ibarra, Gobernador Constitucional del Estado de Guanajuato y el Lic. Harold Gabriel Appetl, Presidente del Ayuntamiento Constitucional de la Ciudad de León Gto.",
+            "fecha_creación": "1980-04-18",
+            "historia_establecimiento": "El CIO fue creado en 1980 como un CPI especializado en óptica, con el objetivo de impulsar el desarrollo científico y tecnológico en México.",
+            "contexto_histórico": "Durante la década de 1970, México experimentaba transformaciones significativas que configuraban su panorama científico y tecnológico, en un contexto de políticas económicas centradas en la industrialización y la modernización. El gobierno, a través del Plan Indicativo de Ciencia y Tecnología 1976-1982, buscaba fortalecer la infraestructura científica del país para apoyar estos objetivos de desarrollo. Este plan reflejaba un esfuerzo por descentralizar la ciencia y la tecnología, moviéndolas fuera de los principales centros urbanos y universitarios, y promoviendo la autonomía tecnológica y la autosuficiencia. El énfasis en áreas como la óptica y la fotónica, vistas como esenciales para el avance tecnológico y económico del país, llevó a la creación de instituciones como el Centro de Investigaciones en Óptica (CIO) en León, Guanajuato.  A nivel global, la época estaba marcada por una acelerada evolución tecnológica y científica, particularmente en los campos de la electrónica y la computación, lo que incidía directamente en la importancia de la óptica y la fotónica. Este período también se caracterizaba por una intensa actividad en la exploración espacial y el desarrollo de nuevas tecnologías de comunicación, como los fibra ópticos y láseres, que redefinían las capacidades globales en diversas industrias. Este escenario internacional influía en la decisión de México de invertir en áreas de alta tecnología, posicionando al CIO como un estratégico núcleo de investigación e innovación que buscaba colocar al país en el mapa global de la investigación científica y tecnológica.",
+            "tipo_entidad_legal": "Sin fines de lucro",
+            "figura_jurídica": "Asociación Civil",
+            "marco_normativo": "El CIO se rige por las normas y regulaciones establecidas por el Consejo Nacional de Ciencia y Tecnología (CONACYT) y otras entidades gubernamentales pertinentes.",
+            "presupuesto": [
+                {
+                    "año": 0,
+                    "monto": 0
+                }
+            ],
+            "programas_académicos": [
+                {
+                    "programa": "Maestría en Ciencias (Óptica)",
+                    "disciplinas": [
+                        {
+                            "area_sni": "Ciencias Físico Matemáticas y Ciencias de la tierra",
+                            "campo_sni": "Óptica",
+                            "disciplina_sni": "Ciencias Ópticas"
+                        }
+                    ],
+                    "nivel": "maestría",
+                    "modalidad": "regular",
+                    "vía": "presencial"
+                },
+                {
+                    "programa": "Maestría en Optomecatrónica",
+                    "disciplinas": [
+                        {
+                            "area_sni": "Ingeniería y Biotecnología",
+                            "campo_sni": "Ingeniería Mecatrónica",
+                            "disciplina_sni": "Optomecatrónica"
+                        }
+                    ],
+                    "nivel": "maestría",
+                    "modalidad": "regular",
+                    "vía": "presencial"
+                },
+                {
+                    "programa": "Doctorado en Ciencias (Óptica)",
+                    "disciplinas": [
+                        {
+                            "area_sni": "Ciencias Físico Matemáticas y Ciencias de la tierra",
+                            "campo_sni": "Óptica",
+                            "disciplina_sni": "Ciencias Ópticas"
+                        }
+                    ],
+                    "nivel": "doctorado",
+                    "modalidad": "regular",
+                    "vía": "presencial"
+                }
+            ],
+            "unidades": [
+                {
+                    "nombre_unidad": "Guanajuato ",
+                    "descripción_unidad": "El CIO desarrolla investigación básica y aplicada que contribuye a la generación de conocimiento e innovación en el campo de la óptica y fotónica, fortaleciendo el liderazgo tecnológico del país y promueve la formación de nuevas empresas basadas en el conocimiento. Ofrece el mejor programa de posgrado en óptica y fotónica y contribuye al desarrollo de una cultura científica y tecnológica.",
+                    "dirección_postal": "37150",
+                    "latitud": 21.153929153928857,
+                    "longitud": -101.70476046625372,
+                    "departamentos": [
+                        {
+                            "departamento": "Optica",
+                            "descripción_departamento": "El Departamento de Óptica se dedica a la investigación y desarrollo de tecnologías ópticas avanzadas, abarcando aplicaciones en láseres, visión artificial, energías renovables, fotometría y sensores de fibra óptica. Su trabajo incluye la creación de nuevos métodos y sistemas para la caracterización y medición precisas en diversas industrias, mejorando la eficiencia y la innovación tecnológica.",
+                            "áreas": [
+                                {
+                                    "área": "Fibras Ópticas y Láseres",
+                                    "descripción_del_área": "En el área de fibras ópticas y láseres se hace investigación básica de los procesos de generación, amplificación y propagación de la luz en una guía de onda cilíndrica (fibra óptica) con el objetivo de desarrollar tecnologías nuevas y eficientes, aplicadas fundamentalmente en el área de las comunicaciones, salud, generación de energía y metrología, por mencionar algunas.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Optica Integrada",
+                                            "descripción": "Investigación y desarrollo de guías de onda ópticas para aplicaciones de óptica integrada.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Óptica",
+                                                    "disciplina_sni": "Óptica Integrada"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Fibras Ópticas para el desarrollo de dispositivos fotónicos novedosos",
+                                            "descripción": "Desarrollo de algoritmos para el procesamiento de señales de sistemas sensores basados en fibras ópticas.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ciencias Físico Matemáticas y Ciencias de la tierra",
+                                                    "campo_sni": "Óptica",
+                                                    "disciplina_sni": "Fibras Ópticas"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Dispositivos y láseres de fibra óptica",
+                                            "descripción": "Desarrollo de láseres de fibra óptica de onda continua y pulsados a diversas longitudes de onda para aplicaciones industriales y médicas.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Óptica",
+                                                    "disciplina_sni": "Láseres de Fibra Óptica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Sensores de fibra óptica",
+                                            "descripción": "Investigación y desarrollo de sensores distribuidos y multiplexados de fibra óptica para aplicaciones en biomedicina, aeroespacial y automotriz.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Óptica",
+                                                    "disciplina_sni": "Sensores de Fibra Óptica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Metrología Óptica",
+                                            "descripción": "Desarrollo de componentes, sensores y dispositivos basados en rejillas de fibra óptica para aplicaciones en metrología óptica.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ciencias Físico Matemáticas y Ciencias de la tierra",
+                                                    "campo_sni": "Óptica",
+                                                    "disciplina_sni": "Metrología Óptica"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "Ingeniería Óptica",
+                                    "descripción_del_área": "La Ingeniería Óptica estudia los instrumentos ópticos cubriendo diseño, fabricación y control de calidad, así como aplicaciones en imágenes médicas y técnicas como la holografía.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Instrumentación Óptica",
+                                            "descripción": "Diseño, fabricación y pruebas de instrumentos ópticos, incluyendo medición del color y sistemas astronómicos.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Instrumentación Óptica",
+                                                    "disciplina_sni": "Diseño de instrumentos ópticos"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Interferometría",
+                                            "descripción": "Utilización de la interferometría para caracterización óptica de diversos medios y materiales fotoanisotrópicos.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ciencias Físico Matemáticas y Ciencias de la tierra",
+                                                    "campo_sni": "Óptica",
+                                                    "disciplina_sni": "Interferometría óptica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Diseño Óptico",
+                                            "descripción": "Desarrollo y mejora de sistemas ópticos para aplicaciones industriales y de investigación.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Óptica",
+                                                    "disciplina_sni": "Diseño óptico avanzado"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Materiales fotoanisotrópicos",
+                                            "descripción": "Investigación en síntesis y aplicación de materiales orgánicos fotoanisotrópicos para óptica.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ciencias Físico Matemáticas y Ciencias de la tierra",
+                                                    "campo_sni": "Materiales",
+                                                    "disciplina_sni": "Materiales fotoactivos"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Divulgación Científica en Óptica",
+                                            "descripción": "Actividades de divulgación como exposiciones y talleres para promover el conocimiento óptico.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Humanidades y Ciencias de la Conducta",
+                                                    "campo_sni": "Divulgación científica",
+                                                    "disciplina_sni": "Comunicación de la ciencia"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Energía Solar y Óptica",
+                                            "descripción": "Desarrollo de tecnologías ópticas para aprovechar la energía solar en aplicaciones térmicas y eléctricas.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Energía Renovable",
+                                                    "disciplina_sni": "Tecnologías solares"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Biosensores y Nanofotónica",
+                                            "descripción": "Investigación en el desarrollo de biosensores utilizando guías de onda plasmónicas y nanofotónica.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ciencias Físico Matemáticas y Ciencias de la tierra",
+                                                    "campo_sni": "Nanotecnología",
+                                                    "disciplina_sni": "Nanofotónica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Desarrollo de Sensores Ópticos",
+                                            "descripción": "Creación de sensores de fibra óptica para monitorización ambiental y aplicaciones industriales.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Óptica",
+                                                    "disciplina_sni": "Sensores ópticos"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "Nanofotónica",
+                                    "descripción_del_área": "Esta área de investigación se centra en la interacción de la luz con materiales a escala nanométrica, explorando efectos ópticos emergentes con aplicaciones en energía solar, iluminación eficiente, biomédica, diagnóstico, terapia, obtención de bioimágenes, y sensado.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Instrumentación óptica para caracterización de películas delgadas",
+                                            "descripción": "Desarrollo de instrumentación óptica para análisis de películas delgadas utilizando técnicas como la medición del ángulo de Brewster y resonancia de plasmones de superficie.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Nanotecnología",
+                                                    "disciplina_sni": "Caracterización de nanomateriales"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Sensores ópticos con películas delgadas",
+                                            "descripción": "Investigación y desarrollo de sensores ópticos empleando películas delgadas depositadas mediante técnicas de evaporación térmica en cámara de vacío.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Nanotecnología",
+                                                    "disciplina_sni": "Sensores nanotecnológicos"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Fabricación de dispositivos fotónicos y opto-electrónicos",
+                                            "descripción": "Diseño y fabricación de dispositivos avanzados para aplicaciones en opto-electrónica y fotónica.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Electrónica",
+                                                    "disciplina_sni": "Dispositivos opto-electrónicos"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Nanomagnetismo y electrónica de espín",
+                                            "descripción": "Estudio del nanomagnetismo y sus aplicaciones en la electrónica de espín, abriendo posibilidades para el desarrollo de nuevas tecnologías en almacenamiento de datos y sensores.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ciencias Físico Matemáticas y Ciencias de la tierra",
+                                                    "campo_sni": "Física",
+                                                    "disciplina_sni": "Nanomagnetismo"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Captación y Almacenamiento de Energía",
+                                            "descripción": "Investigación en métodos avanzados para la captación eficiente y almacenamiento de energía, enfocándose en aplicaciones sostenibles.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Energías Renovables",
+                                                    "disciplina_sni": "Almacenamiento de energía"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Micro y Nanotecnologías",
+                                            "descripción": "Desarrollo de tecnologías a escala micro y nano para avanzar en la miniaturización de dispositivos y mejorar su funcionalidad.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Nanotecnología",
+                                                    "disciplina_sni": "Micro/Nanotecnología"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Celdas solares",
+                                            "descripción": "Investigación y desarrollo de celdas solares más eficientes y económicas para impulsar el uso de la energía solar.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Energía Solar",
+                                                    "disciplina_sni": "Tecnología fotovoltaica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Desarrollo de sensores (MEMS/NEMS)",
+                                            "descripción": "Creación de sensores micro y nanoelectromecánicos (MEMS/NEMS) para aplicaciones en diversas industrias y la medicina.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Nanotecnología",
+                                                    "disciplina_sni": "Sensores MEMS/NEMS"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Instrumentación en microscopía electrónica",
+                                            "descripción": "Desarrollo de técnicas y equipos para la microscopía electrónica, enfocados en la mejora de la resolución y análisis de materiales.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ciencias Físico Matemáticas y Ciencias de la tierra",
+                                                    "campo_sni": "Física",
+                                                    "disciplina_sni": "Microscopía electrónica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Diseño de reactores CVD para el depósito de materiales luminiscentes",
+                                            "descripción": "Investigación en reactores de deposición química en vapor (CVD) para la fabricación de materiales luminiscentes destinados a celdas fotovoltaicas.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Química",
+                                                    "disciplina_sni": "Deposición de materiales"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Síntesis, caracterización, y aplicación de nuevos fósforos",
+                                            "descripción": "Investigación sobre nuevos fósforos, su síntesis y caracterización, con aplicaciones en pantallas y otros dispositivos emisores de luz.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ciencias Físico Matemáticas y Ciencias de la tierra",
+                                                    "campo_sni": "Química",
+                                                    "disciplina_sni": "Química de materiales"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Photocatalisis: Tratamiento de Aguas y Generación de Hidrógeno",
+                                            "descripción": "Desarrollo de procesos photocatalíticos para la purificación de agua y producción de hidrógeno como fuente de energía limpia.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Tecnología Ambiental",
+                                                    "disciplina_sni": "Photocatalisis"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Materiales nanoestructurados",
+                                            "descripción": "Investigación y desarrollo de materiales nanoestructurados con propiedades avanzadas para diversas aplicaciones tecnológicas.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Nanotecnología",
+                                                    "disciplina_sni": "Nanomateriales"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Óptica no-lineal",
+                                            "descripción": "Estudio de los fenómenos ópticos que ocurren cuando los materiales interactúan con luz de alta intensidad.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ciencias Físico Matemáticas y Ciencias de la tierra",
+                                                    "campo_sni": "Óptica",
+                                                    "disciplina_sni": "Óptica no-lineal"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Electrónica molecular",
+                                            "descripción": "Exploración del uso de moléculas como componentes electrónicos en dispositivos a nanoescala.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Electrónica",
+                                                    "disciplina_sni": "Electrónica molecular"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Biofotónica",
+                                            "descripción": "Aplicación de técnicas fotónicas para el estudio de sistemas biológicos, incluyendo diagnóstico y terapias médicas.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Medicina y Ciencias de la Salud",
+                                                    "campo_sni": "Biotecnología",
+                                                    "disciplina_sni": "Biofotónica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Espectroscopía y óptica ultrarrápida",
+                                            "descripción": "Estudio de los procesos dinámicos en materia a través de técnicas espectroscópicas y de pulsos de luz ultracortos.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ciencias Físico Matemáticas y Ciencias de la tierra",
+                                                    "campo_sni": "Física",
+                                                    "disciplina_sni": "Espectroscopía ultrarrápida"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Desarrollo de nuevos materiales para opto-electrónica",
+                                            "descripción": "Investigación en materiales orgánicos y otros compuestos avanzados para su uso en dispositivos fotónicos y opto-electrónicos.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Materiales",
+                                                    "disciplina_sni": "Materiales para opto-electrónica"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "Óptica no Lineal",
+                                    "descripción_del_área": "La Óptica no lineal estudia los fenómenos generados por la interacción de la materia con haces de luz intensos, típicamente de fuentes láser. Esta interacción no lineal incluye fenómenos como la conversión de frecuencias ópticas, absorción multifotónica, autoenfocamiento, efecto Raman, y modulación del índice de refracción, utilizados en desarrollos como bioimágenes y análisis de materia.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Óptica no-lineal",
+                                            "descripción": "Estudio avanzado de fenómenos ópticos no lineales para el desarrollo de sistemas de radiación coherente sintonizables y otras aplicaciones tecnológicas.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ciencias Físico Matemáticas y Ciencias de la tierra",
+                                                    "campo_sni": "Óptica",
+                                                    "disciplina_sni": "Óptica no-lineal"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Electrónica molecular",
+                                            "descripción": "Exploración del uso de moléculas en dispositivos electrónicos a nanoescala, con aplicaciones en optoelectrónica y otras tecnologías.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Nanotecnología",
+                                                    "disciplina_sni": "Electrónica molecular"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Biofotónica",
+                                            "descripción": "Utilización de técnicas fotónicas para el estudio y tratamiento de sistemas biológicos, incluyendo diagnóstico y terapia médica.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Medicina y Ciencias de la Salud",
+                                                    "campo_sni": "Biotecnología Médica",
+                                                    "disciplina_sni": "Biofotónica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Espectroscopía y óptica ultrarrápida",
+                                            "descripción": "Investigación en el uso de pulsos de luz ultracortos para el estudio dinámico de materiales y procesos químicos.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ciencias Físico Matemáticas y Ciencias de la tierra",
+                                                    "campo_sni": "Física",
+                                                    "disciplina_sni": "Espectroscopía ultrarrápida"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Desarrollo de nuevos materiales orgánicos",
+                                            "descripción": "Investigación y desarrollo de materiales orgánicos para aplicaciones avanzadas en opto-electrónica y fotónica, enfocados en mejorar la eficiencia y funcionalidad de dispositivos.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Materiales",
+                                                    "disciplina_sni": "Materiales orgánicos para optoelectrónica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Óptica: Propiedades Ópticas Lineales y No-Lineales de la Materia",
+                                            "descripción": "Estudio de propiedades ópticas en medios cristalinos y amorfos, incluyendo la generación de segundo armónico y fenómenos ópticos de superficies, así como la espintrónica asistida por fotones y propiedades de metamateriales.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ciencias Físico Matemáticas y Ciencias de la tierra",
+                                                    "campo_sni": "Óptica",
+                                                    "disciplina_sni": "Óptica no-lineal"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Materia Condensada: Plasmones en sistemas de dimensión reducida",
+                                            "descripción": "Investigación en plasmones en sistemas de dimensión reducida y estudios en superconductividad.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ciencias Físico Matemáticas y Ciencias de la tierra",
+                                                    "campo_sni": "Física de la Materia Condensada",
+                                                    "disciplina_sni": "Plasmones"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Gravitación: Acoplamiento gravitacional con sistemas cuánticos",
+                                            "descripción": "Estudio del acoplamiento entre fenómenos gravitacionales y sistemas cuánticos, explorando nuevas fronteras en física teórica.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ciencias Físico Matemáticas y Ciencias de la tierra",
+                                                    "campo_sni": "Gravitación y Astrofísica",
+                                                    "disciplina_sni": "Gravitación Cuántica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Biofísica: Propiedades reológicas de la Saliva Humana",
+                                            "descripción": "Investigación en las propiedades reológicas de la saliva humana, con aplicaciones en diagnósticos médicos y estudios de fluidos biológicos.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Medicina y Ciencias de la Salud",
+                                                    "campo_sni": "Biofísica",
+                                                    "disciplina_sni": "Biofísica de fluidos"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Propiedades ópticas de superficies y nanoestructuras",
+                                            "descripción": "Estudio de las interacciones de la luz con superficies y estructuras a nanoescala, incluyendo metamateriales y superficies semiconductoras.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ciencias Físico Matemáticas y Ciencias de la tierra",
+                                                    "campo_sni": "Nanotecnología",
+                                                    "disciplina_sni": "Óptica de nanoestructuras"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Fibras de cristal fotónico",
+                                            "descripción": "Desarrollo y análisis de fibras ópticas basadas en cristales fotónicos para mejorar la manipulación y control de la luz en aplicaciones avanzadas.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ciencias Físico Matemáticas y Ciencias de la tierra",
+                                                    "campo_sni": "Óptica",
+                                                    "disciplina_sni": "Fibras de cristal fotónico"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Reflectancia Anisotrópica y Propiedades Ópticas de Metamateriales",
+                                            "descripción": "Investigación en reflectancia anisotrópica de superficies semiconductoras y películas orgánicas, y estudios avanzados de las propiedades ópticas de metamateriales.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ciencias Físico Matemáticas y Ciencias de la tierra",
+                                                    "campo_sni": "Óptica",
+                                                    "disciplina_sni": "Óptica de metamateriales"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Técnicas experimentales en óptica",
+                                            "descripción": "Uso de técnicas avanzadas como espectroscopía Raman, espectroscopía infrarroja, UV-visible, y microscopía electrónica de barrido para el estudio de materiales.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ciencias Físico Matemáticas y Ciencias de la tierra",
+                                                    "campo_sni": "Física del estado sólido",
+                                                    "disciplina_sni": "Espectroscopía avanzada"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "Pruebas Ópticas no Destructivas",
+                                    "descripción_del_área": "Esta área se centra en desarrollar e implementar técnicas y métodos no destructivos para pruebas mecánicas, calibración de dispositivos y caracterización de superficies, utilizando luz láser o blanca para detectar cambios sin interacción mecánica sobre la estructura del objeto.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Measurement of deformation",
+                                            "descripción": "Estudio de deformaciones en objetos utilizando técnicas como interferometría de moteado y holografía digital.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Instrumentación Óptica",
+                                                    "disciplina_sni": "Interferometría"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Velocity and Temperature Measurement",
+                                            "descripción": "Medición de velocidad y temperatura en objetos opacos y de fase utilizando técnicas como schlieren y tomografía óptica coherente.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Instrumentación Óptica",
+                                                    "disciplina_sni": "Velocimetría"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Desarrollo de técnicas metrológicas",
+                                            "descripción": "Desarrollo de técnicas como proyección de franjas y shearografía para estudios metrológicos avanzados.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Instrumentación Óptica",
+                                                    "disciplina_sni": "Metrológica Óptica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Aplicación de técnicas ópticas en biomateriales",
+                                            "descripción": "Utilización de técnicas ópticas para obtener propiedades mecánicas de muestras biológicas y mecánicas a micro y macro escalas.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Medicina y Ciencias de la Salud",
+                                                    "campo_sni": "Biofísica",
+                                                    "disciplina_sni": "Biofotónica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Interferometría holográfica digital y tomografía de coherencia óptica",
+                                            "descripción": "Desarrollo de técnicas como la Interferometría Holográfica Digital (DHI) y la Tomografía de Coherencia Óptica (OCT) para pruebas no destructivas en materiales manufacturados y orgánicos, con capacidad de emplear ambas técnicas simultáneamente.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Instrumentación Óptica",
+                                                    "disciplina_sni": "Interferometría Óptica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Metrología Óptica",
+                                            "descripción": "Aplicación de la metrología óptica en sectores como biomedicina, aeroespacial y automotriz, enfocándose en la precisión y la innovación tecnológica.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Instrumentación Óptica",
+                                                    "disciplina_sni": "Metrología Óptica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Holografía con Electrones para Nanomateriales",
+                                            "descripción": "Investigación en el uso de holografía con electrones para el estudio y caracterización de nanomateriales, proporcionando detalles a nivel atómico.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ciencias Físico Matemáticas y Ciencias de la tierra",
+                                                    "campo_sni": "Nanotecnología",
+                                                    "disciplina_sni": "Holografía electrónica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Instrumentación óptica para fluidos",
+                                            "descripción": "Elaboración de instrumentación óptica especializada para visualizar y medir velocidad y temperatura en flujos de fluidos, aplicable tanto a macro como a microfluidos.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Instrumentación Óptica",
+                                                    "disciplina_sni": "Dinámica de fluidos óptica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Holografía digital",
+                                            "descripción": "Utilización de holografía digital para la inspección no destructiva, permitiendo la visualización tridimensional de los objetos analizados sin contacto físico.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Instrumentación Óptica",
+                                                    "disciplina_sni": "Holografía Digital"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Interferometría heterodina",
+                                            "descripción": "Aplicación de interferometría heterodina en pruebas ópticas para medir con alta precisión la deformación, vibración y otras propiedades dinámicas de los materiales.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Instrumentación Óptica",
+                                                    "disciplina_sni": "Interferometría Heterodina"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Holografía digital microscópica",
+                                            "descripción": "Desarrollo y uso de holografía digital microscópica para la caracterización detallada y no destructiva a escala microscópica de materiales y componentes biológicos.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ciencias Físico Matemáticas y Ciencias de la tierra",
+                                                    "campo_sni": "Óptica",
+                                                    "disciplina_sni": "Microscopía Holográfica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Pruebas ópticas no destructivas",
+                                            "descripción": "Desarrollo de metodologías ópticas avanzadas para realizar inspecciones y análisis no destructivos, abarcando desde componentes industriales hasta biológicos, sin alterar su integridad.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Instrumentación Óptica",
+                                                    "disciplina_sni": "Pruebas Ópticas No Destructivas"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "nombre_unidad": "Aguascalientes",
+                    "descripción_unidad": "La Unidad Aguascalientes del CIO apoya a los sectores industrial, productivo, académico y científico de la región. Dispone de 13 laboratorios, incluyendo uno acreditado ante la ema, ofreciendo servicios diversos, desarrollo de proyectos tecnológicos, capacitaciones y visitas guiadas.",
+                    "dirección_postal": "20200",
+                    "latitud": 21.865814219188245,
+                    "longitud": -102.33604725849221,
+                    "departamentos": [
+                        {
+                            "departamento": "Optica",
+                            "descripción_departamento": "El Departamento de Óptica se dedica a la investigación y desarrollo de tecnologías ópticas avanzadas, abarcando aplicaciones en láseres, visión artificial, energías renovables, fotometría y sensores de fibra óptica. Su trabajo incluye la creación de nuevos métodos y sistemas para la caracterización y medición precisas en diversas industrias, mejorando la eficiencia y la innovación tecnológica.",
+                            "áreas": [
+                                {
+                                    "área": "Optica",
+                                    "descripción_del_área": "Se dedica a la investigación y desarrollo de tecnologías ópticas avanzadas, abarcando aplicaciones en láseres, visión artificial, energías renovables, fotometría y sensores de fibra óptica. Su trabajo incluye la creación de nuevos métodos y sistemas para la caracterización y medición precisas en diversas industrias, mejorando la eficiencia y la innovación tecnológica.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Aplicaciones Láser",
+                                            "descripción": "Investigación en síntesis de óxidos mediante irradiación láser y bioestimulación con láser para diversas aplicaciones clínicas y materiales.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Óptica",
+                                                    "disciplina_sni": "Aplicaciones láser"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Visión Artificial y Mecatrónica",
+                                            "descripción": "Desarrollo de sistemas de visión artificial integrados con soluciones mecatrónicas para automatización y control en industrias.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Robótica",
+                                                    "disciplina_sni": "Visión Artificial"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Energías Renovables",
+                                            "descripción": "Investigación en fuentes de energía renovables, incluyendo desarrollo y evaluación de tecnologías solares y alternativas.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Energías Renovables",
+                                                    "disciplina_sni": "Tecnologías Renovables"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Fotometría y color",
+                                            "descripción": "Estudios avanzados en fotometría, incluyendo la medición y análisis de color en aplicaciones industriales.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Instrumentación Óptica",
+                                                    "disciplina_sni": "Fotometría"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Sensores de fibra",
+                                            "descripción": "Desarrollo de sensores de fibra óptica para aplicaciones en medición y monitoreo en diversos campos como la medicina y la industria.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Óptica",
+                                                    "disciplina_sni": "Sensores de Fibra Óptica"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "redes_sociales": [
+                {
+                    "red": "X",
+                    "identificador": "Gobierno de México",
+                    "activa": true,
+                    "propósito": "difusión científica"
+                },
+                {
+                    "red": "Facebook",
+                    "identificador": "Gobierno de México",
+                    "activa": true,
+                    "propósito": "difusión científica"
+                }
+            ]
+        }
+    ]
+}

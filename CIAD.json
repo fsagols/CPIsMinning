@@ -1,0 +1,1352 @@
+{
+    "cpis": [
+        {
+            "nombre_cpi": "Centro de Investigación en Alimentación y Desarrollo",
+            "siglas_cpi": "CIAD",
+            "descripción_breve": "El CIAD se enfoca en la generación de  conocimiento para mejorar la producción, comercialización y consumo de alimentos, impulsar el desarrollo regional, promover la sustentabilidad y formar recursos humanos de alto nivel",
+            "descripción": "El CIAD es un centro público de investigación multidisciplinaria que responde a la problemática del sector alimentario y de desarrollo regional mediante la realización de estudios, asesorías, consultorías y servicios en los campos agroalimentario, pesquero, industrial, comercial, económico y social.",
+            "misión": "Contribuimos al desarrollo sustentable y al bienestar de la sociedad en las áreas de alimentación, nutrición, salud, desarrollo regional y recursos naturales mediante la generación, aplicación y difusión de conocimiento científico-tecnológico, la innovación y la formación de recursos humanos de alto nivel.",
+            "visión": "Ser un centro público de investigación con reconocimiento internacional por su calidad científica, sus programas de posgrado, sus aportes a la innovación tecnológica y social, su contribución a la transición hacia la sociedad del conocimiento y por estar altamente vinculado a las necesidades de la sociedad y ser punto de referencia en el diseño y evaluación de políticas públicas en las áreas de alimentación, nutrición, salud, desarrollo regional y recursos naturales.",
+            "titular": "Graciela Caire Juvera",
+            "fecha_designación_titular": "2023-01-27",
+            "grado_académico_titular": "Doctorado",
+            "especialidad_titular": "Nutrición Pública y Salud",
+            "origen": "El CIAD se creó por acuerdo publicado en el Diario Oficial de la Federación el 22 de septiembre de 1981 y se constituyó formalmente como asociación civil, con carácter de empresa de participación estatal mayoritaria, el 16 de marzo de 1982, teniendo su sede en Hermosillo, Sonora, México. Sus asociados fundadores fueron la Secretaría de Educación Pública, el Consejo Nacional de Ciencia y Tecnología, la Universidad Nacional Autónoma de México, el Instituto Politécnico Nacional y el Gobierno del Estado de Sonora. Sus asociados fundadores fueron la Secretaría de Educación Pública, el Consejo Nacional de Ciencia y Tecnología, la Universidad Nacional Autónoma de México, el Instituto Politécnico Nacional y el Gobierno del Estado de Sonora. En 1993 se integraron como asociados activos el Gobierno del Estado de Sinaloa y la Secretaría de Pesca (hoy Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación) y en 1997 el Gobierno del Estado de Chihuahua.",
+            "fecha_creación": "1981-09-22",
+            "historia_establecimiento": "En 1993 se integraron como asociados activos el Gobierno del Estado de Sinaloa y la Secretaría de Pesca (hoy Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación) y en 1997 el Gobierno del Estado de Chihuahua.",
+            "contexto_histórico": "En 1981, México se adentraba en una nueva década enfrentando diversas dificultades económicas y sociales. La crisis del petróleo de finales de los 70 había dejado una huella profunda en la economía, resultando en inflación y deuda externa elevadas. Estos problemas macroeconómicos afectaban directamente sectores cruciales como la alimentación y la agricultura. El país enfrentaba desafíos significativos en estas áreas, incluyendo la dependencia de importaciones de alimentos básicos y una productividad agrícola limitada por la falta de tecnología moderna y prácticas de cultivo eficientes. El ambiente sociopolítico en México durante este periodo estaba marcado por el intento de modernización y estabilización. El gobierno de José López Portillo, que comenzó en 1976 y concluyó en 1982, enfocó esfuerzos en políticas dirigidas al desarrollo tecnológico y agrícola como parte de su plan de Renovación Moral. Se hicieron inversiones significativas en infraestructura y en el desarrollo de tecnologías para mejorar la productividad agrícola, aunque estos esfuerzos a menudo eran obstaculizados por problemas de corrupción y una ejecución ineficaz. A nivel global, 1981 también fue un año de transición. El mundo estaba en medio de la Guerra Fría, con Estados Unidos bajo la nueva presidencia de Ronald Reagan y la Unión Soviética empezando la era de Mijaíl Gorbachov poco después. Estos liderazgos marcaban un cambio significativo en las políticas internacionales y tenían un impacto directo en las economías de muchos países, incluyendo México, que dependía en gran medida de las dinámicas económicas y políticas globales. Además, el mundo también empezaba a enfrentar los primeros desafíos de la globalización, que prometía mayores interconexiones internacionales pero también una competencia más intensa.",
+            "tipo_entidad_legal": "Sin fines de lucro",
+            "figura_jurídica": "Asociación civil",
+            "marco_normativo": "La normateca del CIAD contiene regulaciones y directrices internas que orientan la operación y las prácticas del centro. Incluye normas internas específicas de la organización, normas acordadas con terceros, normas transversales que afectan a múltiples áreas, y documentos de apoyo a la operación interna. Estos documentos están diseñados para garantizar que el CIAD opere de manera ética, responsable y conforme a la legislación aplicable.",
+            "presupuesto": [
+                {
+                    "año": 2017,
+                    "monto": 330952281
+                },
+                {
+                    "año": 2018,
+                    "monto": 338467387
+                },
+                {
+                    "año": 2019,
+                    "monto": 351810144
+                },
+                {
+                    "año": 2020,
+                    "monto": 373291949
+                },
+                {
+                    "año": 2021,
+                    "monto": 386103329
+                },
+                {
+                    "año": 2022,
+                    "monto": 401595166
+                },
+                {
+                    "año": 2023,
+                    "monto": 425320187
+                }
+            ],
+            "programas_académicos": [
+                {
+                    "programa": "Maestría en Ciencias",
+                    "disciplinas": [
+                        {
+                            "area_sni": "Biología y Química",
+                            "campo_sni": "Agricultura, Silvicultura y Pesca",
+                            "disciplina_sni": "Acuicultura"
+                        },
+                        {
+                            "area_sni": "Ciencias Físico Matemáticas y Ciencias de la tierra",
+                            "campo_sni": "Química",
+                            "disciplina_sni": "Química de Polímeros"
+                        },
+                        {
+                            "area_sni": "Biología y Química",
+                            "campo_sni": "Biología",
+                            "disciplina_sni": "Bioquímica"
+                        },
+                        {
+                            "area_sni": "Biología y Química",
+                            "campo_sni": "Biotecnología y Bioingeniería",
+                            "disciplina_sni": "Biotecnología"
+                        },
+                        {
+                            "area_sni": "Biología y Química",
+                            "campo_sni": "Tecnología y Ciencias de los Alimentos",
+                            "disciplina_sni": "Ciencia y Tecnología de Alimentos"
+                        },
+                        {
+                            "area_sni": "Biología y Química",
+                            "campo_sni": "Biología",
+                            "disciplina_sni": "Ecología"
+                        },
+                        {
+                            "area_sni": "Biología y Química",
+                            "campo_sni": "Agricultura, Silvicultura y Pesca",
+                            "disciplina_sni": "Horticultura"
+                        },
+                        {
+                            "area_sni": "Biología y Química",
+                            "campo_sni": "Biología",
+                            "disciplina_sni": "Microbiología"
+                        },
+                        {
+                            "area_sni": "Medicina y Ciencias de la Salud",
+                            "campo_sni": "Medicina y Ciencias de la Salud",
+                            "disciplina_sni": "Nutrición y Dietética"
+                        },
+                        {
+                            "area_sni": "Medicina y Ciencias de la Salud",
+                            "campo_sni": "Farmacia",
+                            "disciplina_sni": "Toxicología"
+                        }
+                    ],
+                    "nivel": "maestría",
+                    "modalidad": "regular",
+                    "vía": "presencial"
+                },
+                {
+                    "programa": "Doctorado en Ciencias",
+                    "disciplinas": [
+                        {
+                            "area_sni": "Biología y Química",
+                            "campo_sni": "Agricultura, Silvicultura y Pesca",
+                            "disciplina_sni": "Acuicultura"
+                        },
+                        {
+                            "area_sni": "Ciencias Físico Matemáticas y Ciencias de la tierra",
+                            "campo_sni": "Química",
+                            "disciplina_sni": "Química de Polímeros"
+                        },
+                        {
+                            "area_sni": "Biología y Química",
+                            "campo_sni": "Biología",
+                            "disciplina_sni": "Bioquímica"
+                        },
+                        {
+                            "area_sni": "Biología y Química",
+                            "campo_sni": "Biotecnología y Bioingeniería",
+                            "disciplina_sni": "Biotecnología"
+                        },
+                        {
+                            "area_sni": "Biología y Química",
+                            "campo_sni": "Tecnología y Ciencias de los Alimentos",
+                            "disciplina_sni": "Ciencia y Tecnología de Alimentos"
+                        },
+                        {
+                            "area_sni": "Biología y Química",
+                            "campo_sni": "Biología",
+                            "disciplina_sni": "Ecología"
+                        },
+                        {
+                            "area_sni": "Biología y Química",
+                            "campo_sni": "Agricultura, Silvicultura y Pesca",
+                            "disciplina_sni": "Horticultura"
+                        },
+                        {
+                            "area_sni": "Biología y Química",
+                            "campo_sni": "Biología",
+                            "disciplina_sni": "Microbiología"
+                        },
+                        {
+                            "area_sni": "Medicina y Ciencias de la Salud",
+                            "campo_sni": "Medicina y Ciencias de la Salud",
+                            "disciplina_sni": "Nutrición y Dietética"
+                        },
+                        {
+                            "area_sni": "Medicina y Ciencias de la Salud",
+                            "campo_sni": "Farmacia",
+                            "disciplina_sni": "Toxicología"
+                        }
+                    ],
+                    "nivel": "doctorado",
+                    "modalidad": "regular",
+                    "vía": "presencial"
+                },
+                {
+                    "programa": "Maestría en Desarrollo Regional",
+                    "disciplinas": [
+                        {
+                            "area_sni": "Ciencias Sociales",
+                            "campo_sni": "Estudios Urbanos, Rurales, Regionales y de la Población",
+                            "disciplina_sni": "Desarrollo Rural"
+                        },
+                        {
+                            "area_sni": "Ciencias Sociales",
+                            "campo_sni": "Ciencias Ambientales y de la Tierra",
+                            "disciplina_sni": "Sociología Ambiental"
+                        },
+                        {
+                            "area_sni": "Ciencias Sociales",
+                            "campo_sni": "Sociología",
+                            "disciplina_sni": "Estudios de Vulnerabilidad y Desarrollo Humano"
+                        },
+                        {
+                            "area_sni": "Ciencias Sociales",
+                            "campo_sni": "Economía",
+                            "disciplina_sni": "Economía Regional y Urbana"
+                        }
+                    ],
+                    "nivel": "maestría",
+                    "modalidad": "regular",
+                    "vía": "presencial"
+                },
+                {
+                    "programa": "Doctorado en Desarrollo Regional",
+                    "disciplinas": [
+                        {
+                            "area_sni": "Ciencias Sociales",
+                            "campo_sni": "Estudios Urbanos, Rurales, Regionales y de la Población",
+                            "disciplina_sni": "Desarrollo Rural"
+                        },
+                        {
+                            "area_sni": "Ciencias Sociales",
+                            "campo_sni": "Ciencias Ambientales y de la Tierra",
+                            "disciplina_sni": "Sociología Ambiental"
+                        },
+                        {
+                            "area_sni": "Ciencias Sociales",
+                            "campo_sni": "Sociología",
+                            "disciplina_sni": "Estudios de Vulnerabilidad y Desarrollo Humano"
+                        },
+                        {
+                            "area_sni": "Ciencias Sociales",
+                            "campo_sni": "Economía",
+                            "disciplina_sni": "Economía Regional y Urbana"
+                        }
+                    ],
+                    "nivel": "doctorado",
+                    "modalidad": "regular",
+                    "vía": "presencial"
+                }
+            ],
+            "unidades": [
+                {
+                    "nombre_unidad": "Hermosillo",
+                    "descripción_unidad": "Sede de la Dirección General",
+                    "dirección_postal": "83334",
+                    "latitud": 29.13078161028956,
+                    "longitud": -110.90653425832768,
+                    "departamentos": [
+                        {
+                            "departamento": "Nutrición",
+                            "descripción_departamento": "Su propósito es generar información del estado de nutrición en la población. Actualmente los retos que plantea el cambio en el paradigma de la relación nutrición-salud ponen de relieve la importancia de las acciones de investigación en esta materia y de la estrecha vinculación que debe existir con los sectores sociales y económicos para incidir sobre los hábitos alimentarios",
+                            "áreas": [
+                                {
+                                    "área": "Nutrición",
+                                    "descripción_del_área": "Realiza investigación de frontera en Nutrición Pública y Salud y Nutrición y Metabolismo en temas como dieta, nutrición y políticas públicas afines, nutrición para necesidades especiales, asociación nutrición-infección, deficiencia de nutrientes, inmunología, diabetes, obesidad y cáncer, además de nutrición animal",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Dieta y salud",
+                                            "descripción": "Estudio de dietas y desarrollo de productos alternativos para mejorar la nutrición y la salud",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Medicina y Ciencias de la Salud",
+                                                    "campo_sni": "Medicina y Ciencias de la Salud",
+                                                    "disciplina_sni": "Nutrición y Dietética"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Seguridad alimentaria",
+                                            "descripción": "Identificación de los procesos socioculturales, conductuales y económicos que determinan los problemas de seguridad alimentaria dentro de los contextos locales",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ciencias Sociales",
+                                                    "campo_sni": "Sociología",
+                                                    "disciplina_sni": "Sociología de la Alimentación"
+                                                },
+                                                {
+                                                    "area_sni": "Ciencias Sociales",
+                                                    "campo_sni": "Economía",
+                                                    "disciplina_sni": "Economía Agrícola"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Nutrición y enfermedades crónicas no transmisibles",
+                                            "descripción": "Principales enfermedades no transmisibles relacionadas con la nutrición",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Medicina y Ciencias de la Salud",
+                                                    "campo_sni": "Medicina y Ciencias de la Salud",
+                                                    "disciplina_sni": "Epidemiología Nutricional"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Nutrición-infección",
+                                            "descripción": "Relación de la nutrición con los procesos infecciosos y la respuesta inmune",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Medicina y Ciencias de la Salud",
+                                                    "campo_sni": "Medicina y Ciencias de la Salud",
+                                                    "disciplina_sni": "Inmunología"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Nutrición y salud animal",
+                                            "descripción": "Diagnóstico, control y profilaxis de los procesos infecciosos y respuesta inmune",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Medicina y Ciencias de la Salud",
+                                                    "campo_sni": "Medicina y Ciencias de la Salud",
+                                                    "disciplina_sni": "Veterinaria"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "departamento": "Tecnología de Alimentos de Origen Animal",
+                            "descripción_departamento": "Sus actividades incluyen la evaluación de variedades vegetales, diagnóstico de sistemas poscosecha y desarrollo de tecnología para mejorar la vida útil de alimentos frescos y procesados. Sus objetivos principales son generar y difundir conocimiento científico y tecnológico a través de proyectos de investigación, formar recursos humanos de alta calidad en niveles de posgrado y contribuir a programas de iniciación a la investigación para estudiantes de licenciatura. Además, busca establecer vínculos con sectores social, gubernamental y privado mediante el desarrollo de proyectos, asesorías y servicios.",
+                            "áreas": [
+                                {
+                                    "área": "Tecnología de Alimentos de Origen Animal",
+                                    "descripción_del_área": "genera y difunde conocimiento científico y tecnológico mediante proyectos de investigación básica y aplicada; forma recursos humanos de alta calidad en posgrado y contribuye a programas de iniciación a la investigación para estudiantes de licenciatura; y apoya al sector productivo en el desarrollo, consolidación y aumento de la competitividad de sus procesos mediante proyectos conjuntos de asistencia técnica y prestación de servicios.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Calidad, autenticidad y trazabilidad de los alimentos",
+                                            "descripción": "Investigación y desarrollo de métodos para garantizar la calidad, autenticidad y trazabilidad de los alimentos de origen animal.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Biología y Química",
+                                                    "campo_sni": "Biotecnología y Bioingeniería",
+                                                    "disciplina_sni": "Biotecnología de Alimentos"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Desarrollo o mejora de productos y procesos para la industria alimentaria",
+                                            "descripción": "Innovación y optimización de productos y procesos en la industria alimentaria para aumentar la eficiencia y la calidad de los alimentos de origen animal.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Ingeniería y Biotecnología de Procesos",
+                                                    "disciplina_sni": "Ingeniería y Biotecnología de Alimentos"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Ciencia y tecnología de la leche y productos lácteos",
+                                            "descripción": "Estudios avanzados en el procesamiento, calidad y características nutricionales de la leche y productos lácteos.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Biología y Química",
+                                                    "campo_sni": "Tecnología y Ciencias de los Alimentos",
+                                                    "disciplina_sni": "Tecnología Láctea"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Ciencia y tecnología de la carne y productos cárnicos",
+                                            "descripción": "Investigación en métodos de procesamiento, conservación y evaluación de la carne y productos cárnicos.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Biología y Química",
+                                                    "campo_sni": "Tecnología y Ciencias de los Alimentos",
+                                                    "disciplina_sni": "Tecnología Cárnica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Ciencia y tecnología de productos pesqueros",
+                                            "descripción": "Desarrollo de técnicas y procesos para mejorar la calidad y seguridad de los productos pesqueros.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Biología y Química",
+                                                    "campo_sni": "Tecnología y Ciencias de los Alimentos",
+                                                    "disciplina_sni": "Tecnología de Productos del Mar"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Bioquímica y biología molecular de organismos acuáticos",
+                                            "descripción": "Estudio de la bioquímica y la biología molecular de organismos acuáticos para aplicaciones en biotecnología y alimentación.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Biología y Química",
+                                                    "campo_sni": "Biología",
+                                                    "disciplina_sni": "Bioquímica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Bioquímica y biofísica de proteínas",
+                                            "descripción": "Investigación fundamental y aplicada en la estructura y función de las proteínas de origen animal.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Biología y Química",
+                                                    "campo_sni": "Biología",
+                                                    "disciplina_sni": "Bioquímica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Aislamiento y caracterización de biopolímeros funcionales",
+                                            "descripción": "Identificación y análisis de biopolímeros funcionales derivados de fuentes animales para uso en aplicaciones alimentarias y biomédicas.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ciencias Físico Matemáticas y Ciencias de la tierra",
+                                                    "campo_sni": "Química",
+                                                    "disciplina_sni": "Química de Polímeros"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Evaluación sensorial de alimentos",
+                                            "descripción": "Técnicas de evaluación sensorial para determinar las preferencias del consumidor y mejorar la aceptación de los alimentos de origen animal.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Biología y Química",
+                                                    "campo_sni": "Tecnología y Ciencias de los Alimentos",
+                                                    "disciplina_sni": "Ciencia Sensorial de Alimentos"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "departamento": "Ciencia de los Alimentos",
+                            "descripción_departamento": "Su propósito es generar información del estado de nutrición en la población. Actualmente los retos que plantea el cambio en el paradigma de la relación nutrición-salud ponen de relieve la importancia de las acciones de investigación en esta materia y de la estrecha vinculación que debe existir con los sectores sociales y económicos para incidir sobre los hábitos alimentarios",
+                            "áreas": [
+                                {
+                                    "área": "Bioquímica y biotecnología",
+                                    "descripción_del_área": "Se integra a su investigación investigaciones herramientas de bioquímica, biología molecular, toxicología y microbiología para la realización de estudios multidisciplinarios inter e intrainstitucionales.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Bioquímica de proteínas, carbohidratos y compuestos marcadores de estrés y de defensa",
+                                            "descripción": "Estudios sobre la función y funcionalidad de proteínas, carbohidratos y compuestos marcadores en organismos vivos.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Biología y Química",
+                                                    "campo_sni": "Biotecnología y Bioingeniería",
+                                                    "disciplina_sni": "Bioquímica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Nanotecnología e ingeniería de bioprocesos",
+                                            "descripción": "Biotransformaciones y biocatálisis, desde la ciencia básica hasta la aplicación tecnológica y el patentamiento.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Biología y Química",
+                                                    "campo_sni": "Biotecnología y Bioingeniería",
+                                                    "disciplina_sni": "Biotecnología"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "Microbiología e inmunología",
+                                    "descripción_del_área": "Se apoya en herramientas genómicas, microbiología molecular y bioquímica microbiana que le permiten realizar investigación multidisciplinaria y prestar servicios de vinculación a partir de su laboratorio acreditado de análisis microbiológicos.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Microorganismos en campos de influencia",
+                                            "descripción": "Estudio de microorganismos, tanto patógenos como benéficos, en su impacto en el deterioro de alimentos y transmisión de enfermedades.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Biología y Química",
+                                                    "campo_sni": "Biología",
+                                                    "disciplina_sni": "Microbiología"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Interacción microbiana con el sistema inmunológico",
+                                            "descripción": "Estudio de la interacción de patógenos y microbiota intestinal con el sistema inmunológico del hospedero.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Biología y Química",
+                                                    "campo_sni": "Medicina y Ciencias de la Salud",
+                                                    "disciplina_sni": "Inmunología"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "Toxicología de alimentos y ecotoxicología",
+                                    "descripción_del_área": "Se apoya en herramientas analíticas de frontera que se ponen a disposición de la industria y de otras instituciones a través de servicios analíticos y de apoyo a la investigación.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Contaminantes químicos en alimentos",
+                                            "descripción": "Estudio de la presencia de contaminantes químicos en alimentos y sus efectos nocivos en organismos y entornos.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Biología y Química",
+                                                    "campo_sni": "Biología",
+                                                    "disciplina_sni": "Toxicología"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Compuestos con actividad biológica",
+                                            "descripción": "Investigación de compuestos vegetales, animales y microbianos con actividad insecticida, fungicida y de regulación metabólica.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Biología y Química",
+                                                    "campo_sni": "Biología",
+                                                    "disciplina_sni": "Ecotoxicología"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "departamento": "Tecnología de Alimentos de Origen Vegetal",
+                            "descripción_departamento": "Con sede en Hermosillo, Sonora, esta coordinación impulsa investigaciones y desarrollo tecnológico enfocado en biología molecular, fisiología y poscosecha de frutas, hortalizas, cereales y hongos. Destaca en la evaluación de variedades vegetales, diagnóstico de sistemas poscosecha y desarrollo de tecnologías para mejorar la vida útil de alimentos frescos y procesados. Sus objetivos incluyen generar y difundir conocimiento científico y tecnológico, formar recursos humanos de alta calidad y vincularse con sectores social, gubernamental y privado.",
+                            "áreas": [
+                                {
+                                    "área": "Fisiología, bioquímica y genética agroalimentaria",
+                                    "descripción_del_área": "Dedicada al estudio y mejora de frutas, hortalizas, cereales y hongos a través de la fisiología, bioquímica y genética, orientada a la optimización de la poscosecha y la mejora de variedades vegetales.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Fisiología y bioquímica de frutas, hortalizas, cereales y hongos",
+                                            "descripción": "Estudios para optimizar la calidad y vida útil de alimentos vegetales, mediante el entendimiento de sus procesos fisiológicos y bioquímicos.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Biología y Química",
+                                                    "campo_sni": "Biología",
+                                                    "disciplina_sni": "Bioquímica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Genética y biología molecular",
+                                            "descripción": "Investigación en genética y biología molecular aplicada al desarrollo y mejora de variedades de frutas, hortalizas, cereales y hongos.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Biología y Química",
+                                                    "campo_sni": "Biotecnología y Bioingeniería",
+                                                    "disciplina_sni": "Biología Molecular"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "Ciencia y tecnología agroalimentaria",
+                                    "descripción_del_área": "Enfocada en el desarrollo y mejora de procesos y productos para incrementar la seguridad, funcionalidad y valor nutricional de los alimentos vegetales.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Procesamiento y desarrollo de nuevos productos",
+                                            "descripción": "Innovación en procesos de manufactura para crear nuevos productos alimenticios a partir de fuentes vegetales.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Ingeniería y Biotecnología de Procesos",
+                                                    "disciplina_sni": "Ingeniería y Biotecnología de Alimentos"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Alimentos funcionales y nutracéuticos",
+                                            "descripción": "Desarrollo de alimentos que proporcionan beneficios de salud más allá de la nutrición básica, incluyendo nutracéuticos.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Biología y Química",
+                                                    "campo_sni": "Medicina y Ciencias de la Salud",
+                                                    "disciplina_sni": "Nutrición y Ciencias de los Alimentos"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "Biotecnología y agricultura sustentable",
+                                    "descripción_del_área": "Aplica principios de sostenibilidad y biotecnología para mejorar la producción agrícola y la salud a través de productos innovadores.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Ecología y biodiversidad de especies",
+                                            "descripción": "Estudios para promover la biodiversidad en sistemas agrícolas mediante enfoques sostenibles.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Biología y Química",
+                                                    "campo_sni": "Ecología",
+                                                    "disciplina_sni": "Biodiversidad"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Productos para la agricultura",
+                                            "descripción": "Desarrollo de productos biotecnológicos y sostenibles para mejorar la eficacia y sostenibilidad de las prácticas agrícolas.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Biología y Química",
+                                                    "campo_sni": "Biotecnología y Bioingeniería",
+                                                    "disciplina_sni": "Biotecnología Productiva"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "departamento": "Desarrollo Regional",
+                            "descripción_departamento": "Se enfocan en investigación en las áreas de economía regional e integración internacional, estudios sociales del sistema alimentario, desarrollo humano, bienestar social y estudios ambientales.",
+                            "áreas": [
+                                {
+                                    "área": "Desarrollo Regional",
+                                    "descripción_del_área": "Explora aspectos económicos, sociales, ambientales y culturales del desarrollo regional, con un enfoque en sustentabilidad, bienestar social y políticas públicas.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Economía regional y desarrollo sustentable",
+                                            "descripción": "Estudios sobre la interacción entre economía regional y prácticas de desarrollo sustentable.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ciencias Sociales",
+                                                    "campo_sni": "Economía",
+                                                    "disciplina_sni": "Economía Regional"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Política económica, social y bienestar",
+                                            "descripción": "Investigación sobre la influencia de las políticas económicas y sociales en el bienestar de la población.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ciencias Sociales",
+                                                    "campo_sni": "Ciencias Políticas",
+                                                    "disciplina_sni": "Políticas Públicas"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Reestructuración productiva y planeación estratégica",
+                                            "descripción": "Análisis de la reestructuración productiva regional y su planeación estratégica para el desarrollo sostenible.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ciencias Sociales",
+                                                    "campo_sni": "Administración y Políticas Públicas",
+                                                    "disciplina_sni": "Planificación Estratégica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Dinámica conductual y ecología humana, género y desarrollo humano",
+                                            "descripción": "Estudio de las dinámicas conductuales, la ecología humana y su relación con el género y el desarrollo humano.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ciencias Sociales",
+                                                    "campo_sni": "Antropología",
+                                                    "disciplina_sni": "Ecología Humana"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Evaluación de políticas públicas y programas en salud y educación",
+                                            "descripción": "Evaluación del impacto de las políticas públicas y programas gubernamentales en los sectores de la salud y educación.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ciencias Sociales",
+                                                    "campo_sni": "Administración y Políticas Públicas",
+                                                    "disciplina_sni": "Evaluación de Políticas Públicas"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Género y grupos vulnerables",
+                                            "descripción": "Investigaciones focalizadas en género y la inclusión de grupos vulnerables en el desarrollo regional.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ciencias Sociales",
+                                                    "campo_sni": "Sociología",
+                                                    "disciplina_sni": "Estudios de Género"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Autosuficiencia alimentaria y desarrollo rural sustentable",
+                                            "descripción": "Exploración de estrategias para alcanzar la autosuficiencia alimentaria y promover un desarrollo rural sostenible.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ciencias Sociales",
+                                                    "campo_sni": "Desarrollo Rural",
+                                                    "disciplina_sni": "Desarrollo Rural Sustentable"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Modernidad alimentaria, salud y cultura",
+                                            "descripción": "Estudio de cómo la modernidad influye en las prácticas alimentarias, la salud y la cultura regional.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ciencias Sociales",
+                                                    "campo_sni": "Antropología",
+                                                    "disciplina_sni": "Antropología de la Alimentación"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Ecología política",
+                                            "descripción": "Análisis de las relaciones de poder en la gestión de recursos naturales y su impacto ambiental.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ciencias Sociales",
+                                                    "campo_sni": "Ciencias Políticas",
+                                                    "disciplina_sni": "Ecología Política"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Gestión ambiental del desarrollo",
+                                            "descripción": "Estudios sobre la implementación de políticas y prácticas de gestión ambiental en contextos de desarrollo.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ciencias Sociales",
+                                                    "campo_sni": "Ciencias Ambientales",
+                                                    "disciplina_sni": "Gestión Ambiental"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Modernización, cultura y sustentabilidad ambiental",
+                                            "descripción": "Investigación sobre cómo la modernización afecta la cultura local y la sostenibilidad ambiental.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ciencias Sociales",
+                                                    "campo_sni": "Antropología",
+                                                    "disciplina_sni": "Antropología Ambiental"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "nombre_unidad": "Guaymas",
+                    "descripción_unidad": "Coordinación de Aseguramiento de Calidad y Aprovechamiento Sustentable de Recursos",
+                    "dirección_postal": "85480",
+                    "latitud": 27.89851704672932,
+                    "longitud": -110.87394025651977,
+                    "departamentos": [
+                        {
+                            "departamento": "Aseguramiento de Calidad y Aprovechamiento Sustentable de Recursos Naturales",
+                            "descripción_departamento": "Con sede en Guaymas, Sonora, desde 1994, este departamento se enfoca en servicios de inocuidad para la industria pesquera y acuícola inicialmente, expandiéndose hacia la investigación en recursos naturales y medio ambiente, así como en polímeros naturales.",
+                            "áreas": [
+                                {
+                                    "área": "Inocuidad Alimentaria",
+                                    "descripción_del_área": "Estudio de la seguridad en la cadena de producción alimentaria, con énfasis en bacterias patógenas y sistemas de aseguramiento de calidad y trazabilidad.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Ecología de bacterias patógenas",
+                                            "descripción": "Investigación sobre la ecología de bacterias patógenas en la cadena de producción alimentaria y su impacto en la seguridad alimentaria.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Biología y Química",
+                                                    "campo_sni": "Biología",
+                                                    "disciplina_sni": "Microbiología"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Sistemas de aseguramiento de calidad y trazabilidad",
+                                            "descripción": "Desarrollo y optimización de sistemas para garantizar la calidad y trazabilidad de los alimentos desde la producción hasta el consumidor.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Ingeniería y Biotecnología de Procesos",
+                                                    "disciplina_sni": "Ingeniería y Biotecnología de Alimentos"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "Medio Ambiente",
+                                    "descripción_del_área": "Estudios sobre la biología y ecología de especies marinas y terrestres, monitoreo de contaminantes y sus efectos en ecosistemas costeros.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Ecofisiología",
+                                            "descripción": "Estudio de las respuestas fisiológicas de especies a factores ambientales y su adaptación en diferentes ecosistemas.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Biología y Química",
+                                                    "campo_sni": "Ecología",
+                                                    "disciplina_sni": "Fisiología Ambiental"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Biodiversidad de la ictiofauna mexicana",
+                                            "descripción": "Investigación de la diversidad de peces en México y su importancia ecológica y económica.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Biología y Química",
+                                                    "campo_sni": "Biología",
+                                                    "disciplina_sni": "Ictiología"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "Polímeros Naturales",
+                                    "descripción_del_área": "Investigación en la funcionalidad y aplicaciones de biopolímeros para el desarrollo de nuevos materiales y tecnologías, como la ingeniería de tejidos y la liberación controlada de sustancias.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Nanobiotecnología en liberación sostenida de fármacos",
+                                            "descripción": "Desarrollo de nanosistemas basados en biopolímeros para la liberación controlada de fármacos.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Biología y Química",
+                                                    "campo_sni": "Biotecnología y Bioingeniería",
+                                                    "disciplina_sni": "Nanobiotecnología"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "nombre_unidad": "Cuauhtémoc",
+                    "descripción_unidad": "Coordinación de Fisiología y Tecnología de Alimentos de la Zona Templada, inició actividades en 1997 y trabaja estrechamente con el sector agropecuario y agroindustrial de Cuauhtémoc, Chihuahua, enfocándose en la mejora y desarrollo de productos agrícolas regionales como manzana, durazno, nuez, y otros.",
+                    "dirección_postal": "31570",
+                    "latitud": 28.447665014198854,
+                    "longitud": -106.82879963188525,
+                    "departamentos": [
+                        {
+                            "departamento": "Fisiología y Tecnología de Alimentos de la Zona Templada",
+                            "descripción_departamento": "Este departamento se enfoca en la investigación y desarrollo tecnológico relacionado con la fisiología, biología molecular y tecnología aplicada a la conservación y procesamiento de alimentos, control biológico de plagas, y desarrollo de empaques biodegradables.",
+                            "áreas": [
+                                {
+                                    "área": "Fisiología y Tecnología de Alimentos",
+                                    "descripción_del_área": "Dedicada a la investigación aplicada y básica en la fisiología de cultivos, tecnología de alimentos, y desarrollo de soluciones innovadoras para la industria agroalimentaria.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Manejo poscosecha de productos hortofrutícolas",
+                                            "descripción": "Optimización de técnicas para el manejo poscosecha que mejoren la calidad y durabilidad de productos hortofrutícolas.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Biología y Química",
+                                                    "campo_sni": "Biotecnología y Bioingeniería",
+                                                    "disciplina_sni": "Tecnología Postcosecha"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Uso de almidones no-convencionales en la fabricación de películas y recubrimientos",
+                                            "descripción": "Investigación en el desarrollo de nuevos materiales biodegradables para la industria alimentaria usando almidones no-convencionales.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Ingeniería y Biotecnología Química",
+                                                    "disciplina_sni": "Ciencia de Materiales"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Control biorracional de enfermedades en apiarios",
+                                            "descripción": "Desarrollo de métodos de control biológico para enfermedades en apiarios que sean sostenibles y eficientes.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Biología y Química",
+                                                    "campo_sni": "Biología",
+                                                    "disciplina_sni": "Entomología"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Propiedades fisicoquímicas, tecnológicas y de bioactividad de compuestos de origen vegetal",
+                                            "descripción": "Estudio de las propiedades de compuestos bioactivos en plantas y su aplicación en alimentos funcionales.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Biología y Química",
+                                                    "campo_sni": "Química",
+                                                    "disciplina_sni": "Bioquímica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Calidad y procesamiento de productos lácteos",
+                                            "descripción": "Mejora de procesos en la producción y calidad de productos lácteos a través de tecnologías avanzadas.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Ingeniería y Biotecnología de Procesos",
+                                                    "disciplina_sni": "Ingeniería y Biotecnología de Alimentos"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Química y bioquímica del desarrollo de aroma en frutas",
+                                            "descripción": "Investigación en los procesos químicos y bioquímicos que influyen en el desarrollo del aroma en diferentes tipos de frutas, crucial para la calidad sensorial de los productos.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Biología y Química",
+                                                    "campo_sni": "Química",
+                                                    "disciplina_sni": "Bioquímica de Alimentos"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Interacciones moleculares fitopatógeno-hospedero",
+                                            "descripción": "Estudio de las interacciones a nivel molecular entre patógenos vegetales y sus hospederos, buscando métodos para mejorar la resistencia de las plantas.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Biología y Química",
+                                                    "campo_sni": "Biología",
+                                                    "disciplina_sni": "Fitopatología"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Identificación y evaluación de entomopatógenos de relevancia comercial",
+                                            "descripción": "Investigación dirigida a identificar y evaluar patógenos de insectos que puedan ser utilizados en control biológico, contribuyendo a prácticas agrícolas más sostenibles.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Biología y Química",
+                                                    "campo_sni": "Biología",
+                                                    "disciplina_sni": "Entomología"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "nombre_unidad": "Delicias",
+                    "descripción_unidad": "Coordinación de Tecnología de Productos Hortofrutícolas y Lácteos, ubicada en Delicias, Chihuahua, se enfoca en colaborar con productores locales de frijol, cebolla, chile y leche desde 2002. Está dedicada a la mejora de procesos y productos en el sector agropecuario y agroindustrial.",
+                    "dirección_postal": "33089",
+                    "latitud": 28.222360185958618,
+                    "longitud": -105.43798697315408,
+                    "departamentos": [
+                        {
+                            "departamento": "Tecnología de Productos Hortofrutícolas y Lácteos",
+                            "descripción_departamento": "Este departamento se centra en la investigación y desarrollo de tecnologías aplicadas a la mejora de la calidad y seguridad alimentaria de productos hortofrutícolas y lácteos, con un fuerte enfoque en la colaboración con los productores locales.",
+                            "áreas": [
+                                {
+                                    "área": "Tecnología de Alimentos",
+                                    "descripción_del_área": "Investiga y desarrolla técnicas para mejorar la calidad, inocuidad y procesamiento de alimentos, apoyando también la conservación y nutrición vegetal.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Identificación molecular de microorganismos",
+                                            "descripción": "Estudio y caracterización de microorganismos en alimentos mediante técnicas moleculares para asegurar la calidad e inocuidad.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Biología y Química",
+                                                    "campo_sni": "Biología",
+                                                    "disciplina_sni": "Microbiología"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Calidad e inocuidad alimentaria",
+                                            "descripción": "Desarrollo de protocolos y sistemas para asegurar la calidad e inocuidad de los alimentos durante su producción y procesamiento.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Ingeniería y Biotecnología de Procesos",
+                                                    "disciplina_sni": "Ingeniería y Biotecnología de Alimentos"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Aseguramiento de inocuidad en el proceso de alimentos",
+                                            "descripción": "Implementación de sistemas de control de calidad para garantizar la seguridad alimentaria a lo largo de toda la cadena de producción.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Ingeniería y Biotecnología de Procesos",
+                                                    "disciplina_sni": "Seguridad Alimentaria"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Nanoestudio computacional de biomoléculas",
+                                            "descripción": "Uso de herramientas computacionales para el estudio de biomoléculas que impactan en la calidad y funcionalidad de los alimentos.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ciencias Físico Matemáticas y Ciencias de la tierra",
+                                                    "campo_sni": "Química",
+                                                    "disciplina_sni": "Química Computacional"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Procesado y calidad de alimentos",
+                                            "descripción": "Optimización de procesos para mejorar la calidad de los alimentos procesados, extendiendo su vida útil y preservando sus propiedades nutricionales.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Ingeniería y Biotecnología de Procesos",
+                                                    "disciplina_sni": "Tecnología de Alimentos"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Conservación y calidad poscosecha de frutas y hortalizas",
+                                            "descripción": "Técnicas avanzadas para la conservación poscosecha que mantengan la calidad y prolonguen la vida útil de frutas y hortalizas.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Biología y Química",
+                                                    "campo_sni": "Biotecnología y Bioingeniería",
+                                                    "disciplina_sni": "Tecnología Postcosecha"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Fisiología y nutrición vegetal",
+                                            "descripción": "Investigación sobre los requerimientos nutricionales de plantas cultivadas y su impacto en la productividad y calidad de los cultivos.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Biología y Química",
+                                                    "campo_sni": "Biología",
+                                                    "disciplina_sni": "Fisiología Vegetal"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "nombre_unidad": "Culiacán",
+                    "descripción_unidad": "Coordinación de Ciencia y Tecnología de Productos Agrícolas para Zonas Tropicales y Subtropicales en Culiacán, Sinaloa, dedicada a la investigación y desarrollo en horticultura, inocuidad alimentaria, biotecnología y tecnología de alimentos, con especial enfoque en valor agregado y seguridad alimentaria.",
+                    "dirección_postal": "80129",
+                    "latitud": 24.759644367464997,
+                    "longitud": -107.47198688228522,
+                    "departamentos": [
+                        {
+                            "departamento": "Ciencia y Tecnología de Productos Agrícolas para Zonas Tropicales y Subtropicales",
+                            "descripción_departamento": "Este departamento se centra en mejorar la productividad y sostenibilidad de la agricultura en zonas tropicales y subtropicales mediante avanzadas técnicas de cultivo y tecnología alimentaria, garantizando la inocuidad y calidad de los alimentos.",
+                            "áreas": [
+                                {
+                                    "área": "Tecnología de Alimentos y Biotecnología",
+                                    "descripción_del_área": "Investigación y desarrollo de tecnologías poscosecha para mejorar la calidad nutricional y funcional de frutas, hortalizas y granos, y estudios moleculares para optimizar los cultivos de importancia agroalimentaria.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Tecnología poscosecha de frutas, hortalizas y granos",
+                                            "descripción": "Enfoque en el valor agregado y composición nutricional de los alimentos, explorando propiedades bioactivas y su funcionalidad con fines medicinales y bioenergéticos.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Ingeniería y Biotecnología de Procesos",
+                                                    "disciplina_sni": "Tecnología de Alimentos"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "Inocuidad Alimentaria",
+                                    "descripción_del_área": "Asegura la inocuidad de la cadena de producción alimenticia, desde el campo hasta el consumo final, mediante técnicas avanzadas de análisis y control.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Evaluación de puntos críticos de contaminación",
+                                            "descripción": "Valoración, diagnóstico e identificación de contaminantes físicos, químicos y biológicos en alimentos, definiendo estrategias para reducir riesgos.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Biología y Química",
+                                                    "campo_sni": "Biología",
+                                                    "disciplina_sni": "Microbiología"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "Horticultura",
+                                    "descripción_del_área": "Estudios en sistemas de productividad agrícola, desde técnicas de cultivo tradicionales hasta agricultura protegida, incluyendo manejo integrado de plagas y enfermedades.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Sistemas de productividad agrícola",
+                                            "descripción": "Valoración de técnicas de cultivo y manejo agronómico para mejorar la productividad y sostenibilidad de cultivos.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Biología y Química",
+                                                    "campo_sni": "Agronomía",
+                                                    "disciplina_sni": "Horticultura"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "Bioestadística",
+                                    "descripción_del_área": "Investigación y servicios relacionados con el clima y la contaminación ambiental y su impacto en la agricultura.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Estudios climáticos y su impacto en la agricultura",
+                                            "descripción": "Análisis de datos climáticos y su relación con las prácticas agrícolas y pecuarias, apoyando decisiones en el sector agrícola.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ciencias Físico Matemáticas y Ciencias de la tierra",
+                                                    "campo_sni": "Ciencias de la Tierra",
+                                                    "disciplina_sni": "Meteorología Agrícola"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "nombre_unidad": "Mazatlán",
+                    "descripción_unidad": "Coordinación de Acuicultura y Manejo Ambiental en Mazatlán, Sinaloa, creada en 1993, se enfoca en el manejo sustentable de recursos costeros y acuicultura, con especialización en genética, reproducción, nutrición y sanidad de organismos acuáticos.",
+                    "dirección_postal": "82000",
+                    "latitud": 23.323690731243634,
+                    "longitud": -106.47218564919051,
+                    "departamentos": [
+                        {
+                            "departamento": "Manejo Sustentable de la Zona Costera",
+                            "descripción_departamento": "Centrado en el estudio y conservación de la biodiversidad costera, calidad ambiental y uso sostenible de recursos costeros.",
+                            "áreas": [
+                                {
+                                    "área": "Biodiversidad y Conservación",
+                                    "descripción_del_área": "Estudios sobre la diversidad de la vida marina y costera, y su conservación.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Diversidad de parásitos en organismos acuáticos",
+                                            "descripción": "Investigación sobre los parásitos que afectan a los organismos acuáticos y sus ciclos de vida.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Biología y Química",
+                                                    "campo_sni": "Biología",
+                                                    "disciplina_sni": "Parasitología"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Ecotoxicología de ambientes costeros",
+                                            "descripción": "Estudio de los efectos de los contaminantes en los ecosistemas costeros y marinos.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Biología y Química",
+                                                    "campo_sni": "Ciencias Ambientales",
+                                                    "disciplina_sni": "Ecotoxicología"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "departamento": "Cultivo de Organismos Acuáticos",
+                            "descripción_departamento": "Enfocado en la nutrición, reproducción y sanidad de organismos acuáticos para mejorar la producción y sostenibilidad de la acuicultura.",
+                            "áreas": [
+                                {
+                                    "área": "Reproducción y Cultivo",
+                                    "descripción_del_área": "Desarrollo y optimización de técnicas de reproducción y cultivo para organismos acuáticos.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Nutrición y alimentación de organismos acuáticos",
+                                            "descripción": "Estudios sobre los requerimientos nutricionales y las mejores prácticas de alimentación para la acuicultura.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Medicina y Ciencias de la Salud",
+                                                    "campo_sni": "Nutrición",
+                                                    "disciplina_sni": "Nutrición Animal"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Sanidad e inocuidad de productos acuáticos",
+                                            "descripción": "Investigación sobre las enfermedades en acuicultura y métodos para garantizar la inocuidad de los productos acuáticos.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Medicina y Ciencias de la Salud",
+                                                    "campo_sni": "Medicina y Ciencias de la Salud",
+                                                    "disciplina_sni": "Sanidad Acuícola"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "nombre_unidad": "Tepic",
+                    "descripción_unidad": "Unidad de Gestión Tecnológica",
+                    "dirección_postal": "63173",
+                    "latitud": 21.483481315706626,
+                    "longitud": -104.84891657421645,
+                    "departamentos": [
+                        {
+                            "departamento": "",
+                            "descripción_departamento": "",
+                            "áreas": [
+                                {
+                                    "área": "",
+                                    "descripción_del_área": "",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "",
+                                            "descripción": "",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ciencias Físico Matemáticas y Ciencias de la tierra",
+                                                    "campo_sni": "",
+                                                    "disciplina_sni": ""
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "nombre_unidad": "Hidalgo",
+                    "descripción_unidad": "La subsede Hidalgo forma parte del Centro de Investigación en Alimentación y Desarrollo (CIAD) Hermosillo, con el sentido de consolidar grupos académicos, coordinar esfuerzos, complementar recursos humanos, equipamiento y espacios físicos para atender necesidades y problemas nacionales o de regiones específicas.",
+                    "dirección_postal": "42163",
+                    "latitud": 20.124940237031186,
+                    "longitud": -98.83697083909996,
+                    "departamentos": [
+                        {
+                            "departamento": "Investigación en Sustentabilidad y Desarrollo Agroalimentario",
+                            "descripción_departamento": "Dedicado a la investigación y desarrollo en sistemas agrícolas, ganaderos y acuícolas, socioeconomía alimentaria y desarrollo regional, agroindustria e industria alimentaria, y agua, sanidad e inocuidad alimentaria.",
+                            "áreas": [
+                                {
+                                    "área": "Sistemas agrícolas, ganaderos y acuícolas sustentables",
+                                    "descripción_del_área": "Fomenta prácticas sostenibles en agricultura, ganadería y acuicultura para mejorar la eficiencia y reducir el impacto ambiental.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Agricultura de riego y temporal",
+                                            "descripción": "Investigación en métodos de cultivo que optimicen el uso del agua y del suelo en diferentes condiciones climáticas.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ciencias Físico Matemáticas y Ciencias de la tierra",
+                                                    "campo_sni": "Agronomía",
+                                                    "disciplina_sni": "Agricultura Sostenible"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Tecnología poscosecha",
+                                            "descripción": "Desarrollo de tecnologías para mantener la calidad y prolongar la vida útil de productos agrícolas después de la cosecha.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Ingeniería y Biotecnología de Procesos",
+                                                    "disciplina_sni": "Tecnología Postcosecha"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Acuicultura: trucha y tilapia",
+                                            "descripción": "Optimización de técnicas de cultivo para trucha y tilapia, centradas en la sostenibilidad y la productividad.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Biología y Química",
+                                                    "campo_sni": "Biología",
+                                                    "disciplina_sni": "Acuicultura"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "Socio economía alimentaria y desarrollo regional",
+                                    "descripción_del_área": "Estudio del impacto económico y social de las cadenas productivas agroalimentarias en el desarrollo regional.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Fortalecimiento de cadenas productivas y comercialización",
+                                            "descripción": "Mejora de la eficiencia y sostenibilidad de las cadenas de valor agroalimentarias a través de la innovación y la cooperación.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ciencias Sociales",
+                                                    "campo_sni": "Economía",
+                                                    "disciplina_sni": "Economía Agrícola"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "Agroindustria e industria alimentaria",
+                                    "descripción_del_área": "Innovación en procesos de transformación y valorización de productos agroalimentarios, enfocados en la calidad y seguridad.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Tecnología de alimentos",
+                                            "descripción": "Desarrollo de nuevas tecnologías y procesos para mejorar la calidad y seguridad de los alimentos procesados.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Ingeniería y Biotecnología de Procesos",
+                                                    "disciplina_sni": "Tecnología de Alimentos"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "Agua, sanidad e inocuidad alimentaria",
+                                    "descripción_del_área": "Investigaciones destinadas a asegurar la calidad del agua y los alimentos, enfocadas en la salud pública y la seguridad alimentaria.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Sanidad e inocuidad alimentaria",
+                                            "descripción": "Estudios avanzados para detectar y controlar patógenos en alimentos y agua, reduciendo riesgos para la salud humana.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Medicina y Ciencias de la Salud",
+                                                    "campo_sni": "Medicina y Ciencias de la Salud",
+                                                    "disciplina_sni": "Sanidad Acuícola"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "redes_sociales": [
+                {
+                    "red": "X",
+                    "identificador": "CiadConahcytT",
+                    "activa": false,
+                    "propósito": "difusión científica"
+                },
+                {
+                    "red": "YouTube",
+                    "identificador": "Centro de Investigación en Alimentación y Desarrollo",
+                    "activa": true,
+                    "propósito": "difusión científica"
+                },
+                {
+                    "red": "Facebook",
+                    "identificador": "Centro de Investigación en Alimentación y Desarrollo - CIAD ",
+                    "activa": true,
+                    "propósito": "difusión científica"
+                },
+                {
+                    "red": "Instagram",
+                    "identificador": "ciad.conahcyt",
+                    "activa": true,
+                    "propósito": "difusión científica"
+                }
+            ]
+        }
+    ]
+}
