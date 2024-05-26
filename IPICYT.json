@@ -1,0 +1,906 @@
+{
+    "cpis": [
+        {
+            "nombre_cpi": "Instituto Potosino de Investigación Científica y Tecnológica, A.C.",
+            "siglas_cpi": "IPICYT",
+            "descripción_breve": "Su objetivo principal es realizar investigación de alta calidad en diversas áreas del conocimiento, como biología, química, física, matemáticas, ingeniería, entre otras.",
+            "descripción": "El instituto también participa en la formación de recursos humanos especializados y en la divulgación científica para promover el avance del conocimiento y el desarrollo tecnológico en la región y en el país.",
+            "misión": "Somos una institución dinámica, innovadora y de excelencia con liderazgo regional y nacional, con presencia internacional y responsabilidad social. El IPICYT es un Centro Público de Investigación del sistema CONACyT que cultiva las ciencias naturales y exactas, con grupos académicos multidisciplinarios altamente especializados e infraestructura de primer nivel. Genera, difunde y divulga conocimiento, forma recursos humanos y desarrolla proyectos y servicios tecnológicos para los sectores académico, empresarial, social y gubernamental.",
+            "visión": "Ser una institución con prestigio y liderazgo internacional, con impacto regional y nacional, con infraestructura actualizada, y grupos de investigación consolidados, que fomenta el desarrollo profesional y personal. Impulsar proyectos interdisciplinarios con excelencia académica y científica. Formar recursos humanos de excelencia, con nivel internacional y competitivos en el mercado laboral. Transferir a la sociedad el conocimiento generado.",
+            "titular": "Dr. Luis Antonio Salazar Olivo.",
+            "fecha_designación_titular": "8 de febrero del 2019",
+            "grado_académico_titular": "doctorado",
+            "especialidad_titular": "Doctor en Ciencias con especialidad en Biología Celular por CINVESTAV.",
+            "origen": "El origen del Instituto Potosino de Investigación Científica y Tecnológica (IPICYT) se remonta a la década de 1980, cuando hubo un impulso significativo por parte del Gobierno del Estado de San Luis Potosí y el Consejo Nacional de Ciencia y Tecnología (CONACYT) de México para fortalecer la investigación científica y tecnológica en la región. Se identificó la necesidad de contar con un centro de investigación de alto nivel que pudiera abordar los desafíos y las oportunidades en estas áreas.",
+            "fecha_creación": "1992-05-29",
+            "historia_establecimiento": "El IPICYT fue establecido con el propósito de proveer a la región de un espacio alternativo para el cultivo de las ciencias naturales y exactas, así como para desarrollar tecnologías vinculadas a la solución de problemas locales, regionales y nacionales.",
+            "contexto_histórico": "Desde su fundación, el IPICYT ha crecido en tamaño y prestigio, consolidándose como un centro de investigación reconocido a nivel nacional e internacional. A lo largo de su historia, ha destacado por su labor en diversas áreas del conocimiento, como la biología, la química, la física, las matemáticas y la ingeniería, entre otras.",
+            "tipo_entidad_legal": "Paraestatal asimilada al régimen de las empresas de participación estatal mayoritaria",
+            "figura_jurídica": "Asociación Civil",
+            "marco_normativo": [
+                {
+                    "ley_o_instrumento_jurídico": "Ley Orgánica de la Administración Pública Federal"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "Ley Federal de las Entidades Paraestatales"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "Ley de Ciencia y Tecnología"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "Manual de Organización del Instituto Potosino de Investigación Científica y Tecnológica, A.C."
+                }
+            ],
+            "presupuesto": [
+                {
+                    "año": 2020,
+                    "total": 242842643,
+                    "recursos_fiscales": 0,
+                    "recursos_propios": 0
+                },
+                {
+                    "año": 2021,
+                    "total": 247629735,
+                    "recursos_fiscales": 0,
+                    "recursos_propios": 0
+                },
+                {
+                    "año": 2022,
+                    "total": 253422581,
+                    "recursos_fiscales": 0,
+                    "recursos_propios": 0
+                },
+                {
+                    "año": 2023,
+                    "total": 263015916,
+                    "recursos_fiscales": 0,
+                    "recursos_propios": 0
+                },
+                {
+                    "año": 2024,
+                    "total": 273603092,
+                    "recursos_fiscales": 168009514,
+                    "recursos_propios": 105593578
+                }
+            ],
+            "programas_académicos": [
+                {
+                    "programa": "Maestría en Ciencias en Biología Molecular",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Biología y Química",
+                            "campo_snii": "Ciencias Biomédicas",
+                            "disciplina_snii": "Biología Molecular"
+                        }
+                    ],
+                    "nivel": "maestría",
+                    "modalidad": "regular",
+                    "vía": "presencial"
+                },
+                {
+                    "programa": "Doctorado en Ciencias en Biología Molecular",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Biología y Química",
+                            "campo_snii": "Ciencias Biomédicas",
+                            "disciplina_snii": "Biología Molecular"
+                        }
+                    ],
+                    "nivel": "doctorado",
+                    "modalidad": "regular",
+                    "vía": "presencial"
+                },
+                {
+                    "programa": "Maestría en Ciencias Ambientales",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Biología y Química",
+                            "campo_snii": "Ciencias Ambientales",
+                            "disciplina_snii": "Ecología"
+                        }
+                    ],
+                    "nivel": "maestría",
+                    "modalidad": "regular",
+                    "vía": "presencial"
+                },
+                {
+                    "programa": "Doctorado en Ciencias Ambientales",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Biología y Química",
+                            "campo_snii": "Ciencias Ambientales",
+                            "disciplina_snii": "Ecología"
+                        }
+                    ],
+                    "nivel": "doctorado",
+                    "modalidad": "regular",
+                    "vía": "presencial"
+                },
+                {
+                    "programa": "Maestría en Geociencias Aplicadas",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                            "campo_snii": "Ciencias de la Tierra y del Espacio",
+                            "disciplina_snii": "Geofísica y Sismología"
+                        }
+                    ],
+                    "nivel": "maestría",
+                    "modalidad": "regular",
+                    "vía": "presencial"
+                },
+                {
+                    "programa": "Doctorado en Geociencias Aplicadas",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                            "campo_snii": "Ciencias de la Tierra y del Espacio",
+                            "disciplina_snii": "Geofísica y Sismología"
+                        }
+                    ],
+                    "nivel": "doctorado",
+                    "modalidad": "regular",
+                    "vía": "presencial"
+                },
+                {
+                    "programa": "Maestría en Control y Sistemas Dinámicos",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                            "campo_snii": "Ciencias Matemáticas",
+                            "disciplina_snii": "Sistemas Dinámicos"
+                        }
+                    ],
+                    "nivel": "maestría",
+                    "modalidad": "regular",
+                    "vía": "presencial"
+                },
+                {
+                    "programa": "Doctorado en Control y Sistemas Dinámicos",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                            "campo_snii": "Ciencias Matemáticas",
+                            "disciplina_snii": "Sistemas Dinámicos"
+                        }
+                    ],
+                    "nivel": "doctorado",
+                    "modalidad": "regular",
+                    "vía": "presencial"
+                },
+                {
+                    "programa": "Maestría en Nanociencias y Materiales",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                            "campo_snii": "Ciencias Físicas",
+                            "disciplina_snii": "Nanociencias"
+                        }
+                    ],
+                    "nivel": "maestría",
+                    "modalidad": "regular",
+                    "vía": "presencial"
+                },
+                {
+                    "programa": "Doctorado en Nanociencias y Materiales",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                            "campo_snii": "Ciencias Físicas",
+                            "disciplina_snii": "Nanociencias"
+                        }
+                    ],
+                    "nivel": "doctorado",
+                    "modalidad": "regular",
+                    "vía": "presencial"
+                }
+            ],
+            "unidades": [
+                {
+                    "nombre_unidad": "Instituto Potosino de Investigación Científica y Tecnológica (IPICYT)",
+                    "descripción_unidad": "Esta sede alberga la mayor parte de las instalaciones administrativas, laboratorios, aulas y áreas de investigación del instituto.",
+                    "dirección_postal": "78216",
+                    "latitud": 22.1496998,
+                    "longitud": -101.0738689,
+                    "departamentos": [
+                        {
+                            "departamento": "Biología Molecular",
+                            "descripción_departamento": "La División de Biología Molecular (DBM) tiene por objeto formar investigadores, especialistas y técnicos en biología molecular que incidan en el conocimiento básico, sean capaces de solucionar problemas del sector público, privado y social mediante enfoques multidisciplinarios y contribuyan al desarrollo de la biología moderna y la biotecnología en el estado y la región del centro de México.",
+                            "áreas": [
+                                {
+                                    "área": "Biomedicina Molecular",
+                                    "descripción_del_área": "La biomedicina molecular es un campo interdisciplinario que combina principios de la biología, la química, la física y la medicina para entender los procesos biológicos a nivel molecular y desarrollar aplicaciones médicas.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Ritmos circadianos",
+                                            "descripción": "Los ritmos circadianos son ciclos biológicos de aproximadamente 24 horas que regulan una variedad de procesos fisiológicos en los organismos vivos, incluyendo el sueño, la vigilia, la secreción de hormonas, la temperatura corporal y otras funciones vitales.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Medicina y Ciencias de la Salud",
+                                                    "campo_snii": "Especialidad Médica",
+                                                    "disciplina_snii": "Biomedicina Molecular"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Diagnóstico molecular de infecciones causadas por hongos",
+                                            "descripción": "El diagnóstico molecular de infecciones causadas por hongos es una herramienta crucial para la identificación precisa y rápida de patógenos fúngicos, mejorando así el manejo y tratamiento de estas infecciones.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Medicina y Ciencias de la Salud",
+                                                    "campo_snii": "Especialidad Médica",
+                                                    "disciplina_snii": "Biomedicina Molecular"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Diagnóstico molecular de cáncer",
+                                            "descripción": "El diagnóstico molecular de cáncer implica el uso de técnicas avanzadas para identificar alteraciones genéticas, mutaciones y otras características moleculares de las células cancerosas.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Medicina y Ciencias de la Salud",
+                                                    "campo_snii": "Especialidad Médica",
+                                                    "disciplina_snii": "Biomedicina Molecular"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Diferenciación celular",
+                                            "descripción": "La diferenciación celular es el proceso mediante el cual una célula no especializada se convierte en una célula especializada con una función específica. Este proceso es fundamental para el desarrollo y la función de los organismos multicelulares.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Medicina y Ciencias de la Salud",
+                                                    "campo_snii": "Especialidad Médica",
+                                                    "disciplina_snii": "Biomedicina Molecular"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Proteínas terapéuticas y profilácticas codificadas por genes sintéticos",
+                                            "descripción": "Las proteínas terapéuticas y profilácticas codificadas por genes sintéticos representan una avanzada y prometedora área de la biotecnología y la medicina. Estas proteínas se producen utilizando genes diseñados y sintetizados artificialmente, permitiendo la creación de tratamientos personalizados y altamente específicos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Medicina y Ciencias de la Salud",
+                                                    "campo_snii": "Especialidad Médica",
+                                                    "disciplina_snii": "Biomedicina Molecular"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Neuropatología Molecular",
+                                            "descripción": "La neuropatología molecular es un campo interdisciplinario que combina principios de la neuropatología y la biología molecular para estudiar las enfermedades del sistema nervioso a nivel molecular.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Medicina y Ciencias de la Salud",
+                                                    "campo_snii": "Especialidad Médica",
+                                                    "disciplina_snii": "Biomedicina Molecular"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Relación funcional entre astrocitos y neuronas",
+                                            "descripción": "Los astrocitos y las neuronas mantienen una relación funcional crucial para el funcionamiento adecuado del sistema nervioso central.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Medicina y Ciencias de la Salud",
+                                                    "campo_snii": "Especialidad Médica",
+                                                    "disciplina_snii": "Biomedicina Molecular"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Nutrigenómica",
+                                            "descripción": "La nutrigenómica es el estudio de cómo los nutrientes y otros componentes de la dieta influyen en la expresión y regulación de los genes.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Medicina y Ciencias de la Salud",
+                                                    "campo_snii": "Especialidad Médica",
+                                                    "disciplina_snii": "Biomedicina Molecular"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "Biotecnología Molecular",
+                                    "descripción_del_área": "La biotecnología molecular es un campo fascinante que combina la biología molecular con la ingeniería genética y la tecnología para desarrollar aplicaciones en diversos ámbitos, como la medicina, la agricultura, la industria alimentaria y la energía.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Biología molecular de hongos",
+                                            "descripción": "La biología molecular de los hongos es un campo de estudio interesante que abarca varios aspectos de la genética, la fisiología y la bioquímica de estos organismos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Agropecuarias y Biotecnología",
+                                                    "campo_snii": "Biotecnología",
+                                                    "disciplina_snii": "Biotecnología Vegetal"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Expresión de proteínas de interés biotecnológico",
+                                            "descripción": "La expresión de proteínas de interés biotecnológico es un proceso fundamental en el campo de la biotecnología molecular.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Agropecuarias y Biotecnología",
+                                                    "campo_snii": "Biotecnología",
+                                                    "disciplina_snii": "Biotecnología Vegetal"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Metabolitos de interés farmoquímico",
+                                            "descripción": "Los metabolitos de interés farmoquímico son compuestos químicos producidos por organismos vivos, como plantas, hongos, bacterias y animales, que tienen propiedades farmacológicas útiles para la medicina.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Agropecuarias y Biotecnología",
+                                                    "campo_snii": "Biotecnología",
+                                                    "disciplina_snii": "Biotecnología Vegetal"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Ingeniería de cultivos celulares y control de fermentaciones",
+                                            "descripción": "La ingeniería de cultivos celulares y el control de fermentaciones son áreas clave en la biotecnología y la producción de biomoléculas.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Agropecuarias y Biotecnología",
+                                                    "campo_snii": "Biotecnología",
+                                                    "disciplina_snii": "Biotecnología Vegetal"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "Agrobiología Molecular",
+                                    "descripción_del_área": "La Agrobiología Molecular es un campo de estudio que combina la biología molecular y la agricultura. Se enfoca en aplicar técnicas y conocimientos de la biología molecular para mejorar la producción agrícola, la resistencia de las plantas a enfermedades, la calidad de los alimentos y otros aspectos relacionados con la agricultura.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Microorganismos benéficos para la agricultura",
+                                            "descripción": "Los microorganismos benéficos para la agricultura juegan un papel crucial en la salud del suelo, la nutrición de las plantas y la protección contra enfermedades.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Biología y Química",
+                                                    "campo_snii": "Ciencias Biomédicas",
+                                                    "disciplina_snii": "Biología Molecular"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Genómica, proteómica y bioinformática",
+                                            "descripción": "La genómica, proteómica y bioinformática son áreas interrelacionadas que se ocupan del estudio y análisis de la información genética y proteica de los organismos vivos utilizando herramientas computacionales avanzadas.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Biología y Química",
+                                                    "campo_snii": "Ciencias Biomédicas",
+                                                    "disciplina_snii": "Biología Molecular"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Patogenia y diagnóstico molecular de infecciones en plantas",
+                                            "descripción": "La patogenia y el diagnóstico molecular de infecciones en plantas son áreas importantes en la protección de cultivos y la agricultura en general.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Biología y Química",
+                                                    "campo_snii": "Ciencias Biomédicas",
+                                                    "disciplina_snii": "Biología Molecular"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Fuentes alternativas de proteínas vegetales",
+                                            "descripción": "Las fuentes alternativas de proteínas vegetales son cada vez más importantes debido a la creciente demanda de alimentos sostenibles y nutritivos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Biología y Química",
+                                                    "campo_snii": "Ciencias Biomédicas",
+                                                    "disciplina_snii": "Biología Molecular"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Replicación y evolución de virus",
+                                            "descripción": "La replicación y evolución de virus es un tema fascinante y crucial para comprender su comportamiento, impacto en la salud y estrategias de control.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Biología y Química",
+                                                    "campo_snii": "Ciencias Biomédicas",
+                                                    "disciplina_snii": "Biología Molecular"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Genes de tolerancia al estrés biótico y abiótico",
+                                            "descripción": "Los genes de tolerancia al estrés biótico y abiótico son componentes clave en la supervivencia de los organismos frente a condiciones adversas.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Biología y Química",
+                                                    "campo_snii": "Ciencias Biomédicas",
+                                                    "disciplina_snii": "Biología Molecular"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Uso de marcadores moleculares para tipificación",
+                                            "descripción": "Los marcadores moleculares son herramientas importantes en la tipificación de organismos, ya que permiten identificar y distinguir diferencias genéticas.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Biología y Química",
+                                                    "campo_snii": "Ciencias Biomédicas",
+                                                    "disciplina_snii": "Biología Molecular"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "departamento": " Ciencias Ambientales",
+                            "descripción_departamento": "Las ciencias ambientales son un campo amplio que abarca el estudio de los procesos naturales y humanos que afectan el medio ambiente.",
+                            "áreas": [
+                                {
+                                    "área": "Ecología y Cambio Ambiental Global",
+                                    "descripción_del_área": "Relacionada con ecología y cambio ambiental global podría ser el estudio de la respuesta de los ecosistemas ante el cambio climático.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Biodiversidad y Bienestar Humano",
+                                            "descripción": "Esto incluye estudiar cómo la biodiversidad proporciona servicios ecosistémicos vitales, como la producción de alimentos, el control de plagas, la purificación del agua y el aire, y la regulación del clima.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Biología y Química",
+                                                    "campo_snii": "Ciencias Ambientales",
+                                                    "disciplina_snii": "Ciencias en Biodiversidad"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Invasiones Biológicas",
+                                            "descripción": "Las invasiones biológicas son un fenómeno en el que especies no nativas se introducen en un ecosistema y tienen un impacto significativo en las especies y el medio ambiente local.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Biología y Química",
+                                                    "campo_snii": "Ciencias Ambientales",
+                                                    "disciplina_snii": "Ciencias en Biodiversidad"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Factores de Cambio Cimático y sus Efectos en Ecosistemas",
+                                            "descripción": "El cambio climático está provocando cambios significativos en los ecosistemas, como la alteración de patrones climáticos, la pérdida de hábitats, la extinción de especies y la modificación de interacciones biológicas, lo que afecta la biodiversidad y los servicios ecosistémicos que sustentan la vida en la Tierra.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Biología y Química",
+                                                    "campo_snii": "Ciencias Ambientales",
+                                                    "disciplina_snii": "Conservación de Ecosistemas"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Ecología de la Restauración",
+                                            "descripción": "La ecología de la restauración es una disciplina que se enfoca en restaurar ecosistemas degradados o dañados a un estado funcional y saludable.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Biología y Química",
+                                                    "campo_snii": "Ciencias Ambientales",
+                                                    "disciplina_snii": "Ecología"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Conservación Biológica",
+                                            "descripción": "La conservación biológica se refiere a las acciones y estrategias destinadas a proteger y preservar la diversidad biológica y los ecosistemas naturales.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Biología y Química",
+                                                    "campo_snii": "Ciencias Ambientales",
+                                                    "disciplina_snii": "Conservación de Ecosistemas"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Funcionamiento de Plantas y Ecosistemas",
+                                            "descripción": "El funcionamiento de las plantas y los ecosistemas está estrechamente interrelacionado y es fundamental para el equilibrio y la salud de los sistemas naturales.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Biología y Química",
+                                                    "campo_snii": "Ciencias Ambientales",
+                                                    "disciplina_snii": "Conservación de Ecosistemas"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "Biotecnología e Ingeniería Ambiental",
+                                    "descripción_del_área": "La biotecnología y la ingeniería ambiental son dos campos interrelacionados que tienen como objetivo abordar problemas ambientales utilizando herramientas y técnicas avanzadas.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Bioenergía y Valoración de Residuos (Biorrefinerías)",
+                                            "descripción": "La bioenergía y la valoración de residuos, a través de las biorrefinerías, son áreas importantes en el ámbito de la sostenibilidad y el aprovechamiento de recursos renovables.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "Ingeniería y Tecnología",
+                                                    "disciplina_snii": "Ingeniería Ambiental"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Procesos Electroquímicos",
+                                            "descripción": "Los procesos electroquímicos son aquellos en los que la energía química se convierte en energía eléctrica o viceversa, a través de reacciones redox (de reducción-oxidación) que involucran transferencia de electrones.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "Ingeniería y Tecnología",
+                                                    "disciplina_snii": "Ingeniería Ambiental"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Detección y Mitigación de Contaminantes Ambientales",
+                                            "descripción": "La detección y mitigación de contaminantes ambientales son aspectos cruciales para proteger la salud humana y el medio ambiente.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "Ingeniería y Tecnología",
+                                                    "disciplina_snii": "Ingeniería Ambiental"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Tratamiento Fisicoquímico y Biológico de Efluentes y Emisiones",
+                                            "descripción": "El tratamiento fisicoquímico y biológico de efluentes y emisiones son procesos fundamentales para reducir la contaminación y proteger el medio ambiente.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "Ingeniería y Tecnología",
+                                                    "disciplina_snii": "Ingeniería Ambiental"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "Sistemas Ambientales Complejos",
+                                    "descripción_del_área": "Los sistemas ambientales complejos se refieren a interacciones dinámicas entre componentes bióticos (organismos vivos) y abióticos (factores no vivos como el clima, el suelo y el agua) en un ecosistema.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Ecología Microbiana",
+                                            "descripción": "La ecología microbiana es el estudio de la interacción de microorganismos con su entorno, incluyendo otros organismos y factores abióticos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Biología y Química",
+                                                    "campo_snii": "Ciencias Ambientales",
+                                                    "disciplina_snii": "Gestión Ambiental"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Desarrollo Sostenible de Sistemas Socio-Ecológicos",
+                                            "descripción": "El desarrollo sostenible de sistemas socioecológicos se refiere a la gestión integrada de los aspectos sociales, económicos y ambientales de un sistema para garantizar la equidad, la prosperidad y la preservación de los recursos naturales a largo plazo.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Biología y Química",
+                                                    "campo_snii": "Ciencias Ambientales",
+                                                    "disciplina_snii": "Gestión Ambiental"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Procesos Biogeoquímicos y Microbiología Ambiental",
+                                            "descripción": "Los procesos biogeoquímicos y la microbiología ambiental están estrechamente relacionados en el estudio de la dinámica de los ecosistemas y la calidad ambiental.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Biología y Química",
+                                                    "campo_snii": "Ciencias Ambientales",
+                                                    "disciplina_snii": "Gestión Ambiental"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "departamento": "Geociencias Aplicadas",
+                            "descripción_departamento": "La División de Geociencias Aplicadas (DGA) realiza investigación sobre problemas básicos y aplicados de la Geofísica, Hidrogeología, Hidrogeoquímica, Percepción Remota, Geomática, Climatología, Modelación Matemática y Computacional, Petrología Ígnea, Geoquímica, Vulcanología, Geología Regional, Geología Estructural y Tectónica. Con la finalidad de estudiar, modelar, analizar, evaluar los recursos naturales (agua y yacimientos minerales); así como, fenómenos climatológicos y ambientales.",
+                            "áreas": [
+                                {
+                                    "área": "Exploración Geofísica",
+                                    "descripción_del_área": "La exploración geofísica es una disciplina que utiliza principios físicos para estudiar la estructura y composición de la Tierra y otros cuerpos.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Exploración Geofísica",
+                                            "descripción": "En esta línea de investigación utilizan de métodos físicos y matemáticos para determinar las propiedades físicas de los materiales del subsuelo y sus contrastes. Así como, estudiar los recursos naturales, por medio de sus propiedades y con técnicas aplicadas desde la superficie a fin de realizar mediciones de la resistividad eléctrica del subsuelo, la densidad de masa, la susceptibilidad magnética y las propiedades térmicas.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "Ciencias de la Tierra y del Espacio",
+                                                    "disciplina_snii": "Geofísica y Sismología"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "Hidrogeología",
+                                    "descripción_del_área": "La hidrogeología es una rama de la geología que se enfoca en el estudio de las aguas subterráneas, incluyendo su origen, distribución, movimiento, calidad y su interacción con el medio ambiente.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Hidrogeología",
+                                            "descripción": "En esta línea de investigación se estudia componentes importantes del ciclo de las aguas superficiales y subterráneas; así como, su prospección, captación, protección, cantidad calidad, origen y contaminación. Se investigan los procesos hidrogeoquimicos que ocurren en el acuífero; así como, a las interacciones químicas, procesos de retención, movilidad de elementos traza y contaminantes orgánicos en agua, suelos y sedimentos, con la finalidad de generar conocimiento que permita prevenir y remediar la contaminación del suelo y de cuerpos de agua superficiales y/o subterráneos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "Ciencias de la Tierra y del Espacio",
+                                                    "disciplina_snii": "Hidrología"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "Integración de Geosistemas",
+                                    "descripción_del_área": "La integración de geosistemas es un enfoque que busca comprender la interacción compleja entre los sistemas geológicos, atmosféricos, hidrológicos, biológicos y humanos en un área determinada.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Integración de Geosistemas",
+                                            "descripción": "Esta línea de investigación se estudia los fenómenos terrestres e incorpora mediciones directas e indirectas a partir del diseño e implementación de metodologías que permitan integrar los datos adquiridos en campo con información proveniente por sensores remotos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "Ciencias de la Tierra y del Espacio",
+                                                    "disciplina_snii": "Geografía Física"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "Física de la Atmósfera",
+                                    "descripción_del_área": "La física de la atmósfera es una rama de la ciencia atmosférica que se enfoca en el estudio de los procesos físicos que ocurren en la atmósfera terrestre.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Física de la Atmósfera",
+                                            "descripción": "En esta línea de investigación se estudian los fenómenos termodinámicos que ocurren en la atmósfera, para lo cual se utiliza el concepto de balance energético planetario entre la radiación incidente y la reflejada, se estudia el efecto invernadero por la presencia de gases antropogénicos, se cuantifican los flujos de calor en cambios de fase del agua, se cuantifican, en general, los procesos de transporte de calor, de humedad, de contaminantes, de polvo en tormentas de arena. Esto se lleva a cabo en combinación con la dinámica de vientos en modelos de circulación atmosférica como el WRF.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "Ciencias de la Tierra y del Espacio",
+                                                    "disciplina_snii": "Geografía Física"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "Tierra Sólida",
+                                    "descripción_del_área": "La Tierra sólida se refiere a la parte del planeta que está formada por materiales sólidos, principalmente rocas y minerales, que constituyen la corteza terrestre y las capas internas sólidas como el manto y el núcleo externo.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Tierra Sólida",
+                                            "descripción": "Esta línea de investigación aborda temáticas de Geología Aplicada, Tectónica y Geoquímica. En el primer caso se aborda la Geología Ambiental, Geología de Recursos y Estudios de la Corteza.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "Ciencias de la Tierra y del Espacio",
+                                                    "disciplina_snii": "Geología"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "departamento": "Control y Sistemas Dinámicos",
+                            "descripción_departamento": "La División de Control y Sistemas Dinámicos tiene como objetivo modelar matemáticamente sistemas físicos que describan el comportamiento dinámico y/o características intrínsecas, manteniendo especial interés en estudiar modelos de sistemas con enfoque multidisciplinario tales como biológicos, eléctricos, electromecánicos, medio ambiente, nuevos materiales químicos, entre otros.",
+                            "áreas": [
+                                {
+                                    "área": "Sistemas Dinámicos",
+                                    "descripción_del_área": "Los sistemas dinámicos son conjuntos de elementos interrelacionados que cambian con el tiempo y cuyas interacciones generan comportamientos complejos.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Dinámicas Complejas",
+                                            "descripción": "Las dinámicas complejas se refieren a la interacción de múltiples elementos o factores que generan comportamientos no lineales y a menudo impredecibles en un sistema.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "Ingeniería y Tecnología",
+                                                    "disciplina_snii": "Control y Sistemas Dinámicos"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Dinámicas Caóticas",
+                                            "descripción": "Las dinámicas caóticas se refieren a un tipo específico de comportamiento no lineal en sistemas dinámicos, caracterizado por una sensibilidad extrema a las condiciones iniciales y una aparente aleatoriedad en sus resultados a largo plazo.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "Ingeniería y Tecnología",
+                                                    "disciplina_snii": "Control y Sistemas Dinámicos"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Teoría Ergódica",
+                                            "descripción": "La teoría ergódica es un área de las matemáticas y la física que estudia los sistemas dinámicos y sus propiedades estadísticas, especialmente en relación con el concepto de ergodicidad.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "Ingeniería y Tecnología",
+                                                    "disciplina_snii": "Control y Sistemas Dinámicos"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "Control",
+                                    "descripción_del_área": "El control se refiere a la capacidad de influir o dirigir el comportamiento de un sistema o proceso hacia un estado deseado.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Sistemas electrónicos de potencia",
+                                            "descripción": "Los sistemas electrónicos de potencia son sistemas que utilizan dispositivos electrónicos para controlar y gestionar la distribución, conversión y regulación de la energía eléctrica.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "Ingeniería y Tecnología",
+                                                    "disciplina_snii": "Control y Sistemas Dinámicos"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Sistemas mecánicos",
+                                            "descripción": "Los sistemas mecánicos son conjuntos de componentes físicos interconectados que trabajan juntos para realizar una función mecánica específica.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "Ingeniería y Tecnología",
+                                                    "disciplina_snii": "Control y Sistemas Dinámicos"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Sistemas no lineales",
+                                            "descripción": "Los sistemas no lineales son sistemas cuyo comportamiento no puede describirse de manera directa mediante relaciones proporcionales o aditivas entre las variables de entrada y salida.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "Ingeniería y Tecnología",
+                                                    "disciplina_snii": "Control y Sistemas Dinámicos"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "departamento": "Materiales Avanzados",
+                            "descripción_departamento": "En la División de Materiales Avanzados (DMAv) se realiza la síntesis, caracterización y el empleo de nuevos materiales y nanoestructuras para su uso en aplicaciones emergentes. Materiales como grafeno, titanias, nanotubos, nanocompósitos, materiales híbridos y biomateriales diversos son investigados en nuestra división tanto a nivel básico como en aplicaciones tales como la generación de fuentes alternas de energía, electrónica orgánica, sensores de gases, nanomedicina, inactivación de microrganismos patógenos, etc.",
+                            "áreas": [
+                                {
+                                    "área": "Biomateriales y bionanotecnología",
+                                    "descripción_del_área": "Los biomateriales y la bionanotecnología son áreas interdisciplinarias que combinan la biología, la ingeniería y la nanotecnología para desarrollar materiales y dispositivos con aplicaciones en medicina, biología y otros campos.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Biofísica",
+                                            "descripción": "La biofísica es una disciplina científica que combina conceptos y técnicas de la física con el estudio de los sistemas biológicos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Biología y Química",
+                                                    "campo_snii": "Biología",
+                                                    "disciplina_snii": "Biofísica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Síntesis de Biomateriales",
+                                            "descripción": "La síntesis de biomateriales es el proceso de diseño, fabricación y desarrollo de materiales que interactúan de manera segura y efectiva con sistemas biológicos, como células, tejidos y organismos vivos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "Ingeniería y Tecnología",
+                                                    "disciplina_snii": "Biociencias y Nanotecnologías"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "Materiales compuestos nanoestructurados",
+                                    "descripción_del_área": "Los materiales compuestos nanoestructurados son materiales que combinan propiedades de materiales a nanoescala para crear estructuras con características únicas y mejoradas.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Nanocompositos poliméricos",
+                                            "descripción": "Los nanocompuestos poliméricos son materiales compuestos formados por un polímero (material orgánico de alta macromolecularidad) y nanopartículas (material inorgánico en escala nanométrica), donde las nanopartículas están dispersas de manera homogénea en la matriz polimérica.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "Ingeniería y Tecnología",
+                                                    "disciplina_snii": "Biociencias y Nanotecnologías"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Nuevos materiales nanoestructurados",
+                                            "descripción": "Estos materiales exhiben propiedades únicas y mejoradas debido a su tamaño nanométrico y a la forma en que están organizados a nivel atómico y molecular.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "Ingeniería y Tecnología",
+                                                    "disciplina_snii": "Biociencias y Nanotecnologías"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Compuestos de Grafeno - óxidos metálicos",
+                                            "descripción": "Los compuestos de grafeno y óxidos metálicos son materiales híbridos que combinan propiedades del grafeno, un material bidimensional compuesto por átomos de carbono dispuestos en una estructura hexagonal, con las propiedades de los óxidos metálicos, como el óxido de grafeno, óxido de titanio, óxido de hierro, entre otros.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "Ingeniería y Tecnología",
+                                                    "disciplina_snii": "Biociencias y Nanotecnologías"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "Materiales magnéticos",
+                                    "descripción_del_área": "Los materiales magnéticos son aquellos que exhiben propiedades magnéticas, es decir, son capaces de generar un campo magnético y responder a campos magnéticos externos.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Obtención y caracterización de materiales magnéticos",
+                                            "descripción": "La obtención y caracterización de materiales magnéticos involucra varios pasos y técnicas específicas para comprender sus propiedades magnéticas.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "Ingeniería y Tecnología",
+                                                    "disciplina_snii": "Biociencias y Nanotecnologías"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Materiales magnetocalóricos",
+                                            "descripción": "Los materiales magnetocalóricos son materiales que experimentan cambios significativos en su temperatura cuando se encuentran expuestos a un campo magnético externo. Este fenómeno se conoce como efecto magnetocalórico y es una propiedad interesante para diversas aplicaciones, especialmente en refrigeración magnética.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "Ingeniería y Tecnología",
+                                                    "disciplina_snii": "Biociencias y Nanotecnologías"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Propiedades magnéticas de nuevos materiales nanoestructurados",
+                                            "descripción": "Los nuevos materiales nanoestructurados pueden exhibir propiedades magnéticas únicas debido a su tamaño nanométrico y la estructura específica que adoptan a esta escala.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "Ingeniería y Tecnología",
+                                                    "disciplina_snii": "Biociencias y Nanotecnologías"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "redes_sociales": [
+                {
+                    "red": "Facebook",
+                    "identificador": "https://www.facebook.com/IPICYT.Mexico",
+                    "activa": true,
+                    "propósito": "difusión científica"
+                }
+            ]
+        }
+    ]
+}

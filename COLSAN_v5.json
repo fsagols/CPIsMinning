@@ -1,0 +1,456 @@
+{
+    "cpis": [
+        {
+            "nombre_cpi": "El Colegio de San Luis",
+            "siglas_cpi": "COLSAN",
+            "descripción_breve": "Es un Centro Público de Investigación integrante del Sistema de Centros Públicos de Investigación del Consejo Nacional de Ciencia y Tecnología, en México.",
+            "descripción": "Desde la fundación del COLSAN en 1997, su comunidad se ha comprometido profundamente con los altos ideales de contribuir a la construcción de una sociedad más libre, justa y próspera, fundamentada en el pensamiento científico y crítico.",
+            "misión": "La misión del Colegio de San Luis es fomentar la investigación y la enseñanza de calidad en ciencias sociales y humanidades, así como contribuir al desarrollo cultural, social y económico de la región y del país.",
+            "visión": "Su visión es ser una institución líder en la generación y difusión de conocimiento en el ámbito de las ciencias sociales y humanidades, reconocida por su excelencia académica y su impacto en la sociedad.",
+            "titular": "Dr. David Eduardo Vazquez Salguero",
+            "fecha_designación_titular": "24 de Febrero de 2017",
+            "grado_académico_titular": "doctorado",
+            "especialidad_titular": "En Historia, por la Facultad de Filosofía y Letras de la Universidad Nacional Autónoma de México (UNAM)",
+            "origen": "El Colegio de San Luis fue fundado en 1994 en la ciudad de San Luis Potosí, México. Su creación fue impulsada por la necesidad de contar con una institución dedicada a la investigación y la educación en ciencias sociales y humanidades en la región. Desde entonces, ha crecido y se ha consolidado como un centro académico de prestigio, ofreciendo programas de licenciatura y posgrado, así como realizando investigaciones de relevancia nacional e internacional.",
+            "fecha_creación": "1992-12-11",
+            "historia_establecimiento": "En la década de 1990, San Luis Potosí experimentaba un crecimiento económico y cultural significativo. Sin embargo, a pesar de contar con diversas instituciones educativas en la región, se percibía la necesidad de establecer un centro de investigación y enseñanza superior enfocado en las ciencias sociales y humanidades. Fue así como se gestó la idea de fundar el Colegio de San Luis, con el objetivo de contribuir al desarrollo académico, cultural y social de la comunidad.",
+            "contexto_histórico": "La década de 1990 fue un período de transformación para México. Tras décadas de gobierno priista, el país experimentaba cambios políticos, económicos y sociales significativos. El presidente Carlos Salinas de Gortari implementó una serie de reformas estructurales conocidas como el neoliberalismo, que buscaban abrir la economía mexicana al comercio internacional y promover la inversión extranjera. En este contexto de cambios, surgieron nuevas demandas y desafíos en diferentes áreas de la sociedad, incluida la educación superior y la investigación. La creación del Colegio de San Luis respondió a la necesidad de fortalecer la investigación y la formación en ciencias sociales y humanidades, en un momento en que se reconocía la importancia de entender y abordar los problemas sociales y culturales del país de manera crítica y reflexiva.",
+            "tipo_entidad_legal": "Paraestatal asimilada al régimen de las empresas de participación estatal mayoritaria",
+            "figura_jurídica": "Asociación Civil",
+            "marco_normativo": [
+                {
+                    "ley_o_instrumento_jurídico": "Ley Orgánica de la Administración Pública Federal"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "Ley Federal de las Entidades Paraestatales"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "Ley de Ciencia y Tecnología"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "Manual de Organización de El Colegio de San Luis, A.C."
+                }
+            ],
+            "presupuesto": [
+                {
+                    "año": 2020,
+                    "total": 127878263,
+                    "recursos_fiscales": 0,
+                    "recursos_propios": 0
+                },
+                {
+                    "año": 2021,
+                    "total": 131855205,
+                    "recursos_fiscales": 0,
+                    "recursos_propios": 0
+                },
+                {
+                    "año": 2022,
+                    "total": 136664226,
+                    "recursos_fiscales": 0,
+                    "recursos_propios": 0
+                },
+                {
+                    "año": 2023,
+                    "total": 143954476,
+                    "recursos_fiscales": 0,
+                    "recursos_propios": 0
+                },
+                {
+                    "año": 2024,
+                    "total": 152058832,
+                    "recursos_fiscales": 140058832,
+                    "recursos_propios": 1200000000
+                }
+            ],
+            "programas_académicos": [
+                {
+                    "programa": "Doctorado en Ciencias Sociales",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Ciencias Sociales",
+                            "campo_snii": "Sociología",
+                            "disciplina_snii": "Sociología Política"
+                        }
+                    ],
+                    "nivel": "doctorado",
+                    "modalidad": "regular",
+                    "vía": "presencial"
+                },
+                {
+                    "programa": "Doctorado en Estudios Antropológicos",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Humanidades y Ciencias de la Conducta",
+                            "campo_snii": "Antropología y Arqueología",
+                            "disciplina_snii": "Antropología Sociocultural"
+                        }
+                    ],
+                    "nivel": "doctorado",
+                    "modalidad": "regular",
+                    "vía": "presencial"
+                },
+                {
+                    "programa": "Doctorado en Literatura Hispánica",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Humanidades y Ciencias de la Conducta",
+                            "campo_snii": "Lingüística, Literatura y Filología",
+                            "disciplina_snii": "Literatura Hispánica"
+                        }
+                    ],
+                    "nivel": "doctorado",
+                    "modalidad": "regular",
+                    "vía": "presencial"
+                },
+                {
+                    "programa": "Doctorado en Historia",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Humanidades y Ciencias de la Conducta",
+                            "campo_snii": "Historia",
+                            "disciplina_snii": "Historia en General"
+                        }
+                    ],
+                    "nivel": "doctorado",
+                    "modalidad": "regular",
+                    "vía": "presencial"
+                },
+                {
+                    "programa": "Maestría en Antropología Social",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Humanidades y Ciencias de la Conducta",
+                            "campo_snii": "Antropología y Arqueología",
+                            "disciplina_snii": "Antropología Social"
+                        }
+                    ],
+                    "nivel": "maestría",
+                    "modalidad": "regular",
+                    "vía": "presencial"
+                },
+                {
+                    "programa": "Maestría en Asuntos Políticos y Políticas Públicas",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Ciencias Sociales",
+                            "campo_snii": "Ciencias Políticas",
+                            "disciplina_snii": "Sistemas Políticos"
+                        }
+                    ],
+                    "nivel": "maestría",
+                    "modalidad": "regular",
+                    "vía": "presencial"
+                },
+                {
+                    "programa": "Maestría en Gestión Sustentable del Agua",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Ciencias Sociales",
+                            "campo_snii": "Gestión",
+                            "disciplina_snii": "Gestión Sustentable del Agua"
+                        }
+                    ],
+                    "nivel": "maestría",
+                    "modalidad": "regular",
+                    "vía": "presencial"
+                },
+                {
+                    "programa": "Maestría en Literatura Hispanoamericana",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Humanidades y Ciencias de la Conducta",
+                            "campo_snii": "Lingüística, Literatura y Filología",
+                            "disciplina_snii": "Literatura Hispanoamericana"
+                        }
+                    ],
+                    "nivel": "maestría",
+                    "modalidad": "regular",
+                    "vía": "presencial"
+                },
+                {
+                    "programa": "Maestría en Historia",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Humanidades y Ciencias de la Conducta",
+                            "campo_snii": "Didáctica y Docencia",
+                            "disciplina_snii": "Enseñanza de la Historia"
+                        }
+                    ],
+                    "nivel": "maestría",
+                    "modalidad": "regular",
+                    "vía": "presencial"
+                },
+                {
+                    "programa": "Licenciatura en Relaciones Internacionales",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Ciencias Sociales",
+                            "campo_snii": "Ciencias Políticas",
+                            "disciplina_snii": "Relaciones Internacionales"
+                        }
+                    ],
+                    "nivel": "licenciatura",
+                    "modalidad": "regular",
+                    "vía": "presencial"
+                }
+            ],
+            "unidades": [
+                {
+                    "nombre_unidad": "El Colegio de San Luis",
+                    "descripción_unidad": "Es un Centro Público de Investigación que centra sus estudios en las Ciencias Sociales y las Humanidades. Es uno de los Centros del Eje 5 de CONACYT.",
+                    "dirección_postal": "78294",
+                    "latitud": 22.1290499,
+                    "longitud": -101.0157241,
+                    "departamentos": [
+                        {
+                            "departamento": "Programa Agua y Sociedad",
+                            "descripción_departamento": "Este programa tiene como objetivo realizar, impulsar y difundir la investigación de los procesos socioculturales que atañen a la gestión del agua, poniendo espacial énfasis en estudios comparativos de México con otros países.",
+                            "áreas": [
+                                {
+                                    "área": "Programa Agua y Sociedad",
+                                    "descripción_del_área": "De manera especial enfoca su atención en las formas de acceso, conflicto, negociación y regulación que la sociedad produce para responder a sus necesidades hídricas, tanto bajo las formas históricamente desarrolladas, como en sus manifestaciones actuales.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Territorios, Sustentabilidad y Medio Ambiente.",
+                                            "descripción": "Otorga especial importancia a la dimensión territorial de los procesos de manejo del agua. Privilegia los estudios del territorio y la organización social; la sustentabilidad y el medio ambiente; la disponibilidad hídrica y regionalización de la crisis del agua.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Gestión",
+                                                    "disciplina_snii": "Gestión Sustentable del Agua"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Equidad, Culturas y Políticas del Agua.",
+                                            "descripción": "Destaca que la equidad social y la democratización en la toma de decisiones son componentes básicos de cualquier manejo sustentable del agua a largo plazo. Por su enfoque, otorga especial importancia a la intervención informada de las comunidades, municipios, organismos no gubernamentales y organizaciones sociales.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Gestión",
+                                                    "disciplina_snii": "Gestión Sustentable del Agua"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Historia Ambiental y Aprovechamientos Hidráulicos",
+                                            "descripción": "Concentra la atención en las transformaciones históricas vinculadas al medio ambiente y los aprovechamientos del agua en condiciones sociales y naturales diversas. Analiza el impacto de obras hidráulicas, las modificaciones de largo plazo en el clima y los usos del suelo en la agricultura y las ciudades.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Gestión",
+                                                    "disciplina_snii": "Gestión Sustentable del Agua"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "departamento": "Programa de Estudios Antropológicos",
+                            "descripción_departamento": "Tiene como finalidad la creación de conocimiento en áreas importantes de la vida social de la región noreste del país en el contexto de la globalización.",
+                            "áreas": [
+                                {
+                                    "área": "Programa de Estudios Antropológicos",
+                                    "descripción_del_área": "Las LÍNEAS GENERADORAS DE APLICACIÓN DEL CONOCIMIENTO (LGAC) de los profesores-investigadores del Núcleo Académico Básico, fomentan la especialización en las temáticas afines de los proyectos de los estudiantes de la Maestría en Antropología Social, logrando los intercambios mediante seminarios especializados por cada una de ellas, en donde los estudiantes presentan sus avances de investigación y pueden dialogar con especialistas nacionales e internacionales sobre sus temas, aclarando, preguntando y afianzando las intuiciones que el trabajo de campo les ofrece.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Sistemas Rituales, Miticos y Estéticos(Maestría)",
+                                            "descripción": "Esta línea de investigación considera la generación de conocimiento respecto a las prácticas rituales, sus referentes míticos y los procesos de creación artística involucrados en ellas, enfatizando la población del centro, occidente y norte de México.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Humanidades y Ciencias de la Conducta",
+                                                    "campo_snii": "Antropología y Arqueología",
+                                                    "disciplina_snii": "Antropología Social"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Sistemas Agrarios, Propiedad y Trabajo(Maestría)",
+                                            "descripción": "En esta línea se abordan los procesos y dinámicas de diferenciación, género, trabajo, organización, explotación, resistencias, movilidades humanas y alternativas en las poblaciones rurales. Analiza la relación con los espacios y territorios en las distintas formas de propiedad y apropiación de la tierra y del trabajo con las condiciones de sus sistemas agroalimentarios y sus potencialidades.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Agropecuarias y Biotecnología",
+                                                    "campo_snii": "Agronomía",
+                                                    "disciplina_snii": "Economía Agraría y Sistemas de Producción Agrícola"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Sistemas Ambientales y el Proceso Salud-Enfermedad (Maestría)",
+                                            "descripción": "Aborda la discusión cultura/naturaleza desde la perspectiva del desarrollo, la agencia humana, las prácticas discursivas, el conocimiento y el poder. Se parte de la consideración de un medio ambiente y de una corporalidad socializada (construidas socialmente) disputados y controvertidos en términos políticos; arenas, en las cuales son confrontadas diversos sistemas de creencias y valores.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Medicina y Ciencias de la Salud",
+                                                    "campo_snii": "Especialidad Médica",
+                                                    "disciplina_snii": "Ciencias en Salud Publica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Antropología en los desiertos (Doctorado)",
+                                            "descripción": "Con esta LGAC se pretende crear las condiciones académicas para una nueva generación de estudios sobre los desiertos en el país y al mismo tiempo consolidar una tradición antropológica que acoja los intereses de estudiantes de otras latitudes: Estados Unidos, América Latina, Asia, Oceanía y África.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Humanidades y Ciencias de la Conducta",
+                                                    "campo_snii": "Antropología y Arqueología",
+                                                    "disciplina_snii": "Antropología Fisica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Antropología en las zonas húmedas (Doctorado)",
+                                            "descripción": "Desde el punto de vista teórico-metodológico, la perspectiva de estudio y de análisis de esta línea se interesa por los grupos humanos en las áreas rurales y urbanizadas ubicadas en una banda que rodea al “Ecuador terrestre” desde los 23º latitud norte hasta los 23º latitud sur: la región sudanés, la subecuatorial, la Saheliense, las regiones Monzónicas, el área ecuatorial y las subtropicales.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Humanidades y Ciencias de la Conducta",
+                                                    "campo_snii": "Antropología y Arqueología",
+                                                    "disciplina_snii": "Antropología Fisica"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "departamento": "Programa de Estudios Literarios",
+                            "descripción_departamento": "Estudios Literarios es un programa de investigación y docencia que tiene como objetivo realizar, impulsar y difundir, investigaciones de alto nivel académico en torno a la literatura mexicana e hispanoamericana, poniendo especial énfasis en corrientes, épocas, géneros, obras y autores que han sido poco atendidos en los estudios literarios a pesar de su importancia e interés para el conocimiento, no sólo literario, sino también cultural, histórico y social de los países de habla hispana.",
+                            "áreas": [
+                                {
+                                    "área": "Programa de Estudios Literarios",
+                                    "descripción_del_área": "Actualmente el Programa de Estudios Literarios mantiene dos Líneas de generación y aplicación del conocimiento con sus respectivas temáticas.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Literatura y Publicaciones Periódicas Mexicanas e Hispanoamericanas, del siglo XIX a la actualidad.",
+                                            "descripción": "Objetivo general de la línea: Analizar, estudiar y difundir la literatura mexicana e hispanoamericana de los siglos XIX al XXI, con especial atención en autores y obras poco estudiados. Asimismo, reflexionar sobre conceptos teóricos y de la historia de la literatura a partir del análisis minucioso de obras y escritores de México e Hispanoamérica.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Humanidades y Ciencias de la Conducta",
+                                                    "campo_snii": "Lingüística, Literatura y Filología",
+                                                    "disciplina_snii": "Literatura Hispanoamericana"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Literatura tradicional y popular del ámbito hispánico.",
+                                            "descripción": "Objetivo general de la línea: Estudiar la literatura tradicional y popular del ámbito hispánico, especialmente los géneros vigentes en la tradición oral moderna de México, mediante labores de investigación de campo, revisión, edición y análisis comparativos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Humanidades y Ciencias de la Conducta",
+                                                    "campo_snii": "Lingüística, Literatura y Filología",
+                                                    "disciplina_snii": "Literatura Hispanoamericana"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "departamento": "Programa de Estudios Políticos e Internacionales",
+                            "descripción_departamento": "El Programa de Estudios Políticos e Internacionales genera investigación de alto nivel en las áreas de la Ciencia Política, las Políticas Públicas y las Relaciones Internacionales.",
+                            "áreas": [
+                                {
+                                    "área": "Programa de Estudios Políticos e Internacionales",
+                                    "descripción_del_área": "En sus dos programas docentes, la Maestría en Asuntos Políticos y Políticas Públicas así como la Licenciatura en Relaciones Internacionales, forma recursos humanos altamente capacitados para el desarrollo de investigaciones académicas, así como para la toma de decisiones en la acción política, aportando soluciones responsables y socialmente pertinentes en los ámbitos local, regional, nacional e internacional.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Instituciones, desarrollo y políticas sociales",
+                                            "descripción": "El papel de las instituciones en la reducción de la desigualdad social y económica: análisis de políticas para promover la inclusión y el desarrollo sostenible.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Sociología",
+                                                    "disciplina_snii": "Sociología Política"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Procesos, actores e instituciones políticas.",
+                                            "descripción": "La dinámica de la participación política en la era digital: análisis de cómo los nuevos actores y tecnologías están transformando las instituciones políticas y el proceso democrático.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Sociología",
+                                                    "disciplina_snii": "Sociología Política"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "departamento": "Programa de Historia",
+                            "descripción_departamento": "Este programa tiene como objetivo realizar, impulsar y difundir proyectos de investigación de carácter histórico que, mediante el análisis y reflexión teórico metodológico permitan abordar nuevas temáticas del conocimiento histórico regional, poniendo especial énfasis en la formación de recursos humanos de excelencia para generar aportes importantes a la historiografía nacional; además se propicia el establecimiento de redes con instituciones académicas nacionales y extranjeras con vocación similar, dentro de un contexto de discusión y divulgación de resultados.",
+                            "áreas": [
+                                {
+                                    "área": "Programa de Historia",
+                                    "descripción_del_área": "El Programa de Investigación tiene tres LGAC: Historia económica y política, siglos XVIII-XX; Historia interdisciplinaria; Historia social y cultural, siglos XVI-XX.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Historia económica y política, siglos XVIII-XX",
+                                            "descripción": "Esta línea de investigación brinda espacio para la reflexión a los interesados en el estudio de procesos y fenómenos económicos y políticos de diversa índole, desde una perspectiva amplia tanto en lo temporal como en lo espacial. Desde este punto de vista, la perspectiva internacional tiene relevancia.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Humanidades y Ciencias de la Conducta",
+                                                    "campo_snii": "Historia",
+                                                    "disciplina_snii": "Estudios Historicos Interdiciplinarios"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Historia interdisciplinaria",
+                                            "descripción": "La línea de investigación comprende estudios regionales y procesos globales en específico en torno al patrimonio cultural, territorio, geografía histórica, migraciones de mexicanos al exterior y de extranjeros a México, historia diplomática, instituciones públicas y privadas, trabajo, vida cotidiana, recuperación de fuentes históricas y didáctica de la historia.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Humanidades y Ciencias de la Conducta",
+                                                    "campo_snii": "Historia",
+                                                    "disciplina_snii": "Estudios Historicos Interdiciplinarios"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Historia social y cultural, siglos XVI-XX",
+                                            "descripción": "La línea plantea el análisis de los procesos socio-históricos e histórico-culturales de regiones, pueblos, ciudades, comunidades, agrupaciones, corporaciones, instituciones diversas, familias y redes políticas y culturales. Se favorecen las investigaciones en torno a la construcción histórica de las estructuras agrarias y la resistencia étnica; los grupos de poder regional; los procesos socio-religiosos y sus sistemas de significación; las prácticas y representaciones en los sistemas educativos y de salud; asimismo la condición histórica de las relaciones de género y los fenómenos de subalternidad, resistencia y agencia de los sujetos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Humanidades y Ciencias de la Conducta",
+                                                    "campo_snii": "Historia",
+                                                    "disciplina_snii": "Estudios Historicos Interdiciplinarios"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "redes_sociales": [
+                {
+                    "red": "X",
+                    "identificador": "https://x.com/el_colsan",
+                    "activa": true,
+                    "propósito": "difusión científica"
+                },
+                {
+                    "red": "Facebook",
+                    "identificador": "https://www.facebook.com/ColegiodeSanLuis",
+                    "activa": false,
+                    "propósito": "difusión científica"
+                },
+                {
+                    "red": "YouTube",
+                    "identificador": "https://www.youtube.com/user/ColegiodeSanLuis",
+                    "activa": true,
+                    "propósito": "difusión científica"
+                }
+            ]
+        }
+    ]
+}
