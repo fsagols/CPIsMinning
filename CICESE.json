@@ -1,0 +1,1479 @@
+{
+    "cpis": [
+        {
+            "nombre_cpi": "Centro de Investigación Científica y de Educación Superior de Ensenada",
+            "siglas_cpi": "CICESE",
+            "descripción_breve": "Es una institución pública de investigación y posgrado en ciencias biológicas, físicas, de la información, del mar y de la Tierra. ",
+            "descripción": "El CICESE, fundado en 1973, es un centro de investigación clave en México, reconocido por su excelencia académica a nivel nacional e internacional. Como parte del sistema de centros públicos de Conacyt, contribuye al desarrollo del país mediante la formación de recursos humanos y la generación de conocimiento para abordar desafíos socioeconómicos.",
+            "misión": "Generar conocimiento y tecnología que contribuya a la solución de problemas universales, nacionales y regionales, realizando investigación básica y aplicada y formando recursos humanos a nivel posgrado en ciencias biológicas, físicas, de la información, del mar y de la Tierra, dentro de un marco de responsabilidad, ética y liderazgo en beneficio de la sociedad.",
+            "visión": "Ser un centro público de investigación con gran impacto transformador en la sociedad a través de la investigación científica, desarrollo tecnológico y de la formación de recursos humanos de alta de excelencia internacional.",
+            "titular": "Dr. David Hilario Covarrubias Rosales",
+            "fecha_designación_titular": "2021",
+            "grado_académico_titular": "Doctor",
+            "especialidad_titular": "Mecánico Electricista",
+            "origen": "El Centro de Investigación Científica y de Educación Superior de Ensenada (CICESE) fue la segunda institución creada por el Consejo Nacional de Ciencia y Tecnología (CONACYT) para descentralizar las actividades científicas y tecnológicas en México.",
+            "fecha_creación": "1973-09-18",
+            "historia_establecimiento": "Desde su creación, el CICESE ha sido un centro de formación académica líder, ofreciendo una amplia gama de programas de posgrado en ciencias. Su campus, inaugurado en 1977, ha experimentado un crecimiento significativo, albergando aulas y laboratorios modernos en más de 15 hectáreas. Además, el CICESE ha establecido unidades foráneas en La Paz y Monterrey para expandir su alcance investigativo. En la actualidad, es el centro público de investigación más grande dentro del Sistema de Centros Públicos de Investigación del Conacyt.",
+            "contexto_histórico": "Política nacional por descentralizar la investigación científica, la presencia de la Escuela Superior [hoy Facultad] de Ciencias Marinas de la Universidad Autónoma de Baja California (UABC) y la cercanía del Scripps Institution of Oceanography (SIO); la decisión, en 1970, de la UNAM de construir el Observatorio Astronómico Nacional en la sierra de San Pedro Mártir; la intensa actividad tectónica y sísmica de la península de Baja California y del golfo de California que justificaba la realización de estudios en las ciencias de la Tierra, y el requerimiento por desarrollar instrumentación electrónica y óptica como apoyo a la UNAM y a la investigación oceanográfica y geofísica del nuevo centro.",
+            "tipo_entidad_legal": "Paraestatal asimilada al régimen de organismos descentralizados",
+            "figura_jurídica": "Organismo descentralizado",
+            "marco_normativo": [
+                {
+                    "ley_o_instrumento_jurídico": "Ley Federal de las Entidades Paraestatales"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "Ley para el Fomento de la Investigación Científica y Tecnológica"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "Ley de Ciencia y Tecnología"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "Estatuto Orgánico del Centro de Investigación Científica y de Educación Superior de Ensenada, Baja California (CICESE)"
+                }
+            ],
+            "presupuesto": [
+                {
+                    "año": 2024,
+                    "total": 744364948,
+                    "recursos_fiscales": 648764976,
+                    "recursos_propios": 95599972
+                },
+                {
+                    "año": 2023,
+                    "total": 704652138,
+                    "recursos_fiscales": 0,
+                    "recursos_propios": 0
+                },
+                {
+                    "año": 2022,
+                    "total": 660193204,
+                    "recursos_fiscales": 0,
+                    "recursos_propios": 0
+                },
+                {
+                    "año": 2021,
+                    "total": 635040158,
+                    "recursos_fiscales": 0,
+                    "recursos_propios": 0
+                },
+                {
+                    "año": 2020,
+                    "total": 612875430,
+                    "recursos_fiscales": 0,
+                    "recursos_propios": 0
+                }
+            ],
+            "programas_académicos": [
+                {
+                    "programa": "Maestría en Ciencias de la Computación",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                            "campo_snii": "CIENCIAS MATEMÁTICAS",
+                            "disciplina_snii": "Informática Teoría y Práctica"
+                        }
+                    ],
+                    "nivel": "maestría",
+                    "modalidad": "regular",
+                    "vía": "presencial"
+                },
+                {
+                    "programa": "Doctorado en Ciencias de la Computación",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                            "campo_snii": "CIENCIAS MATEMÁTICAS",
+                            "disciplina_snii": "Informática Teoría y Práctica"
+                        }
+                    ],
+                    "nivel": "doctorado",
+                    "modalidad": "regular",
+                    "vía": "presencial"
+                },
+                {
+                    "programa": "Maestría en Ciencias de la Tierra",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                            "campo_snii": "CIENCIAS DE LA TIERRA Y DEL ESPACIO",
+                            "disciplina_snii": "Geología"
+                        }
+                    ],
+                    "nivel": "maestría",
+                    "modalidad": "regular",
+                    "vía": "presencial"
+                },
+                {
+                    "programa": "Doctorado en Ciencias de la Tierra",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                            "campo_snii": "CIENCIAS DE LA TIERRA Y DEL ESPACIO",
+                            "disciplina_snii": "Geología"
+                        }
+                    ],
+                    "nivel": "doctorado",
+                    "modalidad": "regular",
+                    "vía": "presencial"
+                },
+                {
+                    "programa": "Maestría en Ciencias de la Vida",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Biología y Química",
+                            "campo_snii": "BIOLOGÍA",
+                            "disciplina_snii": "Biología/Botánica Vegetal"
+                        }
+                    ],
+                    "nivel": "maestría",
+                    "modalidad": "regular",
+                    "vía": "presencial"
+                },
+                {
+                    "programa": "Doctorado en Ciencias de la Vida",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Biología y Química",
+                            "campo_snii": "BIOLOGÍA",
+                            "disciplina_snii": "Biología/Botánica Vegetal"
+                        }
+                    ],
+                    "nivel": "doctorado",
+                    "modalidad": "regular",
+                    "vía": "presencial"
+                },
+                {
+                    "programa": "Maestría en Ecología Marina",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Biología y Química",
+                            "campo_snii": "CIENCIAS AMBIENTALES",
+                            "disciplina_snii": "Ecología Marina"
+                        }
+                    ],
+                    "nivel": "maestría",
+                    "modalidad": "regular",
+                    "vía": "presencial"
+                },
+                {
+                    "programa": "Doctorado en Ecología Marina",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Biología y Química",
+                            "campo_snii": "CIENCIAS AMBIENTALES",
+                            "disciplina_snii": "Ecología Marina"
+                        }
+                    ],
+                    "nivel": "doctorado",
+                    "modalidad": "regular",
+                    "vía": "presencial"
+                },
+                {
+                    "programa": "Maestría en Electrónica y Telecomunicaciones",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Ingeniería y Tecnología",
+                            "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                            "disciplina_snii": "Ingeniería Electrónica"
+                        }
+                    ],
+                    "nivel": "maestría",
+                    "modalidad": "regular",
+                    "vía": "presencial"
+                },
+                {
+                    "programa": "Doctorado en Electrónica y Telecomunicaciones",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Ingeniería y Tecnología",
+                            "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                            "disciplina_snii": "Ingeniería Electrónica"
+                        }
+                    ],
+                    "nivel": "doctorado",
+                    "modalidad": "regular",
+                    "vía": "presencial"
+                },
+                {
+                    "programa": "Maestría en Nanociencias",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                            "campo_snii": "CIENCIAS FISICAS",
+                            "disciplina_snii": "Nanociencias"
+                        }
+                    ],
+                    "nivel": "maestría",
+                    "modalidad": "regular",
+                    "vía": "presencial"
+                },
+                {
+                    "programa": "Doctorado en Nanociencias",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                            "campo_snii": "CIENCIAS FISICAS",
+                            "disciplina_snii": "Nanociencias"
+                        }
+                    ],
+                    "nivel": "doctorado",
+                    "modalidad": "regular",
+                    "vía": "presencial"
+                },
+                {
+                    "programa": "Maestría en Oceanografía Física",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                            "campo_snii": "CIENCIAS DEL MAR",
+                            "disciplina_snii": "Oceanografía Física"
+                        }
+                    ],
+                    "nivel": "maestría",
+                    "modalidad": "regular",
+                    "vía": "presencial"
+                },
+                {
+                    "programa": "Doctorado en Oceanografía Física",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                            "campo_snii": "CIENCIAS DEL MAR",
+                            "disciplina_snii": "Oceanografía Física"
+                        }
+                    ],
+                    "nivel": "doctorado",
+                    "modalidad": "regular",
+                    "vía": "presencial"
+                },
+                {
+                    "programa": "Maestría en Óptica",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                            "campo_snii": "CIENCIAS MATEMÁTICAS",
+                            "disciplina_snii": "Óptica / Fotónica"
+                        }
+                    ],
+                    "nivel": "maestría",
+                    "modalidad": "regular",
+                    "vía": "presencial"
+                },
+                {
+                    "programa": "Doctorado en Óptica",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                            "campo_snii": "CIENCIAS MATEMÁTICAS",
+                            "disciplina_snii": "Óptica / Fotónica"
+                        }
+                    ],
+                    "nivel": "doctorado",
+                    "modalidad": "regular",
+                    "vía": "presencial"
+                },
+                {
+                    "programa": "Maestría en Tecnologías Avanzadas e Integradas",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Ingeniería y Tecnología",
+                            "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                            "disciplina_snii": "Ciencia y Tecnología de Materiales"
+                        }
+                    ],
+                    "nivel": "maestría",
+                    "modalidad": "regular",
+                    "vía": "presencial"
+                },
+                {
+                    "programa": "Administración Integral del Ambiente",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Biología y Química",
+                            "campo_snii": "CIENCIAS AMBIENTALES",
+                            "disciplina_snii": "Gestión Ambiental"
+                        }
+                    ],
+                    "nivel": "maestría",
+                    "modalidad": "regular",
+                    "vía": "presencial"
+                }
+            ],
+            "unidades": [
+                {
+                    "nombre_unidad": "CICESE Baja California",
+                    "descripción_unidad": "Investigación y posgrado en ciencias biológicas, físicas, de la información, del mar y de la Tierra.",
+                    "dirección_postal": "22860",
+                    "latitud": 31.867949691858666,
+                    "longitud": -116.66533047576947,
+                    "departamentos": [
+                        {
+                            "departamento": "Ciencias de la Tierra",
+                            "descripción_departamento": "Investigación relacionada con la geología, oceanografía y fenómenos geofísicos para comprender la estructura y dinámica del planeta Tierra.",
+                            "áreas": [
+                                {
+                                    "área": "Geología",
+                                    "descripción_del_área": "Estudio de la composición, estructura, procesos y evolución de la Tierra, incluyendo la formación de rocas, minerales y la historia geológica.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Procesos geodinámicos",
+                                            "descripción": "Estudio de los procesos internos que afectan la dinámica de la Tierra.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "CIENCIAS DE LA TIERRA Y DEL ESPACIO",
+                                                    "disciplina_snii": "Geología."
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Procesos litosféricos",
+                                            "descripción": "Investigación de los fenómenos relacionados con la litosfera terrestre.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "CIENCIAS DE LA TIERRA Y DEL ESPACIO",
+                                                    "disciplina_snii": "Geología"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Procesos exógenos",
+                                            "descripción": "Estudio de los fenómenos y procesos externos que modelan la superficie terrestre.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "CIENCIAS DE LA TIERRA Y DEL ESPACIO",
+                                                    "disciplina_snii": "Geología"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Geoquímica ambiental",
+                                            "descripción": "Investigación de la distribución y movilidad de elementos químicos en el medio ambiente terrestre.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "CIENCIAS DE LA TIERRA Y DEL ESPACIO",
+                                                    "disciplina_snii": "Geología"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "Geofísica Aplicada",
+                                    "descripción_del_área": "Utilización de métodos físicos para investigar las propiedades y procesos internos de la Tierra, con aplicaciones en exploración de recursos y estudios ambientales.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Recursos del subsuelo",
+                                            "descripción": "Estudio de los recursos naturales y minerales ubicados bajo la superficie terrestre.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "CIENCIAS DE LA TIERRA Y DEL ESPACIO",
+                                                    "disciplina_snii": "Geofísica y sismología"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Inversión de datos geofísicos",
+                                            "descripción": "Análisis y procesamiento de datos geofísicos para la exploración y caracterización del subsuelo.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "CIENCIAS DE LA TIERRA Y DEL ESPACIO",
+                                                    "disciplina_snii": "Geofísica y sismología"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Métodos geofísicos",
+                                            "descripción": "Desarrollo y aplicación de métodos geofísicos para el estudio de la estructura y composición de la Tierra.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "CIENCIAS DE LA TIERRA Y DEL ESPACIO",
+                                                    "disciplina_snii": "Geofísica y sismología"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Estudios de la corteza y manto",
+                                            "descripción": "Investigación de la estructura y composición de la corteza terrestre y el manto superior.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "CIENCIAS DE LA TIERRA Y DEL ESPACIO",
+                                                    "disciplina_snii": "Geofísica y sismología"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Riesgo natural y antropogénico",
+                                            "descripción": "Análisis y evaluación del riesgo asociado a fenómenos naturales y actividades humanas.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "CIENCIAS DE LA TIERRA Y DEL ESPACIO",
+                                                    "disciplina_snii": "Geofísica y sismología"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "Sismología",
+                                    "descripción_del_área": "Estudio de los terremotos y la propagación de las ondas sísmicas a través de la Tierra para comprender su estructura interna y dinámica.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Riesgo sísmico: atenuación, respuesta de sitio y zonificación",
+                                            "descripción": "Estudio de los factores que afectan el riesgo sísmico, incluyendo la atenuación de las ondas sísmicas, la respuesta del sitio y la zonificación de áreas vulnerables.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "CIENCIAS DE LA TIERRA Y DEL ESPACIO",
+                                                    "disciplina_snii": "Geofísica y sismología"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Estudios de fuente, efectos de sitio y atenuación sísmica",
+                                            "descripción": "Investigación de las características de los eventos sísmicos, los efectos de sitio en la propagación de ondas y la atenuación de la energía sísmica.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "CIENCIAS DE LA TIERRA Y DEL ESPACIO",
+                                                    "disciplina_snii": "Geofísica y sismología"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Sismicidad, sismotectónica y sismología computacional",
+                                            "descripción": "Estudio de la distribución de los terremotos, la relación entre la actividad sísmica y la tectónica de placas, y el modelado computacional de fenómenos sísmicos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "CIENCIAS DE LA TIERRA Y DEL ESPACIO",
+                                                    "disciplina_snii": "Geofísica y sismología"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Sismogeodesia y tectónica de placas",
+                                            "descripción": "Investigación de la deformación de la corteza terrestre mediante técnicas geodésicas y su relación con la tectónica de placas.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "CIENCIAS DE LA TIERRA Y DEL ESPACIO",
+                                                    "disciplina_snii": "Geofísica y sismología"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Deformación y sismicidad inducida",
+                                            "descripción": "Estudio de la deformación causada por actividades humanas y su relación con la generación de eventos sísmicos inducidos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "CIENCIAS DE LA TIERRA Y DEL ESPACIO",
+                                                    "disciplina_snii": "Geofísica y sismología"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Propagación de ondas sísmicas en medios complejos",
+                                            "descripción": "Análisis de la propagación de las ondas sísmicas en medios geológicos complejos, como estructuras heterogéneas o anisotrópicas.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "CIENCIAS DE LA TIERRA Y DEL ESPACIO",
+                                                    "disciplina_snii": "Geofísica y sismología"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Sismología Aplicada a la Ingeniería",
+                                            "descripción": "Aplicación de los principios de la sismología en el diseño y evaluación de estructuras civiles y sistemas de infraestructura.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "CIENCIAS DE LA TIERRA Y DEL ESPACIO",
+                                                    "disciplina_snii": "Geofísica y sismología"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Peligro sísmico",
+                                            "descripción": "Evaluación de la probabilidad y severidad de los eventos sísmicos y sus efectos sobre la población y las estructuras.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "CIENCIAS DE LA TIERRA Y DEL ESPACIO",
+                                                    "disciplina_snii": "Geofísica y sismología"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Física de medios porosos y sus aplicaciones",
+                                            "descripción": "Investigación de las propiedades físicas de los medios porosos y su relevancia en la propagación de ondas sísmicas y otros fenómenos geofísicos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "CIENCIAS DE LA TIERRA Y DEL ESPACIO",
+                                                    "disciplina_snii": "Geofísica y sismología"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Sismología de volcanes",
+                                            "descripción": "Estudio de la actividad sísmica asociada a los procesos volcánicos y su aplicación en la monitorización y predicción de erupciones volcánicas.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "CIENCIAS DE LA TIERRA Y DEL ESPACIO",
+                                                    "disciplina_snii": "Geofísica y sismología"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "departamento": "Física Aplicada",
+                            "descripción_departamento": "El departamento de Física Aplicada se dedica a la aplicación de los principios y teorías físicas en diversos campos prácticos, como la tecnología, la ingeniería y la medicina.",
+                            "áreas": [
+                                {
+                                    "área": "Ciencias de la Computación",
+                                    "descripción_del_área": "El área de Ciencias de la Computación se dedica al estudio de algoritmos, sistemas de computación y su aplicación en la resolución de problemas complejos, abarcando desde el desarrollo de software hasta la inteligencia artificial y la computación cuántica.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Sistemas Inteligentes, Interactivos y Distribuidos",
+                                            "descripción": "Investigación en el desarrollo de sistemas inteligentes y distribuidos, que interactúan con su entorno y con otros sistemas de manera autónoma.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ciencia e Ingeniería de la computación"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Visión, Imágenes y Robótica",
+                                            "descripción": "Estudio y desarrollo de tecnologías relacionadas con la percepción visual, procesamiento de imágenes y sistemas robóticos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ciencia e Ingeniería de la computación"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Algoritmos y Ciencia de Datos",
+                                            "descripción": "Investigación en el diseño, análisis y aplicación de algoritmos para el procesamiento y análisis de grandes conjuntos de datos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ciencia e Ingeniería de la computación"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Biología Computacional y Computación Biológica",
+                                            "descripción": "Estudio de modelos computacionales y técnicas de computación aplicadas a la comprensión de sistemas biológicos y procesos biológicos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ciencia e Ingeniería de la computación"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "Electrónica y Telecomunicaciones",
+                                    "descripción_del_área": "El área de Electrónica y Telecomunicaciones se enfoca en el diseño, desarrollo y aplicación de sistemas electrónicos y tecnologías de comunicación para la transmisión de información a través de diferentes medios, como redes inalámbricas, cables y fibra óptica.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Redes de telecomunicaciones",
+                                            "descripción": "Investigación en el diseño, análisis y optimización de redes de telecomunicaciones para la transmisión eficiente de datos y comunicaciones.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Electrónica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Comunicaciones ópticas",
+                                            "descripción": "Estudio y desarrollo de tecnologías para la transmisión de información a través de señales ópticas, utilizando fibras ópticas y componentes ópticos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Electrónica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Instrumentación electrónica",
+                                            "descripción": "Investigación en el diseño y desarrollo de instrumentos electrónicos para la medición y control de diferentes magnitudes físicas.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Electrónica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Altas Frecuencias",
+                                            "descripción": "Estudio y aplicación de tecnologías de alta frecuencia en sistemas de comunicaciones, radar, y otras aplicaciones electromagnéticas.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Electrónica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Control",
+                                            "descripción": "Investigación en el diseño y desarrollo de sistemas de control para regular el comportamiento de sistemas dinámicos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Electrónica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Energías Renovables",
+                                            "descripción": "Estudio y desarrollo de tecnologías para la generación, almacenamiento y distribución de energía renovable, como la solar, eólica, y otras fuentes alternativas.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Electrónica"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "Óptica",
+                                    "descripción_del_área": "El área de Óptica se centra en el estudio de la luz y su interacción con la materia, abarcando desde la formación de imágenes hasta la manipulación de la luz para aplicaciones tecnológicas y científicas.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Óptica no lineal",
+                                            "descripción": "Investigación en fenómenos ópticos no lineales, donde la respuesta óptica de los materiales no sigue una relación lineal con la intensidad de la luz incidente.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "CIENCIAS MATEMÁTICAS",
+                                                    "disciplina_snii": "Óptica / Fotónica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Láseres y procesamiento láser de materiales",
+                                            "descripción": "Investigación en el desarrollo y aplicaciones de láseres para el procesamiento de materiales, como corte, soldadura, grabado, entre otros.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "CIENCIAS MATEMÁTICAS",
+                                                    "disciplina_snii": "Óptica / Fotónica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Fibras y guías ópticas",
+                                            "descripción": "Estudio y desarrollo de tecnologías relacionadas con fibras ópticas y guías de onda para la transmisión y manipulación de luz.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "CIENCIAS MATEMÁTICAS",
+                                                    "disciplina_snii": "Óptica / Fotónica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Esparcimiento de luz y plasmónica",
+                                            "descripción": "Investigación en el esparcimiento de la luz y fenómenos plasmónicos, con aplicaciones en sensores ópticos y dispositivos fotónicos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "CIENCIAS MATEMÁTICAS",
+                                                    "disciplina_snii": "Óptica / Fotónica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Óptica cuántica",
+                                            "descripción": "Estudio de los fundamentos y aplicaciones de la óptica cuántica, incluyendo comunicaciones cuánticas, computación cuántica y metrología.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "CIENCIAS MATEMÁTICAS",
+                                                    "disciplina_snii": "Óptica / Fotónica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Biofotónica",
+                                            "descripción": "Investigación en aplicaciones ópticas para el estudio y diagnóstico de sistemas biológicos, como la imagenología médica y la manipulación celular.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "CIENCIAS MATEMÁTICAS",
+                                                    "disciplina_snii": "Óptica / Fotónica"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "Grupo de Instrumentación Óptica",
+                                    "descripción_del_área": "Grupo consolidado en ingeniería óptica, sus áreas de trabajo corresponden al Diseño Óptico, Pruebas Ópticas, Fabricación de Componentes Ópticas, Microscopia, Metrología y Aplicaciones Medicas de la Óptica.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Diseño de sistemas ópticos usando sistemas híbridos, refractivos-refractivos.",
+                                            "descripción": "Investigación y desarrollo de sistemas ópticos que utilizan combinaciones híbridas de elementos ópticos refractivos y reflectivos para mejorar el rendimiento y la eficiencia en diversas aplicaciones.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "FÍSICA",
+                                                    "disciplina_snii": "ÓPTICA"
+                                                },
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA ELÉCTRICA",
+                                                    "disciplina_snii": "OPTOELECTRÓNICA"
+                                                },
+                                                {
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "FÍSICA",
+                                                    "disciplina_snii": "FÍSICA APLICADA"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "departamento": "Biología Experimental y Aplicada",
+                            "descripción_departamento": "Investigación relacionada con la geología, oceanografía y fenómenos geofísicos para comprender la estructura y dinámica del planeta Tierra.",
+                            "áreas": [
+                                {
+                                    "área": "Biología de la Conservación",
+                                    "descripción_del_área": "Es un área de la biología que se centra en el estudio de la biodiversidad y los ecosistemas con el objetivo de desarrollar estrategias y acciones para la protección, restauración y manejo sostenible de las especies y los hábitats en riesgo de extinción.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Biodiversidad",
+                                            "descripción": "Estudio de la variedad y abundancia de especies en un determinado entorno, así como sus interacciones ecológicas y su importancia para la salud de los ecosistemas.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Biología y Química",
+                                                    "campo_snii": "CIENCIAS AMBIENTALES",
+                                                    "disciplina_snii": "Conservación de Ecosistemas"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Biogeografía",
+                                            "descripción": "Análisis de la distribución espacial de especies y comunidades biológicas, así como los factores históricos y ecológicos que determinan sus patrones de distribución.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Biología y Química",
+                                                    "campo_snii": "CIENCIAS AMBIENTALES",
+                                                    "disciplina_snii": "Conservación de Ecosistemas"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Dinámica de poblaciones de flora y fauna",
+                                            "descripción": "Investigación sobre los cambios en el tamaño y estructura de las poblaciones de plantas y animales, así como los factores que influyen en su dinámica y viabilidad a largo plazo.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Biología y Química",
+                                                    "campo_snii": "CIENCIAS AMBIENTALES",
+                                                    "disciplina_snii": "Conservación de Ecosistemas"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Ecología aplicada y sustentabilidad",
+                                            "descripción": "Aplicación de principios y herramientas de ecología para el manejo sostenible de recursos naturales y la conservación de la biodiversidad, con el objetivo de promover el desarrollo sustentable.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Biología y Química",
+                                                    "campo_snii": "CIENCIAS AMBIENTALES",
+                                                    "disciplina_snii": "Conservación de Ecosistemas"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Dinámica y vulnerabilidad de la biota y ecosistemas",
+                                            "descripción": "Estudio de los cambios en la composición, estructura y funcionamiento de los ecosistemas, así como su susceptibilidad a perturbaciones y amenazas ambientales.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Biología y Química",
+                                                    "campo_snii": "CIENCIAS AMBIENTALES",
+                                                    "disciplina_snii": "Conservación de Ecosistemas"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "Biotecnología Marina",
+                                    "descripción_del_área": "Campo de la ciencia que utiliza organismos vivos o sistemas biológicos para desarrollar productos o tecnologías con aplicaciones en diversos ámbitos, como la medicina, la agricultura, la industria y el medio ambiente.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Biotecnología acuícola",
+                                            "descripción": "Investigación en el desarrollo y aplicación de tecnologías biotecnológicas para mejorar la producción acuícola, incluyendo técnicas de reproducción, genética y nutrición de organismos acuáticos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Agropecuarias y Biotecnología",
+                                                    "campo_snii": "BIOTECNOLOGÍA",
+                                                    "disciplina_snii": "Biotecnología Marina"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Biotecnología ambiental marina",
+                                            "descripción": "Estudio y aplicación de herramientas biotecnológicas para el monitoreo, remediación y conservación de ambientes marinos, incluyendo la detección y eliminación de contaminantes.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Agropecuarias y Biotecnología",
+                                                    "campo_snii": "BIOTECNOLOGÍA",
+                                                    "disciplina_snii": "Biotecnología Marina"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Biotecnología de productos naturales marinos",
+                                            "descripción": "Investigación en la identificación, extracción, purificación y desarrollo de aplicaciones de compuestos bioactivos provenientes de organismos marinos, como fuentes potenciales de medicamentos y productos biotecnológicos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Agropecuarias y Biotecnología",
+                                                    "campo_snii": "BIOTECNOLOGÍA",
+                                                    "disciplina_snii": "Biotecnología Marina"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Biotecnología molecular de organismos marinos",
+                                            "descripción": "Aplicación de técnicas moleculares y genéticas para estudiar la estructura, función y diversidad genética de organismos marinos, así como su potencial biotecnológico en áreas como la salud, la alimentación y la conservación.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Agropecuarias y Biotecnología",
+                                                    "campo_snii": "BIOTECNOLOGÍA",
+                                                    "disciplina_snii": "Biotecnología Marina"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "Microbiología",
+                                    "descripción_del_área": "Área de estudio que se enfoca en investigar los microorganismos a través de experimentación en laboratorio, incluyendo técnicas de cultivo, análisis molecular y bioquímico para comprender su fisiología, genética, interacciones y aplicaciones biotecnológicas.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Bases celulares y moleculares del desarrollo de los hongos",
+                                            "descripción": "Estudio de los mecanismos celulares y moleculares involucrados en el desarrollo y la diferenciación de los hongos, con énfasis en su regulación genética y su aplicación en biotecnología y medicina.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Biología y Química",
+                                                    "campo_snii": "CIENCIAS BIOMÉDICAS",
+                                                    "disciplina_snii": "Microbiología"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Microbiología agrícola",
+                                            "descripción": "Investigación de los microorganismos presentes en el suelo, plantas y otros elementos del entorno agrícola, así como su interacción con los cultivos y su aplicación en la agricultura sostenible.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Biología y Química",
+                                                    "campo_snii": "CIENCIAS BIOMÉDICAS",
+                                                    "disciplina_snii": "Microbiología"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Biodiversidad microbiana",
+                                            "descripción": "Estudio de la diversidad genética y funcional de microorganismos en distintos ambientes, incluyendo su papel en los ciclos biogeoquímicos, la producción de alimentos y la conservación del medio ambiente.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Biología y Química",
+                                                    "campo_snii": "CIENCIAS BIOMÉDICAS",
+                                                    "disciplina_snii": "Microbiología"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Diagnóstico de patógenos microbianos humanos",
+                                            "descripción": "Desarrollo y aplicación de técnicas de diagnóstico molecular y microbiológico para la detección, identificación y caracterización de patógenos microbianos asociados a enfermedades humanas.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Biología y Química",
+                                                    "campo_snii": "CIENCIAS BIOMÉDICAS",
+                                                    "disciplina_snii": "Microbiología"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Miconanotecnología",
+                                            "descripción": "Aplicación de la nanotecnología en el estudio, manipulación y aplicación de microorganismos, así como en el desarrollo de nuevos materiales y dispositivos para su detección, control y aplicación biotecnológica.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Biología y Química",
+                                                    "campo_snii": "CIENCIAS BIOMÉDICAS",
+                                                    "disciplina_snii": "Microbiología"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "nombre_unidad": "CICESE - ULP",
+                    "descripción_unidad": "El quehacer científico de toda la Unidad La Paz se integra en una problemática denominada Riesgos y Peligros Naturales, que atiende a las demandas actuales sobre sismos y ciclones tropicales, así como al estudio de procesos oceanográficos y ecológicos, y sus efectos en la integridad ecológica de los ecosistemas marinos, la biodiversidad y espacios naturales del noroeste de México.",
+                    "dirección_postal": "23050",
+                    "latitud": 24.438598446633726,
+                    "longitud": -110.34506251707667,
+                    "departamentos": [
+                        {
+                            "departamento": "Ciencias de la Tierra",
+                            "descripción_departamento": "Investigación relacionada con la geología, oceanografía y fenómenos geofísicos para comprender la estructura y dinámica del planeta Tierra.",
+                            "áreas": [
+                                {
+                                    "área": "Geología",
+                                    "descripción_del_área": "Estudio de la composición, estructura, procesos y evolución de la Tierra, incluyendo la formación de rocas, minerales y la historia geológica.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Estudio de peligro sísmico probabilista.",
+                                            "descripción": "Calculamos los valores de aceleración máxima para diferentes periodos de retorno basado en estimaciones probabilistas.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "CIENCIAS DE LA TIERRA Y DEL ESPACIO",
+                                                    "disciplina_snii": "Geología."
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Estudio de la corteza",
+                                            "descripción": "Investigación de Estudio de  deformaciones y estado de esfuerzos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "CIENCIAS DE LA TIERRA Y DEL ESPACIO",
+                                                    "disciplina_snii": "Geología"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Estudios de la fuente sísmica",
+                                            "descripción": "Estudio de la geometría del plano de falla con tensor de momento completo",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "CIENCIAS DE LA TIERRA Y DEL ESPACIO",
+                                                    "disciplina_snii": "Geología"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Estudios de sismos relevantes",
+                                            "descripción": "Análisis detallado de terremotos significativos para comprender sus causas, impactos y mejorar la predicción y mitigación de riesgos sísmicos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "CIENCIAS DE LA TIERRA Y DEL ESPACIO",
+                                                    "disciplina_snii": "Geología"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "departamento": "Aeroecología Marina",
+                            "descripción_departamento": "El departamento de Aeroecología Marina se dedica a Investigación de las interacciones entre los organismos marinos y los procesos atmosféricos, incluyendo el impacto del clima y el intercambio de gases.",
+                            "áreas": [
+                                {
+                                    "área": "Aeroecología Marina",
+                                    "descripción_del_área": "El área de Aeroecología Marina se dedica a Investigación de las interacciones entre los organismos marinos y los procesos atmosféricos",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Estudio de la Pardela mexicana en Isla Natividad",
+                                            "descripción": "Profundiza en la ecología y comportamiento de la pardela mexicana para entender su resiliencia ante el cambio climático y sus amenazas, reimaginando su conservación.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "BIOLOGÍA Y QUÍMICA",
+                                                    "campo_snii": "CIENCIAS AMBIENTALES",
+                                                    "disciplina_snii": "Ecología Marina"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Análisis de riesgo de impactos entre fauna y aviones en aeropuertos",
+                                            "descripción": "Se evalúa el riesgo de colisiones entre fauna y aviones en aeropuertos mexicanos para implementar medidas preventivas y evitar accidentes, entrelazando conocimientos ecológicos y aeronáuticos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "BIOLOGÍA Y QUÍMICA",
+                                                    "campo_snii": "CIENCIAS AMBIENTALES",
+                                                    "disciplina_snii": "Ecología Marina"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Monitoreo aves marinas del Parque Nacional zona marina de Isla Espíritu Santo",
+                                            "descripción": "Se monitorea la población y distribución de aves marinas en el Parque Nacional Isla Espíritu Santo, creando un mosaico de datos esenciales para su conservación.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "BIOLOGÍA Y QUÍMICA",
+                                                    "campo_snii": "CIENCIAS AMBIENTALES",
+                                                    "disciplina_snii": "Ecología Marina"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Estudio del sueño en aves marinas pelágicas",
+                                            "descripción": "Se investiga el comportamiento del sueño en aves marinas pelágicas, desentrañando cómo duermen en vuelo y en colonias, lo cual es un aspecto integral y enigmático de su biología.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "BIOLOGÍA Y QUÍMICA",
+                                                    "campo_snii": "CIENCIAS AMBIENTALES",
+                                                    "disciplina_snii": "Ecología Marina"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Estudio del estado de salud de las aves marinas",
+                                            "descripción": "Se analiza la salud de aves marinas para detectar patógenos y efectos de contaminantes, con el fin de mejorar las estrategias de conservación y manejo de estas especies.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "BIOLOGÍA Y QUÍMICA",
+                                                    "campo_snii": "CIENCIAS AMBIENTALES",
+                                                    "disciplina_snii": "Ecología Marina"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "departamento": "Biología de la Conservación",
+                            "descripción_departamento": "Estudio de los principios y prácticas necesarios para preservar la biodiversidad, enfocándose en la protección de especies, sus hábitats y ecosistemas, y abordando los desafíos derivados de la actividad humana y el cambio climático.",
+                            "áreas": [
+                                {
+                                    "área": "Biología de la Conservación",
+                                    "descripción_del_área": "Es un área de la biología que se centra en el estudio de la biodiversidad y los ecosistemas con el objetivo de desarrollar estrategias y acciones para la protección, restauración y manejo sostenible de las especies y los hábitats en riesgo de extinción.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Monitoreo de especies selectas de aves migratorias y de sus hábitats",
+                                            "descripción": "Se realiza el monitoreo de aves migratorias durante el invierno y la reproducción, complementando con datos ambientales y antrópicos para analizar tendencias poblacionales y el impacto del disturbio humano y la pérdida de hábitat.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Biología y Química",
+                                                    "campo_snii": "CIENCIAS AMBIENTALES",
+                                                    "disciplina_snii": "Conservación de Ecosistemas"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "departamento": "Macroecología Marina",
+                            "descripción_departamento": "Estudio de los patrones y procesos ecológicos a gran escala en los océanos, abarcando la distribución, abundancia y diversidad de organismos marinos, así como las interacciones entre ellos y con su entorno, para comprender y gestionar mejor los ecosistemas marinos.",
+                            "áreas": [
+                                {
+                                    "área": "Ecología Marina",
+                                    "descripción_del_área": "Estudio de las interacciones entre los organismos marinos y su entorno, incluyendo la dinámica de poblaciones, comunidades, y ecosistemas, así como los impactos de factores ambientales y humanos en la biodiversidad y la salud de los océanos.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Predicciones de Megafauna Marina",
+                                            "descripción": "Se realiza un estudio exhaustivo de la dinámica de los ecosistemas marinos a gran escala, con énfasis en la megafauna marina, utilizando enfoques cuantitativos y predictivos para comprender mejor su comportamiento y distribución en el océano.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "BIOLOGÍA Y QUÍMICA",
+                                                    "campo_snii": "CIENCIAS AMBIENTALES",
+                                                    "disciplina_snii": "Ecología Marina"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "departamento": "Meteorología Regional",
+                            "descripción_departamento": "Estudio del clima y los fenómenos atmosféricos a escala local o regional, centrándose en la comprensión de los patrones climáticos, las condiciones meteorológicas específicas y sus variaciones temporales en un área geográfica limitada. Esto incluye el análisis de factores como la temperatura, la humedad, la presión atmosférica, la precipitación y los vientos, así como la predicción del clima a corto y mediano plazo para una región específica.",
+                            "áreas": [
+                                {
+                                    "área": "Meteorología",
+                                    "descripción_del_área": "Ciencia que estudia la atmósfera terrestre y los fenómenos atmosféricos, incluyendo el análisis de variables como temperatura, humedad, presión, viento, y precipitación para comprender y predecir el clima en diversas escalas temporales y espaciales, así como sus impactos en la sociedad y el medio ambiente.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Análisis de fenómenos atmosféricos en Baja California",
+                                            "descripción": "Estudio detallado de los eventos atmosféricos en la región, incluyendo ciclones tropicales, tormentas convectivas y sistemas frontales, utilizando observaciones satelitales y modelos meteorológicos para comprender y predecir su impacto en la población y el medio ambiente.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "CIENCIAS DE LA TIERRA Y DEL ESPACIO",
+                                                    "disciplina_snii": "Meteorología"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "departamento": "Oceanografía Tropical",
+                            "descripción_departamento": "Investigación centrada en el estudio de los océanos en regiones tropicales, abordando aspectos como la circulación oceánica, la variabilidad climática, la biodiversidad marina, los procesos biogeoquímicos y los impactos del cambio climático en estos ecosistemas.",
+                            "áreas": [
+                                {
+                                    "área": "Ciencias del Mar",
+                                    "descripción_del_área": "Esta área investiga la dinámica física, química y biológica de los sistemas marinos, así como los impactos del cambio global, la contaminación y la sobreexplotación en los ecosistemas marinos y en la vida humana.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Oceanografía Dinámica Costera y de Mesoescala",
+                                            "descripción": "Estudio de la circulación y procesos físicos en las regiones costeras y de mesoescala, con énfasis en la interacción entre la costa y el océano abierto.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "CIENCIAS DEL MAR",
+                                                    "disciplina_snii": "Oceanografía Costera"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Oceanografía Satelital",
+                                            "descripción": "Investigación sobre el uso de datos satelitales para analizar patrones oceánicos, incluyendo la temperatura superficial del mar, la altura de las olas y la distribución de la clorofila, entre otros parámetros.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "CIENCIAS DEL MAR",
+                                                    "disciplina_snii": "Oceanografía Costera"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Oceanografía Biológica por Sensores Remotos",
+                                            "descripción": "Análisis de la distribución y la actividad de la vida marina utilizando imágenes satelitales y otros sensores remotos para entender la dinámica de los ecosistemas marinos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "CIENCIAS DEL MAR",
+                                                    "disciplina_snii": "Oceanografía Costera"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Manejo de Datos",
+                                            "descripción": "Desarrollo de metodologías para la gestión, procesamiento y análisis de grandes conjuntos de datos oceanográficos, facilitando la obtención de información relevante para la investigación y la toma de decisiones.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "CIENCIAS DEL MAR",
+                                                    "disciplina_snii": "Oceanografía Costera"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Cambio Climático",
+                                            "descripción": "Estudio de los efectos del cambio climático en los océanos tropicales, incluyendo el aumento de la temperatura del agua, la acidificación oceánica y los cambios en la circulación, así como las posibles consecuencias para los ecosistemas marinos y las comunidades humanas dependientes del mar.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "CIENCIAS DEL MAR",
+                                                    "disciplina_snii": "Oceanografía Costera"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "nombre_unidad": "CICESE - ut3",
+                    "descripción_unidad": "Unidad de Transferencia Tecnológica Tepic, Realizamos investigación aplicada en el área de las Tecnologías de la Información y Comunicación (TIC), y generamos desarrollos tecnológicos.",
+                    "dirección_postal": "63173",
+                    "latitud": 21.48470441383413,
+                    "longitud": -104.84888212075616,
+                    "departamentos": [
+                        {
+                            "departamento": "Ciencias en Tecnologías Avanzadas e Integradas",
+                            "descripción_departamento": "Tiene un enfoque multidisciplinar, orientado en analizar, diseñar y desarrollar dispositivos y sistemas inteligentes para atender problemas cientícos y tecnológicos",
+                            "áreas": [
+                                {
+                                    "área": "Interacción Humano Computadora",
+                                    "descripción_del_área": "Esta disciplina abarca aspectos como el diseño de interfaces de usuario intuitivas y accesibles, la usabilidad de software y hardware, la interacción mediante gestos, voz o realidad virtual, así como la comprensión de los aspectos psicológicos y sociales relacionados con la interacción con la tecnología.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Salud mental y adicciones",
+                                            "descripción": "Implementación de un módulo de tamizaje digital para la detección de trastornos mentales y adicciones, con aplicación móvil para atención y seguimiento remoto, además del desarrollo de un videojuego serio educativo sobre adicciones dirigido a adolescentes.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Informática"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Plataforma computacional para prevención del suicidio",
+                                            "descripción": "Desarrollo de una plataforma web y una aplicación móvil para la detección, seguimiento y atención remota de personas en riesgo de suicidio, basada en terapia cognitivo-conductual, con el objetivo de reducir la consumación de suicidios.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Informática"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Videojuego serio para promover la salud infantil",
+                                            "descripción": "Diseño e implementación de un videojuego educativo para niños de 6 a 12 años, centrado en la promoción de hábitos alimenticios saludables y la actividad física para combatir el sobrepeso y la obesidad.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Informática"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Recopilación de datos de interacción niño-robot",
+                                            "descripción": "Análisis automático de emociones, actitudes, edad, sexo, habilidades sociales y personalidad mediante la interacción entre niños y robots, con el objetivo de comprender mejor las interacciones humanas y mejorar el diseño de sistemas interactivos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Informática"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "Inteligencia Artificial",
+                                    "descripción_del_área": " Campo de estudio que se centra en el desarrollo de sistemas y algoritmos computacionales que pueden realizar tareas que normalmente requieren inteligencia humana.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Aprendizaje por refuerzo rápido y seguro",
+                                            "descripción": "Abordaje de la lentitud y riesgos potenciales del aprendizaje por refuerzo mediante la incorporación de medidas de similitud entre estados y acciones, junto con la consideración del factor de riesgo, con el fin de desarrollar políticas de aprendizaje más rápidas y seguras.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Informática"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Análisis del comportamiento de perros de búsqueda y rescate",
+                                            "descripción": "Desarrollo de métodos computacionales basados en el reconocimiento de patrones en vocalizaciones, movimientos y posturas para el análisis y diagnóstico del comportamiento de los perros de búsqueda y asistencia.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Informática"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Clasificación automática de ladridos de perros domésticos",
+                                            "descripción": "Desarrollo de una aplicación para la clasificación automática de ladridos de perros domésticos, capaz de identificar patrones acústicos que indiquen diferentes estados emocionales o situaciones de riesgo, con aplicación en la seguridad doméstica.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Informática"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "Análisis de Datos",
+                                    "descripción_del_área": "Proceso de examinar, limpiar, transformar y modelar datos con el fin de descubrir información útil, llegar a conclusiones y apoyar la toma de decisiones, utilizando técnicas estadísticas y de minería de datos.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Agente virtual conversacional para identificar problemáticas de la pandemia de COVID-19",
+                                            "descripción": "Desarrollo de un agente virtual que utiliza la conversación para identificar las problemáticas más comunes relacionadas con la pandemia de COVID-19 en la población, brindando orientación adecuada y apoyo social.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Informática"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "nombre_unidad": "CICESE - UFM",
+                    "descripción_unidad": "Unidad Monterrey, r investigación científica básica y aplicada, formar capital humano y brindar servicios tecnológicos con base en líneas de investigación compatibles con las necesidades de las industrias de la región.",
+                    "dirección_postal": "66629",
+                    "latitud": 25.763103486529737,
+                    "longitud": -100.1130824782538,
+                    "departamentos": [
+                        {
+                            "departamento": "Ciencias en Tecnologías Avanzadas e Integradas",
+                            "descripción_departamento": "Tiene un enfoque multidisciplinar, orientado en analizar, diseñar y desarrollar dispositivos y sistemas inteligentes para atender problemas cientícos y tecnológicos",
+                            "áreas": [
+                                {
+                                    "área": "Nanoingeniería y Tecnología Láser (NLTech)",
+                                    "descripción_del_área": "Investigación, desarollo, implementación y evaluación de técnicas y métodos para el diseño, modelado teórico, fabricación y caracterización de estructuras y dispositivos fotónicos de última generación, que tenga potenciales aplicaciones a tecnologías compatibles con la industria 4.0 y ciudades inteligentes.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Plasmónica",
+                                            "descripción": "Estudio de la interacción entre la luz y los metales nanoestructurados, con aplicaciones en la mejora de sensores ópticos y dispositivos fotónicos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "CIENCIAS MATEMÁTICAS",
+                                                    "disciplina_snii": "Óptica/Fotónica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Sensores ópticos",
+                                            "descripción": "Investigación en el desarrollo y aplicación de sensores que utilizan la luz para detectar y medir diversas propiedades físicas y químicas de su entorno.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "CIENCIAS MATEMÁTICAS",
+                                                    "disciplina_snii": "Óptica/Fotónica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Metafotónica integrada",
+                                            "descripción": "Exploración de la integración de dispositivos fotónicos en sistemas micro/nanoestructurados para el control y manipulación de la luz, con potenciales aplicaciones en la mejora de la eficiencia y funcionalidad de componentes fotónicos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "CIENCIAS MATEMÁTICAS",
+                                                    "disciplina_snii": "Óptica/Fotónica"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "Tecnología e Investigación en Dispositivos Interconectados",
+                                    "descripción_del_área": "Investigación y desarrollo de modelado, simulación y experimentación en el área de sistemas formados por entidades inteligentes, interconectadas o con interacciones complejas, y sistemas donde hay propagación y adquisición de señales en medios altamente complejos",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Tecnologías y Redes IoT para sistemas ciber-físicos",
+                                            "descripción": "Desarrollo de soluciones de transmisión de información utilizando protocolos de enrutamiento y dispositivos electrónicos con restricciones, con enfoque en la recolección y análisis de señales fisiológicas y biomecánicas.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Informática"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Óptica aplicada a dispositivos conectados",
+                                            "descripción": "Investigación en el modelado y análisis del ojo humano, así como en el procesamiento digital de imágenes para reconocimiento de patrones en diversas aplicaciones de entornos inteligentes.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Informática"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Metodologías de evaluación subjetiva para dispositivos interconectados",
+                                            "descripción": "Desarrollo de técnicas para evaluar sistemas acústicos de comunicación, centrándose en la inteligibilidad del habla en diferentes entornos, como la telemedicina, considerando factores como el ruido ambiental.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Informática"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Análisis de señales y modelado matemático de sistemas fisiológicos",
+                                            "descripción": "Estudio de señales fisiológicas en función del tiempo y modelado de sistemas utilizando herramientas de elemento finito y diferencias finitas, para comprender mejor el funcionamiento de sistemas fisiológicos y su relación con el tiempo.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Informática"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "redes_sociales": [
+                {
+                    "red": "Facebook",
+                    "identificador": "https://www.facebook.com/CICESE",
+                    "activa": true,
+                    "propósito": "difusión científica"
+                },
+                {
+                    "red": "YouTube",
+                    "identificador": "https://www.youtube.com/CICESEciencia",
+                    "activa": true,
+                    "propósito": "difusión científica"
+                },
+                {
+                    "red": "Instagram",
+                    "identificador": "https://www.instagram.com/cicese_oficial/",
+                    "activa": true,
+                    "propósito": "difusión científica"
+                },
+                {
+                    "red": "X",
+                    "identificador": "https://x.com/i/flow/login?redirect_after_login=%2Ftodoscicese",
+                    "activa": true,
+                    "propósito": "difusión científica"
+                },
+                {
+                    "red": "Spotify",
+                    "identificador": "https://open.spotify.com/show/1ln4N878kYe03kuwru61O5?si=s0zg8t54TyCF3qppJpuQgg&dl_branch=1",
+                    "activa": true,
+                    "propósito": "difusión científica"
+                }
+
+            ]
+        }
+    ]
+}

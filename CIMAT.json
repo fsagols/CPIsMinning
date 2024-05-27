@@ -1,0 +1,817 @@
+{
+    "cpis": [
+        {
+            "nombre_cpi": "Centro de Investigación en Matemáticas",
+            "siglas_cpi": "CIMAT",
+            "descripción_breve": "CIMAT se dedica a la generación, transmisión y aplicación de conocimiento especializado en las áreas de matemáticas, estadística e informática. ",
+            "descripción": "El Centro de Investigación en Matemáticas A.C. (CIMAT) es un centro de investigación y docencia matemática. Fue creado en 1980 en la ciudad de Guanajuato, México. Pertenece al sistema de instituciones educativas públicas de México y a la Red de Centros de Investigación del CONACyT",
+            "misión": "Orientado hacia la investigación científica, la formación de recursos humanos de alto nivel, el mejoramiento de la competencia matemática de la sociedad, así como al apoyo en la solución de problemas que competen a sus áreas de interés, el CIMAT busca contribuir al desarrollo científico y tecnológico de México.",
+            "visión": "Ser un centro de investigación de excelencia y polo de desarrollo científico en progresiva consolidación, reconocido a nivel nacional e internacional en sus áreas de especialización; fortalecido en su capacidad de convocatoria y en la integración de una masa crítica en grupos de alto rendimiento científico, y ser modelo de eficiencia y crecimiento e impacto social para otros centros de investigación.",
+            "titular": "Dr. Rafael Herrera Guzmán",
+            "fecha_designación_titular": "2022",
+            "grado_académico_titular": "Doctor",
+            "especialidad_titular": "Matemáticas por la Universidad de Oxford, Reino Unido",
+            "origen": "El CIMAT nació como una necesidad para diversificar y descentralizar la investigación matemática en México, alejándola del Distrito Federal y la UNAM",
+            "fecha_creación": "1980-12-19",
+            "historia_establecimiento": "En sus inicios, algunos matemáticos mexicanos veían al CIMAT como una aventura sin un futuro claro. Sin embargo, en poco tiempo, la institución adquirió notoriedad internacional y se convirtió en una de las instituciones de matemáticas más sólidas de Latinoamérica",
+            "contexto_histórico": "En 1980, en una etapa en la que el desarrollo nacional apuntaba hacia la descentralización, un grupo de académicos de la UNAM encontró en la ciudad de Guanajuato un escenario propicio para fundar una institución dedicada a la investigación básica en el campo de las matemáticas y al crecimiento de esta ciencia como área de formación a nivel de educación superior. De esta manera nació el CIMAT, Centro de Investigación en Matemáticas A.C.",
+            "tipo_entidad_legal": "Paraestatal asimilada al régimen de las empresas de participación estatal mayoritaria.",
+            "figura_jurídica": "Asociación Civil",
+            "marco_normativo": [
+                {
+                    "ley_o_instrumento_jurídico": "Ley Orgánica de la Administración Pública Federal"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "Ley Federal de las Entidades Paraestatales"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "Ley de Ciencia y Tecnología"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "Estatutos del Centro de Investigación en Matemáticas A.C."
+                }
+            ],
+            "presupuesto": [
+                {
+                    "año": 2024,
+                    "total": 256930521,
+                    "recursos_fiscales": 223971463,
+                    "recursos_propios": 32959058
+                },
+                {
+                    "año": 2023,
+                    "total": 233559083,
+                    "recursos_fiscales": 0,
+                    "recursos_propios": 0
+                },
+                {
+                    "año": 2022,
+                    "total": 221494404,
+                    "recursos_fiscales": 0,
+                    "recursos_propios": 0
+                },
+                {
+                    "año": 2021,
+                    "total": 212977650,
+                    "recursos_fiscales": 0,
+                    "recursos_propios": 0
+                },
+                {
+                    "año": 2020,
+                    "total": 210568814,
+                    "recursos_fiscales": 0,
+                    "recursos_propios": 0
+                }
+            ],
+            "programas_académicos": [
+                {
+                    "programa": "Maestría en Probabilidad y Estadística",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                            "campo_snii": "CIENCIAS MATEMÁTICAS",
+                            "disciplina_snii": "Estadística."
+                        }
+                    ],
+                    "nivel": "maestría",
+                    "modalidad": "regular",
+                    "vía": "presencial"
+                },
+                {
+                    "programa": "Doctorado en Probabilidad y Estadística",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                            "campo_snii": "CIENCIAS MATEMÁTICAS",
+                            "disciplina_snii": "Estadística."
+                        }
+                    ],
+                    "nivel": "doctorado",
+                    "modalidad": "regular",
+                    "vía": "presencial"
+                },
+                {
+                    "programa": "Maestría en Cómputo Estadístico",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                            "campo_snii": "CIENCIAS MATEMÁTICAS",
+                            "disciplina_snii": "Estadística."
+                        }
+                    ],
+                    "nivel": "profesionalizante",
+                    "modalidad": "regular",
+                    "vía": "presencial"
+                },
+                {
+                    "programa": "Maestría en Modelación y Optimización de Procesos",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                            "campo_snii": "CIENCIAS MATEMÁTICAS",
+                            "disciplina_snii": "Estadística."
+                        }
+                    ],
+                    "nivel": "profesionalizante",
+                    "modalidad": "regular",
+                    "vía": "presencial"
+                },
+                {
+                    "programa": "Maestría en Ingeniería de Software",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Ingeniería y Tecnología",
+                            "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                            "disciplina_snii": "INGENIERÍA DE SOFTWARE"
+                        }
+                    ],
+                    "nivel": "profesionalizante",
+                    "modalidad": "regular",
+                    "vía": "presencial"
+                },
+                {
+                    "programa": "Maestría en Matemáticas Básicas.",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                            "campo_snii": "CIENCIAS MATEMÁTICAS",
+                            "disciplina_snii": "Lógica y fundamento de las Matemáticas"
+                        }
+                    ],
+                    "nivel": "maestría",
+                    "modalidad": "regular",
+                    "vía": "presencial"
+                },
+                {
+                    "programa": "Doctorado en Matemáticas Básicas",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                            "campo_snii": "CIENCIAS MATEMÁTICAS",
+                            "disciplina_snii": "Lógica y fundamento de las Matemáticas"
+                        }
+                    ],
+                    "nivel": "doctorado",
+                    "modalidad": "regular",
+                    "vía": "presencial"
+                },
+                {
+                    "programa": "Maestría en Matemáticas Aplicadas.",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                            "campo_snii": "CIENCIAS MATEMÁTICAS",
+                            "disciplina_snii": "Matemáticas Aplicadas"
+                        }
+                    ],
+                    "nivel": "maestría",
+                    "modalidad": "regular",
+                    "vía": "presencial"
+                },
+                {
+                    "programa": "Doctorado en Matemáticas Aplicadas.",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                            "campo_snii": "CIENCIAS MATEMÁTICAS",
+                            "disciplina_snii": "Matemáticas Aplicadas"
+                        }
+                    ],
+                    "nivel": "doctorado",
+                    "modalidad": "regular",
+                    "vía": "presencial"
+                },
+                {
+                    "programa": "Maestría en Ciencias computacionales",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Ingeniería y Tecnología",
+                            "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                            "disciplina_snii": "CIENCIA E INGENIERÍA DE LA COMPUTACION"
+                        }
+                    ],
+                    "nivel": "maestría",
+                    "modalidad": "regular",
+                    "vía": "presencial"
+                },
+                {
+                    "programa": "Doctorado en Ciencias computacionales",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Ingeniería y Tecnología",
+                            "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                            "disciplina_snii": "CIENCIA E INGENIERÍA DE LA COMPUTACION"
+                        }
+                    ],
+                    "nivel": "doctorado",
+                    "modalidad": "regular",
+                    "vía": "presencial"
+                },
+                {
+                    "programa": "Maestría en Ciencias con Orientación en Robótica.",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Ingeniería y Tecnología",
+                            "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                            "disciplina_snii": "ROBÓTICA"
+                        }
+                    ],
+                    "nivel": "maestría",
+                    "modalidad": "regular",
+                    "vía": "presencial"
+                }
+            ],
+            "unidades": [
+                {
+                    "nombre_unidad": "Unidad Mérida",
+                    "descripción_unidad": "Centro de Investigación en Matemáticas A.C.",
+                    "dirección_postal": "97302",
+                    "latitud": 21.1296574816881,
+                    "longitud": -89.78091333863526,
+                    "departamentos": [
+                        {
+                            "departamento": "Matemáticas Básicas.",
+                            "descripción_departamento": "El Departamento de Matemáticas Básicas se dedica a la investigación y educación en fundamentos teóricos de matemáticas como lógica, álgebra, geometría y teoría de números.",
+                            "áreas": [
+                                {
+                                    "área": "Matemáticas y Estadística",
+                                    "descripción_del_área": "Estudia teoría matemática y técnicas estadísticas para investigación y práctica.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Matemáticas industriales",
+                                            "descripción": "Aplicación de métodos matemáticos en la industria.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "CIENCIAS MATEMÁTICAS.",
+                                                    "disciplina_snii": "´Matemáticas Aplicadas."
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "departamento": "Ciencias de la Computación",
+                            "descripción_departamento": "Investiga y enseña sobre teoría, desarrollo y aplicación de tecnologías computacionales.",
+                            "áreas": [
+                                {
+                                    "área": "Ciencia de Datos",
+                                    "descripción_del_área": "Analiza y extrae conocimiento de grandes volúmenes de datos.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Modelación y análisis de datos masivos",
+                                            "descripción": "Procesamiento y estudio de grandes volúmenes de datos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ciencias e Ingeniería de la Computación"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Analítica, inteligencia de mercado",
+                                            "descripción": "Uso de datos para insights y estrategias de mercado.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ciencias e Ingeniería de la Computación"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "Cómputo Científico",
+                                    "descripción_del_área": "Analiza y extrae conocimiento de grandes volúmenes de datos.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Inteligencia Artificial",
+                                            "descripción": "Desarrollo de sistemas que simulan la inteligencia humana.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ciencias e Ingeniería de la Computación"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Realidad virtual y aumentada",
+                                            "descripción": "Creación de entornos virtuales interactivos y enriquecidos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ciencias e Ingeniería de la Computación"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Robótica",
+                                            "descripción": "Diseño y desarrollo de sistemas automáticos y autónomos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ciencias e Ingeniería de la Computación"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Optimización",
+                                            "descripción": "Aplicación de técnicas para maximizar o minimizar objetivos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ciencias e Ingeniería de la Computación"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Visión computacional",
+                                            "descripción": "Análisis e interpretación de imágenes y videos por computadora.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ciencias e Ingeniería de la Computación"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Modelación numérica",
+                                            "descripción": "Simulación de fenómenos físicos mediante métodos numéricos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ciencias e Ingeniería de la Computación"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "departamento": "Probabilidad y Estadística",
+                            "descripción_departamento": "De manera cotidiana se desarrollan proyectos de investigación y desarrollo tecnológico que son financiados por diversas fuentes, tanto públicas como privadas. Estos proyectos se desarrollan en los laboratorios con los que cuenta la coordinación, entre los que se pueden mencionar los de Pruebas y Caracterización de Circuitos Integrados, LIMEMS, Microelectrónica y Análisis de Nanomateriales y Microdispositivos.",
+                            "áreas": [
+                                {
+                                    "área": "Estadíscica",
+                                    "descripción_del_área": "Analiza y extrae conocimiento de grandes volúmenes de datos.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Estadística aplicada",
+                                            "descripción": "Uso de estadísticas en diversos campos prácticos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "CIENCIAS MATEMÁTICAS.",
+                                                    "disciplina_snii": "´Matemáticas Aplicadas."
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Muestreo y estudios estadísticos",
+                                            "descripción": "Técnicas de muestreo y análisis estadístico de datos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "CIENCIAS MATEMÁTICAS.",
+                                                    "disciplina_snii": "´Matemáticas Aplicadas."
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "nombre_unidad": "Unidad Monterrey",
+                    "descripción_unidad": "Centro de Investigación en Matemáticas A.C. La Unidad Monterrey del CIMAT ofrece la Maestría en Cómputo Estadístico (MCE) reconocida por el Sistema Nacional de Posgrados (SNP) de CONAHCYT. La MCE es un posgrado con orientación profesional dirigido a formar especialistas en modelación matemática, estadística y computacional en el contexto de ciencia de datos.",
+                    "dirección_postal": "66629",
+                    "latitud": 25.763355342082153,
+                    "longitud": -100.11346693863526,
+                    "departamentos": [
+                        {
+                            "departamento": "Cómputo Científico y Machine Learning",
+                            "descripción_departamento": "Su enfoque incluye la investigación, desarrollo y aplicación de algoritmos y modelos para el análisis de datos, la predicción y la toma de decisiones en una variedad de campos.",
+                            "áreas": [
+                                {
+                                    "área": "Ciencia de Datos",
+                                    "descripción_del_área": "Analiza y extrae conocimiento de grandes volúmenes de datos.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Deep Learning y procesamiento de lenguaje natural",
+                                            "descripción": "Desarrollo de algoritmos para el procesamiento de datos no estructurados y el análisis de texto.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ciencias e Ingeniería de la Computación"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Optimización y heurísticas",
+                                            "descripción": "Aplicación de técnicas para maximizar o minimizar funciones objetivo en problemas complejos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ciencias e Ingeniería de la Computación"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Análisis y modelación de imágenes",
+                                            "descripción": "Estudio y desarrollo de métodos para analizar y modelar datos de imágenes digitales.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ciencias e Ingeniería de la Computación"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Aprendizaje de máquinas",
+                                            "descripción": "Investigación y aplicación de algoritmos que permiten a las máquinas aprender de los datos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ciencias e Ingeniería de la Computación"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Biofísica computacional",
+                                            "descripción": "Aplicación de métodos computacionales para estudiar fenómenos biológicos a nivel molecular.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ciencias e Ingeniería de la Computación"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Métodos de simulación multiescala",
+                                            "descripción": "Desarrollo de técnicas para simular sistemas complejos a diferentes escalas de tiempo y espacio.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ciencias e Ingeniería de la Computación"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "departamento": "Análisis y Modelación Estadística",
+                            "descripción_departamento": " enfoque incluye la investigación teórica y aplicada en métodos estadísticos, así como el desarrollo de modelos para la interpretación y predicción de datos. ",
+                            "áreas": [
+                                {
+                                    "área": "Ciencia de Datos",
+                                    "descripción_del_área": "Analiza y extrae conocimiento de grandes volúmenes de datos.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Metodologías funcionales",
+                                            "descripción": "Enfoque en el análisis estadístico de funciones y datos funcionales.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ciencias e Ingeniería de la Computación"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Modelos multivariados y espacio-temporales",
+                                            "descripción": "Desarrollo de modelos para analizar datos que varían en múltiples dimensiones y a lo largo del tiempo.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ciencias e Ingeniería de la Computación"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Modelación estocástica y Modelos complejos y jerárquicos",
+                                            "descripción": "Estudio y aplicación de modelos estadísticos para datos complejos y con estructura jerárquica.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ciencias e Ingeniería de la Computación"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Algoritmos de cómputo estadístico",
+                                            "descripción": "Desarrollo y aplicación de algoritmos computacionales para el análisis estadístico.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ciencias e Ingeniería de la Computación"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Modelación de datos de alta dimensionalidad",
+                                            "descripción": "Enfoque en la modelización y análisis de conjuntos de datos con muchas variables.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ciencias e Ingeniería de la Computación"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Modelos Predictivos",
+                                            "descripción": "Desarrollo de modelos para predecir el comportamiento futuro de fenómenos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ciencias e Ingeniería de la Computación"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "departamento": "Econometría y Finanzas",
+                            "descripción_departamento": "Aplica métodos estadísticos y matemáticos al análisis de datos económicos y financieros.",
+                            "áreas": [
+                                {
+                                    "área": "Ciencia de Datos",
+                                    "descripción_del_área": "Analiza y extrae conocimiento de grandes volúmenes de datos.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Técnicas de nowcasting",
+                                            "descripción": "Utilización de métodos estadísticos y modelos para predecir el presente o el futuro cercano.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ciencias e Ingeniería de la Computación"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Métodos de Deep Learning e indicadores de incertidumbre económica",
+                                            "descripción": "Aplicación de técnicas de Deep Learning para analizar datos económicos y calcular la incertidumbre.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ciencias e Ingeniería de la Computación"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Modelación en finanzas y econometría",
+                                            "descripción": "Aplicación de modelos estadísticos y matemáticos para analizar datos financieros y económicos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ciencias e Ingeniería de la Computación"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Dinámica de sistemas complejos",
+                                            "descripción": "Estudio de sistemas económicos y financieros mediante enfoques basados en teoría de sistemas.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ciencias e Ingeniería de la Computación"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "departamento": "Bioestadística y Bioinformática",
+                            "descripción_departamento": "Aplica métodos estadísticos y herramientas computacionales al análisis de datos biológicos y genómicos.",
+                            "áreas": [
+                                {
+                                    "área": "Ciencia de Datos",
+                                    "descripción_del_área": "Analiza y extrae conocimiento de grandes volúmenes de datos.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Modelos espacio-temporales para dispersión de enfermedades",
+                                            "descripción": "Desarrollo de modelos estadísticos y matemáticos para comprender y predecir la propagación de enfermedades en el espacio y el tiempo.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ciencias e Ingeniería de la Computación"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Determinar factores de riesgo en poblaciones",
+                                            "descripción": "Utilización de técnicas estadísticas para identificar y analizar los factores que contribuyen al riesgo de enfermedades en las poblaciones.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ciencias e Ingeniería de la Computación"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Métodos de alineamiento de secuencias basados en aprendizaje reforzado",
+                                            "descripción": "Aplicación de técnicas de aprendizaje automático reforzado para alinear secuencias genómicas y proteicas.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ciencias e Ingeniería de la Computación"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Modelado de biomoléculas",
+                                            "descripción": "Estudio y modelado de la estructura y función de las biomoléculas, como proteínas y ácidos nucleicos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ciencias e Ingeniería de la Computación"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Modelado de fármacos con modelos de membranas celulares",
+                                            "descripción": "Desarrollo de modelos computacionales para simular la interacción entre fármacos y membranas celulares.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ciencias e Ingeniería de la Computación"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "nombre_unidad": "Unidad Aguascalientes",
+                    "descripción_unidad": "Centro de Investigación en Matemáticas A.C. Desde su apertura, la Unidad Aguascalientes también se ha avocado a la formación de recursos humanos a través de la capacitación y la actualización en estadística, así como a su promoción y uso en el análisis de información para la toma de decisiones.",
+                    "dirección_postal": "20200 ",
+                    "latitud": 21.844518671497486,
+                    "longitud": -102.34422525397643,
+                    "departamentos": [
+                        {
+                            "departamento": "",
+                            "descripción_departamento": "",
+                            "áreas": [
+                                {
+                                    "área": "",
+                                    "descripción_del_área": "",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "",
+                                            "descripción": "",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "",
+                                                    "campo_snii": "",
+                                                    "disciplina_snii": ""
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "nombre_unidad": "Unidad Zacatecas",
+                    "descripción_unidad": "Centro de Investigación en Matemáticas A.C. a Unidad Zacatecas del Centro de Investigación en Matemáticas A. C. (CIMAT) se dedica a la generación, transmisión y aplicación de conocimientos científicos y tecnológicos. Cuenta con personal especializado en diversas áreas de Ingeniería de Software (como el aseguramiento de software, interacción humano-computadora, mejora de procesos e Ingeniería de Software para Inteligencia Artificial) y de Robótica (como control automático, planificación de movimiento, navegación autónoma, inteligencia artificial e interacción humano-robot).",
+                    "dirección_postal": "98160 ",
+                    "latitud": 22.78567114517114,
+                    "longitud": -102.61368383068236,
+                    "departamentos": [
+                        {
+                            "departamento": "Cómputo Científico y Machine Learning",
+                            "descripción_departamento": "Su enfoque incluye la investigación, desarrollo y aplicación de algoritmos y modelos para el análisis de datos, la predicción y la toma de decisiones en una variedad de campos.",
+                            "áreas": [
+                                {
+                                    "área": "Cómputo Científico",
+                                    "descripción_del_área": "Analiza y extrae conocimiento de grandes volúmenes de datos.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Interacción Humano-Robot",
+                                            "descripción": "Se busca formar estudiantes capaces de realizar investigación original, aplicada y de calidad en el reconocimiento automatizado de fenómenos humanos en su interacción con robots a través de ambientes de prueba y simulaciones virtuales para la resolución de problemas científicos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ciencias e Ingeniería de la Computación"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Tendencias y Aplicaciones en Ingeniería de Software",
+                                            "descripción": "Tiene por objetivo brindar conocimiento requerido, para la generación y/o aplicación de métodos, técnicas, herramientas y buenas prácticas de seguridad y calidad aplicados al software. De esta manera la Ingeniería de Software es analizada con base a normas internacionales de calidad y en mejores prácticas de la industria del software.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ciencias e Ingeniería de la Computación"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Robótica",
+                                            "descripción": "Diseño y desarrollo de sistemas automáticos y autónomos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ciencias e Ingeniería de la Computación"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Aplicaciones de Inteligencia Artificial a la Ingeniería de Software",
+                                            "descripción": "Tiene el objetivo de estudiar, diseñar, desarrollar, implementar y evaluar iniciativas mixtas del comportamiento humano con la tecnología, y cómo estas pueden resolver desafíos en la investigación en la industria, educación y asistencia médica.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ciencias e Ingeniería de la Computación"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "redes_sociales": [
+                {
+                    "red": "Facebook",
+                    "identificador": "https://www.facebook.com/CIMATMexico",
+                    "activa": true,
+                    "propósito": "difusión científica"
+                },
+                {
+                    "red": "YouTube",
+                    "identificador": "https://www.youtube.com/c/CIMAT",
+                    "activa": true,
+                    "propósito": "difusión científica"
+                },
+                {
+                    "red": "Instagram",
+                    "identificador": "https://www.instagram.com/cimatoficial/",
+                    "activa": true,
+                    "propósito": "difusión científica"
+                },
+                {
+                    "red": "X",
+                    "identificador": "https://x.com/cimatoficial",
+                    "activa": true,
+                    "propósito": "difusión científica"
+                },
+                {
+                    "red": "LinkedIn",
+                    "identificador": "https://www.linkedin.com/company/cimat/",
+                    "activa": true,
+                    "propósito": "difusión científica"
+                }
+            ]
+        }
+    ]
+}
