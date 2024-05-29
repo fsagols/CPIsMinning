@@ -1,0 +1,360 @@
+{
+    "cpis": [
+        {
+            "nombre_cpi": "Centro de Investigación en Materiales Avanzados",
+            "siglas_cpi": "Cimav",
+            "descripción_breve": "El Centro de Investigación en Materiales Avanzados, Cimav, es una de las 26 instituciones coordinadas por el Consejo Nacional de Humanidades, Ciencias y Tecnologías, Conahcyt. Fue creado el 25 de octubre de 1994 en la ciudad de Chihuahua, Chihuahua, lugar donde se encuentra ubicada su sede.",
+            "descripción": "La institución cuenta con dos subsedes localizadas en Monterrey, Nuevo León, y en Durango, Durango, además de una oficina de representación establecida en Ciudad Juárez, Chihuahua.Dentro de las áreas de su competencia están materiales, energía y medio ambiente.",
+            "misión": "Realizar investigación científica, desarrollo tecnológico, innovación y formación de recursos humanos con criterios de excelencia, en las áreas de Materiales, Energía y Medio Ambiente, para contribuir a impulsar el desarrollo sustentable del país.",
+            "visión": "Ser un centro de clase mundial que eleve el nivel científico, tecnológico y de innovación del ámbito regional y nacional, en las áreas de Materiales, Energía y Medio Ambiente.",
+            "titular": "Dra. Leticia M. Torres Guerra",
+            "fecha_designación_titular": "2019-12-06",
+            "grado_académico_titular": "Doctorado",
+            "especialidad_titular": "n Materiales Cerámicos Avanzados",
+            "origen": "Monterrey, Nuevo Leon",
+            "fecha_creación": "1994-10-10",
+            "historia_establecimiento": "",
+            "contexto_histórico": "El Centro de Investigación en Materiales Avanzados (CIMAV) fue creado en respuesta a las necesidades de los sectores productivos del estado de Chihuahua, México. Su fundación, el 10 de octubre de 1994, marcó el inicio de una institución dedicada a la investigación y desarrollo en nanotecnología y ciencia de materiales. CIMAV se estableció con el objetivo de impulsar la innovación tecnológica y fomentar la colaboración entre la academia y la industria, ofreciendo infraestructura avanzada y recursos humanos especializados para atender las demandas nacionales e internacionales en estas áreas científicas y tecnológicas",
+            "tipo_entidad_legal": "Pública",
+            "figura_jurídica": "Sociedad Civil",
+            "marco_normativo": "se rige por un marco normativo que incluye las leyes y regulaciones aplicables a las instituciones de investigación y educación superior en México. Entre estas normas se encuentran la Ley de Ciencia y Tecnología, la Ley Orgánica del Consejo Nacional de Ciencia y Tecnología (CONACYT), y las disposiciones fiscales y administrativas pertinentes para su operación como Sociedad Civil (S.C.).",
+            "presupuesto": [
+                {
+                    "año": 2020,
+                    "monto": 228723816
+                },
+                {
+                    "año": 2021,
+                    "monto": 225132571
+                },
+                {
+                    "año": 2022,
+                    "monto": 228089628
+                },
+                {
+                    "año": 2023,
+                    "monto": 240033589
+                }
+            ],
+            "programas_académicos": [
+                {
+                    "programa": "Posgrado",
+                    "disciplinas": [
+                        {
+                            "area_sni": "Doctorado en Ciencia de Materiales",
+                            "campo_sni": "",
+                            "disciplina_sni": ""
+                        },
+                        {
+                            "area_sni": "Doctorado en Ciencia y Tecnología Ambiental",
+                            "campo_sni": "",
+                            "disciplina_sni": ""
+                        },
+                        {
+                            "area_sni": "Doctorado en Nanociencia y Nanotecnología",
+                            "campo_sni": "",
+                            "disciplina_sni": ""
+                        },
+                        {
+                            "area_sni": "Maestría en Ciencia de Materiales",
+                            "campo_sni": "",
+                            "disciplina_sni": ""
+                        },
+                        {
+                            "area_sni": "Maestría en Ciencia y Tecnología Ambiental",
+                            "campo_sni": "",
+                            "disciplina_sni": ""
+                        }
+                    ],
+                    "nivel": "maestría",
+                    "modalidad": "regular",
+                    "vía": "presencial"
+                }
+            ],
+            "unidades": [
+                {
+                    "nombre_unidad": "Subsede Durango",
+                    "descripción_unidad": "La Subsede Durango del Cimav se localiza en la capital de ese estado del país para dar respuesta a los requerimientos energéticos y ambientales de la región. Desde el punto de vista geográfico, está ubicada estratégicamente en esa entidad por ser una zona con alta radiación solar, semiárida y con escases de agua.",
+                    "dirección_postal": "Calle CIMAV #110 Ejido Arroyo Seco Durango, Dgo. México. C.P. 34147",
+                    "latitud": 23.99178379568757,
+                    "longitud": -104.72638816919046,
+                    "departamentos": [
+                        {
+                            "departamento": "Energía y Medio Ambiente",
+                            "descripción_departamento": "Esta subsede enfoca sus actividades al desarrollo de proyectos de investigación con criterios de excelencia en las áreas de Energía y Medio Ambiente, su objetivo es impulsar el desarrollo sustentable del país.",
+                            "áreas": [
+                                {
+                                    "área": "INGENIERÍA Y TECNOLOGÍAINGENIERÍA Y TECNOLOGÍA",
+                                    "descripción_del_área": "Consorcio del Agua",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "su objetivo es impulsar el desarrollo sustentable del país.",
+                                            "descripción": "Brinda soluciones tecnológicas y de innovación a los sectores productivo, académico y social mediante servicios, asesorías, consultas y generación de desarrollo tecnológico.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Tecnología",
+                                                    "campo_sni": "Ciencia y Tecnología del Agua",
+                                                    "disciplina_sni": "Gestión Sustentable del Agua"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "nombre_unidad": "Subsede Chihuahua",
+                    "descripción_unidad": "En el Cimav se realiza investigación, desarrollo e innovación de ciencia y tecnología con criterios de excelencia en las áreas de materiales, energía y medio ambiente para impulsar el desarrollo sustentable del país.",
+                    "dirección_postal": "Av. Miguel de Cervantes #120 Complejo Industrial Chihuahua Chihuahua, Chih. México. C.P. 31136",
+                    "latitud": 28.71649713128033,
+                    "longitud": -106.13395267989361,
+                    "departamentos": [
+                        {
+                            "departamento": "Departamento de Física de Materiales",
+                            "descripción_departamento": "El estudio de la estructura y las propiedades electromagnéticas de los materiales multiescala es la temática general que define las actividades de este departamento",
+                            "áreas": [
+                                {
+                                    "área": "Física de Materiales",
+                                    "descripción_del_área": "Su objetivo es realizar la investigación completa de las propiedades físicas de los materiales mediante la búsqueda, diseño, caracterización e implementación.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Propiedades electromagnéticas de materiales",
+                                            "descripción": "Investigación sobre la estructura y las propiedades electromagnéticas de materiales a diferentes escalas.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ciencias Físico-Matemáticas y Ciencias de la Tierra",
+                                                    "campo_sni": "Ciencias Físicas",
+                                                    "disciplina_sni": "Física Aplicada"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "departamento": "Departamento de Ingeniería y Química de Materiales",
+                            "descripción_departamento": "Una de las principales funciones de este departamento es fomentar la investigación de frontera.",
+                            "áreas": [
+                                {
+                                    "área": "Ingeniería y Tecnología",
+                                    "descripción_del_área": "Los proyectos cuentan con una sólida base de conocimiento científico y tecnológico generado por sus propios especialistas pero también son factibles de escalarse a nivel industrial.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Investigación de Materiales",
+                                            "descripción": "Desarrollo y caracterización de nuevos materiales con aplicaciones industriales.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Tecnología",
+                                                    "campo_sni": "Ciencia y Tecnología de Materiales",
+                                                    "disciplina_sni": "Ciencia y Tecnología de Polímeros"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "departamento": "Departamento de Metalurgia e Integridad Estructural",
+                            "descripción_departamento": "Los especialistas de este departamento realizan proyectos de investigación básica y aplicada relacionados con temáticas que van desde el estudio del efecto de composición química, microestructural y de propiedades mecánicas de materiales relacionadas a sus rutas de procesamiento hasta el desarrollo de nuevas aleaciones nanoestructuradas con potencial aplicación en diversos tipos de industrias, así como en la selección de materiales para aplicaciones específicas.",
+                            "áreas": [
+                                {
+                                    "área": "Ingeniería y Tecnología",
+                                    "descripción_del_área": "Los proyectos cuentan con una sólida base de conocimiento científico y tecnológico generado por sus propios especialistas pero también son factibles de escalarse a nivel industrial.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Metalurgia e Integridad Estructural",
+                                            "descripción": "Investigación sobre el efecto de la composición química, microestructural y de propiedades mecánicas de materiales, desarrollo de nuevas aleaciones y selección de materiales para aplicaciones específicas.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Tecnología",
+                                                    "campo_sni": "Ingeniería Metalúrgica",
+                                                    "disciplina_sni": "Integridad y Corrosión de Materiales"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "departamento": "Departamento de Medio Ambiente y Energía",
+                            "descripción_departamento": "Este departamento se dedica a la investigación y desarrollo en las áreas de energía renovable y medio ambiente, enfocándose en la mitigación del cambio climático, la gestión ambiental y el desarrollo sostenible.",
+                            "áreas": [
+                                {
+                                    "área": "Ciencias Ambientales",
+                                    "descripción_del_área": "La investigación en esta área se centra en la gestión ambiental, la conservación de ecosistemas y la seguridad hídrica, entre otros temas relacionados.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Mitigación y Adaptación al Cambio Climático",
+                                            "descripción": "Desarrollo de estrategias y tecnologías para reducir los impactos del cambio climático y mejorar la resiliencia de los sistemas naturales y humanos.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ciencias Ambientales",
+                                                    "campo_sni": "Mitigación y Adaptación al Cambio Climático",
+                                                    "disciplina_sni": "Gestión Ambiental para la Sustentabilidad"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "nombre_unidad": "Subsede Monterrey",
+                    "descripción_unidad": "El Cimav Subsede Monterrey se ubica estratégicamente dentro del Parque de Investigación e Innovación Tecnológica (PIIT), complejo científico y tecnológico de cuarta generación basado en el modelo de triple hélice (alianza Gobierno-Academia-Empresa). El PIIT alberga 8 instituciones de educación superior (nacionales y extranjeras), 24 centros de investigación (10 públicos y 14 privados) y 2 incubadoras. El PIIT es un ecosistema especializado en I+D+i que impulsa la economía del conocimiento.",
+                    "dirección_postal": "Av. Alianza Norte #202 Parque de Investigación e Innovación Tecnológica Apodaca, Nuevo León, México. C.P. 66600",
+                    "latitud": 25.7833,
+                    "longitud": -100.1915,
+                    "departamentos": [
+                        {
+                            "departamento": "NANOESTRUCTURAS Y NANOCOMPUESTOS POLIMÉRICOS",
+                            "descripción_departamento": "Las principales competencias dentro de esta área de investigación son la experiencia de sus integrantes en la síntesis y obtención física y química de nanoestructuras, así como la modificación de sus propiedades. Este campo de estudio abre las puertas a diferentes aplicaciones dentro de los sectores medioambiente, energía y automotriz. Es por ello que los investigadores del área de nanoestructuras y nanocompuestos poliméricos se dedican al estudio de las características de estos materiales.",
+                            "áreas": [
+                                {
+                                    "área": "Ingeniería y Tecnología",
+                                    "descripción_del_área": "Los proyectos en esta área se centran en la investigación y desarrollo de nanocompuestos poliméricos y nanoestructuras con aplicaciones industriales y medioambientales.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Nanocompuestos Poliméricos y Nanoestructuras",
+                                            "descripción": "Estudio y desarrollo de nanoestructuras y nanocompuestos poliméricos para mejorar sus propiedades y ampliar sus aplicaciones en diversos sectores.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Tecnología",
+                                                    "campo_sni": "Nanociencias y Nanotecnologías",
+                                                    "disciplina_sni": "Materiales Nanoestructurados"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "departamento": "Área de Física y Química Computacional",
+                            "descripción_departamento": "Este grupo interdisciplinario de investigadores se concentra en estudios teóricos y computacionales de un amplio rango de estructuras de escala atómica y escala nanométrica, empezando con la naturaleza de los enlaces de los átomos hasta los estudios de las propiedades de varios tipos de nano-partículas.",
+                            "áreas": [
+                                {
+                                    "área": "Ciencias Físico-Matemáticas y Ciencias de la Tierra",
+                                    "descripción_del_área": "Investigación teórica y computacional en física y química, enfocada en la comprensión de las propiedades de materiales a nivel atómico y nanométrico.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Física y Química Computacional",
+                                            "descripción": "Estudios sobre la naturaleza de los enlaces atómicos y las propiedades de nano-partículas utilizando métodos teóricos y computacionales.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ciencias Físico-Matemáticas y Ciencias de la Tierra",
+                                                    "campo_sni": "Física Teórica",
+                                                    "disciplina_sni": "Físicoquímica"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "área": "Ingeniería y Tecnología",
+                            "descripción_del_área": "Investigación y desarrollo de recubrimientos avanzados y tecnologías metalúrgicas aplicables en diversas industrias.",
+                            "líneas_investigación": [
+                                {
+                                    "línea": "Recubrimientos Avanzados",
+                                    "descripción": "Desarrollo y caracterización de recubrimientos avanzados para mejorar las propiedades de superficies en aplicaciones industriales.",
+                                    "disciplinas": [
+                                        {
+                                            "area_sni": "Ingeniería y Tecnología",
+                                            "campo_sni": "Ciencia y Tecnología de Materiales",
+                                            "disciplina_sni": "Recubrimientos y Superficies"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "línea": "Metalurgia",
+                                    "descripción": "Investigación en procesos metalúrgicos y desarrollo de nuevas aleaciones para aplicaciones específicas.",
+                                    "disciplinas": [
+                                        {
+                                            "area_sni": "Ingeniería y Tecnología",
+                                            "campo_sni": "Ingeniería Metalúrgica",
+                                            "disciplina_sni": "Integridad y Corrosión de Materiales"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "departamento": "Área de Química de Materiales, Polímeros y Surfactantes",
+                    "descripción_departamento": "El área de Química de Materiales cuenta con profesores-investigadores especializados en Química Coloidal, Sistemas Surfactantes, Síntesis y Procesamiento de Polímeros, Electroquímica, Fotocatálisis, Impresión 3D/4D de Polímeros y Nanocompósitos, Síntesis y Modificación Química (Funcionalización) de Nanopartículas y Nano/Superestructuras, Grafeno, Óxido de Grafeno, Macromoléculas, Formulaciones Nanotecnológicas para Liberación Controlada, así como en Metodologías Avanzadas de Caracterización, entre otras.",
+                    "áreas": [
+                        {
+                            "área": "Química",
+                            "descripción_del_área": "Investigación y desarrollo en química de materiales, polímeros y surfactantes, enfocada en aplicaciones avanzadas y caracterización de materiales.",
+                            "líneas_investigación": [
+                                {
+                                    "línea": "Química de Polímeros y Nanocompuestos",
+                                    "descripción": "Estudios en la síntesis, procesamiento y caracterización de polímeros y nanocompuestos para aplicaciones industriales y tecnológicas.",
+                                    "disciplinas": [
+                                        {
+                                            "area_sni": "Química",
+                                            "campo_sni": "Química de Polímeros",
+                                            "disciplina_sni": "Síntesis y Caracterización de Polímeros"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "línea": "Surfactantes y Química Coloidal",
+                                    "descripción": "Investigación en sistemas surfactantes y química coloidal, enfocada en sus propiedades y aplicaciones en diferentes sectores.",
+                                    "disciplinas": [
+                                        {
+                                            "area_sni": "Química",
+                                            "campo_sni": "Química Fisicoquímica",
+                                            "disciplina_sni": "Química Coloidal y de Superficies"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "redes_sociales": [
+        {
+            "red": "Facebook",
+            "identificador": "https://www.facebook.com/gobmexico",
+            "activa": false,
+            "propósito": "difusión científica"
+        },
+        {
+            "red": "X",
+            "identificador": "https://x.com/GobiernoMX",
+            "activa": false,
+            "propósito": "difusión científica"
+        },
+        {
+            "red": "Youtube",
+            "identificador": "https://www.youtube.com/@cimav",
+            "activa": false,
+            "propósito": "difusión científica"
+        },
+        {
+            "red": "linkedin",
+            "identificador": "https://www.linkedin.com/company/cimavmx/",
+            "activa": false,
+            "propósito": "difusión científica"
+        },
+        {
+            "red": "instagram",
+            "identificador": "https://www.instagram.com/cimav.mx",
+            "activa": false,
+            "propósito": "difusión científica"
+        }
+    ]
+}
