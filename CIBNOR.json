@@ -1,0 +1,515 @@
+{
+    "cpis": [
+        {
+            "nombre_cpi": "Centro de Investigaciones Biologícas del Noroeste,S.C.",
+            "siglas_cpi": "CIBNOR",
+            "descripción_breve": "Es un centro de investigación mexicano reconocido pos sus estudios en biologia marina y acuicultura en el noroeste de México.",
+            "descripción": "Realiza actividades de investigación básica y aplicada orientadas a la solución de problemas relacionados con el uso, manejo y conservación de los recursos naturales, para promover el desarrollo sustentable a nivel local, regional y nacional.",
+            "misión": "Contribuir con responsabilidad social para llevar a México a su máximo potencial mediante la generación y divulgación de conocimiento de frontera, la innovación y la formación de científicos y expertos en el campo de las ciencias biológicas y en el uso, manejo y preservación de los recursos naturales.",
+            "visión": "Ser el Centro Público de Investigación de mayor contribución e impacto al desarrollo sustentable, social, económico, y ambiental, especialmente en el Noroeste de México y que aporte al bienestar sostenible de la sociedad mexicana, especialmente en sus sectores menos favorecidos y más vulnerables.",
+            "titular": "Dr. Alfredo Ortega Rubio.",
+            "fecha_designación_titular": "30 de agosto de 2019.",
+            "grado_académico_titular": "Doctorado",
+            "especialidad_titular": "Especialista en Ecología por el Instituto Politécnico Nacional.",
+            "origen": "Surgió con el objetivo de promover la investigación científica en el área de las ciencias biológicas, particularmente en el noroeste de México, enfocándose en temas como la biología marina, la acuicultura y la conservación del medio ambiente.",
+            "fecha_creación": "1976-12-17",
+            "historia_establecimiento": "CIBNOR fue fundado en 1975 como parte de una iniciativa del gobierno mexicano para impulsar la investigación científica y el desarrollo tecnológico en las regiones del noroeste del país. Su creación se inscribe en un contexto de creciente interés por el desarrollo sostenible y la conservación de los recursos naturales en áreas que son ricas en biodiversidad pero que también enfrentan presiones ambientales significativas.",
+            "contexto_histórico": "Durante la década de 1970, México atravesaba un periodo de importantes transformaciones económicas y sociales. El país estaba en proceso de industrialización y urbanización, lo que generaba una mayor demanda de investigación científica para abordar problemas relacionados con el uso sostenible de los recursos naturales, la agricultura, la pesca y la protección del medio ambiente. En este contexto, el gobierno mexicano decidió establecer centros de investigación en diversas regiones estratégicas del país, con el fin de descentralizar la producción de conocimiento y fomentar el desarrollo regional. El noroeste de México, con su vasto litoral y sus ricos ecosistemas marinos y terrestres, fue identificado como una zona clave para la investigación biológica y ecológica.",
+            "tipo_entidad_legal": "Entidad paraestatal sectorizada",
+            "figura_jurídica": "Sociedad Civil",
+            "marco_normativo": [
+                {
+                    "ley_o_instrumento_jurídico": "Ley Orgánica de la Administración Pública Federal"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "Ley Federal de las Entidades Paraestatales"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "Ley de Ciencia y Tecnología"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "Ley para Impulsar el Incremento Sostenido de la Productividad y la Competitividad de la Economía Nacional"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "Manual de Organización General del Centro de Investigaciones Biológicas del Noroeste, S.C."
+                }
+            ],
+            "presupuesto": [
+                {
+                    "año": 2020,
+                    "total": 509980417,
+                    "recursos_fiscales": 0,
+                    "recursos_propios": 0
+                },
+                {
+                    "año": 2021,
+                    "total": 519683544,
+                    "recursos_fiscales": 0,
+                    "recursos_propios": 0
+                },
+                {
+                    "año": 2022,
+                    "total": 528609284,
+                    "recursos_fiscales": 0,
+                    "recursos_propios": 0
+                },
+                {
+                    "año": 2023,
+                    "total": 557819251,
+                    "recursos_fiscales": 0,
+                    "recursos_propios": 0
+                },
+                {
+                    "año": 2024,
+                    "total": 575736786,
+                    "recursos_fiscales": 560873077,
+                    "recursos_propios": 14863709
+                }
+            ],
+            "programas_académicos": [
+                {
+                    "programa": "Maestría en ciencias: uso, manejo y preservación de los recursos naturales (UMPRN).",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Biología y Química",
+                            "campo_snii": "Ciencias Ambientales",
+                            "disciplina_snii": "Biosistemática y Manejo de los Recursos Naturales"
+                        }
+                    ],
+                    "nivel": "maestría",
+                    "modalidad": "regular",
+                    "vía": "presencial"
+                },
+                {
+                    "programa": "Doctorado en ciencias en el uso, manejo y preservación de los recursos naturales (UMPRN).",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Biología y Química",
+                            "campo_snii": "Ciencias Ambientales",
+                            "disciplina_snii": "Biosistemática y Manejo de los Recursos Naturales"
+                        }
+                    ],
+                    "nivel": "doctorado",
+                    "modalidad": "regular",
+                    "vía": "presencial"
+                },
+                {
+                    "programa": "Doctorado en Ciencias en Bioeconomía Pesquera y Acuícola (BPA)",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Ciencias Agropecuarias y Biotecnología",
+                            "campo_snii": "Pesca",
+                            "disciplina_snii": "Bioeconomia Pesquera y Acuicola"
+                        }
+                    ],
+                    "nivel": "doctorado",
+                    "modalidad": "regular",
+                    "vía": "presencial"
+                },
+                {
+                    "programa": "Taller: Planeación sistemática de la conservación",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Biología y Química",
+                            "campo_snii": "Ciencias Ambientales",
+                            "disciplina_snii": "Conservación de Ecosistemas"
+                        }
+                    ],
+                    "nivel": "educación continua",
+                    "modalidad": "profesionalizante",
+                    "vía": "en línea"
+                },
+                {
+                    "programa": "Curso: Acoplamiento molecular",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Biología y Química",
+                            "campo_snii": "Ciencias Ambientales",
+                            "disciplina_snii": "Ecología Molecular"
+                        }
+                    ],
+                    "nivel": "educación continua",
+                    "modalidad": "profesionalizante",
+                    "vía": "en línea"
+                },
+                {
+                    "programa": "Curso: TIC, metaverso e inteligencia artificial (IA) en la educación superior",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Ingeniería y Tecnología",
+                            "campo_snii": "Ingeniería y Tecnología",
+                            "disciplina_snii": "Inteligencia Artificial"
+                        }
+                    ],
+                    "nivel": "educación continua",
+                    "modalidad": "profesionalizante",
+                    "vía": "en línea"
+                },
+                {
+                    "programa": "Curso: Identificación de arácnidos de importancia médica toxicológica de México (4ª edición)",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Biología y Química",
+                            "campo_snii": "Ciencias Biomédicas",
+                            "disciplina_snii": "Toxicología"
+                        }
+                    ],
+                    "nivel": "educación continua",
+                    "modalidad": "profesionalizante",
+                    "vía": "mixta"
+                },
+                {
+                    "programa": "Curso: Más allá de las secuencias: Análisis de datos de secuenciación masiva con STACKS",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Biología y Química",
+                            "campo_snii": "Ciencias Biomédica",
+                            "disciplina_snii": "Bioinformática"
+                        }
+                    ],
+                    "nivel": "educación continua",
+                    "modalidad": "profesionalizante",
+                    "vía": "en línea"
+                }
+            ],
+            "unidades": [
+                {
+                    "nombre_unidad": "Unidad Guerrero Negro",
+                    "descripción_unidad": "Promover el desarrollo agrícola y pecuario sostenible en zonas áridas y semiáridas, prioritariamente de la región noroeste del país.",
+                    "dirección_postal": "23940",
+                    "latitud": 27.9685,
+                    "longitud": 114.0367,
+                    "departamentos": [
+                        {
+                            "departamento": "Guerrero Negro",
+                            "descripción_departamento": "Sus objetivos se enfocan a realizar con excelencia actividades de investigación científica e innovación tecnológica orientadas a la solución de problemas relacionados con el uso y manejo de los recursos naturales, para promover el desarrollo agrícola y pecuario sostenible en zonas áridas y semiáridas, prioritariamente de la región noroeste del país.",
+                            "áreas": [
+                                {
+                                    "área": "Guerrero Negro",
+                                    "descripción_del_área": "Conseguir un manejo agropecuario efectivo en una zona árida es un reto muy grande para las autoridades gubernamentales, fuentes de financiamiento y centros de investigación. En este contexto, la Unidad Guerrero Negro está realizando investigación para proporcionar información científicamente sustentada y proponer modelos de manejo del sector agropecuario, principalmente en áreas ecológicamente protegidas para un desarrollo económico-social efectivo sin impactos negativos sobre el medio ambiente.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Entrenamiento de actividades agrícolas en suelos salinos y secos de Guerrero Negro, Baja california Sur, México.",
+                                            "descripción": "Promueve los procesos de aprendizaje que en el futuro podrán mejoran la repuestas de la comunidad a la problemática ambiental que se espera en el contexto de la llegada del cambio climático en las zonas áridas de México. Se investiga y se aplican diversas técnicas de enseñanza que se basan en los principios de conocer en el medio, conocer sobre el medio y conocer a favor del medio.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Biología y Química",
+                                                    "campo_snii": "Ciencias Ambientales",
+                                                    "disciplina_snii": "Ecología Marina"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Capacitación Técnico-Ambiental de familias con carencia alimentaria agravada por la pandemia de COVID-19 en la operación de módulos hidropónicos de bajo costo para producción de frutas y verduras en La Reserva de la Biosfera El Vizcaíno.",
+                                            "descripción": "Implementar un plan piloto de capacitación para el establecimiento de módulos hidropónicos de bajo costo que contemplen el uso eficiente del agua, espacio e integración familiar para la producción de frutas y verduras que reduzcan la inseguridad alimentaria de familias que viven en condiciones de pobreza agravada por la crisis económica ocasionada por la pandemia de COVID-19 en La Reserva de la Biosfera El Vizcaíno.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Biología y Química",
+                                                    "campo_snii": "Ciencias Ambientales",
+                                                    "disciplina_snii": "Gestión Ambiental para la Sustentabilidad"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Experimento con Vegetales en El Centro de Investigaciones Biologicas del Noroeste, Unidad Guerrero Negro, B.C.S.",
+                                            "descripción": "Como parte de la colaboración con la Universidad de Tottori Japón, investigadores de la Universidad de Tottori realizaron una propuesta de investigación para realizarse en el Centro de Investigaciones Biológicas del Noroeste, Unidad Guerrero Negro, cuyo principal objetivo es evaluar el ahorro y aprovechamiento del agua y fertilizantes en cultivos establecidos en un sistema NTF modificado en diversos contenedores, empleando como sustratos arena y humus de lombriz mezclado con yeso fortificado.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Biología y Química",
+                                                    "campo_snii": "Biología",
+                                                    "disciplina_snii": "Biotecnología Vegetal"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "nombre_unidad": "Unidad Guaymas",
+                    "descripción_unidad": "Unidad del CIBNOR en Guaymas dedicada a la investigación científica, formación de capital humano, divulgación de la ciencia a la sociedad y vinculación con sectores productivos y gubernamentales.",
+                    "dirección_postal": "85400",
+                    "latitud": -110.9450853,
+                    "longitud": 27.9340699,
+                    "departamentos": [
+                        {
+                            "departamento": "Unidad Guaymas",
+                            "descripción_departamento": "Generamos conocimiento para dar solución a problemas de origen local y regional con incidencia en temas de ecología pesquera, acuicultura y gestión de la zona costera.",
+                            "áreas": [
+                                {
+                                    "área": "Programa de Ecología Pesquera",
+                                    "descripción_del_área": "Con nuevos enfoques metodológicos en la investigación pesquera, proponemos el uso racional y eficiente de estos recursos, midiendo el impacto de la actividad en los principales ecosistemas marinos, especialmente del Noroeste del país.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Efectos de la Pesca en Sistemas Socioambientales",
+                                            "descripción": "A pesar de su gran importancia como generadora de alimentos y promotora de empleos y divisas, la pesca puede influir en los ecosistemas generando cambios, alterando la trama trófica, los tamaños de las poblaciones que ahí habitan y, finalmente, poniendo en riesgo la estabilidad de los mismos. Es por ello que es necesaria una ordenación pesquera basada en el ecosistema, con un enfoque en la gestión de los efectos indirectos de la pesca en un amplio conjunto de factores ecológicos, económicos y sociales en la toma de decisiones, tanto tácticas como estratégicas.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Agropecuarias y Biotecnología",
+                                                    "campo_snii": "Pesca",
+                                                    "disciplina_snii": "Pesca y Pisicicultura"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Exploración, Dimensionamiento y Desarrollo Sustentable de Nuevas Pesquerías.",
+                                            "descripción": "Las poblaciones explotadas a niveles biológicamente insostenibles aumento y paso del 10 % en 1974 al 35,4 % en 2019. Las poblaciones infraexplotadas representaron solo el 7,2 % del número total de poblaciones evaluadas en 2019. Lo anterior habla de una fuerte presión sobre los recursos pesqueros plenamente explotados, en concordancia con la creciente demanda de alimentos por la población humana.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Agropecuarias y Biotecnología",
+                                                    "campo_snii": "Pesca",
+                                                    "disciplina_snii": "Pesca y Pisicicultura"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Variabilidad y Vulnerabilidad de Ecosistemas Marinos.",
+                                            "descripción": "En la línea estratégica “Variabilidad y Vulnerabilidad de Ecosistemas Marinos” se realizan diversas investigaciones con la finalidad de analizar cómo la variabilidad ambiental, el cambio climático y la actividad humana impactan a los ecosistemas marinos y sus recursos y con ello comprender las posibles respuestas de dichos ecosistemas y sus recursos ante cambios ambientales e impactos humanos y, en su caso, generar escenarios orientados a la toma de decisiones para la preservación de los ecosistemas marinos, así como el mejor aprovechamiento futuro de los recursos en la región noroeste del país, principalmente.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Biología y Química",
+                                                    "campo_snii": "Ciencias Ambientales",
+                                                    "disciplina_snii": "Conservación de Ecosistemas"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Maximización del Valor Económico de Productos Pesqueros.",
+                                            "descripción": "La pesca artesanal es una actividad humana arraigada en tradiciones milenarias, que representa la conexión íntima entre las comunidades costeras y sus entornos marinos. Durante miles de años, la producción pesquera ha sostenido a grupos poblacionales itinerantes y pequeñas sociedades humanas asentadas en las orillas de esteros, caletas, barras, lagunas, desembocaduras de ríos, costas marinas, etcétera.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Agropecuarias y Biotecnología",
+                                                    "campo_snii": "Pesca",
+                                                    "disciplina_snii": "Pesca y Pisicicultura"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Recuperación, Ordenamiento y Sustentabilidad de Pesquerías.",
+                                            "descripción": "La línea tiene como misión investigar la biología básica de los organismos que se capturan, la dinámica de los ambientes donde habitan y los diferentes componentes del sistema pesquero, desde la captura y el manejo hasta la modelación bioeconómica, para contribuir con información técnica robusta, tanto a la toma de decisiones por parte de la autoridad pesquera, como a la planeación de la inversión y las estrategias de desarrollo del sector productivo.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Agropecuarias y Biotecnología",
+                                                    "campo_snii": "Pesca",
+                                                    "disciplina_snii": "Pesca y Pisicicultura"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": " Programa de Acuicultura",
+                                    "descripción_del_área": "El programa de investigación en acuicultura es uno de los más grandes, en términos de infraestructura y recursos humanos, con mayor experiencia en América Latina y se encuentra a la vanguardia en investigación para la mejora de tecnología para el cultivo de organismos acuáticos, impulso a la producción de especies con alto valor nutritivo, económico y ecológico.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Biotecnología en Plancton",
+                                            "descripción": "La Línea de Biotecnología en Plancton (LBP) esta integrada por seis investigadores, dos técnicos y sus estudiantes de pre y posgrado que trabajan con macroalgas, microalgas,zooplancton y bacterias en temas de ciencia básica y aplicada.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Agropecuarias y Biotecnología",
+                                                    "campo_snii": "Pesca",
+                                                    "disciplina_snii": "Biotecnología Pesquera y Acuicola"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Biología y Desarrollo de Tecnologías para el Cultivo de Moluscos",
+                                            "descripción": "La línea de Biología y Cultivo de Moluscos está integrada por nueve investigadores y once técnicos, los cuales realizan, junto con estudiantes de pregrado y posgrado, investigación científica multidisciplinaria y desarrollo tecnológico de frontera.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Agropecuarias y Biotecnología",
+                                                    "campo_snii": "Pesca",
+                                                    "disciplina_snii": "Biotecnología Pesquera y Acuicola"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Biología y Desarrollo de Tecnologías para el Cultivo de Crustáceos",
+                                            "descripción": "La Línea Estratégica de Biología y Desarrollo de Tecnologías para el Cultivo de Crustáceos tiene como principal objetivo el generar conocimientos básicos y aplicados sobre la Biología de las especies de crustáceos en nuestro país y el desarrollo de tecnologías de cultivo innovadoras, dirigidas a apoyar y consolidar la camaronicultura en México. Asimismo, desarrollamos el cultivo de especies alternativas, tales como langostinos y otros crustáceos de agua dulce.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Agropecuarias y Biotecnología",
+                                                    "campo_snii": "Pesca",
+                                                    "disciplina_snii": "Biotecnología Pesquera y Acuicola"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Biología y Desarrollo de Tecnologías para el Cultivo de Peces",
+                                            "descripción": "La línea de peces está conformada por 7 investigadores, 3 cátedras y 7 técnicos. El objetivo es desarrollar a escala piloto la tecnología para el cultivo de peces marinos y apoyar a las empresas y pequeños acuicultores a lograr la escala comercial. Se involucra las áreas de nutrición en larvas, juveniles y adultos (probióticos, enzimas digestivas, técnicas transcriptómicas y genómica funcional en diferenciación, crecimiento, salud y digestión), fisiología de la reproducción (manejo del ciclo de maduración, inducción hormonal y primera madurez,) patología con énfasis en inmunología, parasitología y patogénesis microbiana; genética (manejo de reproductores y estudios poblacionales).",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Agropecuarias y Biotecnología",
+                                                    "campo_snii": "Pesca",
+                                                    "disciplina_snii": "Biotecnología Pesquera y Acuicola"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": " Programa de Planeación Ambiental y Conservación",
+                                    "descripción_del_área": "El Programa de Planeación Ambiental y Conservación tiene por misión: Coadyuvar a la conservación del ambiente y al desarrollo sostenible, mediante la generación de conocimiento de frontera, la formación de recursos humanos especializados y la vinculación, aportando soluciones para el manejo racional de los recursos naturales en beneficio de la sociedad.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Procesos Ecosistémicos y Servicios Ambientales",
+                                            "descripción": "Los ecosistemas se componen de organismos (microbios, plantas y animales) con interacciones mutuas e interacciones entre ellos y su entorno. Proveen Servicios Ambientales, reconocibles por los múltiples beneficios que la Naturaleza ofrece a las poblaciones humanas. Evidencia científica demuestra que la fuente de degradación de muchos ecosistemas, y por consecuencia de los beneficios que estos ofrecen, tiene su origen en actividades antrópicas.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Biología y Química",
+                                                    "campo_snii": "Ciencias Ambientales",
+                                                    "disciplina_snii": "Gestión Ambiental"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Una Salud",
+                                            "descripción": "Una Salud es un concepto que han adoptado entidades e instituciones de todo el mundo. De acuerdo con la alianza cuatripartita (FAO, OIE, WHO y UNEP), junto con el PNUMA, definen Una Salud como “un enfoque unificador integrado que procura equilibrar y optimizar de manera sostenible la salud de las personas, los animales y los ecosistemas. El enfoque reconoce que la salud de las personas, los animales domésticos y silvestres, las plantas y el medio ambiente en general (incluidos los ecosistemas) están estrechamente relacionados y son interdependientes”.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Biología y Química",
+                                                    "campo_snii": "Ciencias Ambientales",
+                                                    "disciplina_snii": "Gestión Ambiental"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Condición de los Sistemas Costeros y su tendencia ambiental (COSTA).",
+                                            "descripción": "Contribuir con ética científica al conocimiento de los fenómenos físicos, biológicos y ecológicos de los ecosistemas costeros e incidir en la toma de decisiones orientada a su conservación y manejo.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Biología y Química",
+                                                    "campo_snii": "Ciencias Ambientales",
+                                                    "disciplina_snii": "Gestión Ambiental"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Biodiversidad de México: Problemática, Usos y Conservación",
+                                            "descripción": "El conocimiento y conservación de la biodiversidad son considerados como una prioridad nacional y mundial, toda vez que la biodiversidad es la expresión de los procesos evolutivos de la vida y constituye la riqueza viva de nuestro planeta, la cual es un importante recurso para el bienestar social y económico.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Biología y Química",
+                                                    "campo_snii": "Ciencias Ambientales",
+                                                    "disciplina_snii": "Gestión Ambiental"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Investigación para el Desarrollo Sustentable",
+                                            "descripción": "Contribuir al estudio y conocimiento científico que permita promover el desarrollo sostenible, al establecer con precisión los efectos que las actividades humanas productivas tendrán sobre los recursos naturales del Noroeste de México, especialmente en aquellos hábitats y ecosistemas sensitivos, con especial énfasis en Áreas Naturales Protegidas, así como en las especies relevantes. Desarrollar investigación relacionada con la salud pública y las principales enfermedades presentes y emergentes que afectan a los habitantes de esta región, como lo son las enfermedades infecciosas transmitidas por vector y su relación con el cambio climático, como los efectos de los contaminantes agroquímicos en la salud humana, entre otros.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Biología y Química",
+                                                    "campo_snii": "Ciencias Ambientales",
+                                                    "disciplina_snii": "Gestión Ambiental"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Museo de Historia Natural: Taxonomía y Sistemática",
+                                            "descripción": "La línea Estratégica Museo de Historia Natural: Taxonomía y Sistemática del Centro de Investigaciones Biológicas del Noroeste, S.C., se enfoca a la taxonomía biológica de plantas y animales de México con énfasis a la región Noroeste de México. Destaca el acervo contenido en sus Colecciones.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Biología y Química",
+                                                    "campo_snii": "Ciencias Ambientales",
+                                                    "disciplina_snii": "Gestión Ambiental"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "nombre_unidad": "CIBNOR Unidad Hermosillo",
+                    "descripción_unidad": "El CIBNOR Unidad Hermosillo presta servicios de calidad para apoyar la investigación científica en el campo de la sanidad acuícola aportando conocimiento en el desarrollo del sector productivo de la región y en los estudios de posgrado de excelencia en el campo de la biología marina, acuicultura en espacios costeros y en la conservación de los recursos naturales.",
+                    "dirección_postal": "83106",
+                    "latitud": -110.96071858,
+                    "longitud": 29.152968,
+                    "departamentos": [
+                        {
+                            "departamento": "",
+                            "descripción_departamento": "",
+                            "áreas": [
+                                {
+                                    "área": "",
+                                    "descripción_del_área": "",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "",
+                                            "descripción": "",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "",
+                                                    "disciplina_snii": ""
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "nombre_unidad": "Unidad Nayarit del Centro de Investigaciones Biológicas del Noroeste, S.C. (UNCIBNOR+)",
+                    "descripción_unidad": "Fue inaugurada en 2015 y continúa consolidándose como un Centro de Investigación, Desarrollo Tecnológico e Innovación en Tilapia, dedicada principalmente a la producción de crías y juveniles de Oreochromis niloticus. Sus instalaciones llevan ya más de seis años de labores ininterrumpidas en el Parque Científico Ciudad del Conocimiento de Tepic.",
+                    "dirección_postal": "63173",
+                    "latitud": 21.483313,
+                    "longitud": -104.846606,
+                    "departamentos": [
+                        {
+                            "departamento": "",
+                            "descripción_departamento": "",
+                            "áreas": [
+                                {
+                                    "área": "",
+                                    "descripción_del_área": "",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "",
+                                            "descripción": "",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "",
+                                                    "disciplina_snii": ""
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "redes_sociales": [
+                {
+                    "red": "YouTube",
+                    "identificador": "https://www.youtube.com/user/CIBNOROFICIAL",
+                    "activa": true,
+                    "propósito": "difusión científica"
+                },
+                {
+                    "red": "Facebook",
+                    "identificador": "https://www.facebook.com/cibnor/",
+                    "activa": true,
+                    "propósito": "difusión científica"
+                },
+                {
+                    "red": "X",
+                    "identificador": "https://x.com/cibnoroficial",
+                    "activa": true,
+                    "propósito": "difusión científica"
+                }
+            ]
+        }
+    ]
+}
