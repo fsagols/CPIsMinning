@@ -1,0 +1,443 @@
+{
+ "title": "CIATEQ.json",
+[ 
+“nombre CPI” : “Centro de Tecnología Avanzada”,
+“type”:”string”,
+“siglas_cpi”: “CIATEQ”,
+“type”:”string”,
+“descripción_breve” : “CIATEQ es una organización mexicana de investigación y tecnología que se especializa en soluciones de ingeniería, materiales avanzados, energía renovable e innovación industrial.”,
+“type”:”string”,
+“descripción” : “CIATEQ (Centro de Tecnología Avanzada) es una institución mexicana dedicada a la investigación, desarrollo e innovación en ingeniería y tecnología. Fundada en 1978, ofrece soluciones tecnológicas avanzadas en áreas como manufactura, materiales, energía y automatización. CIATEQ colabora con industrias y organizaciones para mejorar procesos productivos, optimizar recursos y fomentar la competitividad. Sus servicios incluyen consultoría, diseño y fabricación de prototipos, análisis y pruebas de materiales, así como capacitación especializada. Su objetivo es impulsar la innovación tecnológica y el desarrollo sostenible en diversos sectores industriales.”,
+“type”:”string”,
+“misión” : “Busca generar soluciones tecnológicas que incrementen la competitividad de sus clientes, aporten valor a la organización y mejoren las competencias y satisfacción de su personal​”,
+“type”:”string”,
+“visión” : “Ser un centro líder en desarrollo tecnológico e innovación, comprometido con el medio ambiente y la sociedad”,
+“type”:”string”,
+“titular”: “María Guadalupe Navarro Rojero”,
+“fecha designación titular” : “2021-06-01”, 
+“grado_acádemico_titular” : 
+[ 
+“Doctorado en Ingeniería Cerámica por la Universidad Autónoma de Madrid. ”,
+“Ingeniera en Materiales por el Instituto Tecnológico Regional de Zacatecas”,
+“Maestría en Ingeniería Cerámica por el Centro de Investigación y de Estudios Avanzados del IPN”,
+“Especialidad en área de materiales cerámicos compuestos y orgánicos, así como en procesos industriales químicos y metalurgia​ (Conahcyt)​.”,
+“importancia diagnóstico” : “ofrece diagnóstico industrial: procesos, materiales, automatización, energía y medio ambiente, impulsando eficiencia y competitividad empresarial.”,
+“origen”: “México , donde se estableció como una institución dedicada a la investigación y desarrollo tecnológico”,
+“fecha_creacion”:”1978-11-04”,
+“historia establecimiento” : “En los años 70, Querétaro experimentó un auge industrial, especialmente en el sector metalmecánico. Para apoyar este crecimiento, se fundó CIATEQ en 1978, con la participación de CONACYT, el gobierno estatal y empresas líderes como ICA y SPICER. CIATEQ se estableció con el propósito de brindar asesoramiento técnico, promover la capacitación, ofrecer servicios de calidad y realizar investigación para impulsar la industria local.”,
+“tipo entidad local” : “Paraestatal, asimilada al régimen de las empresas de participación estatal.”,
+“marco normativo”:
+[ 
+ “Ley Orgánica de la Administración Pública Federal.”,
+“Ley Federal de las Entidades Paraestatales.”,
+“Ley de Ciencia y Tecnología,” , 
+“presupuesto”: 
+[ 
+{
+“año” : “2020”,
+“montó” : 603,540,129,
+“año”: “2021”,
+“monto” : 592,295,366,
+“año” : "2022",
+“monto” : 499,205,743,
+“año” : "2023",
+“monto” : 525,211,296,
+“año” : "2024",
+“monto” : 598,873,272,
+
+}
+],
+{
+  "programas académicos": [
+    {
+      "nombre": "Maestría en Ingeniería",
+      "disciplinas": ["Ingeniería Virtual y Manufactura", "Sistemas Mecánicos"],
+      "área sni": "Ingeniería y Tecnología",
+      "campo sni": "Ingeniería Mecánica",
+      "disciplina sni": "Mecánica Aplicada",
+    },
+    {
+      "nombre": "Doctorado en Ingeniería",
+      "disciplinas": ["Tecnologías de Información, Control y Electrónica", "Energías Renovables"],
+      "área sni": "Ingeniería y Tecnología",
+      "campo sni": "Ingeniería Electrónica",
+      "disciplina sni": "Control y Automatización",
+    }
+  ],
+  "programas": [
+    "Posgrado y Educación Continua",
+    "Servicios de Laboratorios",
+    "Oferta Tecnológica"],
+  "disciplinas": [
+    "Ingeniería de Plantas y Construcción",
+    "Plásticos y Materiales Avanzados",
+    "Sistemas de Medición"],
+  "sni": {
+    "área": "Ingeniería y Tecnología",
+    "campo": [
+      "Ingeniería Mecánica",
+      "Ingeniería Electrónica",
+    ],
+    "disciplina": [
+      "Mecánica Aplicada",
+      "Control y Automatización",
+    ]
+  }
+}
+{
+  "nombre unidad": "CIATEQ",
+  "descripción unidad": "Centro de Tecnología Avanzada especializado en servicios de ingeniería y desarrollo tecnológico para la industria.",
+  "dirección postal": [
+    {
+      "unidad": "Querétaro (Retablo)",
+      "dirección": "Av. del Retablo 150, Col. Constituyentes Fovissste Querétaro, Qro. C.P. 76150",
+      "latitud": 20.5931,
+      "longitud":-100.3985,
+  },
+    {
+      "unidad": "Querétaro (Bernardo Quintana)",
+      "dirección": "Av. Manantiales No. 20, Parque Industrial Bernardo Quintana, El Marqués, Qro. C.P. 76246",
+      "latitud": 20.6024,
+      "longitud":-100.3615,
+    },
+    {
+      "unidad": "San Luis Potosí",
+      "dirección": "Eje 126 No. 225, Zona Industrial, San Luis Potosí, S.L.P. C.P. 78395",
+      "latitud": 22.1375,
+      "longitud": -100.9263,
+    },
+    {
+      "unidad": "Aguascalientes",
+      "dirección": "Circuito Aguascalientes Norte # 135, Parque Industrial del Valle de Aguascalientes, San Francisco de los Romo, Ags. C.P. 20358",
+      "latitud": 21.9404,
+      "longitud": -102.3456,
+    },
+    {
+      "unidad": "Tabasco",
+      "dirección": "Lotes 15, 16 y 17, Manzana 6, Parque Industrial Tabasco Business Center, Autopista Reforma-Dos Bocas km. 17+920, Ra. Pechucalco 2da. Sección (Cruces), Cunduacán, Tabasco. C.P. 86693",
+      "latitud": 18.0626,
+      "longitud": -93.0657,
+    },
+    {
+      "unidad": "Hidalgo",
+      "Dirección": “Manzana 5, Lote 1, Pachuca Ciudad del Conocimiento y la Cultura, San Agustín Tlaxiaca, Hidalgo. C.P. 42162",
+      "latitud":20.1040,
+      "longitud": -98.7691,
+    },
+    {
+      "unidad": "Estado de México",
+      "dirección": "Circuito de la Industria Poniente Lote 11, Manzana 3, No. 11, Col. Parque Industrial Exhacienda Doña Rosa, Lerma, Estado de México. C.P. 52004",
+      "latitud": 19.2877,
+      "longitud": -99.5136,
+    },
+    {
+      "unidad": "Jalisco",
+      "dirección": "Nodo Servidor Público 165, Col. Anexo Club de Golf Las Lomas, Zapopan, Jal. C.P. 45136",
+      "latitud": 20.6829,
+      "longitud": -103.4310,
+    }
+  ],
+  "fecha_inicial": 1981-04-27,
+  "titular": "Dra. María Guadalupe Navarro Rojero",
+  "fecha designación titular": 2022-06-01,
+  "grado académico titular": "Doctorado en Ciencias de la Computación",
+  "especialidad titular": "Inteligencia Artificial",
+  "áreas": [
+    "Ingeniería virtual y manufactura",
+    "Ingeniería de plantas y construcción",
+    "Plásticos y materiales avanzados",
+    "Sistemas de Medición",
+    "Sistemas Mecánicos",
+    "Tecnologías de información, control y electrónica",
+    "Energías Renovables",
+  ],
+  "programas académicos": [
+    {
+      "nombre": "Especialidad en Diseño y Desarrollo de Productos Plásticos",
+      "nivel": "Especialidad",
+    },
+    {
+      "nombre": "Especialidad en Logística y Cadena de Suministro",
+      "nivel": "Especialidad",
+    },
+    {
+      "nombre": "Maestría en Manufactura Avanzada",
+      "nivel": "Maestría",
+    },
+    {
+      "nombre": "Maestría en Dirección y Gestión de Proyectos de Ingeniería",
+      "nivel": "Maestría",
+    },
+    {
+      "nombre": "Maestría en Sistemas Inteligentes Multimedia",
+      "nivel": "Maestría",
+    },
+    {
+      "nombre": "Maestría en Ciencia y Tecnología",
+      "nivel": "Maestría",
+    },
+    {
+      "nombre": "Doctorado en Manufactura Avanzada",
+      "nivel": "Doctorado",
+    },
+    {
+      "nombre": "Doctorado en Ciencia y Tecnología",
+      "nivel": "Doctorado",
+    }
+  ],
+  "campo sni": [
+    "Ingeniería y Tecnología",
+    "Ciencias de la Computación",
+    "Ciencias de los Materiales",
+    "Energías Renovables",
+  ],
+  "disciplina sni": [
+    "Ingeniería Mecánica",
+    "Ingeniería Electrónica",
+    "Tecnologías de la Información",
+    "Materiales Poliméricos",
+  ],
+  "área sni": [
+    "Desarrollo Tecnológico",
+    "Innovación",
+    "Investigación Aplicada",
+  ]
+}
+"programas académicos": [
+        {
+          "programa": "Maestría en Ingeniería",
+          "disciplinas": [
+            {
+              "área sni": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+              "campo sni": "Ingeniería Mecánica",
+              "disciplina sni": "Manufactura Avanzada",
+            }
+          ],
+          "nivel": "Maestría",
+          "modalidad": "Regular",
+          "vía": "Presencial",
+          "fecha registro sep": "2021-03-01",
+        }
+      ],
+      "alumnos por año": [
+        {
+          "año": "2023",
+          "inscritos": "50",
+          "con beca conahcyt": "45",
+          "graduados en tiempo":"40",
+          "bajas": 5,
+          "graduados fuera tiempo": "5",
+        }
+      ],
+      "unidades": [
+        {
+          "nombre unidad": "Unidad Querétaro",
+          "descripción unidad": "Sede principal de CIATEQ.",
+          "dirección postal": "Av. Manantiales 23, Parque Industrial, 76150 Querétaro, Qro.",
+          "latitud": 20.6534,
+          "longitud": -100.4067,
+          "fecha inicio": "1978-08-01",
+          "titular": "Ing. Ana Pérez",
+        }
+      ],
+      "departamentos": [
+        {
+          "departamento": "Ingeniería Virtual",
+          "descripción departamento": "Desarrollo de soluciones de ingeniería asistida por computadora.",
+          "titular": "Dr. Carlos Martínez",
+          "fecha inicia": "2020-01-01",
+          "fecha designación titular":"2020-01-01",
+          "grado académico titular": "Doctorado",
+          "especialidad titular": "Ingeniería de Software",
+        }
+      ],
+      "áreas": [
+        {
+          "área": "Investigación y Desarrollo",
+          "descripción del área": "Generación de nuevas tecnologías.",
+          "fecha inicia": "2018-07-01",
+          "titular": "Dra. María González",
+          "fecha designación titular": "2018-07-01",
+          "especialidad titular": "Nanotecnología",
+          "grado académico titular": "Doctorado",
+        }
+      ],
+      "personal técnico": [
+        {
+          "año": "2023",
+          "especialistas en": "Ingeniería Mecánica",
+          "total": "50",
+          "total con sni": "10",
+        }
+      ],
+      "personal académico": [
+        {
+          "año": "2023",
+          "especialistas en": "Ingeniería Electrónica",
+          "total": "30",
+          "total con sni":"5", 
+        }
+      ],
+      "líneas investigación": [
+        {
+          "linea": "Manufactura Avanzada",
+          "descripción": "Investigación en técnicas avanzadas de manufactura.",
+          "disciplinas": [
+            {
+              "área sni": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+              "campo sni": "Ingeniería Mecánica",
+              "disciplina sni": "Manufactura Avanzada",
+            }
+          ]
+        }
+      ],
+      "proyectos": [
+        {
+          "nombre proyecto": "Desarrollo de Materiales Compuestos",
+          "fecha inicia": "2022-01-01",
+          "descripción breve": "Creación de nuevos materiales para la industria automotriz.",
+          "descripción larga": "Investigación y desarrollo de materiales compuestos ligeros y resistentes para aplicaciones en vehículos.",
+          "palabras clave": [
+            {
+              "palabra": "materiales compuestos",
+            },
+            {
+              "palabra": "industria automotriz" ,
+            }
+          ],
+          "repositorio": "",
+          "comercializable": true,
+          "nivel madurez trl": "6", 
+        }
+      ],
+      "mecanismos coordinación": [
+        {
+          "cpi contraparte": "Instituto de Investigaciones en Materiales",
+          "departamento contraparte": "Materiales Avanzados",
+          "área contraparte": "Investigación",
+          "fecha inicia": "2021-06-01",
+          "descripción": "Colaboración en proyectos de desarrollo de nuevos materiales.",
+          "fecha termina": "2024-06-01",
+          "notas": [
+            {
+              "fecha": "2023-06-01",
+              "nota": “Proyectos en etapa avanzada”,
+            }
+          ]
+        }
+      ],
+      "procesos internos": [
+        {
+          "proceso": "Gestión de Calidad",
+          "descripción": "Proceso para asegurar la calidad de los proyectos.",
+          "tipo proceso": "Administración",
+          "documentos": [
+            {
+              "descripción": "Manual de Calidad",
+              "fecha": "2022-05-01",
+              "url": "https://www.ciateq.mx/manual-de-calidad",
+            }
+          ],
+          "fecha fin": "NA",
+        }
+      ],
+      "equipamiento": [
+        {
+          "nombre equipo": "Impresora 3D",
+          "descripción": "Equipo para prototipado rápido.",
+          "fecha adquisición": "2020-03-01",
+          "precio adquisición": 500000,
+          "estado": "en operación",
+          "fecha baja": "NA",
+        }
+      ],
+      "síntesis hallazgos": [
+        {
+          "hallazgo": "Nuevos materiales con propiedades mejoradas.",
+          "fecha inicio": "2021-01-01",
+          "reporta": "Dra. María González",
+          "relevancia": "Alta",
+          "fecha fin": "2023-12-31",
+          "notas": [
+            {
+              "fecha":" 2023-01-01",
+              "nota": "Materiales listos para pruebas industriales." , 
+            }
+          ]
+        }
+      ],
+      "propuestas fortalecimiento": [
+        {
+          "propuesta": "Aumentar la inversión en infraestructura tecnológica.",
+          "fecha inicio": "2023-02-01",
+          "responsables": [
+            {
+              "participante": "Dr. Luis Felipe Sánchez",
+            }
+          ],
+          "actividades": [
+            {
+              "actividad": "Adquirir nuevos equipos de laboratorio.",
+            }
+          ],
+          "relevancia": "Alta",
+          "avances": [
+            {
+              "fecha": "2023-12-01",
+              "avance": "Compra de dos nuevos equipos.",
+            }
+          ],
+          "fecha fin": "2024-12-31",
+        }
+      ],
+      "sindicatos": [
+        {
+          "afiliación a organismos sindicales": [
+            {
+              "organización": "Sindicato Nacional de Trabajadores de la Educación",
+            }
+          ],
+          "acuerdos": [
+            {
+              "acuerdo": "Revisión salarial",
+              "fecha": "2023-01-15",
+            }
+          ],
+          "sindicato": "Sindicato CIATEQ",
+        }
+      ],
+      "fuentes financiamiento": [
+        {
+          "fecha": "2023-01-01",
+          "vigencia": "Anual",
+          "descripción": "Financiamiento federal para proyectos de investigación.",
+          "monto financiamiento": 10000000,
+          "documentos": [
+            {
+              "fecha": "2023-01-01",
+              "descripción": "Convenio de Financiamiento",
+              "liga": "https://www.ciateq.mx/convenio-financiamiento",
+            }
+          ]
+        }
+      ],
+      "redes sociales": [
+        {
+          "red": " X(Twitter)",
+          "identificador": "@CIATEQMX",
+          "propósito": "Difundir noticias y eventos, interactuar en tiempo real, y compartir información relevante del sector tecnológico."},
+    {
+          "red": "Instagram",
+          "identificador": "@ciateqoficial",
+          "propósito": "Compartir contenido visual de proyectos y eventos, conectar con audiencia joven, promocionar campañas."
+        },
+        {
+          "red": "Facebook",
+          "identificador": "CIATEQ",
+          "propósito": "Proporcionar información detallada, interactuar extensamente con la comunidad, compartir multimedia y facilitar la participación en eventos."
+        }
+      ],
+      "activa": “true”,
+    }
+  ]
+}
