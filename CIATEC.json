@@ -1,0 +1,1940 @@
+{
+    "cpis": [
+        {
+            "nombre_cpi": "Centro de Inovación Aplicada en Tecnologías Competitivas",
+            "siglas_cpi": "CIATEC",
+            "descripción_breve": "Contribuir al desarrollo industrial y mejorar la calidad de vida de la sociedad mediante la aplicación de ciencia y tecnología, convencidos que son estos dos factores estratégicos para consolidar el desarrollo social sostenible, cuidar el medio ambiente e impulsar la competitividad.",
+            "descripción": "Contribuir al desarrollo tecnológico y social en México. A través de proyectos que generan y aplican el conocimiento, el CIATEC busca solucionar problemas de base cientifica en las industrias. Su enfoque principal ese el desarrololo de soluciones integrales a problemas industriales, laremedicacion del medio ambiente y la sustentabilidad.",
+            "misión": "Contribuir al desarrollo industrial y mejorar la calidad de vida de la sociedad mediante la aplicación de ciencia, tecnología e innovación en las áreas de sustentabilidad, salud laboral e industria de la manufactura.",
+            "visión": "CIATEC es una institución de clase mundial, autosuficiente, líder en Latinoamérica en términos de impacto tecnológico, generación de conocimiento, creación de valor y soluciones innovadoras para el desarrollo tecnológico, económico y social.",
+            "titular": "Dr. Ricardo Guerra Sánchez",
+            "fecha_designación_titular": "2013",
+            "grado_académico_titular": "doctorado",
+            "especialidad_titular": "Tratamiento aguas residuales y Ciencias ambientales.",
+            "origen": "Desde su creación en 1976, CIATEC ha tenido como compromiso fundamental contribuir al desarrollo industrial y mejorar la calidad de vida de la sociedad mediante la aplicación de ciencia y tecnología, convencidos que son estos dos factores estratégicos para consolidar el desarrollo social sostenible, cuidar el medio ambiente e impulsar la competitividad.",
+            "fecha_creación": "1976-01-01",
+            "historia_establecimiento": "",
+            "contexto_histórico": "",
+            "tipo_entidad_legal": "Paraestatal, con carácter de empresa de participación estatal mayoritaria.",
+            "figura_jurídica": "Asociación Civil.",
+            "marco_normativo": "Ley Orgánica de la Administración Pública Federal .Ley Federal de las Entidades Paraestatales.Ley de Ciencia y Tecnología.Instrumento jurídico de creación del Centro de Investigación en Alimentación y Desarrollo, A.C. (CIAD)",
+            "presupuesto": [
+                {
+                    "año": 2024,
+                    "monto": 223071290
+                },
+                {
+                    "año": 2023,
+                    "monto": 212747424
+                }
+            ],
+            "programas_académicos": [
+                {
+                    "programa": "Posgrado Interinstitucional en Ciencia y Tecnología",
+                    "disciplinas": [
+                        {
+                            "area_sni": "Ingeniería y Biotecnología",
+                            "campo_sni": "Ingeniería y Biotecnología",
+                            "disciplina_sni": "Ingeniería Industrial y de Manufactura"
+                        },
+                        {
+                            "area_sni": "Ingeniería y Biotecnología",
+                            "campo_sni": "Ingeniería y Biotecnología",
+                            "disciplina_sni": "Ingeniería Ambiental"
+                        }
+                    ],
+                    "nivel": "maestría",
+                    "modalidad": "regular",
+                    "vía": "presencial"
+                },
+                {
+                    "programa": "Posgrado Interinstitucional en Ciencia y Tecnología",
+                    "disciplinas": [
+                        {
+                            "area_sni": "Ingeniería y Biotecnología",
+                            "campo_sni": "Ingeniería y Biotecnología",
+                            "disciplina_sni": "Mecatrónica y Diseño Mecánico"
+                        },
+                        {
+                            "area_sni": "Ingeniería y Biotecnología",
+                            "campo_sni": "Ingeniería y Biotecnología",
+                            "disciplina_sni": "Ingeniería Ambiental"
+                        },
+                        {
+                            "area_sni": "Ingeniería y Biotecnología",
+                            "campo_sni": "Ingeniería y Biotecnología",
+                            "disciplina_sni": "Ingeniería Industrial y Manufactura Avanzada."
+                        }
+                    ],
+                    "nivel": "doctorado",
+                    "modalidad": "regular",
+                    "vía": "presencial"
+                },
+                {
+                    "programa": "Especialización en Curtido de Pieles",
+                    "disciplinas": [
+                        {
+                            "area_sni": "Ingeniería y Biotecnología",
+                            "campo_sni": "Ingeniería y Biotecnología",
+                            "disciplina_sni": "Especialización en Curtido de Pieles"
+                        }
+                    ],
+                    "nivel": "maestría",
+                    "modalidad": "regular",
+                    "vía": "presencial"
+                },
+                {
+                    "programa": "Especialidad en diseño y desarrollo de calzado",
+                    "disciplinas": [
+                        {
+                            "area_sni": "Ingeniería y Biotecnología",
+                            "campo_sni": "Ingeniería y Biotecnología",
+                            "disciplina_sni": "Especialidad en diseño y desarrollo de calzado"
+                        }
+                    ],
+                    "nivel": "maestría",
+                    "modalidad": "regular",
+                    "vía": "presencial"
+                },
+                {
+                    "programa": "Programa de Educación Continua",
+                    "disciplinas": [
+                        {
+                            "area_sni": "Ingeniería y Biotecnología",
+                            "campo_sni": "Ingeniería y Biotecnología",
+                            "disciplina_sni": "AUTOMATIZACION Y CONTROL"
+                        },
+                        {
+                            "area_sni": "Ingeniería y Biotecnología",
+                            "campo_sni": "Ingeniería y Biotecnología",
+                            "disciplina_sni": "INGENIERÍA DE CALIDAD"
+                        },
+                        {
+                            "area_sni": "Ingeniería y Biotecnología",
+                            "campo_sni": "Ingeniería y Biotecnología",
+                            "disciplina_sni": "INGENIERÍA DE PRODUCTIVIDAD"
+                        },
+                        {
+                            "area_sni": "Ingeniería y Biotecnología",
+                            "campo_sni": "Ingeniería y Biotecnología",
+                            "disciplina_sni": "CURTIDO DE PIELES"
+                        },
+                        {
+                            "area_sni": "Ingeniería y Biotecnología",
+                            "campo_sni": "Ingeniería y Biotecnología",
+                            "disciplina_sni": "INGENIERÍA DE CALIDAD"
+                        },
+                        {
+                            "area_sni": "Ingeniería y Biotecnología",
+                            "campo_sni": "Ingeniería y Biotecnología",
+                            "disciplina_sni": "DISENO INTERACTIVO Y MANUFACTURA"
+                        }
+                    ],
+                    "nivel": "educación continua",
+                    "modalidad": "regular",
+                    "vía": "presencial"
+                }
+            ],
+            "unidades": [
+                {
+                    "nombre_unidad": "Laboratorios de Investigación",
+                    "descripción_unidad": "Integramos infraestructura especializada para fortalecer nuestras capacidades técnicas, académicas y de investigación con estándares de calidad internacional.",
+                    "dirección_postal": "37545",
+                    "latitud": 21.087565303029027,
+                    "longitud": -101.62018432487483,
+                    "departamentos": [
+                        {
+                            "departamento": "AMBIENTAL",
+                            "descripción_departamento": "Proyectos de investigación en Ingeniería Ambiental Consultorías Ambientales, Servicios de analisis.",
+                            "áreas": [
+                                {
+                                    "área": "TRATAMIENTO DE AGUAS RESIDUALES",
+                                    "descripción_del_área": "Desarrollamos y adaptamos nuevas tecnologías que permitan la descontaminación de efluentes industriales y municipales mediante técnicas avanzadas.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Procesos de oxidación avanzadaProcesos electroquímicos, Coagulación-floculación, Filtración, Adsorción y procesos biológicos",
+                                            "descripción": "La planta piloto de tratamiento de agua, permite escalar los procesos diseñados en laboratorio a nivel industrial.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Ingeniería y Biotecnología",
+                                                    "disciplina_sni": "CIENCIA Y TECNOLOGIA DEL AGUA"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "POTABILIZACIÓN DEL AGUA",
+                                    "descripción_del_área": "Desarrollamos tecnologías y materiales basados en procesos de filtración, adsorción y electroquímica para la remoción de contaminantes.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "POTABILIZACIÓN DEL AGUA",
+                                            "descripción": "Desarrollamos tecnologías y materiales basados en procesos de filtración, adsorción y electroquímica para la remoción de contaminantes.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Ingeniería y Biotecnología",
+                                                    "disciplina_sni": "CIENCIA Y TECNOLOGIA DEL AGUA"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "MONITOREO DE LA CALIDAD DEL AGUA",
+                                    "descripción_del_área": "Contamos con infraestructura avanzada para el análisis de más de 110 contaminantes en agua incluyendo diversos aniones, aminoácidos, colorantes, cationes, pesticidas, aditivos alimenticios, metales pesados y farmacéuticos, etc.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "MONITOREO DE LA CALIDAD DEL AGUA",
+                                            "descripción": "Determinamos parámetros básicos del agua tales como: color, olor, sabor, turbidez, DQO, DBO, pH, conductividad, sulfuros, ácidos grasos, grasas y aceites, carbón orgánico total y análisis biológicos.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Ingeniería y Biotecnología",
+                                                    "disciplina_sni": "CIENCIA Y TECNOLOGIA DEL AGUA"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "REVALORIZACIÓN, TRATAMIENTO Y DISPOSICIÓN DE RESIDUOS INDUSTRIALES",
+                                    "descripción_del_área": "Formulamos materiales novedosos con potencial comercial que permiten disminuir el impacto ambiental de las industrias generadoras a partir de residuos.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "MONITOREO DE LA CALIDAD DEL AGUA",
+                                            "descripción": "Formulamos materiales novedosos con potencial comercial que permiten disminuir el impacto ambiental de las industrias generadoras a partir de residuos.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Biología y Química",
+                                                    "campo_sni": "QUÍMICA",
+                                                    "disciplina_sni": "QUÍMICA INORGÁNICA"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "EVALUACIÓN Y TRATAMIENTO DE SUELOS",
+                                    "descripción_del_área": "Ofrecemos proyectos de remediación de suelos con horizontes a corto, mediano y largo plazo.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "EVALUACIÓN Y TRATAMIENTO DE SUELOS",
+                                            "descripción": "Ofrecemos proyectos de remediación de suelos con horizontes a corto, mediano y largo plazo.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ciencias Agropecuarias y Biotecnología",
+                                                    "campo_sni": "AGRONOMÍA",
+                                                    "disciplina_sni": "QUIMICA DE SUELOS / MICROBIOLOGIA"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "OLFATOMETRÍA, BIOAEROSOLES Y CALIDAD AMBIENTAL EN EL AIRE",
+                                    "descripción_del_área": "Nuestro laboratorio ofrece tres servicios clave: medición de olores, análisis de microorganismos en el aire, y estudios sobre la dispersión de partículas. Estos servicios ayudan a asegurar y mejorar la calidad ambiental en diversas áreas, desde granjas hasta zonas industriales.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "OLFATOMETRÍA",
+                                            "descripción": "Contamos con un Laboratorio de Olfatometría con trazabilidad a la norma (UNE-EN 13725).Concentración de olores (ue/m3).Medición de olores para fuentes como granjas (avícolas y porcinas).",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Ingeniería y Biotecnología",
+                                                    "disciplina_sni": "INGENIERÍA AMBIENTAL"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "BIOAEROSOLES",
+                                            "descripción": "Cuantificación de la presencia de microorganismos patógenos en el aire. Identificación de microorganismos emitidos por diversas fuentes.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Ingeniería y Biotecnología",
+                                                    "disciplina_sni": "INGENIERÍA AMBIENTAL"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "ESTUDIO DE CALIDAD AMBIENTAL EN EL AIRE",
+                                            "descripción": "Medición de la dispersión de partículas suspendidas en el aire (PM10) como resultado de la combustión en hornos ladrilleros.Determinación de las zonas de afectación por las dispersiones.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Ingeniería y Biotecnología",
+                                                    "disciplina_sni": "INGENIERÍA AMBIENTAL"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "departamento": "LANITEF",
+                            "descripción_departamento": "El LaNITeF encuentra su origen y su justificación en la creciente preocupación por la contribución de la industria de refrigeración y aire acondicionado al deterioro del medio ambiente a través de la emisión de gases potencialmente contaminantes debido a la naturaleza química de los refrigerantes clásicos. En efecto, la demanda mundial de refrigeración y aire acondicionado es cada vez mayor debido al crecimiento de la población, la urbanización y en parte también por el crecimiento económico que se registra en algunos países. ",
+                            "áreas": [
+                                {
+                                    "área": "Investigación en Tecnologías del Frío",
+                                    "descripción_del_área": "Divulgación científica.Incorporación de estudiantes e investigadores.Servicios a investigadores internos y externos.Acciones de vinculación empresarial y social.Actividades de difusión.Gestión de propiedad intelectual.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "MODELADO FÍSICO Y ANÁLISIS NUMÉRICO",
+                                            "descripción": "",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ciencias Físico Matemáticas y Ciencias de la tierra",
+                                                    "campo_sni": "CIENCIAS MATEMÁTICAS",
+                                                    "disciplina_sni": "METODOS NUMERICOS"
+                                                },
+                                                {
+                                                    "area_sni": "Ciencias Físico Matemáticas y Ciencias de la tierra",
+                                                    "campo_sni": "CIENCIAS MATEMÁTICAS",
+                                                    "disciplina_sni": "SIMULACION Y OPTIMIZACION"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Conservación y aseguramiento de la cadena de frío.",
+                                            "descripción": "",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": " INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_sni": "INGENIERÍA DE CALIDAD Y PRODUCTIVIDAD"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Energía, impacto ambiental y salud.",
+                                            "descripción": "",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Ingeniería y Biotecnología",
+                                                    "disciplina_sni": "INGENIERÍA AMBIENTAL"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Uso de tecnologías alternas para refrigeración y acondicionamiento de aire.",
+                                            "descripción": "",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_sni": "TERMOFLUIDOS"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Materiales avanzados y refrigeración no convencional.",
+                                            "descripción": "",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Ingeniería y Biotecnología",
+                                                    "disciplina_sni": "TERMOFLUIDOS"
+                                                },
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Ingeniería y Biotecnología",
+                                                    "disciplina_sni": "CIENCIA Y TECNOLOGIA DE MATERIALES"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Sistemas de refrigeración por compresión de vapor.",
+                                            "descripción": "",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Ingeniería y Biotecnología",
+                                                    "disciplina_sni": "INGENIERÍA ENERGÉTICA"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Instrumentación y Control.",
+                                            "descripción": "",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Ingeniería y Biotecnología",
+                                                    "disciplina_sni": "AUTOMATIZACION Y CONTROL"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "departamento": "MATERIALES",
+                            "descripción_departamento": "Enfocado al desarrollo de proyectos de investigación en el área de polímeros, nano compuestos, materiales retardantes a la flama y biomateriales, desde investigación básica hasta su aplicación en la industria.",
+                            "áreas": [
+                                {
+                                    "área": "MATERIALES",
+                                    "descripción_del_área": "quipos instrumentales para llevar a cabo pruebas de calorimetría (DSC), reología, análisis dinámico mecánico (DMA) e infrarrojo (FT-IR), para identificar características y propiedades fisicoquímicas de los materiales.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "CARACTERIZACIÓN DE MATERIALES",
+                                            "descripción": "Desarrollamos proyectos de investigación para su aplicación en la industria automotriz y aeronáutica.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Ingeniería y Biotecnología",
+                                                    "disciplina_sni": "INGENIERÍA AEROESPACIAL Y AERONAUTICA"
+                                                },
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Ingeniería y Biotecnología",
+                                                    "disciplina_sni": "INGENIERÍA AUTOMOTRIZ"
+                                                },
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Ingeniería y Biotecnología",
+                                                    "disciplina_sni": "INGENIERÍA MECANICA"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "departamento": "LANIAUTO",
+                            "descripción_departamento": "Desarrollamos la base de conocimiento fundamental sobre materiales ligeros para la ingeniería del automóvil y educar a estudiantes para convertirlos en líderes tecnológicos en la industria. ",
+                            "áreas": [
+                                {
+                                    "área": "Laboratorio Nacional en Innovación y Desarrollo de Materiales Ligeros para la Industria Automotriz.",
+                                    "descripción_del_área": "contribuir al desarrollo de materiales con resistencia a temperaturas bajo cero, mediante la generación y aplicación del conocimiento de materiales poliméricos ligeros con alto desempeño a bajas temperaturas y del estudio del comportamiento mecánico de las piezas automotrices por medio de simulación numérica por volumen finito.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "creación de nuevos procesos de manufactura de materiales ligeros a base de polímeros",
+                                            "descripción": "para obtener materiales más baratos, con mayor desempeño y ambientalmente amigables.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Ingeniería y Biotecnología",
+                                                    "disciplina_sni": "CIENCIA Y TECNOLOGIA DE MATERIALES"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "La elaboración de prototipos de materiales y componentes",
+                                            "descripción": "para demostrar la factibilidad de uso en componentes automotrices.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Ingeniería y Biotecnología",
+                                                    "disciplina_sni": "INGENIERÍA AUTOMOTRIZ"
+                                                },
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Ingeniería y Biotecnología",
+                                                    "disciplina_sni": "INGENIERÍA DE POLIMEROS Y PLASTICOS"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Determinación de la composición de los materiales empleados en la industria automotriz.",
+                                            "descripción": "",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Ingeniería y Biotecnología",
+                                                    "disciplina_sni": "INGENIERÍA AUTOMOTRIZ"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "El desarrollo de modelos de simulación numérica",
+                                            "descripción": "en ANSYS MECHANICAL, ANSYS COMPOSITES, y DIGIMAT, con aplicaciones en análisis estructural y térmico, todo ello aplicado a prestaciones mecánicas óptimas del material a temperaturas bajo cero aplicadas en la industria automotriz.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Ingeniería y Biotecnología",
+                                                    "disciplina_sni": "INGENIERÍA AUTOMOTRIZ"
+                                                },
+                                                {
+                                                    "area_sni": "Ciencias Físico Matemáticas y Ciencias de la tierra",
+                                                    "campo_sni": "CIENCIAS MATEMÁTICAS",
+                                                    "disciplina_sni": "METODOS NUMERICOS"
+                                                },
+                                                {
+                                                    "area_sni": "Ciencias Físico Matemáticas y Ciencias de la tierra",
+                                                    "campo_sni": "CIENCIAS MATEMÁTICAS",
+                                                    "disciplina_sni": "SIMULACION Y OPTIMIZACION"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "departamento": "PROCESOS INDUSTRIALES",
+                            "descripción_departamento": "Expertos en procesos de filtración, ósmosis inversa y electrodiálisis, contamos con sistemas de filtración frontal a escala laboratorio y tangencial a escala piloto y tres pilotos de electrodiálisis convencional y de membranas bipolares.",
+                            "áreas": [
+                                {
+                                    "área": "SERVICIOS",
+                                    "descripción_del_área": "Ofrecemos servicios para la industria a través de proyectos de innovación y desarrollo con amplias aplicaciones.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "FARMACÉUTICA",
+                                            "descripción": "Concentración y separación de productos, control in situ de pH, etc.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Biología y Química",
+                                                    "campo_sni": "QUÍMICA",
+                                                    "disciplina_sni": "QUÍMICA INORGÁNICA"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "AGROALIMENTARIA",
+                                            "descripción": "Tratamiento de leche, vino, tequila, etc.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Biología y Química",
+                                                    "campo_sni": "QUÍMICA",
+                                                    "disciplina_sni": "QUÍMICA ORGÁNICA"
+                                                },
+                                                {
+                                                    "area_sni": "Biología y Química",
+                                                    "campo_sni": "QUÍMICA",
+                                                    "disciplina_sni": "CIENCIA Y TECNOLOGIA DE ALIMENTOS"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "PETROQUÍMICA",
+                                            "descripción": "Tratamiento de aguas de extracción secundaria.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Biología y Química",
+                                                    "campo_sni": "QUÍMICA",
+                                                    "disciplina_sni": "QUÍMICA INORGÁNICA"
+                                                },
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Ingeniería y Biotecnología",
+                                                    "disciplina_sni": "INGENIERÍA DE PETROLEO"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "departamento": "ANÁLISIS QUÍMICO-AMBIENTALES",
+                            "descripción_departamento": "ACREDITADOS BAJO LA NORMA NMX-EC-17025-IMNC-2018 Y Certificados en ISO-9001-2015, para garantizarle resultados confiables a través de nuestros especialistas altamente calificados y comprometidos en brindarle un servicio de excelencia.",
+                            "áreas": [
+                                {
+                                    "área": "ANÁLISIS DE INOCUIDAD (REACH - SUSTANCIAS RESTRINGIDAS)",
+                                    "descripción_del_área": "Determinación de sustancias restringidas reguladas por la CPSC de Estados Unidos y la ECHA de la Unión Europea.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Determinación de ftalatos",
+                                            "descripción": "Análisis de ftalatos en materiales diversos.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ciencias Físico Matemáticas y Ciencias de la tierra",
+                                                    "campo_sni": "Ciencias de los Materiales",
+                                                    "disciplina_sni": "Química de los Materiales"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Determinación de AP & APEO",
+                                            "descripción": "Análisis de alquilfenoles y alquilfenol etoxilatos en productos.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ciencias Físico Matemáticas y Ciencias de la tierra",
+                                                    "campo_sni": "Ciencias de los Materiales",
+                                                    "disciplina_sni": "Química de los Materiales"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Determinación de azocolorantes",
+                                            "descripción": "Análisis de azocolorantes en textiles y otros materiales.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Ingeniería Textil",
+                                                    "disciplina_sni": "Ingeniería de Materiales"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Determinación de parafinas cloradas",
+                                            "descripción": "Análisis de parafinas cloradas en materiales industriales.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ciencias Físico Matemáticas y Ciencias de la tierra",
+                                                    "campo_sni": "Ciencias de los Materiales",
+                                                    "disciplina_sni": "Química de los Materiales"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Determinación de pentaclorofenol",
+                                            "descripción": "Análisis de pentaclorofenol en productos químicos.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ciencias Físico Matemáticas y Ciencias de la tierra",
+                                                    "campo_sni": "Ciencias de los Materiales",
+                                                    "disciplina_sni": "Química de los Materiales"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Determinación de colorante navy blue",
+                                            "descripción": "Análisis de colorante navy blue en textiles y otros materiales.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Ingeniería Textil",
+                                                    "disciplina_sni": "Ingeniería de Materiales"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Determinación de compuestos orgánicos de estaño",
+                                            "descripción": "Análisis de compuestos orgánicos de estaño en productos industriales.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ciencias Físico Matemáticas y Ciencias de la tierra",
+                                                    "campo_sni": "Ciencias de los Materiales",
+                                                    "disciplina_sni": "Química de los Materiales"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Determinación de cromo VI",
+                                            "descripción": "Análisis de cromo hexavalente en productos diversos.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ciencias Físico Matemáticas y Ciencias de la tierra",
+                                                    "campo_sni": "Ciencias de los Materiales",
+                                                    "disciplina_sni": "Química de los Materiales"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Determinación de dimetil fumarato",
+                                            "descripción": "Análisis de dimetil fumarato en productos industriales.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ciencias Físico Matemáticas y Ciencias de la tierra",
+                                                    "campo_sni": "Ciencias de los Materiales",
+                                                    "disciplina_sni": "Química de los Materiales"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Determinación de formaldehído",
+                                            "descripción": "Análisis de formaldehído en productos químicos.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ciencias Físico Matemáticas y Ciencias de la tierra",
+                                                    "campo_sni": "Ciencias de los Materiales",
+                                                    "disciplina_sni": "Química de los Materiales"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Determinación de metales extractables",
+                                            "descripción": "Análisis de metales extractables en materiales diversos.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ciencias Físico Matemáticas y Ciencias de la tierra",
+                                                    "campo_sni": "Ciencias de los Materiales",
+                                                    "disciplina_sni": "Química de los Materiales"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Determinación de fungicidas",
+                                            "descripción": "Análisis de fungicidas en productos agrícolas.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ciencias Agropecuarias y Biotecnología",
+                                                    "campo_sni": "Agronomía",
+                                                    "disciplina_sni": "Fitopatología"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Determinación de HAP",
+                                            "descripción": "Análisis de hidrocarburos aromáticos policíclicos en productos industriales.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ciencias Físico Matemáticas y Ciencias de la tierra",
+                                                    "campo_sni": "Ciencias de los Materiales",
+                                                    "disciplina_sni": "Química de los Materiales"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Determinación de sulfonato de perfluooctano",
+                                            "descripción": "Análisis de sulfonato de perfluooctano en productos químicos.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ciencias Físico Matemáticas y Ciencias de la tierra",
+                                                    "campo_sni": "Ciencias de los Materiales",
+                                                    "disciplina_sni": "Química de los Materiales"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Determinación de PBB´s & PBDE´s",
+                                            "descripción": "Análisis de bifenilos polibromados y éteres difenilos polibromados en productos electrónicos.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Ingeniería Eléctrica y Electrónica",
+                                                    "disciplina_sni": "Ingeniería Electrónica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Determinación de metales totales",
+                                            "descripción": "Análisis de metales totales como plomo, cadmio, cromo, mercurio, entre otros.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ciencias Físico Matemáticas y Ciencias de la tierra",
+                                                    "campo_sni": "Ciencias de los Materiales",
+                                                    "disciplina_sni": "Química de los Materiales"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "ANÁLISIS DE AGUA (RESIDUALES, NATURALES Y POTABLES)",
+                                    "descripción_del_área": "Aprobación de la CONAGUA y captura en el SIRALAB para análisis de aguas residuales, naturales y potables.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Análisis de aguas residuales en aguas y bienes nacionales",
+                                            "descripción": "NOM-001-SEMARNAT-1996",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ciencias Agropecuarias y Biotecnología",
+                                                    "campo_sni": "Ciencias Ambientales",
+                                                    "disciplina_sni": "Ingeniería Ambiental"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Análisis de aguas residuales a los sistemas de alcantarillado urbano o municipal",
+                                            "descripción": "NOM-002-SEMARNAT-1996",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ciencias Agropecuarias y Biotecnología",
+                                                    "campo_sni": "Ciencias Ambientales",
+                                                    "disciplina_sni": "Ingeniería Ambiental"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Aguas residuales tratadas que se reúsen en servicios al público",
+                                            "descripción": "NOM-003-SEMARNAT-1997",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ciencias Agropecuarias y Biotecnología",
+                                                    "campo_sni": "Ciencias Ambientales",
+                                                    "disciplina_sni": "Ingeniería Ambiental"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Análisis individuales aplicables a aguas residuales, tratadas y naturales",
+                                            "descripción": "Análisis específicos para diferentes tipos de aguas.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ciencias Agropecuarias y Biotecnología",
+                                                    "campo_sni": "Ciencias Ambientales",
+                                                    "disciplina_sni": "Ingeniería Ambiental"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "CUERO-CALZADO",
+                                    "descripción_del_área": "Metodologías de Normas Oficiales, Normas Mexicanas, ISO, IMSS, CFE y ASTM para análisis de cuero y calzado.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Análisis de sustancias restringidas para su exportación",
+                                            "descripción": "Análisis de sustancias restringidas en productos de cuero y calzado.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Ingeniería Textil",
+                                                    "disciplina_sni": "Ingeniería de Materiales"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Grado de curtido",
+                                            "descripción": "Evaluación del grado de curtido en productos de cuero.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Ingeniería Textil",
+                                                    "disciplina_sni": "Ingeniería de Materiales"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Tanino combinado",
+                                            "descripción": "Determinación de tanino combinado en productos de cuero.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Ingeniería Textil",
+                                                    "disciplina_sni": "Ingeniería de Materiales"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Cenizas totales e insolubles",
+                                            "descripción": "Análisis de cenizas totales e insolubles en productos de cuero.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Ingeniería Textil",
+                                                    "disciplina_sni": "Ingeniería de Materiales"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "pH & Diferencial de pH",
+                                            "descripción": "Medición de pH y diferencial de pH en productos de cuero.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Ingeniería Textil",
+                                                    "disciplina_sni": "Ingeniería de Materiales"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Grasas y humedad",
+                                            "descripción": "Determinación de contenido de grasas y humedad en productos de cuero.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Ingeniería Textil",
+                                                    "disciplina_sni": "Ingeniería de Materiales"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Óxido de cromo y materia orgánica",
+                                            "descripción": "Análisis de óxido de cromo y materia orgánica en productos de cuero.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Ingeniería Textil",
+                                                    "disciplina_sni": "Ingeniería de Materiales"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Nitrógeno y sustancia piel",
+                                            "descripción": "Determinación de contenido de nitrógeno y sustancia piel en productos de cuero.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Ingeniería Textil",
+                                                    "disciplina_sni": "Ingeniería de Materiales"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Metales en productos de cuero",
+                                            "descripción": "Análisis de metales como plomo, cadmio, mercurio, cromo, entre otros, en productos de cuero.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Ingeniería Textil",
+                                                    "disciplina_sni": "Ingeniería de Materiales"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Cromo hexavalente",
+                                            "descripción": "Determinación de cromo hexavalente en productos de cuero.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Ingeniería Textil",
+                                                    "disciplina_sni": "Ingeniería de Materiales"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "MUESTREO Y ANÁLISIS DE RESIDUOS, SUELOS, LODOS Y BIOSÓLIDOS",
+                                    "descripción_del_área": "Análisis de residuos, suelos, lodos y biosólidos bajo criterios de diversas normas.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Residuos CRIT",
+                                            "descripción": "Análisis de residuos bajo criterios de la NOM-052-SEMARNAT-2005.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ciencias Agropecuarias y Biotecnología",
+                                                    "campo_sni": "Ciencias Ambientales",
+                                                    "disciplina_sni": "Ingeniería Ambiental"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Suelos contaminados con hidrocarburos",
+                                            "descripción": "Análisis de suelos contaminados con hidrocarburos bajo la NOM-138-SEMARNAT/SSA1-2017.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ciencias Agropecuarias y Biotecnología",
+                                                    "campo_sni": "Ciencias Ambientales",
+                                                    "disciplina_sni": "Ingeniería Ambiental"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Muestreo de suelos contaminados con metales y metaloides",
+                                            "descripción": "Análisis de suelos contaminados con metales y metaloides bajo la NOM-132-SCFI2016.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ciencias Agropecuarias y Biotecnología",
+                                                    "campo_sni": "Ciencias Ambientales",
+                                                    "disciplina_sni": "Ingeniería Ambiental"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Determinación de metales y metaloides",
+                                            "descripción": "Análisis de metales y metaloides bajo la NOM-147-SEMARNAT/SSA1-2004.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ciencias Agropecuarias y Biotecnología",
+                                                    "campo_sni": "Ciencias Ambientales",
+                                                    "disciplina_sni": "Ingeniería Ambiental"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Lodos y biosólidos para aprovechamiento y disposición final",
+                                            "descripción": "Análisis de lodos y biosólidos bajo la NOM-004-SEMARNAT-2004.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ciencias Agropecuarias y Biotecnología",
+                                                    "campo_sni": "Ciencias Ambientales",
+                                                    "disciplina_sni": "Ingeniería Ambiental"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "SERVICIOS PARA LA INDUSTRIA AUTOMOTRIZ",
+                                    "descripción_del_área": "Servicios analíticos con metodologías PV, VDA, GMW, NESS e ISO para la industria automotriz.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Emisión de Compuestos Orgánicos Volátiles (VOC´s)",
+                                            "descripción": "Análisis de emisión de compuestos orgánicos volátiles en productos automotrices.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Ingeniería Mecánica",
+                                                    "disciplina_sni": "Ingeniería Automotriz"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Emisión de Compuestos Semivolátiles",
+                                            "descripción": "Análisis de emisión de compuestos semivolátiles en productos automotrices.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Ingeniería Mecánica",
+                                                    "disciplina_sni": "Ingeniería Automotriz"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Determinación de Compuestos Carbonilos (Aldehídos y Cetonas)",
+                                            "descripción": "Análisis de compuestos carbonilos en productos automotrices.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Ingeniería Mecánica",
+                                                    "disciplina_sni": "Ingeniería Automotriz"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Determinación de formaldehídos",
+                                            "descripción": "Análisis de formaldehídos en productos automotrices.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Ingeniería Mecánica",
+                                                    "disciplina_sni": "Ingeniería Automotriz"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Cenizas, vidrio textil y carga mineral",
+                                            "descripción": "Determinación de cenizas, contenido de vidrio textil y carga mineral en productos automotrices.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Ingeniería Mecánica",
+                                                    "disciplina_sni": "Ingeniería Automotriz"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Determinación de metales en piezas plásticas y componentes",
+                                            "descripción": "Análisis de metales en piezas plásticas y componentes automotrices.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Ingeniería Mecánica",
+                                                    "disciplina_sni": "Ingeniería Automotriz"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Caracterización de materias primas, producto terminado y productos contaminados",
+                                            "descripción": "Análisis y caracterización de materias primas, productos terminados y productos contaminados en la industria automotriz.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Ingeniería Mecánica",
+                                                    "disciplina_sni": "Ingeniería Automotriz"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "RoHS",
+                                    "descripción_del_área": "Directiva 2011/65/UE de Restricción de ciertas Sustancias Peligrosas en aparatos eléctricos y electrónicos.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Determinación de plomo",
+                                            "descripción": "Análisis de plomo en productos electrónicos.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Ingeniería Eléctrica y Electrónica",
+                                                    "disciplina_sni": "Ingeniería Electrónica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Determinación de cadmio",
+                                            "descripción": "Análisis de cadmio en productos electrónicos.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Ingeniería Eléctrica y Electrónica",
+                                                    "disciplina_sni": "Ingeniería Electrónica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Determinación de mercurio",
+                                            "descripción": "Análisis de mercurio en productos electrónicos.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Ingeniería Eléctrica y Electrónica",
+                                                    "disciplina_sni": "Ingeniería Electrónica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Determinación de cromo hexavalente (Cr VI)",
+                                            "descripción": "Análisis de cromo hexavalente en productos electrónicos.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Ingeniería Eléctrica y Electrónica",
+                                                    "disciplina_sni": "Ingeniería Electrónica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Determinación de PBB",
+                                            "descripción": "Análisis de bifenilos polibromados en productos electrónicos.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Ingeniería Eléctrica y Electrónica",
+                                                    "disciplina_sni": "Ingeniería Electrónica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Determinación de PBDE",
+                                            "descripción": "Análisis de éteres difenilos polibromados en productos electrónicos.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Ingeniería Eléctrica y Electrónica",
+                                                    "disciplina_sni": "Ingeniería Electrónica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Determinación de ftalatos",
+                                            "descripción": "Análisis de ftalatos en productos electrónicos.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Ingeniería Eléctrica y Electrónica",
+                                                    "disciplina_sni": "Ingeniería Electrónica"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "PRODUCTOS QUÍMICOS, TEXTILES Y POLÍMEROS",
+                                    "descripción_del_área": "Caracterización de productos químicos, textiles y polímeros empleando diferentes técnicas analíticas.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Análisis infrarrojo (FTIR)",
+                                            "descripción": "Caracterización de productos mediante espectroscopía infrarroja.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ciencias Físico Matemáticas y Ciencias de la tierra",
+                                                    "campo_sni": "Química",
+                                                    "disciplina_sni": "Química Analítica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Análisis termogravimétrico (TGA)",
+                                            "descripción": "Caracterización de productos mediante análisis termogravimétrico.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ciencias Físico Matemáticas y Ciencias de la tierra",
+                                                    "campo_sni": "Química",
+                                                    "disciplina_sni": "Química Analítica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Análisis elemental destructivo (ICP / AA) y no destructivo (HDXRF)",
+                                            "descripción": "Caracterización de productos mediante análisis elemental destructivo y no destructivo.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ciencias Físico Matemáticas y Ciencias de la tierra",
+                                                    "campo_sni": "Química",
+                                                    "disciplina_sni": "Química Analítica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Corridas cromatográficas",
+                                            "descripción": "Caracterización de productos mediante técnicas cromatográficas.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ciencias Físico Matemáticas y Ciencias de la tierra",
+                                                    "campo_sni": "Química",
+                                                    "disciplina_sni": "Química Analítica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Análisis de pirolisis",
+                                            "descripción": "Caracterización de productos mediante técnicas de pirolisis.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ciencias Físico Matemáticas y Ciencias de la tierra",
+                                                    "campo_sni": "Química",
+                                                    "disciplina_sni": "Química Analítica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Análisis por titulación",
+                                            "descripción": "Caracterización de productos mediante técnicas de titulación.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ciencias Físico Matemáticas y Ciencias de la tierra",
+                                                    "campo_sni": "Química",
+                                                    "disciplina_sni": "Química Analítica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Análisis gravimétricos",
+                                            "descripción": "Caracterización de productos mediante técnicas gravimétricas.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ciencias Físico Matemáticas y Ciencias de la tierra",
+                                                    "campo_sni": "Química",
+                                                    "disciplina_sni": "Química Analítica"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "departamento": "Metrología",
+                            "descripción_departamento": "ACREDITADO BAJO LA NORMA NMX-EC-17025-IMNC Y Certificados en ISO-9001-2015, para garantizarle resultados confiables a través de nuestros especialistas altamente calificados y comprometidos en brindarle un servicio de excelencia.",
+                            "áreas": [
+                                {
+                                    "área": "CiatecMASA",
+                                    "descripción_del_área": "Instrumentos de medición de masa y pesas para diversas aplicaciones industriales y científicas.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Pesas de 1 mg hasta 50 kg clase F1 e inferiores",
+                                            "descripción": "Calibración y medición de pesas de diversas clases y rangos.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Metrología",
+                                                    "disciplina_sni": "Instrumentación y medidas"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Objetos sólidos no normalizados (masas) desde 1 mg hasta 50 kg",
+                                            "descripción": "Calibración y medición de objetos sólidos no normalizados.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Metrología",
+                                                    "disciplina_sni": "Instrumentación y medidas"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Instrumentos para pesar de funcionamiento no automático",
+                                            "descripción": "Calibración y medición de balanzas y básculas.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Metrología",
+                                                    "disciplina_sni": "Instrumentación y medidas"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "CiatecVOLUMEN",
+                                    "descripción_del_área": "Instrumentos de medición volumétrica para aplicaciones industriales y científicas.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Micropipetas, microjeringas, pipetas de pistón, dispensadores, buretas de pistón, jeringas, etc.",
+                                            "descripción": "Calibración y medición de instrumentos de medición volumétrica.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Metrología",
+                                                    "disciplina_sni": "Instrumentación y medidas"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Cristalería de laboratorio",
+                                            "descripción": "Calibración y medición de matraces volumétricos, pipetas volumétricas y graduadas, probetas, buretas, picnómetros, etc.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Metrología",
+                                                    "disciplina_sni": "Instrumentación y medidas"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Medidas volumétricas metálicas de cuello graduado hasta 50 L",
+                                            "descripción": "Calibración y medición de medidas volumétricas metálicas.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Metrología",
+                                                    "disciplina_sni": "Instrumentación y medidas"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Determinación de volumen de recipientes y ajuste de la escala o aforo",
+                                            "descripción": "Servicio de trazabilidad y ajuste de la escala de recipientes volumétricos.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Metrología",
+                                                    "disciplina_sni": "Instrumentación y medidas"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "CiatecTEMPERATURA",
+                                    "descripción_del_área": "Instrumentos de medición de temperatura para aplicaciones industriales y científicas.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Termómetros de líquido en vidrio (TLV)",
+                                            "descripción": "Calibración y medición de termómetros de líquido en vidrio.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Metrología",
+                                                    "disciplina_sni": "Instrumentación y medidas"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Termómetros de lectura directa",
+                                            "descripción": "Calibración y medición de termómetros de lectura directa.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Metrología",
+                                                    "disciplina_sni": "Instrumentación y medidas"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Caracterización de sistemas de temperatura controlada",
+                                            "descripción": "Calibración y medición de sistemas de temperatura controlada como muflas, hornos, incubadoras, cámaras frías, baños, etc.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Metrología",
+                                                    "disciplina_sni": "Instrumentación y medidas"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Reunión de columna separada en termómetros de líquido en vidrio (TLV)",
+                                            "descripción": "Reunión de columna separada en termómetros de líquido en vidrio.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Metrología",
+                                                    "disciplina_sni": "Instrumentación y medidas"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "CiatecDIMENSIONAL",
+                                    "descripción_del_área": "Instrumentos de medición dimensional para aplicaciones industriales y científicas.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Mediciones en CMM de piezas prismáticas y con geometría compleja",
+                                            "descripción": "Mediciones dentro de un volumen de (1 000 x 1 200 x 600) mm.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Metrología",
+                                                    "disciplina_sni": "Instrumentación y medidas"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Mediciones en comparador óptico",
+                                            "descripción": "Mediciones de (0 a 250) mm.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Metrología",
+                                                    "disciplina_sni": "Instrumentación y medidas"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Calibración de instrumentos de medición longitudinal",
+                                            "descripción": "Calibración de calibradores, micrómetros, medidores de espesor y profundidad, reglas, cintas y flexómetros, indicadores de vástago recto y tipo palanca, medidores de altura, cuentámetros y cintas PI.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Metrología",
+                                                    "disciplina_sni": "Instrumentación y medidas"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "CiatecDENSIDAD",
+                                    "descripción_del_área": "Instrumentos de medición de densidad para aplicaciones industriales y científicas.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Densímetros de inmersión, hidrómetros, brixómetros, alcoholímetros",
+                                            "descripción": "Calibración y medición en diversas escalas como °API, °Bé, gravedad específica, etc.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Metrología",
+                                                    "disciplina_sni": "Instrumentación y medidas"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Densímetros digitales",
+                                            "descripción": "Calibración y medición con densímetros digitales.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Metrología",
+                                                    "disciplina_sni": "Instrumentación y medidas"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Determinación de volumen de sólidos y líquidos",
+                                            "descripción": "Servicios de trazabilidad para la determinación de volumen.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Metrología",
+                                                    "disciplina_sni": "Instrumentación y medidas"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "CiatecPRESIÓN",
+                                    "descripción_del_área": "Instrumentos de medición de presión para aplicaciones industriales y científicas.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Manómetros",
+                                            "descripción": "Calibración y medición de manómetros.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Metrología",
+                                                    "disciplina_sni": "Instrumentación y medidas"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Vacuómetros",
+                                            "descripción": "Calibración y medición de vacuómetros.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Metrología",
+                                                    "disciplina_sni": "Instrumentación y medidas"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Barómetros",
+                                            "descripción": "Calibración y medición de barómetros.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Metrología",
+                                                    "disciplina_sni": "Instrumentación y medidas"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "CiatecDUREZA",
+                                    "descripción_del_área": "Instrumentos de medición de dureza para aplicaciones industriales y científicas.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Durómetros portátiles en las escalas Shore y Asker",
+                                            "descripción": "Calibración y medición en diversas escalas Shore y Asker.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Metrología",
+                                                    "disciplina_sni": "Instrumentación y medidas"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "CiatecTIEMPO",
+                                    "descripción_del_área": "Instrumentos de medición de tiempo para aplicaciones industriales y científicas.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Cronómetros, relojes, contadores de tiempo",
+                                            "descripción": "Calibración y medición de instrumentos de tiempo en intervalos de 1 min a 24 h.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Metrología",
+                                                    "disciplina_sni": "Instrumentación y medidas"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "CiatecVISCOSIDAD",
+                                    "descripción_del_área": "Instrumentos de medición de viscosidad para aplicaciones industriales y científicas.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Viscosímetros tipo capilar",
+                                            "descripción": "Calibración y medición de viscosímetros tipo capilar como Ubbelohde, Cannon Fenske, Routine, etc.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Metrología",
+                                                    "disciplina_sni": "Instrumentación y medidas"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Viscosímetros Rotacionales",
+                                            "descripción": "Calibración y medición de viscosímetros rotacionales como Brookfield, Fungilab, Cannon, etc.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Metrología",
+                                                    "disciplina_sni": "Instrumentación y medidas"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Viscosímetros tipo Copas",
+                                            "descripción": "Calibración y medición de viscosímetros tipo copas como Ford, Zahn, ASTM, Stein Hall, Harp Love, etc.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Metrología",
+                                                    "disciplina_sni": "Instrumentación y medidas"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Viscosímetros de orificio",
+                                            "descripción": "Calibración y medición de viscosímetros de orificio como Saybolt, Furol.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Metrología",
+                                                    "disciplina_sni": "Instrumentación y medidas"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "CiatecHUMEDAD",
+                                    "descripción_del_área": "Instrumentos de medición de humedad para aplicaciones industriales y científicas.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Calibración de medidores de humedad",
+                                            "descripción": "Calibración para sistemas de condiciones ambientales.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Metrología",
+                                                    "disciplina_sni": "Instrumentación y medidas"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Hidrómetros calibrados en el intervalo de 10 %HR a 95 %HR",
+                                            "descripción": "Calibración de hidrómetros para medir humedad relativa.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Metrología",
+                                                    "disciplina_sni": "Instrumentación y medidas"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "CiatecLABORATORIO MÓVIL",
+                                    "descripción_del_área": "Vehículo especializado y de operación autónoma para servicios de calibración en sitio.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Servicios de calibración en sitio",
+                                            "descripción": "Calibración y traslado seguro de instrumentos en un laboratorio móvil.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Metrología",
+                                                    "disciplina_sni": "Instrumentación y medidas"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "departamento": "Pruebas físico mecánicas",
+                            "descripción_departamento": "ACREDITADOS BAJO LA NORMA NMX-EC-17025-IMNC-2018 Y Certificados en ISO-9001-2015, para garantizarle resultados confiables a través de nuestros especialistas altamente calificados y comprometidos en brindarle un servicio de excelencia.",
+                            "áreas": [
+                                {
+                                    "área": "CiatecPRUEBAS PARA AIRBAGS",
+                                    "descripción_del_área": "Con la mejor infraestructura del país garantizamos excelencia y calidad a la industria automotriz, contribuyendo a la reducción de costos y a la disminución del tiempo que implica a las armadoras de la región, realizar estas pruebas en el extranjero.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Pruebas de Desempeño de Bolsas de Aire",
+                                            "descripción": "Evaluación del desempeño de bolsas de aire utilizando cabina de pruebas tipo “Walk-in Chamber” y cámaras de video especializadas.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Ingeniería Automotriz",
+                                                    "disciplina_sni": "Seguridad Automotriz"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "CiatecPRUEBAS A PARTES AUTOMOTRICES",
+                                    "descripción_del_área": "Certificación y evaluación de polímeros, textil y cuero para ensambles o partes automotrices.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Evaluación de Polímeros y Materiales",
+                                            "descripción": "Evaluación de propiedades de materiales como hules, plásticos y espumados para su uso en la industria automotriz.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Ingeniería Automotriz",
+                                                    "disciplina_sni": "Materiales Automotrices"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "CiatecPRUEBAS A POLÍMEROS",
+                                    "descripción_del_área": "Evaluación de las propiedades de materiales de hule y plástico.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Propiedades Mecánicas y Fisicoquímicas de Polímeros",
+                                            "descripción": "Pruebas de dureza, propiedades tensiles, resistencia a impacto, resistencia a productos químicos, intemperismo y caracterización físico-química.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Ingeniería de Materiales",
+                                                    "disciplina_sni": "Polímeros"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "CiatecPRUEBAS A CARTÓN Y PAPEL",
+                                    "descripción_del_área": "Pruebas bajo las normas TAPPI, ASTM y NMX para evaluar las propiedades de cartón y papel.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Evaluación de Propiedades de Cartón y Papel",
+                                            "descripción": "Pruebas de dimensionamiento, gramaje, tipo de flauta, resistencia al estallamiento, compresión de caja y canto, propiedades tensiles y color.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Ingeniería de Materiales",
+                                                    "disciplina_sni": "Materiales Celulósicos"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "CiatecPRUEBAS A CUERO Y CALZADO",
+                                    "descripción_del_área": "Evaluación de la calidad, confort y desempeño de materia prima y productos terminados de cuero y calzado.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Evaluación de Calidad y Desempeño de Cuero y Calzado",
+                                            "descripción": "Pruebas de calidad para calzado de diferentes tipos y usos, así como marroquinería y vestimenta.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Ingeniería Textil",
+                                                    "disciplina_sni": "Cuero y Calzado"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "departamento": "Biomecánica",
+                            "descripción_departamento": "LABORATORIO ÚNICO EN SU TIPO EN AMÉRICA LATINA Equipos con tecnología de punta que permiten estudiar anormalidades en el ciclo de marcha, alteraciones en los pies, cambios en la distribución de presión plantar, asimetría en la estructura corporal, estudios de antropometría, ergonomía, análisis de fatiga para músculos superficiales.",
+                            "áreas": [
+                                {
+                                    "área": "Escáner de cuerpo completo 3D",
+                                    "descripción_del_área": "Sistema óptico de exploración láser aplicable al diseño de espacios, productos médicos y herramientas.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Diseño de espacios",
+                                            "descripción": "Aplicable al diseño de viviendas, oficinas, hospitales, fábricas, autos, muebles, etc.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Ingeniería de la Construcción, Instalaciones y Sistemas",
+                                                    "disciplina_sni": "Arquitectura, Construcción y Urbanismo"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Diseño de productos médicos",
+                                            "descripción": "Aplicable al diseño de prótesis y vestuario especializado.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Medicina y Ciencias de la Salud",
+                                                    "campo_sni": "Ciencias de la Salud",
+                                                    "disciplina_sni": "Medicina"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Diseño de herramientas",
+                                            "descripción": "Aplicable al diseño de herramientas médicas y de trabajo.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Ingeniería de Producción",
+                                                    "disciplina_sni": "Ingeniería Industrial"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "Escáner de pie, INFOOT 3D",
+                                    "descripción_del_área": "Utilizado principalmente para el diseño de hormas para calzado personalizado, calzado para pies con patologías y diseño de órtesis.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Diseño de hormas para calzado personalizado",
+                                            "descripción": "",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Ingeniería de Producción",
+                                                    "disciplina_sni": "Ingeniería Textil"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Calzado para pies con patologías",
+                                            "descripción": "",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Medicina y Ciencias de la Salud",
+                                                    "campo_sni": "Ciencias de la Salud",
+                                                    "disciplina_sni": "Medicina"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Diseño de órtesis",
+                                            "descripción": "",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Medicina y Ciencias de la Salud",
+                                                    "campo_sni": "Ciencias de la Salud",
+                                                    "disciplina_sni": "Medicina"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "Equipo para captura de movimiento en 3D",
+                                    "descripción_del_área": "Utilizado en la industria del cine para la animación cinética de personajes, en videojuegos, práctica deportiva, análisis de marcha, rehabilitación, postura y evaluación de medios de locomoción en medicina.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Animación cinética de personajes",
+                                            "descripción": "Aplicable en la industria del cine y videojuegos.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Humanidades y Ciencias de la Conducta",
+                                                    "campo_sni": "Artes, Letras y Lenguas",
+                                                    "disciplina_sni": "Artes"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Práctica deportiva",
+                                            "descripción": "Mejorar técnicas de entrenamiento, análisis de marcha, rehabilitación y postura.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Medicina y Ciencias de la Salud",
+                                                    "campo_sni": "Ciencias del Deporte",
+                                                    "disciplina_sni": "Educación Física"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Evaluación de medios de locomoción",
+                                            "descripción": "Aplicable en la medicina para el análisis de marcha, rehabilitación y postura.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Medicina y Ciencias de la Salud",
+                                                    "campo_sni": "Ciencias de la Salud",
+                                                    "disciplina_sni": "Medicina"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "Equipo de baropodometría",
+                                    "descripción_del_área": "Sus mediciones establecen la pauta para diseñar y fabricar plantillas ortopédicas, proponer técnicas de rehabilitación, ejercicios de corrección de postura y diseñar elementos ortopédicos.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Diseño y fabricación de plantillas ortopédicas",
+                                            "descripción": "",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Medicina y Ciencias de la Salud",
+                                                    "campo_sni": "Ciencias de la Salud",
+                                                    "disciplina_sni": "Medicina"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Propuesta de técnicas de rehabilitación",
+                                            "descripción": "A través del análisis de la marcha y de los esfuerzos plantares.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Medicina y Ciencias de la Salud",
+                                                    "campo_sni": "Ciencias de la Salud",
+                                                    "disciplina_sni": "Medicina"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Diseño de elementos ortopédicos",
+                                            "descripción": "",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Medicina y Ciencias de la Salud",
+                                                    "campo_sni": "Ciencias de la Salud",
+                                                    "disciplina_sni": "Medicina"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "Plataformas de fuerza 3D",
+                                    "descripción_del_área": "Medición de la fuerza de reacción entre la superficie del suelo y los pies durante la marcha, utilizado en la evaluación de deportistas de alto rendimiento y definición de acciones para prevenir lesiones.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Evaluación de deportistas de alto rendimiento",
+                                            "descripción": "Mejorar su desempeño.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Medicina y Ciencias de la Salud",
+                                                    "campo_sni": "Ciencias del Deporte",
+                                                    "disciplina_sni": "Educación Física"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Prevención de lesiones en deportistas",
+                                            "descripción": "Definir acciones para prevenir lesiones.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Medicina y Ciencias de la Salud",
+                                                    "campo_sni": "Ciencias del Deporte",
+                                                    "disciplina_sni": "Educación Física"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "Electromiografía de Superficie (EMGs)",
+                                    "descripción_del_área": "Medición del nivel de activación de los músculos superficiales del cuerpo humano, a través del uso de electrodos para detectar problemas neurológicos o desarrollar análisis de fatiga en atletas de alto rendimiento.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Detección de problemas neurológicos",
+                                            "descripción": "",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Medicina y Ciencias de la Salud",
+                                                    "campo_sni": "Ciencias de la Salud",
+                                                    "disciplina_sni": "Medicina"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Análisis de fatiga en atletas de alto rendimiento",
+                                            "descripción": "",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Medicina y Ciencias de la Salud",
+                                                    "campo_sni": "Ciencias del Deporte",
+                                                    "disciplina_sni": "Educación Física"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "Máquina de control numérico computarizado",
+                                    "descripción_del_área": "Utilizada en la manufactura de componentes ortopédicos.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Manufactura de componentes ortopédicos",
+                                            "descripción": "",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Ingeniería de Producción",
+                                                    "disciplina_sni": "Ingeniería Industrial"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "redes_sociales": [
+                {
+                    "red": "Facebook",
+                    "identificador": "https://www.facebook.com/ciatec.mx",
+                    "activa": true,
+                    "propósito": "difusión científica"
+                },
+                {
+                    "red": "YouTube",
+                    "identificador": "https://www.youtube.com/ciatecMX",
+                    "activa": true,
+                    "propósito": "difusión científica"
+                },
+                {
+                    "red": "LinkedIn",
+                    "identificador": "https://www.linkedin.com/company/ciatec/",
+                    "activa": true,
+                    "propósito": "difusión científica"
+                }
+            ]
+        }
+    ]
+}
