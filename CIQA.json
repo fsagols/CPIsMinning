@@ -1,0 +1,501 @@
+{
+    "cpis": [
+        {
+            "nombre_cpi": "Centro de Investigacion en quimica aplicada",
+            "siglas_cpi": "CIQA",
+            "descripción_breve": "Somos un centro público de investigación del Sistema CONACYT ubicado en la ciudad de Saltillo, Coahuila, y contamos con una unidad en la ciudad de Monterrey, Nuevo León.",
+            "descripción": "Especializado en química, diseño y transformación de polímeros, materiales avanzados; biociencias, agrotecnología, medio ambiente, recursos naturales y disciplinas afines, realizamos:Investigación científica básica y aplicadaDesarrollo experimentalInnovación tecnológicaAsistencia técnicaPruebas especializadas de caracterización química, ensayos fisicomecánicos e instrumentación analíticaFormación y entrenamiento especializado de capital humano de alto nivelDifusión y divulgación con la sociedad",
+            "misión": " Realizar actividades de investigación científica básica y aplicada, el desarrollo experimental, la innovación tecnológica y la formación especializada de capital humano de alto nivel en los campos de la química, polímeros, materiales, biotecnología, medio ambiente, recursos naturales y disciplinas afines, así como difundir los resultados de sus investigaciones.",
+            "visión": "Ser líder nacional en el área de polímeros y nanomateriales, con reconocimiento internacional en investigación, desarrollo tecnológico, innovación y formación de capital humano.Ser un socio tecnológico de alto valor para el sector industrial.Ser una institución con suficiencia económica.Contribuir de manera relevante a la solución de problemas nacionales, regionales y locales en nuestras áreas de competencia.",
+            "titular": "JULIETA TORRES GONZÁLEZ",
+            "fecha_designación_titular": "2023",
+            "grado_académico_titular": "Doctor",
+            "especialidad_titular": "Ciencia e Ingeniería de Materiales",
+            "origen": "La gestación del CIQA se dio en el año de 1972 cuando la Comisión Nacional de Zonas Áridas, el Consejo Nacional de Ciencia y Tecnología y la Facultad de Química de la Universidad Nacional Autónoma de México iniciaron un proyecto buscando impulsar el desarrollo de las zonas áridas de México. El uso del hule y la industria del plástico estaban en pleno auge y crecimiento. El interés mundial estaba vuelto hacia él por sus múltiples beneficios y economía, pero comenzaba ya la preocupación energética y por el cuidado del medio ambiente. En Coahuila se instalaba la primera planta automotriz: General Motors.",
+            "fecha_creación": "1972-01-01",
+            "historia_establecimiento": "El Dr. Enrique Campos López fue el primer Director General hasta el año de 1983, seguido del Dr. Lothar Krause Sennewald hasta 1992, el Dr. Luis Francisco Ramos de Valle hasta el año 2002 y el Dr. Juan Méndez Nonell hasta el 2012. Actualmente la institución es dirigida por el Dr. Oliverio Santiago Rodríguez Fernandez. Durante los diferentes periodos se enfrentaron diferentes retos y oportunidades que fueron marcando a la entidad como la especialización de sus temas de investigación y servicios, la apertura y cierre de nuevas áreas, la re-categorización y re-organización del personal, el cambio de paradigma para dar prioridad a la comercialización y, en los años más recientes, la transferencia de tecnología y la incorporación de la divulgación en sus actividades. Durante todos esos años, la complejidad de su organización fue marcando a su administración también.",
+            "contexto_histórico": "La gestación del CIQA se dio en el año de 1972 cuando la Comisión Nacional de Zonas Áridas, el Consejo Nacional de Ciencia y Tecnología y la Facultad de Química de la Universidad Nacional Autónoma de México iniciaron un proyecto buscando impulsar el desarrollo de las zonas áridas de México. El uso del hule y la industria del plástico estaban en pleno auge y crecimiento. El interés mundial estaba vuelto hacia él por sus múltiples beneficios y economía, pero comenzaba ya la preocupación energética y por el cuidado del medio ambiente. En Coahuila se instalaba la primera planta automotriz: General Motors.",
+            "tipo_entidad_legal": "Paraestatal asimilada al régimen de organismos descentralizados.",
+            "figura_jurídica": "Organismo Descentralizado",
+            "marco_normativo": "Ley Orgánica de la Administración Pública Federal. Ley Federal de las Entidades Paraestatales. Ley de Ciencia y Tecnología. Manual de Organización del Centro de Investigación en Química Aplicada.",
+            "presupuesto": [
+                {
+                    "año": 2024,
+                    "monto": 228730867
+                },
+                {
+                    "año": 2023,
+                    "monto": 216858423
+                },
+                {
+                    "año": 2022,
+                    "monto": 204726822
+                }
+            ],
+            "programas_académicos": [
+                {
+                    "programa": "Especialización en Química Aplicada",
+                    "disciplinas": [
+                        {
+                            "area_sni": "Biología y Química",
+                            "campo_sni": "QUÍMICA",
+                            "disciplina_sni": "QUÍMICA DE POLÍMEROS"
+                        },
+                        {
+                            "area_sni": "Biología y Química",
+                            "campo_sni": "QUÍMICA",
+                            "disciplina_sni": "QUÍMICA INORGÁNICA"
+                        },
+                        {
+                            "area_sni": "Biología y Química",
+                            "campo_sni": "CIENCIAS AMBIENTALES",
+                            "disciplina_sni": "QUÍMICA DE RECURSOS NATURALES"
+                        },
+                        {
+                            "area_sni": "Biología y Química",
+                            "campo_sni": "QUÍMICA",
+                            "disciplina_sni": "QUÍMICA ORGÁNICA"
+                        }
+                    ],
+                    "nivel": "maestría",
+                    "modalidad": "regular",
+                    "vía": "presencial"
+                },
+                {
+                    "programa": "Maestría en Ciencias en Agroplasticultura",
+                    "disciplinas": [
+                        {
+                            "area_sni": "Ciencias Agropecuarias y Biotecnología",
+                            "campo_sni": "AGRONOMÍA",
+                            "disciplina_sni": "AGROPLASTICULTURA"
+                        },
+                        {
+                            "area_sni": "Ciencias Agropecuarias y Biotecnología",
+                            "campo_sni": "INGENIERÍA GENETICA",
+                            "disciplina_sni": "BIOTECNOLOGIA VEGETAL"
+                        },
+                        {
+                            "area_sni": "Ciencias Agropecuarias y Biotecnología",
+                            "campo_sni": "INGENIERÍA GENETICA",
+                            "disciplina_sni": "NANOTECNOLOGÍA"
+                        },
+                        {
+                            "area_sni": "Ciencias Agropecuarias y Biotecnología",
+                            "campo_sni": "AGRONOMÍA",
+                            "disciplina_sni": "CULTIVOS EN AMBIENTES CONTROLADOS"
+                        }
+                    ],
+                    "nivel": "maestría",
+                    "modalidad": "regular",
+                    "vía": "presencial"
+                },
+                {
+                    "programa": "Maestría en Tecnología de Polímeros",
+                    "disciplinas": [
+                        {
+                            "area_sni": "Ciencias Físico Matemáticas y Ciencias de la tierra",
+                            "campo_sni": "INGENIERÍA QUÍMICA",
+                            "disciplina_sni": "TECNOLOGÍA DE POLÍMEROS"
+                        },
+                        {
+                            "area_sni": "Ingeniería y Biotecnología",
+                            "campo_sni": "INGENIERÍA DE MATERIALES",
+                            "disciplina_sni": "POLÍMEROS Y COMPUESTOS"
+                        },
+                        {
+                            "area_sni": "Ingeniería y Biotecnología",
+                            "campo_sni": "INGENIERÍA DE MATERIALES",
+                            "disciplina_sni": "SÍNTESIS Y CARACTERIZACIÓN DE MATERIALES"
+                        }
+                    ],
+                    "nivel": "maestría",
+                    "modalidad": "regular",
+                    "vía": "presencial"
+                },
+                {
+                    "programa": "Doctorado en Tecnología de Polímeros",
+                    "disciplinas": [
+                        {
+                            "area_sni": "Ciencias Físico Matemáticas y Ciencias de la tierra",
+                            "campo_sni": "INGENIERÍA QUÍMICA",
+                            "disciplina_sni": "TECNOLOGÍA DE POLÍMEROS"
+                        },
+                        {
+                            "area_sni": "Ingeniería y Biotecnología",
+                            "campo_sni": "INGENIERÍA DE MATERIALES",
+                            "disciplina_sni": "POLÍMEROS Y COMPUESTOS"
+                        },
+                        {
+                            "area_sni": "Ingeniería y Biotecnología",
+                            "campo_sni": "INGENIERÍA DE MATERIALES",
+                            "disciplina_sni": "SÍNTESIS Y CARACTERIZACIÓN DE MATERIALES"
+                        }
+                    ],
+                    "nivel": "doctorado",
+                    "modalidad": "regular",
+                    "vía": "presencial"
+                }
+            ],
+            "unidades": [
+                {
+                    "nombre_unidad": "CIQA",
+                    "descripción_unidad": "Somos un centro público de investigación del Sistema CONACYT ubicado en la ciudad de Saltillo, Coahuila, y contamos con una unidad en la ciudad de Monterrey, Nuevo León.",
+                    "dirección_postal": "25294",
+                    "latitud": 25.45919807324866,
+                    "longitud": -100.96794420546446,
+                    "departamentos": [
+                        {
+                            "departamento": "Investigacion y desarrollo.",
+                            "descripción_departamento": "La investigación que realiza el CIQA se enfoca al desarrollo de nuevos y mejores materiales poliméricos para las diferentes aplicaciones que puede tener un plástico.",
+                            "áreas": [
+                                {
+                                    "área": "Química Macromolecular y Nanomateriales",
+                                    "descripción_del_área": "Se conjunta aquí los trabajos relativos a la aplicación de las técnicas de polimerización convencionales, modificadas o emergentes para la obtención de materiales novedosos o con propiedades mejoradas.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Catalizadores Metaloceno",
+                                            "descripción": "Proyectos de preparación y aplicación de catalizadores tipo metalocenos para polimerizaciones por coordinación orientados a la obtención de materiales con propiedades mejoradas.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Ingeniería de materiales",
+                                                    "disciplina_sni": "Materiales y procesos de fabricación"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Polimerización Controlada (viviente)",
+                                            "descripción": "Copolímeros en bloque de composición y peso molecular controlados e índices de polidispersidad estrechos, mediante técnicas emergentes de polimerización por radicales libres.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Ingeniería química",
+                                                    "disciplina_sni": "Ingeniería de reacciones químicas"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Modificación de Polímeros",
+                                            "descripción": "Síntesis orgánica de grupos funcionales, síntesis de monómeros y oligómeros funcionales, funcionalización de monómeros y polímeros.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Ingeniería de materiales",
+                                                    "disciplina_sni": "Materiales y procesos de fabricación"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "Procesos de Polimerización",
+                                    "descripción_del_área": "Esta área se enfoca en la obtención y evaluación de polímeros bio-basados, polimerización en heterofase, modelado y escalamiento de procesos químicos y procesos de reciclado químico de plásticos.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Ingeniería de Obtención de Polímeros Bio-Basados",
+                                            "descripción": "Obtención y evaluación de polímeros bio-basados partiendo de monómeros de fuente renovable.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Ingeniería química",
+                                                    "disciplina_sni": "Ingeniería de reacciones químicas"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Polimerización en Heterofase: Aplicación en Medicina",
+                                            "descripción": "Cargado de distintos fármacos en partículas poliméricas obtenidas a partir de procesos de polimerización heterogéneos.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ciencias Físico Matemáticas y Ciencias de la tierra",
+                                                    "campo_sni": "Química",
+                                                    "disciplina_sni": "Química macromolecular"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Modelado y Escalamiento de Procesos Químicos",
+                                            "descripción": "Modelamiento matemático de procesos de polimerización en cadena y otros procesos químicos.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Ingeniería química",
+                                                    "disciplina_sni": "Ingeniería de procesos químicos"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Procesos de Reciclado Químico de Plásticos",
+                                            "descripción": "Reciclado terciario o químico de polímeros provenientes de desechos, aplicando procesos de despolimerización favorecidos con catalizadores.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Ingeniería química",
+                                                    "disciplina_sni": "Ingeniería ambiental"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "Materiales Avanzados",
+                                    "descripción_del_área": "Esta área incluye materiales optoelectrónicos, nanomateriales y biomateriales con aplicaciones biomédicas o industriales.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Materiales Optoelectrónicos",
+                                            "descripción": "Polímeros convencionales funcionalizados con propiedades fotoluminiscentes bajo luz UV.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Ingeniería de materiales",
+                                                    "disciplina_sni": "Materiales y dispositivos optoelectrónicos"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Nanomateriales",
+                                            "descripción": "Preparación de materiales heterogéneos con estructuras nanométricas con propiedades especiales.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Ingeniería de materiales",
+                                                    "disciplina_sni": "Nanotecnología"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Biomateriales",
+                                            "descripción": "Preparación de materiales sintetizados por vías biológicas o biocompatibles con aplicaciones biomédicas.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ciencias Agropecuarias y Biotecnología",
+                                                    "campo_sni": "Biotecnología",
+                                                    "disciplina_sni": "Biomateriales"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "Procesos de Transformación de Plásticos",
+                                    "descripción_del_área": "Esta área abarca el procesado reactivo, mezclas y composites.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Procesado Reactivo",
+                                            "descripción": "Modificaciones físicas y químicas de polímeros y su integración física con otros para obtener materiales con propiedades mejoradas.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Ingeniería química",
+                                                    "disciplina_sni": "Tecnología de polímeros"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Mezclas y Composites",
+                                            "descripción": "Preparación de cargas novedosas para matrices poliméricas y modificación de polímeros para facilitar la aceptación de cargas.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Ingeniería de materiales",
+                                                    "disciplina_sni": "Materiales compuestos"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "Biociencias y Agrotecnología",
+                                    "descripción_del_área": "Combina conocimientos y experiencia agronómicos y del plástico para el desarrollo de técnicas de agroplasticultura aplicables a cultivos comerciales.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Tecnologías en agroplasticultura",
+                                            "descripción": "Investigación en formulación y evaluación de películas para cubiertas de invernaderos, mallas, túneles, etc.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ciencias Agropecuarias y Biotecnología",
+                                                    "campo_sni": "Biotecnología",
+                                                    "disciplina_sni": "Tecnología de cultivos"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Bio y nanotecnología en agricultura protegida",
+                                            "descripción": "Uso de herramientas o procesos bio- y nanotecnológicos en sistemas de producción en ambientes controlados y en la agricultura intensiva.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ciencias Agropecuarias y Biotecnología",
+                                                    "campo_sni": "Biotecnología",
+                                                    "disciplina_sni": "Nanotecnología"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Uso eficiente del agua y fertirriego",
+                                            "descripción": "Eficientar agua y fertilizantes sin comprometer los sistemas agrícolas protegidos y a campo abierto.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ciencias Agropecuarias y Biotecnología",
+                                                    "campo_sni": "Biotecnología",
+                                                    "disciplina_sni": "Manejo del agua"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "departamento": "Servicios para la industria",
+                            "descripción_departamento": "Los laboratorios del CIQA cuentan con pruebas químicas, físicas, mecánicas y de microscopía que permiten proveer mediciones a materias primas o a productos plásticos. Algunas de estas pruebas están acreditadas por la Entidad Mexicana de Acreditación.",
+                            "áreas": [
+                                {
+                                    "área": "Investigación y Desarrollo",
+                                    "descripción_del_área": "La investigación se enfoca al desarrollo de nuevos y mejores materiales poliméricos para diversas aplicaciones, involucrando toda la cadena de producción del plástico.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Desarrollo de nuevos materiales poliméricos",
+                                            "descripción": "Investigación para el desarrollo de materiales poliméricos aplicables en empaques, recubrimientos, transportación de fármacos, entre otros.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ciencias Físico Matemáticas y Ciencias de la tierra",
+                                                    "campo_sni": "Química",
+                                                    "disciplina_sni": "Química macromolecular"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Mejoramiento de materiales avanzados",
+                                            "descripción": "Desarrollo de materiales avanzados para resolver necesidades como disposición y aplicaciones del grafeno, biocompatibilidad de materiales para prótesis, etc.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Ingeniería de materiales",
+                                                    "disciplina_sni": "Materiales avanzados"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Producción agrícola sustentable y de precisión",
+                                            "descripción": "Servicios basados en bio-nanotecnología para la agricultura protegida y la industria agro-alimentaria.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ciencias Agropecuarias y Biotecnología",
+                                                    "campo_sni": "Agronomía",
+                                                    "disciplina_sni": "Tecnología agrícola"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "Asistencia Técnica",
+                                    "descripción_del_área": "El CIQA ofrece expertise para interpretar, diagnosticar y solucionar problemas relacionados con plásticos, sus aditivos, componentes y procesos de reciclado.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Asesoría en sustitución de materiales plásticos",
+                                            "descripción": "Asesoría para la sustitución de materiales plásticos, disminución de fallas en piezas plásticas, y establecimiento de condiciones óptimas de procesamiento.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Ingeniería química",
+                                                    "disciplina_sni": "Tecnología de polímeros"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Prototipado de piezas plásticas",
+                                            "descripción": "Servicios para prototipado de piezas plásticas y mejoramiento de propiedades del producto.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Ingeniería de materiales",
+                                                    "disciplina_sni": "Materiales y procesos de fabricación"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "Análisis de Materiales y Pruebas de Laboratorio",
+                                    "descripción_del_área": "El CIQA ofrece desarrollo de pruebas químicas, físicas, mecánicas y de microscopía para apoyar al sector productivo mediante servicios tecnológicos especializados.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Caracterización química y ensayos fisicomecánicos",
+                                            "descripción": "Pruebas para conocer la calidad de los productos y cumplir con exigencias de procesos y normas.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ciencias Físico Matemáticas y Ciencias de la tierra",
+                                                    "campo_sni": "Química",
+                                                    "disciplina_sni": "Química analítica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Análisis de falla en piezas plásticas",
+                                            "descripción": "Análisis y caracterización de defectos en piezas plásticas mediante técnicas de microscopía electrónica y otros métodos.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Ingeniería de materiales",
+                                                    "disciplina_sni": "Tecnología de polímeros"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Evaluaciones especializadas",
+                                            "descripción": "Estudio de la estructura mediante resonancias magnéticas nucleares, cuantificación de aditivos, evaluación de la degradación de materiales plásticos, entre otros.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Ingeniería de materiales",
+                                                    "disciplina_sni": "Nanotecnología"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "Oferta Académica y Capacitación para el Sector Industrial",
+                                    "descripción_del_área": "Programas de posgrado y educación continua para el sector industrial, incluyendo maestrías y diplomados.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Programas de posgrado modalidad profesionalizante",
+                                            "descripción": "Ofrecen estudios de maestría para personal de empresas en áreas de materiales poliméricos, procesado de plásticos, y ciencia e ingeniería de materiales.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Ingeniería química",
+                                                    "disciplina_sni": "Tecnología de polímeros"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Educación continua",
+                                            "descripción": "Diplomados, cursos teóricos y prácticos sobre materiales, procesado de plásticos, caracterización de materiales y otros temas.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Ingeniería de materiales",
+                                                    "disciplina_sni": "Materiales y procesos de fabricación"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "redes_sociales": [
+                {
+                    "red": "X",
+                    "identificador": "",
+                    "activa": false,
+                    "propósito": "difusión científica"
+                }
+            ]
+        }
+    ]
+}
