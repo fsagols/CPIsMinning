@@ -329,31 +329,31 @@
         {
             "red": "Facebook",
             "identificador": "https://www.facebook.com/gobmexico",
-            "activa": false,
+            "activa": true,
             "propósito": "difusión científica"
         },
         {
             "red": "X",
             "identificador": "https://x.com/GobiernoMX",
-            "activa": false,
+            "activa": true,
             "propósito": "difusión científica"
         },
         {
             "red": "Youtube",
             "identificador": "https://www.youtube.com/@cimav",
-            "activa": false,
+            "activa": true,
             "propósito": "difusión científica"
         },
         {
             "red": "linkedin",
             "identificador": "https://www.linkedin.com/company/cimavmx/",
-            "activa": false,
+            "activa": true,
             "propósito": "difusión científica"
         },
         {
             "red": "instagram",
             "identificador": "https://www.instagram.com/cimav.mx",
-            "activa": false,
+            "activa": true,
             "propósito": "difusión científica"
         }
     ]
