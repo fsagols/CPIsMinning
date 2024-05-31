@@ -1,0 +1,911 @@
+{
+    "cpis": [
+        {
+            "nombre_cpi": "Centro de Ingeniería y Desarrollo Industrial",
+            "siglas_cpi": "CIDESI",
+            "descripción_breve": "CIDESI contribuye al desarrollo del sector productivo del país, a través de proyectos de Investigación e Innovación, así como servicios tecnológicos especializados de alto nivel, en sus instalaciones ubicadas en los Estados de Querétaro, Nuevo León, dentro del Parque de Investigación e Innovación Tecnológica y en el Estado de México.",
+            "descripción": "CIDESI mantiene alianzas estratégicas efectivas en investigación y desarrollo, así como en formación de capital humano, con instituciones nacionales como: el Instituto de Astronomía de la Universidad Nacional Autónoma de México, la Universidad Autónoma de Querétaro y el Centro Nacional de Metrología y alianzas estratégicas con instituciones internacionales como: la Agencia de Cooperación Internacional de Japón, la Universidad de Ciencias Aplicadas de Aachen de Alemania, las Universidades de Lehigh, Texas A&M, Team Technologies y la Anderson School of Management de la Universidad de Nuevo México de Estados Unidos, la Universidad de Sheffield de Inglaterra, el Centro de Tecnologías Aeronáuticas y Tecnalia de España.CIDESI está certificado bajo la norma lSO-9001:2008 y bajo estándares específicos de importantes empresas.Ha sido distinguido con el Premio Nacional de Tecnología y con el Premio Estatal de Exportación del Estado de Querétaro. Proveedor de la industria automotriz, autopartes, aeroespacial, energía, petroquímica, electrónica, electrodomésticos y alimenticia, entre otros sectores. CIDESI es Miembro de Alianza de National lnstruments, Casa de Diseño de Texas lnstruments y Freescale.",
+            "misión": "La Misión de CIDESI es conducir un programa innovador y sustentable en manufactura (de la 4RI), con aliados nacionales e internacionales, que permita expandir continuamente las competencias de desarrollo de tecnología propia y de nuestros aliados, generando al mismo tiempo nuevos conocimientos y oportunidades, en beneficio del propio centro, del país y del mercado tecnológico mundial. Apoyando el crecimiento económico industrial manufacturero, incrementando nuestro entendimiento sobre el avance de la manufactura en el mundo y el lugar en el que nos encontramos. Trabajando con la industria nacional para desarrollar y mejorar continuamente nuestra propia tecnología en manufactura, avanzando en liderazgo tecnológico.",
+            "visión": "La visión de CIDESI es desarrollar tecnología propia y generar conocimiento relacionado, ambos en manufactura del nuevo sistema de tecnologías digitales, para el beneficio de México en el entorno mundial.",
+            "titular": "José Cruz Pineda Castillo",
+            "fecha_designación_titular": "2019",
+            "grado_académico_titular": "doctor",
+            "especialidad_titular": "Control automático y procesamiento de señales.",
+            "origen": "CIDESI fue creado por decreto presidencial, publicado en el Diario Oficial de la Federación, el viernes 9 de marzo de 1984; inicialmente, como un departamento de apoyo directo a la industria dentro del Centro de Investigación y Estudios Avanzados (CINVESTAV), se le otorgaron las instalaciones de lo que había sido el Centro Nacional de Enseñanza Técnica Industrial (CENETI), en Azcapotzalco. Como parte de las acciones del Programa de Descentralización Administrativa y, por instrucciones de la Secretaría de Educación Pública, se iniciaron acciones para reubicar el Centro a una entidad federativa del país. Después de varios estudios, se determinó que la nueva sede fuera Santiago de Querétaro",
+            "fecha_creación": "1984-03-06",
+            "historia_establecimiento": "A partir del 28 de febrero de 1992, CIDESI pasó a formar parte del Sistema de Centros Públicos del Consejo Nacional de Ciencia y Tecnología (CONACyT). Desde entonces, la interacción que CIDESI ha mantenido con los diferentes sectores de la sociedad es a través de las directrices generales del Plan Nacional de Desarrollo, y en lo particular del Programa Nacional de Ciencia y Tecnología. Por lo tanto, sus funciones principales se han enfocado en implantar procesos de manufactura y transferirlos a la industria sobre bases comerciales; contribuir al desarrollo, difusión e implantación (dentro de la industria nacional) de aquellas tecnologías que se adapten mejor a las condiciones cambiantes del país; brindar servicios de asesoría a la industria de manufactura y a las compañías de ingeniería en las áreas de diseño, control y garantía de calidad, normalización, tecnología de procesos y asimilación de tecnología. Además, dentro de sus ejes de trabajo ha estado el desarrollar proyectos de investigación aplicada y de enseñanza especializada de interés para otras instituciones, a realizarse bajo convenios específicos; capacitar personal de la industria en la ingeniería de procesos de manufactura; fabricar productos o componentes que la industria nacional ha requerido; comercializar las tecnologías desarrolladas y los resultados obtenidos de la investigación.CIDESI hoy. En la actualidad está constituido como un organismo descentralizado, con personalidad jurídica y patrimonio propio, con autonomía de decisión técnica, operativa y administrativa. Está organizado en cuatro direcciones adjuntas: aeronáutica, administración y finanzas, posgrado, e I+D+i. De éstas, se desprenden las siguientes direcciones con las que el CIDESI contribuye activamente al desarrollo del sector productivo del país, a través de proyectos de investigación e innovación.",
+            "contexto_histórico": "El Cidesi tiene por finalidad contribuir al desarrollo del sector productivo de México mediante proyectos tecnológicos de investigación e innovación, además de proveer diversos servicios tecnológicos especializados.",
+            "tipo_entidad_legal": "",
+            "figura_jurídica": "",
+            "marco_normativo": "",
+            "presupuesto": [
+                {
+                    "año": 2023,
+                    "monto": 346965700
+                }
+            ],
+            "programas_académicos": [
+                {
+                    "programa": "Doctorado Interinstitucional en Ciencia y Tecnología",
+                    "disciplinas": [
+                        {
+                            "area_sni": "Ciencias Físico Matemáticas y Ciencias de la tierra",
+                            "campo_sni": "Ciencia y Tecnología",
+                            "disciplina_sni": "Interdisciplinaria"
+                        }
+                    ],
+                    "nivel": "doctorado",
+                    "modalidad": "regular",
+                    "vía": "presencial"
+                },
+                {
+                    "programa": "Maestría Interinstitucional en Ciencia y Tecnología",
+                    "disciplinas": [
+                        {
+                            "area_sni": "Ciencias Físico Matemáticas y Ciencias de la tierra",
+                            "campo_sni": "Ciencia y Tecnología",
+                            "disciplina_sni": "Interdisciplinaria"
+                        }
+                    ],
+                    "nivel": "maestría",
+                    "modalidad": "regular",
+                    "vía": "presencial"
+                },
+                {
+                    "programa": "Maestría en Ciencias en Diseño e Innovación de Producto",
+                    "disciplinas": [
+                        {
+                            "area_sni": "Ingeniería y Biotecnología",
+                            "campo_sni": "Diseño e Innovación",
+                            "disciplina_sni": "Diseño de Producto"
+                        }
+                    ],
+                    "nivel": "maestría",
+                    "modalidad": "regular",
+                    "vía": "presencial"
+                },
+                {
+                    "programa": "Tecnólogo en Mecatrónica - Especialidad",
+                    "disciplinas": [
+                        {
+                            "area_sni": "Ingeniería y Biotecnología",
+                            "campo_sni": "Mecatrónica",
+                            "disciplina_sni": "Tecnología de Sistemas"
+                        }
+                    ],
+                    "nivel": "educación continua",
+                    "modalidad": "profesionalizante",
+                    "vía": "presencial"
+                }
+            ],
+            "unidades": [
+                {
+                    "nombre_unidad": "CIDESI",
+                    "descripción_unidad": "CIDESI contribuye al desarrollo del sector productivo del país, a través de proyectos de Investigación e Innovación, así como servicios tecnológicos especializados de alto nivel, en sus instalaciones ubicadas en los Estados de Querétaro, Nuevo León, dentro del Parque de Investigación e Innovación Tecnológica y en el Estado de México.",
+                    "dirección_postal": "76125",
+                    "latitud": 20.623675111101665,
+                    "longitud": -100.40581161876118,
+                    "departamentos": [
+                        {
+                            "departamento": "Desarrollo e Investigación",
+                            "descripción_departamento": "Desarrollo e investigacion en procesos industriales",
+                            "áreas": [
+                                {
+                                    "área": "Ingeniería en manofactura",
+                                    "descripción_del_área": "Ingeniería de manufactura, genera los procesos de manufactura para desarrollos tecnológicos del sector público y privado mediante la unificación de los procesos de mecanizado, aditivos, soldadura, tratamientos superficiales e inspección (caracterización y metrología). Lo anterior para contribuir con el desarrollo de los procesos de manufactura de los desarrollos tecnológicos del sector público y privado hacia la cuarta revolución industrial. Así, generar procesos más competitivos y eficientes en beneficio de la sociedad.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Procesos de Manufactura Especiales y Complementarios",
+                                            "descripción": "Atiende las necesidades en innovación tecnológica, economía circular, medioambiente y desarrollo tecnológico a través de actividades de investigación, desarrollo tecnológico, formación de recursos humanos y servicios Científico-Tecnológicos. Integra capacidades Científicas y Tecnológicas a partir de sus grupos de alta especialización en sistemas de manufactura, tecnología inteligente, manufactura aditiva, recubrimientos, tratamientos térmicos, polímeros y compuestos.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ciencias Físico Matemáticas y Ciencias de la tierra",
+                                                    "campo_sni": "Ingeniería Mecánica y Metalúrgica",
+                                                    "disciplina_sni": "Ingeniería de Manufactura"
+                                                },
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Tecnología de Materiales",
+                                                    "disciplina_sni": "Ciencia de Materiales"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Construcción Mecánica y Manufactura",
+                                            "descripción": "Hacemos tangibles los conceptos generados a partir de desarrollos tecnológicos y/o diseños específicos, apoyándonos en dibujos de definición de partes y/o ensambles completos, desde una pieza, hasta la construcción de una máquina o equipo, damos servicios y realizamos transferencia tecnológica en procesos de manufactura, contamos con líneas de desarrollo en manufactura digital y mecanizado de alto rendimiento para satisfacer las necesidades en los diferentes sectores del país.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ciencias Físico Matemáticas y Ciencias de la tierra",
+                                                    "campo_sni": "Ingeniería Mecánica y Metalúrgica",
+                                                    "disciplina_sni": "Ingeniería de Manufactura"
+                                                },
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Tecnología de Materiales",
+                                                    "disciplina_sni": "Ciencia de Materiales"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Manufactura Aditiva",
+                                            "descripción": "El laboratorio de Manufactura Aditiva cuenta con tecnologías para la fabricación de prototipado rápido con resinas termoestables, fotocurables y termoplásticos. La capacidad de este laboratorio se extiende hasta la fabricación de partes, componentes con geometrías complejas, moldes con canales internos, etc.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ciencias Físico Matemáticas y Ciencias de la tierra",
+                                                    "campo_sni": "Ingeniería Mecánica y Metalúrgica",
+                                                    "disciplina_sni": "Ingeniería de Manufactura"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Tratamientos Térmicos",
+                                            "descripción": "El laboratorio de tratamientos térmicos cuenta con equipos que poseen la capacidad para realizar modificaciones de la microestructura de materiales metálicos y procesamiento de partículas (metálicas y cerámicas).",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ciencias Físico Matemáticas y Ciencias de la tierra",
+                                                    "campo_sni": "Ingeniería Mecánica y Metalúrgica",
+                                                    "disciplina_sni": "Ingeniería de Manufactura"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Polímeros y Compuestos",
+                                            "descripción": "El laboratorio de polímeros y compuestos POLYCOMP se encuentra en las instalaciones de CIDESI sede Aeropuerto. Enfocados en atender la evaluación, caracterización y desarrollo de polímeros y materiales compuestos de matriz polimérica.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Tecnología de Materiales",
+                                                    "disciplina_sni": "Ciencia de Materiales"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Recubrimientos",
+                                            "descripción": "Este laboratorio se dedica a la funcionalización de superficies a través del desarrollo de recubrimientos en capa delgada o gruesa empleando tecnologías como el depósito físico en fase de vapor (PVD, de sus siglas en inglés) y láser cladding.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Tecnología de Materiales",
+                                                    "disciplina_sni": "Ciencia de Materiales"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Manufactura Digital",
+                                            "descripción": "Se enfoca en la puesta a punto de sistemas de manufactura digital y físicos en la 4RI, incluyendo modelamiento y simulación de líneas de producción en tiempo discreto, identificación de patrones y extracción de conocimiento a través de ciencia de datos, y la implementación de algoritmos de IA para la automatización de toma de decisiones.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ciencias Físico Matemáticas y Ciencias de la tierra",
+                                                    "campo_sni": "Ingeniería Mecánica y Metalúrgica",
+                                                    "disciplina_sni": "Ingeniería de Manufactura"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Mecanizado de Alto Rendimiento",
+                                            "descripción": "Línea de investigación dedicada al desarrollo de procesos de mecanizado de alto rendimiento, optimización de programación CNC y fabricación de partes de alta especificación.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ciencias Físico Matemáticas y Ciencias de la tierra",
+                                                    "campo_sni": "Ingeniería Mecánica y Metalúrgica",
+                                                    "disciplina_sni": "Ingeniería de Manufactura"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "Ingeniería mecánica",
+                                    "descripción_del_área": "Ingeniería Mecánica ofrece diseño, cálculo, validación de sistemas y componentes mecánicos, a través de mecánica experimental y simulación computacional, atendiendo al sector, gobierno, la industria e instituciones académicas, con personal especializado y herramientas comunicacionales, con la finalidad de entregar soluciones innovadoras e integrales a problemas ingenieriles, generando conocimiento, desarrollo de productos e innovación que impulsa al país hacia la manufactura de la 4RI.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Procesos de Manufactura Especiales y Complementarios",
+                                            "descripción": "Atiende las necesidades en innovación tecnológica, economía circular, medioambiente y desarrollo tecnológico a través de actividades de investigación, desarrollo tecnológico, formación de recursos humanos y servicios Científico-Tecnológicos. Integra capacidades Científicas y Tecnológicas a partir de sus grupos de alta especialización en sistemas de manufactura, tecnología inteligente, manufactura aditiva, recubrimientos, tratamientos térmicos, polímeros y compuestos.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ciencias Físico Matemáticas y Ciencias de la tierra",
+                                                    "campo_sni": "Ingeniería Mecánica y Metalúrgica",
+                                                    "disciplina_sni": "Ingeniería de Manufactura"
+                                                },
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Tecnología de Materiales",
+                                                    "disciplina_sni": "Ciencia de Materiales"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Construcción Mecánica y Manufactura",
+                                            "descripción": "Hacemos tangibles los conceptos generados a partir de desarrollos tecnológicos y/o diseños específicos, apoyándonos en dibujos de definición de partes y/o ensambles completos, desde una pieza, hasta la construcción de una máquina o equipo, damos servicios y realizamos transferencia tecnológica en procesos de manufactura, contamos con líneas de desarrollo en manufactura digital y mecanizado de alto rendimiento para satisfacer las necesidades en los diferentes sectores del país.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ciencias Físico Matemáticas y Ciencias de la tierra",
+                                                    "campo_sni": "Ingeniería Mecánica y Metalúrgica",
+                                                    "disciplina_sni": "Ingeniería de Manufactura"
+                                                },
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Tecnología de Materiales",
+                                                    "disciplina_sni": "Ciencia de Materiales"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Manufactura Aditiva",
+                                            "descripción": "El laboratorio de Manufactura Aditiva cuenta con tecnologías para la fabricación de prototipado rápido con resinas termoestables, fotocurables y termoplásticos. La capacidad de este laboratorio se extiende hasta la fabricación de partes, componentes con geometrías complejas, moldes con canales internos, etc.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ciencias Físico Matemáticas y Ciencias de la tierra",
+                                                    "campo_sni": "Ingeniería Mecánica y Metalúrgica",
+                                                    "disciplina_sni": "Ingeniería de Manufactura"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Tratamientos Térmicos",
+                                            "descripción": "El laboratorio de tratamientos térmicos cuenta con equipos que poseen la capacidad para realizar modificaciones de la microestructura de materiales metálicos y procesamiento de partículas (metálicas y cerámicas).",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ciencias Físico Matemáticas y Ciencias de la tierra",
+                                                    "campo_sni": "Ingeniería Mecánica y Metalúrgica",
+                                                    "disciplina_sni": "Ingeniería de Manufactura"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Polímeros y Compuestos",
+                                            "descripción": "El laboratorio de polímeros y compuestos POLYCOMP se encuentra en las instalaciones de CIDESI sede Aeropuerto. Enfocados en atender la evaluación, caracterización y desarrollo de polímeros y materiales compuestos de matriz polimérica.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Tecnología de Materiales",
+                                                    "disciplina_sni": "Ciencia de Materiales"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Recubrimientos",
+                                            "descripción": "Este laboratorio se dedica a la funcionalización de superficies a través del desarrollo de recubrimientos en capa delgada o gruesa empleando tecnologías como el depósito físico en fase de vapor (PVD, de sus siglas en inglés) y láser cladding.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Tecnología de Materiales",
+                                                    "disciplina_sni": "Ciencia de Materiales"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Manufactura Digital",
+                                            "descripción": "Se enfoca en la puesta a punto de sistemas de manufactura digital y físicos en la 4RI, incluyendo modelamiento y simulación de líneas de producción en tiempo discreto, identificación de patrones y extracción de conocimiento a través de ciencia de datos, y la implementación de algoritmos de IA para la automatización de toma de decisiones.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ciencias Físico Matemáticas y Ciencias de la tierra",
+                                                    "campo_sni": "Ingeniería Mecánica y Metalúrgica",
+                                                    "disciplina_sni": "Ingeniería de Manufactura"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Mecanizado de Alto Rendimiento",
+                                            "descripción": "Línea de investigación dedicada al desarrollo de procesos de mecanizado de alto rendimiento, optimización de programación CNC y fabricación de partes de alta especificación.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ciencias Físico Matemáticas y Ciencias de la tierra",
+                                                    "campo_sni": "Ingeniería Mecánica y Metalúrgica",
+                                                    "disciplina_sni": "Ingeniería de Manufactura"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Sistemas Mecánicos",
+                                            "descripción": "Busca el dominio de la ingeniería mecánica para ofertar diseño de componentes y sistemas mecánicos; así como, evaluaciones de desempeño estructural tanto estático como dinámico. Brindamos validación y verificación de diseños de componentes y sistemas hechos a medida para servir a los sectores de gobierno e industria mediante el uso de herramientas de CAD, simulación computacional (CAE) y mecánica experimental, siguiendo metodologías de diseño y documentación.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ciencias Físico Matemáticas y Ciencias de la tierra",
+                                                    "campo_sni": "Ingeniería Mecánica y Metalúrgica",
+                                                    "disciplina_sni": "Ingeniería de Manufactura"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Energía",
+                                            "descripción": "Desarrollo de soluciones tecnológicas orientadas al uso de energías renovables, eficiencia energética y sistemas robotizados para inspección de infraestructura en el sector energía. Diseño de esquemas colaborativos para compartir infraestructura científica y tecnología creando vinculaciones y atendiendo a los sectores de energía, petróleo, agroindustria, entre otras.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ciencias Físico Matemáticas y Ciencias de la tierra",
+                                                    "campo_sni": "Ingeniería de Energía",
+                                                    "disciplina_sni": "Energías Renovables"
+                                                },
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Ingeniería Eléctrica",
+                                                    "disciplina_sni": "Sistemas de Energía"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "Ingeniería Eléctrica y Electrónica",
+                                    "descripción_del_área": "Ingeniería Eléctrica y Electrónica se basa en el desarrollo de proyectos científicos, generación de productos tecnológicos, así como la oferta de servicios especializados e integrados en un ecosistema de Ingeniería Eléctrica y Electrónica. Brindamos soluciones innovadoras y coadyuvamos a la competitividad de industrias en los sectores: gobierno, salud, eléctrico-electrónico, ferroviario, automotriz, industria 4.0, entre otros.Como parte de nuestro distintivo, estamos certificados bajo las normas: Sistemas de Gestión de la calidad NMX-CC-9001-IMNC-2015/ISO-9001:2015, que avalan nuestros proyectos de investigación, Desarrollo Tecnológico e Ingeniería, Transferencia de Tecnología y Servicios Tecnológicos",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Control e Instrumentación",
+                                            "descripción": "Desarrollo de proyectos de innovación tecnológica desde las especialidades de control e Instrumentación como el desarrollo de algoritmos de control en tiempo real, automatización de procesos, instrumentación especializada de sensores, adicionalmente, contamos con un grupo especializado en el desarrollo de ventiladores mecánicos.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ciencias Físico Matemáticas y Ciencias de la tierra",
+                                                    "campo_sni": "Ingeniería Eléctrica",
+                                                    "disciplina_sni": "Control y Automatización"
+                                                },
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Ingeniería Biomédica",
+                                                    "disciplina_sni": "Tecnología Médica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Microtecnologías",
+                                            "descripción": "Desarrollo de sensores y circuitos integrados que en suma resultan en el desarrollo de tecnologías innovadoras que permitan satisfacer las crecientes demandas de instituciones gubernamentales e industria privada con aplicaciones orientadas al sector salud, electrodomésticos, entre otros.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Ingeniería Electrónica",
+                                                    "disciplina_sni": "Microelectrónica"
+                                                },
+                                                {
+                                                    "area_sni": "Ciencias Físico Matemáticas y Ciencias de la tierra",
+                                                    "campo_sni": "Ingeniería Biomédica",
+                                                    "disciplina_sni": "Biosensores"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Sistemas Embebidos",
+                                            "descripción": "Proyectos de desarrollo tecnológico e investigación aplicada en sectores como salud, automotriz, electrodomésticos, ciudades inteligentes, IoT (Internet de las cosas), IoT industrial, favoreciendo la colaboración del gobierno, academia e industria.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Ingeniería Electrónica",
+                                                    "disciplina_sni": "Sistemas Embebidos"
+                                                },
+                                                {
+                                                    "area_sni": "Ciencias Físico Matemáticas y Ciencias de la tierra",
+                                                    "campo_sni": "Ingeniería de Computadoras",
+                                                    "disciplina_sni": "Computación"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Industria 4.0",
+                                            "descripción": "Desarrollar soluciones tecnológicas que contribuyan en la construcción de la 4RI en México, con productos tecnológicos transversales en el sector manufacturero y que ayuden a mejorar la eficiencia de las personas y los procesos en las empresas.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ciencias Físico Matemáticas y Ciencias de la tierra",
+                                                    "campo_sni": "Ingeniería Industrial",
+                                                    "disciplina_sni": "Ingeniería de la Producción"
+                                                },
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Tecnología de la Información y Comunicaciones",
+                                                    "disciplina_sni": "Sistemas de Información"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "departamento": "Servicios Especializados",
+                            "descripción_departamento": "CIDESI cuenta con laboratorios de ensayo, medición y calibración acreditados bajo la norma NMX-EC-17025-IMNC-2018 ISO/IEC 17025:2017, por la Entidad Mexicana de Acreditación, ema, reconocida internacionalmente.",
+                            "áreas": [
+                                {
+                                    "área": "METROLOGÍA",
+                                    "descripción_del_área": "Ofrecemos una gran gama de servicios acreditados y asesorías en Gestión metrológica, implementación de sistemas de calidad, desarrollo de métodos de medición y calibración, diseño de equipo de medición, establecimiento de procedimientos para la estimación de incertidumbre de las mediciones y desarrollo de aplicaciones para la administración de laboratorios. Brindando soluciones al sector industrial, gobierno e instituciones académicas con personal altamente especializado con más de 30 años de experiencia asegurando la confiabilidad de las mediciones.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Acústica",
+                                            "descripción": "Estudios y análisis relacionados con las propiedades acústicas de materiales y sistemas.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ciencias Físico Matemáticas y Ciencias de la tierra",
+                                                    "campo_sni": "Física",
+                                                    "disciplina_sni": "Acústica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Analizadores Específicos",
+                                            "descripción": "Desarrollo y utilización de analizadores específicos para diversas aplicaciones industriales.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Ingeniería de Control",
+                                                    "disciplina_sni": "Instrumentación"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Densidad",
+                                            "descripción": "Medición y análisis de la densidad de materiales.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ciencias Físico Matemáticas y Ciencias de la tierra",
+                                                    "campo_sni": "Química",
+                                                    "disciplina_sni": "Análisis de Materiales"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Dimensional",
+                                            "descripción": "Mediciones dimensionales precisas y análisis relacionados.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Ingeniería Mecánica",
+                                                    "disciplina_sni": "Metrología"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Eléctrica",
+                                            "descripción": "Medición y análisis de propiedades eléctricas de materiales y sistemas.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Ingeniería Eléctrica",
+                                                    "disciplina_sni": "Electromagnetismo"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Flujo",
+                                            "descripción": "Estudios de flujo de fluidos en diversos sistemas y aplicaciones.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Ingeniería Mecánica",
+                                                    "disciplina_sni": "Dinámica de Fluidos"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Fuerza",
+                                            "descripción": "Medición y análisis de fuerzas en materiales y estructuras.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Ingeniería Mecánica",
+                                                    "disciplina_sni": "Mecánica de Materiales"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Humedad",
+                                            "descripción": "Estudios y mediciones de humedad en diferentes materiales y ambientes.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ciencias Físico Matemáticas y Ciencias de la tierra",
+                                                    "campo_sni": "Ciencias Atmosféricas",
+                                                    "disciplina_sni": "Meteorología"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Masa",
+                                            "descripción": "Medición y análisis de la masa de diferentes materiales.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ciencias Físico Matemáticas y Ciencias de la tierra",
+                                                    "campo_sni": "Química",
+                                                    "disciplina_sni": "Análisis de Materiales"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Mediciones Especiales",
+                                            "descripción": "Realización de mediciones especializadas para aplicaciones específicas.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Ingeniería de Control",
+                                                    "disciplina_sni": "Instrumentación"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Par Torsional",
+                                            "descripción": "Medición y análisis de par torsional en diversos sistemas.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Ingeniería Mecánica",
+                                                    "disciplina_sni": "Dinámica de Sistemas"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Presión",
+                                            "descripción": "Medición y análisis de presión en diferentes aplicaciones.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Ingeniería Mecánica",
+                                                    "disciplina_sni": "Dinámica de Fluidos"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Temperatura",
+                                            "descripción": "Medición y análisis de la temperatura en diversos sistemas y materiales.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ciencias Físico Matemáticas y Ciencias de la tierra",
+                                                    "campo_sni": "Física",
+                                                    "disciplina_sni": "Termodinámica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Tiempo y Frecuencia",
+                                            "descripción": "Medición y análisis de tiempo y frecuencia para diferentes aplicaciones.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Ingeniería de Control",
+                                                    "disciplina_sni": "Instrumentación"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Volumen",
+                                            "descripción": "Medición y análisis de volumen en diferentes sistemas y aplicaciones.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ciencias Físico Matemáticas y Ciencias de la tierra",
+                                                    "campo_sni": "Química",
+                                                    "disciplina_sni": "Análisis de Materiales"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "LABORATORIOS DE PRUEBAS (ENSAYO)",
+                                    "descripción_del_área": "Análisis confiables y oportunos de materiales e inspección no destructiva, realizando desde pruebas específicas, hasta diagnósticos de falla de partes críticas, evaluación de la degradación de materiales, estudios de vida remanente y evaluación de integridad mecánica y estructural de tanques, auto tanques, tuberías, estructuras y recipientes a presión conforme a los estándares ASTM, ASME, AWS y API, entre otros.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Evaluación de la degradación de materiales",
+                                            "descripción": "Fatiga, corrosión, oxidación, desgaste, creep, stress corrosión cracking, etc.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ciencias Físico Matemáticas y Ciencias de la tierra",
+                                                    "campo_sni": "Ingeniería de Materiales",
+                                                    "disciplina_sni": "Degradación de Materiales"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Integridad estructural y mecánica",
+                                            "descripción": "Determinación de porcentaje de fases, tamaño de grano, nodularidad, evaluación de porosidades en una microestructura.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Ingeniería Mecánica",
+                                                    "disciplina_sni": "Integridad Estructural"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Caracterización de materiales metálicos",
+                                            "descripción": "Caracterización de aceros, aleaciones de aluminio, aleaciones especiales, etc.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ciencias Físico Matemáticas y Ciencias de la tierra",
+                                                    "campo_sni": "Ingeniería de Materiales",
+                                                    "disciplina_sni": "Caracterización de Materiales"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Pruebas de tensión y dureza",
+                                            "descripción": "Pruebas de tensión bajo estándares ASTM, ISO y JIS, y pruebas de dureza en diversas escalas.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Ingeniería Mecánica",
+                                                    "disciplina_sni": "Pruebas Mecánicas"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Evaluación de láminas metálicas",
+                                            "descripción": "Evaluación de láminas metálicas para estampado, troquelado, embutido y determinación de valores “n” y “r”.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Ingeniería Mecánica",
+                                                    "disciplina_sni": "Evaluación de Materiales"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Caracterización de aleaciones metálicas",
+                                            "descripción": "Caracterización de aceros al carbono, aceros de baja aleación, aceros inoxidables, aleaciones de cobre, aluminio y otras aleaciones especiales.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ciencias Físico Matemáticas y Ciencias de la tierra",
+                                                    "campo_sni": "Química",
+                                                    "disciplina_sni": "Análisis de Materiales"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Técnicas de inspección no destructiva",
+                                            "descripción": "Radiografía, ultrasonido, líquidos penetrantes, partículas magnéticas, emisión acústica, termografía infrarroja, entre otras técnicas.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Ingeniería Mecánica",
+                                                    "disciplina_sni": "Inspección de Equipos"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Análisis de integridad mecánica",
+                                            "descripción": "Análisis de integridad mecánica de recipientes sujetos a presión.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Ingeniería Mecánica",
+                                                    "disciplina_sni": "Integridad Mecánica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Espectrometría Infrarroja por Transformada de Fourier (FTIR)",
+                                            "descripción": "Pruebas de flamabilidad y resistencia a la flama, inspecciones ópticas de espesor y porosidad en materiales compuestos, y otros análisis físico-químicos.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ciencias Físico Matemáticas y Ciencias de la tierra",
+                                                    "campo_sni": "Química",
+                                                    "disciplina_sni": "Análisis Físico-Químico"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Calorimetría diferencial de barrido (DSC)",
+                                            "descripción": "Análisis de densidad de plásticos, temperatura de transición vítrea Tg, y otros estudios relacionados.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ciencias Físico Matemáticas y Ciencias de la tierra",
+                                                    "campo_sni": "Química",
+                                                    "disciplina_sni": "Calorimetría"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Calibración de válvulas",
+                                            "descripción": "Realiza la calibración de válvulas en un laboratorio acreditado, asegurando la precisión y fiabilidad de los equipos.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Ingeniería Mecánica",
+                                                    "disciplina_sni": "Calibración de Equipos"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "Tecnología de Soldadura",
+                                    "descripción_del_área": "",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Tecnología de Soldadura",
+                                            "descripción": "Los procesos de soldadura representan cerca del 20% de las operaciones realizadas en la industria mexicana, especialmente en los sectores de la construcción y la producción automotriz. Esta línea se enfoca en el control de calidad de los procesos de soldadura, calificación de procedimientos y habilidades de soldadores, y en la implementación de esquemas de la sociedad americana de soldadura (AWS) para asegurar la competencia y calidad en las operaciones de soldadura.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ciencias Físico Matemáticas y Ciencias de la tierra",
+                                                    "campo_sni": "Ingeniería Mecánica",
+                                                    "disciplina_sni": "Tecnología de Soldadura"
+                                                },
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Ingeniería de Materiales",
+                                                    "disciplina_sni": "Soldadura y Ensayos No Destructivos"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Control e Instrumentación",
+                                            "descripción": "Desarrollo de proyectos de innovación tecnológica desde las especialidades de control e Instrumentación como el desarrollo de algoritmos de control en tiempo real, automatización de procesos, instrumentación especializada de sensores, adicionalmente, contamos con un grupo especializado en el desarrollo de ventiladores mecánicos.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ciencias Físico Matemáticas y Ciencias de la tierra",
+                                                    "campo_sni": "Ingeniería Eléctrica",
+                                                    "disciplina_sni": "Control y Automatización"
+                                                },
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Ingeniería Biomédica",
+                                                    "disciplina_sni": "Tecnología Médica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Microtecnologías",
+                                            "descripción": "Desarrollo de sensores y circuitos integrados que en suma resultan en el desarrollo de tecnologías innovadoras que permitan satisfacer las crecientes demandas de instituciones gubernamentales e industria privada con aplicaciones orientadas al sector salud, electrodomésticos, entre otros.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Ingeniería Electrónica",
+                                                    "disciplina_sni": "Microelectrónica"
+                                                },
+                                                {
+                                                    "area_sni": "Ciencias Físico Matemáticas y Ciencias de la tierra",
+                                                    "campo_sni": "Ingeniería Biomédica",
+                                                    "disciplina_sni": "Biosensores"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Sistemas Embebidos",
+                                            "descripción": "Proyectos de desarrollo tecnológico e investigación aplicada en sectores como salud, automotriz, electrodomésticos, ciudades inteligentes, IoT (Internet de las cosas), IoT industrial, favoreciendo la colaboración del gobierno, academia e industria.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Ingeniería Electrónica",
+                                                    "disciplina_sni": "Sistemas Embebidos"
+                                                },
+                                                {
+                                                    "area_sni": "Ciencias Físico Matemáticas y Ciencias de la tierra",
+                                                    "campo_sni": "Ingeniería de Computadoras",
+                                                    "disciplina_sni": "Computación"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Industria 4.0",
+                                            "descripción": "Desarrollar soluciones tecnológicas que contribuyan en la construcción de la 4RI en México, con productos tecnológicos transversales en el sector manufacturero y que ayuden a mejorar la eficiencia de las personas y los procesos en las empresas.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ciencias Físico Matemáticas y Ciencias de la tierra",
+                                                    "campo_sni": "Ingeniería Industrial",
+                                                    "disciplina_sni": "Ingeniería de la Producción"
+                                                },
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Tecnología de la Información y Comunicaciones",
+                                                    "disciplina_sni": "Sistemas de Información"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "Unidad de Inspección",
+                                    "descripción_del_área": "",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Evaluación de la conformidad de recipientes sujetos a presión",
+                                            "descripción": "Evalúa el cumplimiento de los equipos con respecto a la norma NOM-020-STPS-2011 y emite dictámenes de aprobación. Presta servicios de elaboración, ejecución y validación de los requerimientos establecidos en la norma, incluyendo servicios de ensayos no destructivos, inspección visual, pruebas hidrostáticas y neumáticas, elaboración de planos e isométricos, calibración de válvulas y capacitación en normatividad y seguridad.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Ingeniería Mecánica",
+                                                    "disciplina_sni": "Inspección y Evaluación de Equipos"
+                                                },
+                                                {
+                                                    "area_sni": "Ciencias Físico Matemáticas y Ciencias de la tierra",
+                                                    "campo_sni": "Ingeniería de Materiales",
+                                                    "disciplina_sni": "Ensayos No Destructivos"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Servicios de Ensayos No Destructivos",
+                                            "descripción": "Realiza servicios de ultrasonido, partículas magnéticas, líquidos penetrantes y otros ensayos no destructivos por personal certificado ASNT, asegurando la calidad y confiabilidad de los equipos evaluados.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Ingeniería Mecánica",
+                                                    "disciplina_sni": "Ensayos No Destructivos"
+                                                },
+                                                {
+                                                    "area_sni": "Ciencias Físico Matemáticas y Ciencias de la tierra",
+                                                    "campo_sni": "Ingeniería de Materiales",
+                                                    "disciplina_sni": "Inspección de Materiales"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Inspección visual y pruebas hidrostáticas y neumáticas",
+                                            "descripción": "Ofrece servicios de inspección visual, pruebas hidrostáticas y neumáticas, garantizando la integridad y seguridad de los recipientes sujetos a presión.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Ingeniería Mecánica",
+                                                    "disciplina_sni": "Inspección de Equipos"
+                                                },
+                                                {
+                                                    "area_sni": "Ciencias Físico Matemáticas y Ciencias de la tierra",
+                                                    "campo_sni": "Ingeniería de Materiales",
+                                                    "disciplina_sni": "Pruebas Hidrostáticas"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Elaboración de planos e isométricos",
+                                            "descripción": "Proporciona servicios de elaboración de planos e isométricos, incluyendo planos de recipientes, memorias de cálculo, fichas técnicas y croquis de localización.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Ingeniería Mecánica",
+                                                    "disciplina_sni": "Diseño de Equipos"
+                                                },
+                                                {
+                                                    "area_sni": "Ciencias Físico Matemáticas y Ciencias de la tierra",
+                                                    "campo_sni": "Ingeniería de Materiales",
+                                                    "disciplina_sni": "Diseño de Materiales"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Calibración de válvulas",
+                                            "descripción": "Realiza la calibración de válvulas en un laboratorio acreditado, asegurando la precisión y fiabilidad de los equipos.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Ingeniería Mecánica",
+                                                    "disciplina_sni": "Calibración de Equipos"
+                                                },
+                                                {
+                                                    "area_sni": "Ciencias Físico Matemáticas y Ciencias de la tierra",
+                                                    "campo_sni": "Ingeniería de Materiales",
+                                                    "disciplina_sni": "Metrología"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Capacitación y asesoría en normatividad y seguridad",
+                                            "descripción": "Proporciona capacitación y asesoría en normatividad y seguridad en recipientes sujetos a presión, ayudando a las empresas a cumplir con las regulaciones vigentes.",
+                                            "disciplinas": [
+                                                {
+                                                    "area_sni": "Ingeniería y Biotecnología",
+                                                    "campo_sni": "Ingeniería Mecánica",
+                                                    "disciplina_sni": "Capacitación en Seguridad"
+                                                },
+                                                {
+                                                    "area_sni": "Ciencias Físico Matemáticas y Ciencias de la tierra",
+                                                    "campo_sni": "Ingeniería de Materiales",
+                                                    "disciplina_sni": "Normatividad"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "redes_sociales": [
+                {
+                    "red": "Facebook",
+                    "identificador": "https://www.facebook.com/CidesiMx",
+                    "activa": true,
+                    "propósito": "difusión científica"
+                },
+                {
+                    "red": "Instagram",
+                    "identificador": "https://www.instagram.com/cidesimx/",
+                    "activa": true,
+                    "propósito": "difusión científica"
+                }
+            ]
+        }
+    ]
+}
