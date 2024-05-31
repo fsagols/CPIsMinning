@@ -1,0 +1,997 @@
+{
+    "cpis": [
+        {
+            "nombre_cpi": "Centro de Investigación en Ciencias de Información Geoespacial",
+            "siglas_cpi": "CentroGeo",
+            "descripción_breve": "Es un centro público de investigación en Ciencias de Información Geoespacial, integrado al Sistema Nacional de Centros de Investigación CONAHCYT.",
+            "descripción": "A través de nuestro trabajo buscamos contribuir a la solución de los problemas y prioridades que nuestro país demanda, ya sea contribuyendo con nuevo conocimiento generado en la investigación que nos permita comprender diversos fenómenos que se presentan en el territorio, o bien, a través de la aplicación del conocimiento que deriva en desarrollos tecnológicos que son implementados en diversos contextos.",
+            "misión": "Generar, aplicar y transferir conocimiento de frontera en ciencias de información geoespacial, formar talento especializado de alto nivel, el desarrollo tecnológico e innovación, orientadas hacia la solución de problemas y prioridades nacionales, regionales y locales del país y al desarrollo de la ciencia y la tecnología en México y en beneficio de la sociedad.",
+            "visión": "Ser el centro de investigación enfocado al desarrollo de capacidades de calidad y competitividad internacional en la formación de talento especializado, investigación, generación, aplicación y transferencia de conocimiento de frontera en ciencias de información geoespacial, que incidan en la atención de temas prioritarios para el país, la creación de valor público y apropiación social del conocimiento, que contribuyan al desarrollo de la ciencia y la tecnología en México en beneficio de la sociedad.",
+            "titular": "Dr. Pablo López Ramírez",
+            "fecha_designación_titular": "3 de Febrero de 2023",
+            "grado_académico_titular": "doctorado",
+            "especialidad_titular": "Doctorado en Ciencias de Información Geoespacial por el CentroGeo.",
+            "origen": "CentroGeo surgió en respuesta a la necesidad de fortalecer la investigación y la aplicación de la geografía y la geomática en México. Su establecimiento en 2010 como parte del sistema de centros públicos de investigación del CONACYT refleja el reconocimiento del valor estratégico de estas disciplinas en el contexto nacional e internacional.",
+            "fecha_creación": "2010-06-10",
+            "historia_establecimiento": "CentroGeo fue creado en el año 2010 como parte del Sistema de Centros Públicos de Investigación del Consejo Nacional de Ciencia y Tecnología (CONACYT) de México. Su establecimiento se enmarca en la necesidad de impulsar la investigación científica y tecnológica en áreas relacionadas con la geografía, la geoinformática y disciplinas afines en el país. Desde su fundación, CentroGeo se ha dedicado a realizar investigaciones interdisciplinarias, formar recursos humanos especializados y desarrollar tecnologías innovadoras en su campo.",
+            "contexto_histórico": "A principios del siglo XXI, México estaba experimentando una creciente demanda de conocimientos y tecnologías relacionadas con la geografía y la geomática. Estos campos son fundamentales para abordar una amplia gama de desafíos, desde la gestión del territorio y los recursos naturales hasta la planificación urbana y el manejo de desastres. El establecimiento de CentroGeo reflejó el reconocimiento de la importancia estratégica de estas disciplinas en el desarrollo del país y la necesidad de contar con instituciones de investigación dedicadas a ellas.",
+            "tipo_entidad_legal": "Paraestatal asimilada al régimen de las empresas de participación estatal mayoritaria",
+            "figura_jurídica": "Asociación Civil",
+            "marco_normativo": [
+                {
+                    "ley_o_instrumento_jurídico": "Ley Orgánica de la Administración Pública Federal"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "Ley Federal de las Entidades Paraestatales"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "Ley de Ciencia y Tecnología"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "Estatutos del Centro de Investigación en Ciencias de Información Geoespacial, A.C"
+                }
+            ],
+            "presupuesto": [
+                {
+                    "año": 2020,
+                    "total": 66573239,
+                    "recursos_fiscales": 0,
+                    "recursos_propios": 0
+                },
+                {
+                    "año": 2021,
+                    "total": 71721348,
+                    "recursos_fiscales": 0,
+                    "recursos_propios": 0
+                },
+                {
+                    "año": 2022,
+                    "total": 71769066,
+                    "recursos_fiscales": 0,
+                    "recursos_propios": 0
+                },
+                {
+                    "año": 2023,
+                    "total": 76669655,
+                    "recursos_fiscales": 0,
+                    "recursos_propios": 0
+                },
+                {
+                    "año": 2024,
+                    "total": 76734836,
+                    "recursos_fiscales": 72610917,
+                    "recursos_propios": 4123919
+                }
+            ],
+            "programas_académicos": [
+                {
+                    "programa": "Posgrado Integrado en Ciencias de Información Geoespacial (Maestría)",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                            "campo_snii": "Ciencias de la Tierra y del Espacio",
+                            "disciplina_snii": "Ciencias de la Atmósfera"
+                        }
+                    ],
+                    "nivel": "maestría",
+                    "modalidad": "regular",
+                    "vía": "presencial"
+                },
+                {
+                    "programa": "Posgrado Integrado en Ciencias de Información Geoespacial (Doctorado)",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                            "campo_snii": "Ciencias de la Tierra y del Espacio",
+                            "disciplina_snii": "Ciencias de la Atmósfera"
+                        }
+                    ],
+                    "nivel": "doctorado",
+                    "modalidad": "regular",
+                    "vía": "presencial"
+                },
+                {
+                    "programa": "Maestría en Planeación Espacial",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                            "campo_snii": "Ciencias de la Tierra y del Espacio",
+                            "disciplina_snii": "Ciencias de la Atmósfera"
+                        }
+                    ],
+                    "nivel": "maestría",
+                    "modalidad": "regular",
+                    "vía": "presencial"
+                },
+                {
+                    "programa": "Especialidad en Geomática",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                            "campo_snii": "Ciencias de la Tierra y del Espacio",
+                            "disciplina_snii": "Ciencias de la Atmósfera"
+                        }
+                    ],
+                    "nivel": "maestría",
+                    "modalidad": "regular",
+                    "vía": "presencial"
+                },
+                {
+                    "programa": "Diplomado en Herramientas para la toma de Decisiones Logísticas",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Ingeniería y Tecnología",
+                            "campo_snii": "Ingeniería y Tecnología",
+                            "disciplina_snii": "Logística y Dirección de la Cadena de Suministro"
+                        }
+                    ],
+                    "nivel": "educación continua",
+                    "modalidad": "profesionalizante",
+                    "vía": "en línea"
+                },
+                {
+                    "programa": "MOOC: Introducción a la movilidad y logística territorial",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Ingeniería y Tecnología",
+                            "campo_snii": "Ingeniería y Tecnología",
+                            "disciplina_snii": "Logística y Dirección de la Cadena de Suministro"
+                        }
+                    ],
+                    "nivel": "educación continua",
+                    "modalidad": "profesionalizante",
+                    "vía": "en línea"
+                },
+                {
+                    "programa": "Diplomado en Análisis de Información Geoespacial",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                            "campo_snii": "Ciencias de la Tierra y del Espacio",
+                            "disciplina_snii": "Ciencias de la Atmósfera"
+                        }
+                    ],
+                    "nivel": "educación continua",
+                    "modalidad": "profesionalizante",
+                    "vía": "en línea"
+                },
+                {
+                    "programa": "Curso especializado en diseño de soluciones colaborativas a problemáticas territoriales",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                            "campo_snii": "Ciencias de la Tierra y del Espacio",
+                            "disciplina_snii": "Ciencias de la Atmósfera"
+                        }
+                    ],
+                    "nivel": "educación continua",
+                    "modalidad": "profesionalizante",
+                    "vía": "en línea"
+                },
+                {
+                    "programa": "Curso especializado en análisis territorial desde la biocomplejidad",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                            "campo_snii": "Ciencias de la Tierra y del Espacio",
+                            "disciplina_snii": "Ciencias de la Atmósfera"
+                        }
+                    ],
+                    "nivel": "educación continua",
+                    "modalidad": "profesionalizante",
+                    "vía": "en línea"
+                },
+                {
+                    "programa": "Curso especializado ¿Qué son los datos geoespaciales y para qué se usan?",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                            "campo_snii": "Ciencias de la Tierra y del Espacio",
+                            "disciplina_snii": "Ciencias de la Atmósfera"
+                        }
+                    ],
+                    "nivel": "educación continua",
+                    "modalidad": "profesionalizante",
+                    "vía": "en línea"
+                },
+                {
+                    "programa": "MOOC Introducción al uso y representación de Información Geoespacial",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                            "campo_snii": "Ciencias de la Tierra y del Espacio",
+                            "disciplina_snii": "Ciencias de la Atmósfera"
+                        }
+                    ],
+                    "nivel": "educación continua",
+                    "modalidad": "profesionalizante",
+                    "vía": "en línea"
+                },
+                {
+                    "programa": "MOOC Introducción a la Geointeligencia Computacional",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                            "campo_snii": "Ciencias de la Tierra y del Espacio",
+                            "disciplina_snii": "Ciencias de la Atmósfera"
+                        }
+                    ],
+                    "nivel": "educación continua",
+                    "modalidad": "profesionalizante",
+                    "vía": "en línea"
+                },
+                {
+                    "programa": "MOOC Introducción a los sistemas socio-ecológicos",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                            "campo_snii": "Ciencias de la Tierra y del Espacio",
+                            "disciplina_snii": "Ciencias de la Atmósfera"
+                        }
+                    ],
+                    "nivel": "educación continua",
+                    "modalidad": "profesionalizante",
+                    "vía": "en línea"
+                }
+            ],
+            "unidades": [
+                {
+                    "nombre_unidad": "CentroGeo Ciudad de México",
+                    "descripción_unidad": "Es una institución dedicada a la investigación, desarrollo y aplicación de las ciencias de la información geoespacial. Sus actividades abarcan una amplia gama de áreas relacionadas con la geografía, la tecnología y el análisis espacial.",
+                    "dirección_postal": "14240",
+                    "latitud": 19.2919298,
+                    "longitud": -99.3037415,
+                    "departamentos": [
+                        {
+                            "departamento": "Agendas de Investigación",
+                            "descripción_departamento": "Plan estratégico que define las áreas prioritarias y los objetivos específicos que una institución, grupo de investigadores o individuo pretende abordar en un período determinado. La agenda de investigación sirve como guía para orientar los esfuerzos y recursos en proyectos de investigación, asegurando que se aborden temas relevantes y que se alcancen los objetivos establecidos.",
+                            "áreas": [
+                                {
+                                    "área": "Sistemas Socio-ecológicos",
+                                    "descripción_del_área": "Las ciencias de información geoespacial se erigen como un campo clave para la articulación de los diversos marcos analíticos con origen en la biología, economía, demografía, ciencias agronómicas, sociología o geografía, de tal manera que se genere un adecuado desarrollo teórico y epistemológico hacia el estudio de las dinámicas territoriales que suceden en los sistemas socio-ecológicos.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Agroecosistemas, seguridad alimentaria y servicios ecosistémicos.",
+                                            "descripción": "Investigación de cómo la diversificación de cultivos en agroecosistemas mejora la seguridad alimentaria y proporciona servicios ecosistémicos esenciales como la polinización y el control de plagas.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Agropecuarias y Biotecnología",
+                                                    "campo_snii": "Agronomía",
+                                                    "disciplina_snii": "Manejo sustentable de agroecosistemas"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Sistemas socio-ecológicos y métodos geoespaciales.",
+                                            "descripción": "Análisis de sistemas socio-ecológicos mediante métodos geoespaciales para comprender la interacción entre actividades humanas y el medio ambiente, optimizando la gestión sostenible de recursos naturales.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "Ciencias de la Tierra y del Espacio",
+                                                    "disciplina_snii": "Ciencias de la Atmósfera"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Configuración espacial y dinámica sociodemográfica de territorios rurales-urbanos.",
+                                            "descripción": "Estudio de la configuración espacial y la dinámica sociodemográfica en territorios rurales-urbanos para entender las transformaciones territoriales y mejorar la planificación y gestión sostenible de estos espacios.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Demografía",
+                                                    "disciplina_snii": "Demografía General"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Investigación participativa y monitoreo comunitario.",
+                                            "descripción": "Generación de estrategías de investigación participativas que contribuyan a la generación de souciones colectivas",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Sociología",
+                                                    "disciplina_snii": "Sociología Experimental"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Cuencas: manejo, sustentabilidad y adaptación",
+                                            "descripción": "Investigación sobre el manejo integral de cuencas hidrográficas, centrándose en la sustentabilidad ambiental y la adaptación a cambios climáticos, con el objetivo de mejorar la gestión de recursos hídricos y garantizar la resiliencia de las comunidades dependientes de estas cuencas.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "Ciencias del Mar",
+                                                    "disciplina_snii": "Hidrología y Recursos Hidrícos"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Mapeo de conflictos socioecológicos en la Península de Yucatán.",
+                                            "descripción": "Estudio de mapeo de conflictos socioecológicos en la Península de Yucatán, identificando áreas de tensión entre actividades humanas y la conservación del medio ambiente, con el fin de promover la resolución pacífica de conflictos y el desarrollo sostenible en la región.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Sociología",
+                                                    "disciplina_snii": "Sociología Experimental"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "Geopolítica y Territorio",
+                                    "descripción_del_área": "La geopolítica, más que ser un objeto de estudio o un cuerpo teórico rígido y autorreferencial, es una metodología espacio temporal que combina herramientas conceptuales de diversas disciplinas y permite, apoyándose en las tecnologías geoespaciales, construir andamiajes interdisciplinarios para analizar las interacciones entre las dinámicas territoriales, la apropiación diferenciada del territorio, las relaciones de poder entre actores y las representaciones simbólicas de cada uno. El razonamiento geopolítico se articula, a partir de la imbricación de estas escalas - global, nacional, local y micro local, y en función de preocupaciones estratégicas, - ya sean económicas, políticas, sociales, ambientales, entre otras.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Instituciones, poder y apropiación del territorio.",
+                                            "descripción": "La línea de investigación en CENTROGEO se enfoca en analizar cómo las instituciones y estructuras de poder influyen en la distribución, gestión y control del territorio. Esto incluye estudiar los procesos y mecanismos a través de los cuales diferentes actores sociales, políticos y económicos se apropian del espacio geográfico, y cómo estos procesos afectan el desarrollo regional, la justicia territorial y la sostenibilidad.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Ciencias Políticas",
+                                                    "disciplina_snii": "Ciencia Política y Gobierno"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Dinámicas transfronterizas.",
+                                            "descripción": "Se centra en el estudio de las interacciones y procesos que ocurren en las regiones fronterizas entre países. Esto incluye el análisis de flujos de personas, bienes, servicios e información a través de las fronteras, así como las implicaciones sociales, económicas, políticas y ambientales de estos movimientos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Ciencias Políticas",
+                                                    "disciplina_snii": "Sistemas Políticos"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Representaciones del territorio y conflicto.",
+                                            "descripción": "Se enfoca en cómo las diversas representaciones y percepciones del territorio influyen en la generación y resolución de conflictos. Esto implica estudiar cómo diferentes grupos sociales, culturas y actores políticos conceptualizan y valoran el espacio geográfico, y cómo estas representaciones pueden llevar a disputas sobre el uso, control y significado del territorio.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Ciencias Políticas",
+                                                    "disciplina_snii": "Sistemas Políticos"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Ordenamiento del territorio.",
+                                            "descripción": "Esta línea de investigación busca integrar múltiples disciplinas y perspectivas para abordar de manera integral los desafíos del desarrollo territorial.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Ciencias Políticas",
+                                                    "disciplina_snii": "Sistemas Políticos"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Perspectivas interdisciplinarias del paisaje.",
+                                            "descripción": "Esta línea de investigación busca desarrollar una comprensión holística del paisaje, promoviendo estrategias de gestión y conservación que sean sostenibles y culturalmente sensibles.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Ciencias Políticas",
+                                                    "disciplina_snii": "Sistemas Políticos"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "Estudios Territoriales y Urbanos",
+                                    "descripción_del_área": "Los Estudios Territoriales y Urbanos hacen referencia a un proceso para cambiar los sistemas y los comportamientos de grupos que integran, se expresan o se entrelazan territorialmente y que se induce por diversos actores sociales, con múltiples intereses y valores. Implican un proceso que persigue armonizar objetivos, con frecuencia en contradicción de justicia distributiva, vitalidad económica, bienestar ambiental e identidad cultural.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Crecimiento urbano y periurbano; modos de vida en la interfaz periurbana y modelos de planeación adaptados al contexto de la informalidad.",
+                                            "descripción": "Esta línea de investigación busca ofrecer soluciones innovadoras y prácticas para gestionar el crecimiento urbano y periurbano, mejorar la calidad de vida en la interfaz periurbana y desarrollar modelos de planeación que sean sensibles y adaptativos a la informalidad y las realidades locales.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Humanidades y Ciencias de la Conducta",
+                                                    "campo_snii": "Arquitectura y Urbanismo",
+                                                    "disciplina_snii": "Urbanismo/Ciudad, Comunidad y Ordenación del Territorio"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Regionalización.",
+                                            "descripción": "Se enfoca en el estudio de los procesos y criterios mediante los cuales se dividen y organizan los espacios geográficos en regiones, con el objetivo de mejorar la planificación, gestión y desarrollo territorial.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Humanidades y Ciencias de la Conducta",
+                                                    "campo_snii": "Arquitectura y Urbanismo",
+                                                    "disciplina_snii": "Urbanismo/Ciudad, Comunidad y Ordenación del Territorio"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Análisis de la forma y estructura urbana (morfología urbana).",
+                                            "descripción": "Se centra en el estudio de la configuración física de las ciudades y su evolución a lo largo del tiempo. Esta línea de investigación aborda diversos aspectos de la estructura urbana, buscando comprender cómo la forma urbana influye en la funcionalidad, sostenibilidad y calidad de vida en las ciudades.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Humanidades y Ciencias de la Conducta",
+                                                    "campo_snii": "Arquitectura y Urbanismo",
+                                                    "disciplina_snii": "Urbanismo/Ciudad, Comunidad y Ordenación del Territorio"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Productividad, especialización e innovación en las ciudades.",
+                                            "descripción": "Esta línea de investigación busca proporcionar una comprensión profunda de los factores que impulsan la productividad, la especialización y la innovación en las ciudades, con el fin de diseñar políticas y estrategias que promuevan un desarrollo económico sostenible y equitativo.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Humanidades y Ciencias de la Conducta",
+                                                    "campo_snii": "Arquitectura y Urbanismo",
+                                                    "disciplina_snii": "Urbanismo/Ciudad, Comunidad y Ordenación del Territorio"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Empleo y desigualdad en ciudades y metrópolis de México.",
+                                            "descripción": "Esta línea de investigación busca proporcionar información sólida y análisis rigurosos para informar políticas y acciones que aborden el empleo y la desigualdad en las ciudades y metrópolis de México, con el objetivo de promover un desarrollo urbano más inclusivo y equitativo.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Humanidades y Ciencias de la Conducta",
+                                                    "campo_snii": "Arquitectura y Urbanismo",
+                                                    "disciplina_snii": "Urbanismo/Ciudad, Comunidad y Ordenación del Territorio"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Uso del suelo y movilidad.",
+                                            "descripción": "Se enfoca en comprender la interacción entre la distribución y características del uso del suelo en las ciudades y su influencia en los patrones de movilidad urbana.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Humanidades y Ciencias de la Conducta",
+                                                    "campo_snii": "Arquitectura y Urbanismo",
+                                                    "disciplina_snii": "Urbanismo/Ciudad, Comunidad y Ordenación del Territorio"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Modelización espacio-temporal de relaciones en y entre ciudades.",
+                                            "descripción": "Se enfoca en comprender la interacción entre la distribución y características del uso del suelo en las ciudades y su influencia en los patrones de movilidad urbana.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Humanidades y Ciencias de la Conducta",
+                                                    "campo_snii": "Arquitectura y Urbanismo",
+                                                    "disciplina_snii": "Urbanismo/Ciudad, Comunidad y Ordenación del Territorio"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Gestión del agua y territorio.",
+                                            "descripción": "La gestión del agua y el territorio es una área crucial de investigación que se enfoca en entender cómo se administra y utiliza el recurso hídrico en diferentes contextos territoriales, considerando su interacción con factores geográficos, sociales, económicos y ambientales.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Humanidades y Ciencias de la Conducta",
+                                                    "campo_snii": "Arquitectura y Urbanismo",
+                                                    "disciplina_snii": "Urbanismo/Ciudad, Comunidad y Ordenación del Territorio"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Planeación urbana-territorial y desarrollo.",
+                                            "descripción": "Esta línea de investigación busca generar conocimientos, herramientas y recomendaciones para informar políticas y prácticas de planificación y desarrollo que promuevan ciudades y territorios más inclusivos, equitativos, sostenibles y resilientes.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Humanidades y Ciencias de la Conducta",
+                                                    "campo_snii": "Arquitectura y Urbanismo",
+                                                    "disciplina_snii": "Urbanismo/Ciudad, Comunidad y Ordenación del Territorio"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Contaminación atmosférica y entorno urbano.",
+                                            "descripción": "La gestión del agua y el territorio es una área crucial de investigación que se enfoca en entender cómo se administra y utiliza el recurso hídrico en diferentes contextos territoriales, considerando su interacción con factores geográficos, sociales, económicos y ambientales.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Humanidades y Ciencias de la Conducta",
+                                                    "campo_snii": "Arquitectura y Urbanismo",
+                                                    "disciplina_snii": "Urbanismo/Ciudad, Comunidad y Ordenación del Territorio"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "Ciencia de Datos Geoespaciales",
+                                    "descripción_del_área": "Los principales problemas del mundo están relacionados con la distribución geográfica de la población, sus actividades y los recursos disponibles. Problemáticas como el cambio climático, la inequidad social, la seguridad pública y ciudadana o el desarrollo urbano, además de sus características propias, tienen una fuerte componente espacial. Por tal motivo se hace evidente la necesidad de generar investigación y conocimiento que sirva como base para la construcción de políticas públicas basadas en evidencia a través del desarrollo de proyectos multidisciplinarios que consideren todos los aspectos del manejo de información geoespacial: desde su adquisición y almacenamiento, hasta su análisis y representación y, sobre todo, su interpretación para su aplicación en procesos de toma de decisiones.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Adquisición, gestión, estructuración, almacenamiento y optimización de grandes bases de datos geoespaciales.",
+                                            "descripción": "La optimización y gestión efectiva de grandes bases de datos geoespaciales es esencial para garantizar la integridad, disponibilidad y usabilidad de la información geográfica en una amplia gama de aplicaciones, desde la planificación urbana y la gestión ambiental hasta la navegación y la agricultura de precisión.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "Ingeniería y Tecnología",
+                                                    "disciplina_snii": "Automatización y Control"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Inteligencia computacional aplicada a la resolución de problemas geoespaciales para la toma de decisiones (seguridad ciudadana, sistemas de monitoreo, seguridad vial, gestión de riesgos de desastres, movilidad, etc.).",
+                                            "descripción": "Desarrollo de un sistema inteligente de gestión de emergencias urbanas basado en inteligencia computacional y análisis geoespacial para mejorar la toma de decisiones en situaciones de crisis, integrando datos en tiempo real de seguridad ciudadana, sistemas de monitoreo ambiental y movilidad urbana.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "Ingeniería y Tecnología",
+                                                    "disciplina_snii": "Automatización y Control"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Análitica Geovisual.",
+                                            "descripción": "Implementación de técnicas avanzadas de análisis geovisual para comprender y visualizar patrones espaciales complejos en datos geoespaciales, con el fin de informar la toma de decisiones en áreas como la seguridad ciudadana, el urbanismo y la gestión de riesgos naturales.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "Ingeniería y Tecnología",
+                                                    "disciplina_snii": "Automatización y Control"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Implementación y desarrollo de sistemas de información geográfica basados en sistemas expertos y aprendizaje computacional.",
+                                            "descripción": "Desarrollo de sistemas de información geográfica avanzados que integran sistemas expertos y técnicas de aprendizaje computacional para automatizar la toma de decisiones en la gestión territorial, facilitando análisis predictivos, optimización de recursos y respuesta eficiente a situaciones complejas en áreas como la planificación urbana, la gestión de recursos naturales y la prevención de riesgos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "Ingeniería y Tecnología",
+                                                    "disciplina_snii": "Automatización y Control"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Inteligencia artificial y análisis espacial aplicado a planeación urbana, ciencia ciudadana y movilidad (ciudades inteligentes).",
+                                            "descripción": "Aplicación de técnicas de inteligencia artificial y análisis espacial para impulsar la planificación urbana participativa, la ciencia ciudadana y la movilidad en el contexto de ciudades inteligentes. Esto incluye el desarrollo de modelos predictivos de crecimiento urbano, la integración de datos ciudadanos para mejorar la calidad de vida y la optimización de sistemas de transporte público mediante el análisis de patrones de movilidad.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "Ingeniería y Tecnología",
+                                                    "disciplina_snii": "Inteligencia Artificial"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Aprendizaje automático y detección de objetos en análisis espacial.",
+                                            "descripción": "Aplicación de técnicas de inteligencia artificial y análisis espacial para impulsar la planificación urbana participativa, la ciencia ciudadana y la movilidad en el contexto de ciudades inteligentes. Esto incluye el desarrollo de modelos predictivos de crecimiento urbano, la integración de datos ciudadanos para mejorar la calidad de vida y la optimización de sistemas de transporte público mediante el análisis de patrones de movilidad.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "Ingeniería y Tecnología",
+                                                    "disciplina_snii": "Automatización y Control"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Georreferenciación automática mediante PLN.",
+                                            "descripción": "Desarrollo de sistemas de georreferenciación automática utilizando Procesamiento del Lenguaje Natural (PLN), con el propósito de asignar coordenadas geográficas a datos no estructurados, como textos, imágenes o vídeos. Este enfoque permite la extracción y análisis automatizado de información espacialmente relevante a partir de grandes volúmenes de datos, facilitando la toma de decisiones en diversas áreas, desde la gestión de emergencias hasta la planificación urbana.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "Ingeniería y Tecnología",
+                                                    "disciplina_snii": "Automatización y Control"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Integración del procesamiento del lenguaje natural y el razonamiento espacial para la georreferenciación automática y análisis de datos geoespaciales en redes sociales y medios de comunicación.",
+                                            "descripción": "Desarrollo de un marco de trabajo innovador que integra el procesamiento del lenguaje natural y el razonamiento espacial para la georreferenciación automática y análisis de datos geoespaciales procedentes de redes sociales y medios de comunicación. Este enfoque permite identificar, clasificar y geolocalizar información relevante en tiempo real, facilitando la comprensión de eventos y tendencias geográficamente distribuidos, como emergencias, movimientos sociales o cambios en la percepción ciudadana, para apoyar la toma de decisiones informadas en áreas como la gestión de crisis, la planificación urbana y la seguridad pública.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "Ingeniería y Tecnología",
+                                                    "disciplina_snii": "Automatización y Control"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Métodos de aprendizaje automático para el manejo de datos espaciales para el modelado de problemas de salud pública (COVID, Suicidio).",
+                                            "descripción": "Desarrollando soluciones innovadoras mediante aprendizaje automático para abordar desafíos de salud pública en CentroGeo",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "Ingeniería y Tecnología",
+                                                    "disciplina_snii": "Automatización y Control"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "Geointeligencia Computacional",
+                                    "descripción_del_área": "La GeoInteligencia Computacional (GIC) busca desarrollar y aplicar tecnología para abordar problemáticas en donde contar con información geoespacial aporte gran valor para entender el problema y proponer mejores soluciones. Es decir, la GIC es el campo de conocimiento que mezcla la tecnología de cómputo, incluyendo la inteligencia artificial, con la información geoespacial, para proponer métodos y soluciones para un sinfín de problemas de relevancia actual.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Procesamiento del Lenguaje Natural.",
+                                            "descripción": "Explorando técnicas avanzadas de Procesamiento del Lenguaje Natural para potenciar la geointeligencia computacional en CentroGeo.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "Ingeniería y Tecnología",
+                                                    "disciplina_snii": "Automatización y Control"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Aprendizaje Automático / Análisis inteligente de datos.",
+                                            "descripción": "Aplicando técnicas de aprendizaje automático para un análisis inteligente de datos, impulsando la innovación en CentroGeo",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "Ingeniería y Tecnología",
+                                                    "disciplina_snii": "Automatización y Control"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Visión & Lenguaje.",
+                                            "descripción": "Explorando la intersección entre visión por computadora y procesamiento del lenguaje natural para avanzar en la comprensión y análisis de datos en CentroGeo.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "Ingeniería y Tecnología",
+                                                    "disciplina_snii": "Automatización y Control"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Control Automático con Información Geoespacial.",
+                                            "descripción": "Integrando datos geoespaciales en sistemas de control automático para optimizar procesos y decisiones en CentroGeo.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "Ingeniería y Tecnología",
+                                                    "disciplina_snii": "Automatización y Control"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "Percepción Remota",
+                                    "descripción_del_área": "La línea de investigación en percepción remota y áreas afines constituye un pilar de las Ciencias de Información Geoespacial al ubicarse al inicio de la cadena de producción de la información geoespacial.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Clasificación de la cobertura terrestre.",
+                                            "descripción": "Desarrollando métodos avanzados para la clasificación de la cobertura terrestre, mejorando el análisis ambiental en CentroGeo.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "Ciencias de la Tierra y del Espacio",
+                                                    "disciplina_snii": "Ciencias de la Atmósfera"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Estimación de variables biofísicas, socioeconómicas y diseño de indicadores.",
+                                            "descripción": "Implementando técnicas avanzadas para la estimación de variables biofísicas y socioeconómicas y el diseño de indicadores en CentroGeo.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "Ciencias de la Tierra y del Espacio",
+                                                    "disciplina_snii": "Ciencias de la Atmósfera"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Fusión de datos e imágenes.",
+                                            "descripción": "Combinando datos e imágenes de múltiples fuentes para mejorar el análisis y la toma de decisiones en CentroGeo.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "Ciencias de la Tierra y del Espacio",
+                                                    "disciplina_snii": "Ciencias de la Atmósfera"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Segmentación de imágenes, videos y nubes de puntos.",
+                                            "descripción": "Desarrollando técnicas de segmentación avanzada para imágenes, vídeos y nubes de puntos, optimizando el análisis espacial en CentroGeo",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "Ciencias de la Tierra y del Espacio",
+                                                    "disciplina_snii": "Ciencias de la Atmósfera"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Análisis de cambios de cobertura, series de tiempo y análisis de video.",
+                                            "descripción": "Implementando análisis de cambios de cobertura, series de tiempo y video para monitorear y comprender dinámicas espaciales en CentroGeo.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "Ciencias de la Tierra y del Espacio",
+                                                    "disciplina_snii": "Ciencias de la Atmósfera"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Categorización de imágenes por su contenido.",
+                                            "descripción": "Desarrollando algoritmos para la categorización de imágenes según su contenido, mejorando la clasificación y búsqueda de datos en CentroGeo.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "Ciencias de la Tierra y del Espacio",
+                                                    "disciplina_snii": "Ciencias de la Atmósfera"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Modelado, Optimización y Otros.",
+                                            "descripción": "Explorando técnicas de modelado, optimización y otras metodologías para abordar desafíos diversos en CentroGeo y promover la innovación en la investigación geoespacial.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "Ciencias de la Tierra y del Espacio",
+                                                    "disciplina_snii": "Ciencias de la Atmósfera"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "Movilidad y Logística",
+                                    "descripción_del_área": "El área de conocimiento de Movilidad y Logística 4.0 está orientada a generar teorías, modelos, herramientas y prototipos tecnológicos geointeligentes para reconfigurar y realinear cadenas de suministro; favorecer la toma de decisiones logísticas a nivel estratégico, táctico y operativo; identificar, geolocalizar, censar y monitorear el flujo físico de bienes y mercancías; y propiciar la transformación digital de los procesos y flujos productivos a través de las redes de suministro.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Movilidad.",
+                                            "descripción": "Analizando y modelando patrones de movilidad para comprender mejor el flujo de personas y recursos en entornos geoespaciales, impulsando soluciones innovadoras en CentroGeo.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "Ingeniería y Tecnología",
+                                                    "disciplina_snii": "Logística y Dirección de la Cadena de Suministro"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Logística.",
+                                            "descripción": "Diseñando soluciones logísticas eficientes mediante el análisis geoespacial, optimizando la distribución de recursos y mejorando la toma de decisiones en CentroGeo.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "Ingeniería y Tecnología",
+                                                    "disciplina_snii": "Logística y Dirección de la Cadena de Suministro"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Planeación de la capacidad y administración de la demanda.",
+                                            "descripción": "Aplicando técnicas de planeación de capacidad y gestión de la demanda con enfoque geoespacial para mejorar la eficiencia y la satisfacción del cliente en CentroGeo.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "Ingeniería y Tecnología",
+                                                    "disciplina_snii": "Logística y Dirección de la Cadena de Suministro"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Gestión de pedidos.",
+                                            "descripción": "Se enfoca en optimizar procesos logísticos y mejorar la eficiencia en la distribución de productos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "Ingeniería y Tecnología",
+                                                    "disciplina_snii": "Logística y Dirección de la Cadena de Suministro"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Administración de inventarios.",
+                                            "descripción": "Se centra en estrategias para optimizar la gestión de existencias y mejorar la eficiencia en la cadena de suministro.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "Ingeniería y Tecnología",
+                                                    "disciplina_snii": "Logística y Dirección de la Cadena de Suministro"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Gestión de almacenes.",
+                                            "descripción": "Se enfoca en desarrollar métodos y tecnologías para optimizar el flujo de productos y la organización de espacios en almacenes, mejorando así la eficiencia operativa.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "Ingeniería y Tecnología",
+                                                    "disciplina_snii": "Logística y Dirección de la Cadena de Suministro"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Diseño de territorios.",
+                                            "descripción": "Se dedica a desarrollar enfoques innovadores para la planificación y organización del espacio geográfico, con el objetivo de promover el desarrollo sostenible, la equidad social.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "Ingeniería y Tecnología",
+                                                    "disciplina_snii": "Logística y Dirección de la Cadena de Suministro"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Localización y diseño de instalaciones.",
+                                            "descripción": "Se centra en desarrollar metodologías y herramientas para identificar ubicaciones óptimas y diseñar instalaciones eficientes, contribuyendo así a mejorar la planificación urbana, la logística empresarial y la infraestructura.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "Ingeniería y Tecnología",
+                                                    "disciplina_snii": "Logística y Dirección de la Cadena de Suministro"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Ruteo.",
+                                            "descripción": "Se enfoca en desarrollar algoritmos y herramientas para optimizar la planificación de rutas, ya sea en el transporte de mercancías, la distribución urbana o la gestión de flotas, con el fin de mejorar la eficiencia operativa.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "Ingeniería y Tecnología",
+                                                    "disciplina_snii": "Logística y Dirección de la Cadena de Suministro"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Revolución 4.0",
+                                            "descripción": "Se enfoca en comprender cómo la Revolución 4.0 está transformando aspectos geográficos y geomáticos, como la gestión de datos espaciales, la cartografía digital y la planificación urbana inteligente.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "Ingeniería y Tecnología",
+                                                    "disciplina_snii": "Logística y Dirección de la Cadena de Suministro"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Agricultura de precisión.",
+                                            "descripción": "Desarrollo de metodologías para recopilar, analizar y utilizar datos espaciales con el fin de realizar una gestión más eficiente de los recursos agrícolas, como el agua, los fertilizantes y los pesticidas.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "Ingeniería y Tecnología",
+                                                    "disciplina_snii": "Logística y Dirección de la Cadena de Suministro"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Zonas Económicas Especiales.",
+                                            "descripción": "Enfocada en analizar el impacto socioeconómico y espacial de estas áreas designadas para promover el desarrollo económico regional.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "Ingeniería y Tecnología",
+                                                    "disciplina_snii": "Logística y Dirección de la Cadena de Suministro"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "nombre_unidad": "CentroGeo Mérida",
+                    "descripción_unidad": "Es un centro de investigaciones geográficas ubicado en Mérida, Yucatán, México. CentroGeo, o Centro de Investigación en Ciencias de la Información Geoespacial, es una institución dedicada al estudio e investigación de diversos aspectos de la geografía, geomática, cartografía y campos afines.",
+                    "dirección_postal": "97302",
+                    "latitud": 21.129022,
+                    "longitud": -89.7836599,
+                    "departamentos": [
+                        {
+                            "departamento": "",
+                            "descripción_departamento": "",
+                            "áreas": [
+                                {
+                                    "área": "",
+                                    "descripción_del_área": "",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "",
+                                            "descripción": "",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "",
+                                                    "disciplina_snii": ""
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "nombre_unidad": "CentroGeo Aguascalientes",
+                    "descripción_unidad": "Implicar el estudio de fenómenos geográficos específicos de la región de Aguascalientes, como el desarrollo urbano, los patrones de uso del suelo, los cambios ambientales y el manejo de los recursos naturales.",
+                    "dirección_postal": "20313",
+                    "latitud": 21.8954571,
+                    "longitud": -102.3543789,
+                    "departamentos": [
+                        {
+                            "departamento": "",
+                            "descripción_departamento": "",
+                            "áreas": [
+                                {
+                                    "área": "",
+                                    "descripción_del_área": "",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "",
+                                            "descripción": "",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "",
+                                                    "disciplina_snii": ""
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "nombre_unidad": "CentroGeo Querétaro",
+                    "descripción_unidad": "Colabora con agencias gubernamentales locales, instituciones académicas y socios de la industria para abordar desafíos y oportunidades regionales utilizando análisis de datos espaciales, sistemas de información geográfica (SIG), tecnología de detección remota y otras herramientas geoespaciales.",
+                    "dirección_postal": "76709",
+                    "latitud": 20.4901581,
+                    "longitud": -100.2256343,
+                    "departamentos": [
+                        {
+                            "departamento": "",
+                            "descripción_departamento": "",
+                            "áreas": [
+                                {
+                                    "área": "",
+                                    "descripción_del_área": "",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "",
+                                            "descripción": "",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "",
+                                                    "disciplina_snii": ""
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "redes_sociales": [
+                {
+                    "red": "Facebook",
+                    "identificador": "https://www.facebook.com/CentroGeo/",
+                    "activa": true,
+                    "propósito": "difusión científica"
+                },
+                {
+                    "red": "Instagram",
+                    "identificador": "https://www.instagram.com/centrogeo_/",
+                    "activa": false,
+                    "propósito": "difusión científica"
+                },
+                {
+                    "red": "YouTube",
+                    "identificador": "https://www.youtube.com/user/cigget",
+                    "activa": true,
+                    "propósito": "difusión científica"
+                }
+            ]
+        }
+    ]
+}
