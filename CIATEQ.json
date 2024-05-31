@@ -2,17 +2,11 @@
  "title": "CIATEQ.json",
 [ 
 “nombre CPI” : “Centro de Tecnología Avanzada”,
-“type”:”string”,
 “siglas_cpi”: “CIATEQ”,
-“type”:”string”,
 “descripción_breve” : “CIATEQ es una organización mexicana de investigación y tecnología que se especializa en soluciones de ingeniería, materiales avanzados, energía renovable e innovación industrial.”,
-“type”:”string”,
 “descripción” : “CIATEQ (Centro de Tecnología Avanzada) es una institución mexicana dedicada a la investigación, desarrollo e innovación en ingeniería y tecnología. Fundada en 1978, ofrece soluciones tecnológicas avanzadas en áreas como manufactura, materiales, energía y automatización. CIATEQ colabora con industrias y organizaciones para mejorar procesos productivos, optimizar recursos y fomentar la competitividad. Sus servicios incluyen consultoría, diseño y fabricación de prototipos, análisis y pruebas de materiales, así como capacitación especializada. Su objetivo es impulsar la innovación tecnológica y el desarrollo sostenible en diversos sectores industriales.”,
-“type”:”string”,
 “misión” : “Busca generar soluciones tecnológicas que incrementen la competitividad de sus clientes, aporten valor a la organización y mejoren las competencias y satisfacción de su personal​”,
-“type”:”string”,
 “visión” : “Ser un centro líder en desarrollo tecnológico e innovación, comprometido con el medio ambiente y la sociedad”,
-“type”:”string”,
 “titular”: “María Guadalupe Navarro Rojero”,
 “fecha designación titular” : “2021-06-01”, 
 “grado_acádemico_titular” : 
