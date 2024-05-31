@@ -1,0 +1,736 @@
+{
+    "cpis": [
+        {
+            "nombre_cpi": "Corporación Mexicana de Investigación en Materiales",
+            "siglas_cpi": "COMIMSA",
+            "descripción_breve": "Es un centro público de investigación perteneciente al  Consejo Nacional de Humanidades, Ciencias y Tecnologías, CONAHCYT",
+            "descripción": "A lo largo de los años, la dedicación y el esfuerzo de la comunidad COMIMSA en actividades de servicios, desarrollo tecnológico, investigación, innovación, posgrado, vinculación, administración y comercialización la han convertido en una empresa destacada y uno de los centros públicos de investigación más importantes del país",
+            "misión": "Realizar investigación, estudios, proyectos tecnológicos y formación de recursos humanos, que permitan fortalecer al sector industrial y de la ingeniería, mediante la generación, asimilación y transferencia de conocimiento útil al gobierno, instituciones y empresas, contribuyendo al desarrollo económico y sustentable del país.",
+            "visión": "Ser un centro tecnológico y de innovación en ingeniería, que represente un factor de cambio en la competitividad del sector industrial y de la ingeniería nacional.",
+            "titular": "Mtro. Humberto Charles Guardiola",
+            "fecha_designación_titular": "2016",
+            "grado_académico_titular": "Maestro",
+            "especialidad_titular": "Administración de Empresas en el área de: Finanzas",
+            "origen": "Fundada por decreto presidencial en 1991, COMIMSA aprovechó la infraestructura física y humana del Instituto Mexicano de Investigaciones Siderúrgicas (IMIS).",
+            "fecha_creación": "1971-12-11",
+            "historia_establecimiento": "A lo largo de los años, la dedicación y el esfuerzo de la comunidad COMIMSA en actividades de servicios, desarrollo tecnológico, investigación, innovación, posgrado, vinculación, administración y comercialización la han convertido en una empresa destacada y uno de los centros públicos de investigación más importantes de México",
+            "contexto_histórico": "	COMIMSA ha contribuido al desarrollo económico y sustentable del país mediante la generación, asimilación y transferencia de conocimiento útil al gobierno, instituciones y empresas. Su visión es ser un centro tecnológico e innovador en ingeniería que represente un factor de cambio en la competitividad del sector industrial y de la ingeniería nacional",
+            "tipo_entidad_legal": "Paraestatal con asimilada al régimen de las empresas de participación estatal mayoritaria.",
+            "figura_jurídica": "Sociedad Anónima de Capital Variable (S. A. de C. V.)",
+            "marco_normativo": [
+                {
+                    "ley_o_instrumento_jurídico": "Ley Federal de Entidades Paraestatales"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "Ley de Ciencia y Tecnología"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "Instrumento Jurídico de Creación de la Corporación Mexicana de Investigación en Materiales S.A. de C.V."
+                },
+                {
+                    "ley_o_instrumento_jurídico": "Manual de Organización de la Corporación Mexicana de Investigación en Materiales S.A de C.V."
+                }
+            ],
+            "presupuesto": [
+                {
+                    "año": 2024,
+                    "total": 1186689907,
+                    "recursos_fiscales": 0,
+                    "recursos_propios": 1186689907
+                },
+                {
+                    "año": 2023,
+                    "total": 1149335738,
+                    "recursos_fiscales": 0,
+                    "recursos_propios": 0
+                },
+                {
+                    "año": 2022,
+                    "total": 1120647328,
+                    "recursos_fiscales": 0,
+                    "recursos_propios": 0
+                },
+                {
+                    "año": 2021,
+                    "total": 1114168783,
+                    "recursos_fiscales": 0,
+                    "recursos_propios": 0
+                },
+                {
+                    "año": 2020,
+                    "total": 1111904900,
+                    "recursos_fiscales": 0,
+                    "recursos_propios": 0
+                }
+            ],
+            "programas_académicos": [
+                {
+                    "programa": "Especialidad en Tecnología de la Soldadura Industrial.",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Ingeniería y Tecnología",
+                            "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                            "disciplina_snii": "Tecnología en Soldadura Industrial"
+                        }
+                    ],
+                    "nivel": "educación continua",
+                    "modalidad": "regular",
+                    "vía": "presencial"
+                },
+                {
+                    "programa": "Maestría en Tecnología de la Soldadura Industrial.",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Ingeniería y Tecnología",
+                            "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                            "disciplina_snii": "Tecnología en Soldadura Industrial"
+                        }
+                    ],
+                    "nivel": "maestría",
+                    "modalidad": "regular",
+                    "vía": "presencial"
+                },
+                {
+                    "programa": "Maestría en Ciencia y Tecnología en Ingeniería Industrial y de Manufactura y en Manufactura Avanzada.",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Ingeniería y Tecnología",
+                            "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                            "disciplina_snii": "Ingeniería Industrial y Manufactura."
+                        }
+                    ],
+                    "nivel": "maestría",
+                    "modalidad": "regular",
+                    "vía": "presencial"
+                },
+                {
+                    "programa": "Doctorado en Ciencia y Tecnología en Ingeniería Industrial y Manufactura Avanzada",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Ingeniería y Tecnología",
+                            "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                            "disciplina_snii": "Ingeniería Industrial y Manufactura."
+                        }
+                    ],
+                    "nivel": "doctorado",
+                    "modalidad": "regular",
+                    "vía": "presencial"
+                }
+            ],
+            "unidades": [
+                {
+                    "nombre_unidad": "Saltillo, Coahuila / Corporativo",
+                    "descripción_unidad": "Esta es la sede corporativa de COMIMSA. Aquí se llevan a cabo proyectos de investigación, desarrollo tecnológico y servicios de ingeniería",
+                    "dirección_postal": "25290",
+                    "latitud": 25.448854950110274,
+                    "longitud": -100.96924853112039,
+                    "departamentos": [
+                        {
+                            "departamento": "Ingeniería de Proyectos",
+                            "descripción_departamento": "Este departamento se enfoca en la planificación, diseño y gestión de proyectos de ingeniería, abarcando todas las fases del ciclo de vida del proyecto desde la concepción hasta la finalización.",
+                            "áreas": [
+                                {
+                                    "área": "Ingeniería Básica, Ingeniería de Detalle y Supervisión",
+                                    "descripción_del_área": "Incluye el diseño preliminar y análisis conceptual (Ingeniería Básica), desarrollo completo de planos y especificaciones técnicas (Ingeniería de Detalle), y monitoreo y control de la ejecución del proyecto (Supervisión) para asegurar calidad y cumplimiento.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Ingeniería de procesos",
+                                            "descripción": "Diseño y optimización de procesos industriales y de manufactura.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Industrial"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Ingeniería de control e instrumentos",
+                                            "descripción": "Desarrollo de sistemas de control y medición para procesos industriales.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Automatización y Control"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Ingeniería eléctrica",
+                                            "descripción": "Diseño y mantenimiento de sistemas eléctricos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Eléctrica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Ingeniería mecánica (Tubería y recipientes)",
+                                            "descripción": "Diseño y análisis de sistemas de tuberías y recipientes a presión.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Mecánica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Ingeniería de planificación - civil",
+                                            "descripción": "Planificación y diseño de infraestructuras y obras civiles.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Civil"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Tecnología BIM",
+                                            "descripción": "Uso de Modelado de Información de Construcción (BIM) para proyectos de construcción.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Industrial"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "departamento": "Integridad Mecánica",
+                            "descripción_departamento": "Se enfoca en garantizar la seguridad y eficiencia de equipos y estructuras industriales.",
+                            "áreas": [
+                                {
+                                    "área": "Plantas de Proceso",
+                                    "descripción_del_área": "Se dedica al análisis y optimización de sistemas y equipos en plantas industriales.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Evaluación de la integridad mecánica en recipientes sujetos a presión, tanques atmosféricos y estructuras metálicas	",
+                                            "descripción": "Análisis de la resistencia y seguridad de recipientes, tanques y estructuras metálicas.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Mecánica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Ultrasonido ondas guiadas en tuberías de proceso",
+                                            "descripción": "Uso de ultrasonido para inspeccionar y detectar fallos en tuberías de proceso.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Mecánica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Evaluación mediante la aptitud para el servicio",
+                                            "descripción": "Análisis de equipos y estructuras para determinar su capacidad de seguir operando de manera segura.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Mecánica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Evaluación de estructura de equipo de perforación	",
+                                            "descripción": "Inspección y análisis de la integridad estructural de equipos de perforación.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Mecánica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Análisis de vibraciones y termografía infrarroja",
+                                            "descripción": "Estudio de vibraciones y uso de imágenes térmicas para identificar problemas en equipos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Mecánica"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "Tuberías",
+                                    "descripción_del_área": "Se especializa en el diseño, evaluación y mantenimiento de sistemas de tuberías industriales.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Gestión en integridad de ductos",
+                                            "descripción": "Administración de programas y técnicas para asegurar la integridad de ductos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Mecánica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Evaluación de integridad de ductos",
+                                            "descripción": "Inspección y análisis para verificar la seguridad y eficiencia de ductos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Mecánica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Evaluación de inhibidores de corrosión y corrosión interna",
+                                            "descripción": "Análisis de la efectividad de inhibidores y estudio de la corrosión dentro de ductos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Mecánica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Ultrasonido ondas guiadas en tubería enterrada",
+                                            "descripción": "Uso de ultrasonido para detectar fallos en tuberías subterráneas.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Mecánica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Evaluación de la integridad mecánica en instalaciones superficiales",
+                                            "descripción": "Inspección y análisis de la resistencia y seguridad de instalaciones sobre la superficie.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Mecánica"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "departamento": "Ingeniería de Manufactura",
+                            "descripción_departamento": "Se centra en el diseño, desarrollo y mejora de procesos y productos de manufactura.",
+                            "áreas": [
+                                {
+                                    "área": "Diseño e Ingeniería",
+                                    "descripción_del_área": "Se dedica al desarrollo y optimización de diseños y sistemas de ingeniería.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Desarrollo de ingeniería inversa, diseño y fabricación de componentes para la rehabilitación y construcción de equipos y sistemas.",
+                                            "descripción": "Focaliza en la creación y producción de componentes mediante ingeniería inversa para la reparación y construcción de equipos y sistemas.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Industrial y Manufactura"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "Reacondicionamiento de Turbinas de Gas",
+                                    "descripción_del_área": "Se refiere al proceso de restauración y mejora de componentes de turbinas de gas, como rotores, extractores, cámaras de combustión, paletas, colectores de gas, entre otros.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Fabricación y rehabilitación de componentes de turbinas de gas, tales como rotores, extractores, cámaras de combustión, paletas, colectores de gas, etc.",
+                                            "descripción": "se centra en la producción y restauración de piezas esenciales para turbinas de gas, como rotores, extractores, cámaras de combustión, paletas y colectores de gas, con el objetivo de mantener su funcionamiento óptimo y seguro.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Industrial y Manufactura"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "Mantenimiento a Equipos Estáticos y Dinámicos",
+                                    "descripción_del_área": "Consiste en la realización de tareas de mantenimiento en equipos estáticos y dinámicos, tales como bombas verticales, válvulas de cuatro vías, válvulas tipo bola y convertidores rotativos. Esto implica la integración de componentes fabricados y/o rehabilitados.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Mantenimiento de equipos como bombas verticales, válvulas de cuatro vías, válvulas tipo bola y convertidores rotativos, integrando componentes fabricados y/o rehabilitados.",
+                                            "descripción": "El mantenimiento de equipos abarca la conservación y reparación de diversos dispositivos industriales, como bombas verticales, válvulas de cuatro vías, válvulas tipo bola y convertidores rotativos, incorporando componentes nuevos o restaurados para asegurar su correcto funcionamiento.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Industrial y Manufactura"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "Reacondicionamiento de Equipos de Perforación",
+                                    "descripción_del_área": "Se refiere al proceso de fabricación y restauración de componentes utilizados en equipos de perforación, tales como módulos de bombas de lodos, cinturones de freno para tornos, poleas, ganchos y cabrestantes, entre otros.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Fabricación y rehabilitación de componentes tales como módulos de bombas de lodos, cinturones de freno para tornos, poleas, ganchos y cabrestantes, etc.",
+                                            "descripción": "La línea se enfoca en la producción y restauración de elementos esenciales como módulos de bombas de lodos, cinturones de freno para tornos, poleas, ganchos y cabrestantes, entre otros, para diversos fines industriales.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Industrial y Manufactura"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "departamento": "Ingeniería Ambiental",
+                            "descripción_departamento": "Aplicación de principios de ingeniería para abordar y resolver problemas ambientales y de sostenibilidad.",
+                            "áreas": [
+                                {
+                                    "área": "Investigación y desarrollo tecnológico en ambientales",
+                                    "descripción_del_área": "",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Desarrollo de nuevas tecnologías para: aire, agua y tratamientos de suelo",
+                                            "descripción": "",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Ambiental"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Investigación en recuperación de petróleo por métodos microbianos",
+                                            "descripción": "",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Ambiental"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "Geociencias",
+                                    "descripción_del_área": "Comprende el estudio y la aplicación de conceptos geológicos, hidrogeológicos y geotécnicos para comprender y gestionar los recursos naturales, evaluar riesgos geológicos, y diseñar estructuras y obras civiles. Incluye técnicas como la prospección geofísica y el uso de sistemas de información geográfica (SIG) para el análisis espacial y la toma de decisiones.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Evaluación de riesgos geológicos",
+                                            "descripción": "",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "CIENCIAS DE LA TIERRA Y DEL ESPACIO",
+                                                    "disciplina_snii": "Geología"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Evaluación hidrogeológica",
+                                            "descripción": "Estudio de la distribución, movimiento y calidad de las aguas subterráneas.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "CIENCIAS DE LA TIERRA Y DEL ESPACIO",
+                                                    "disciplina_snii": "Geología"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Prospección Geofísica",
+                                            "descripción": "Uso de técnicas geofísicas para exploración y caracterización del subsuelo.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "CIENCIAS DE LA TIERRA Y DEL ESPACIO",
+                                                    "disciplina_snii": "Geología"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Ingeniería geotécnica",
+                                            "descripción": "Aplicación de principios geológicos y de ingeniería para el diseño y construcción de estructuras.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "CIENCIAS DE LA TIERRA Y DEL ESPACIO",
+                                                    "disciplina_snii": "Geología"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Sistemas de información geográfica (SIG)",
+                                            "descripción": "Herramientas para la captura, almacenamiento, análisis y visualización de datos espaciales.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "CIENCIAS DE LA TIERRA Y DEL ESPACIO",
+                                                    "disciplina_snii": "Geología"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "departamento": "Ingeniería de confiabilidad",
+                            "descripción_departamento": "Análisis de riesgos y evaluaciones para plantas químicas con sustancias peligrosas. Enfoque en la implementación de Sistemas de Gestión de Procesos de Seguridad para mejorar fiabilidad, disponibilidad y seguridad de activos.",
+                            "áreas": [
+                                {
+                                    "área": "Estrategias de Confiabilidad",
+                                    "descripción_del_área": "Desarrollo e implementación de enfoques y metodologías para mejorar la confiabilidad y disponibilidad de sistemas y activos industriales, con el objetivo de optimizar el rendimiento y minimizar los riesgos operativos.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Inspección Basada en Riesgo (API‐580/581)",
+                                            "descripción": "Método para evaluar y priorizar la inspección de equipos basado en el análisis de riesgos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Química"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Mantenimiento Centrado en Confiabilidad",
+                                            "descripción": "Estrategia de mantenimiento que prioriza las actividades según su impacto en la confiabilidad de los equipos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Química"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Análisis Cuantitativo de Riesgos",
+                                            "descripción": "Evaluación de riesgos utilizando técnicas cuantitativas para una comprensión detallada de los posibles impactos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Química"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Análisis de Criticidad",
+                                            "descripción": "Identificación y priorización de activos críticos en función de su importancia para la operación.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Química"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Seguridad funcional",
+                                            "descripción": "Enfoque para garantizar que los sistemas y equipos cumplan con los requisitos de seguridad establecidos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Química"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Métodos Estadísticos",
+                                            "descripción": "Utilización de técnicas estadísticas para analizar datos y extraer conclusiones sobre la confiabilidad y riesgos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Química"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Análisis de costo de ciclos de vida",
+                                            "descripción": "Evaluación de los costos asociados con la vida útil de un activo, incluyendo adquisición, mantenimiento y desmantelamiento.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Química"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Gestión de Activos",
+                                            "descripción": "Implementación de estrategias para optimizar el rendimiento y valor de los activos durante su ciclo de vida.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Química"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "nombre_unidad": "Ciudad de México",
+                    "descripción_unidad": "La oficina en CDMX se enfoca en actividades relacionadas con la investigación y los servicios tecnológicos",
+                    "dirección_postal": "11300",
+                    "latitud": 19.435478762157036,
+                    "longitud": -99.17109672883593,
+                    "departamentos": [
+                        {
+                            "departamento": "",
+                            "descripción_departamento": "",
+                            "áreas": [
+                                {
+                                    "área": "",
+                                    "descripción_del_área": "",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "",
+                                            "descripción": "",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "",
+                                                    "campo_snii": "",
+                                                    "disciplina_snii": ""
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "nombre_unidad": "Cunduacán, Tabasco",
+                    "descripción_unidad": "Esta sede también contribuye a los servicios y proyectos de COMIMSA, especialmente en el área de materiales y tecnología",
+                    "dirección_postal": "86690",
+                    "latitud": 18.124157596890935,
+                    "longitud": -93.17958750793781,
+                    "departamentos": [
+                        {
+                            "departamento": "",
+                            "descripción_departamento": "",
+                            "áreas": [
+                                {
+                                    "área": "",
+                                    "descripción_del_área": "",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "",
+                                            "descripción": "",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "",
+                                                    "campo_snii": "",
+                                                    "disciplina_snii": ""
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "nombre_unidad": "Cd del Carmen, Campeche",
+                    "descripción_unidad": "La oficina en Ciudad del Carmen se dedica a actividades similares, brindando servicios tecnológicos y participando en proyectos de investigación y desarrollo",
+                    "dirección_postal": "24160",
+                    "latitud": 18.648409908912218,
+                    "longitud": -91.825453,
+                    "departamentos": [
+                        {
+                            "departamento": "",
+                            "descripción_departamento": "",
+                            "áreas": [
+                                {
+                                    "área": "",
+                                    "descripción_del_área": "",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "",
+                                            "descripción": "",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "",
+                                                    "campo_snii": "",
+                                                    "disciplina_snii": ""
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "redes_sociales": [
+                {
+                    "red": "Facebook",
+                    "identificador": "https://www.facebook.com/inaoe.oficial",
+                    "activa": true,
+                    "propósito": "difusión científica"
+                },
+                {
+                    "red": "YouTube",
+                    "identificador": "https://www.youtube.com/user/C0MIMSA",
+                    "activa": true,
+                    "propósito": "difusión científica"
+                },
+                {
+                    "red": "Instagram",
+                    "identificador": "https://www.instagram.com/comimsa_/",
+                    "activa": true,
+                    "propósito": "difusión científica"
+                },
+                {
+                    "red": "Linkedin",
+                    "identificador": "https://www.linkedin.com/in/comimsa-saltillo/",
+                    "activa": true,
+                    "propósito": "difusión científica"
+                },
+                {
+                    "red": "X",
+                    "identificador": "https://twitter.com/@comimsa",
+                    "activa": true,
+                    "propósito": "difusión científica"
+                }
+            ]
+        }
+    ]
+}
