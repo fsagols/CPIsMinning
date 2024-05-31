@@ -42,28 +42,28 @@
                     "disciplinas": [
                         {
                             "area_sni": "Doctorado en Ciencia de Materiales",
-                            "campo_sni": "",
-                            "disciplina_sni": ""
+                           "campo_sni": "Ciencia y Tecnología de Materiales",
+                            "disciplina_sni": "Ciencia de Materiales"
                         },
                         {
                             "area_sni": "Doctorado en Ciencia y Tecnología Ambiental",
-                            "campo_sni": "",
-                            "disciplina_sni": ""
+                            "campo_sni": "Ciencias Ambientales",
+                            "disciplina_sni":  "Química del Ambiente"
                         },
                         {
                             "area_sni": "Doctorado en Nanociencia y Nanotecnología",
-                            "campo_sni": "",
-                            "disciplina_sni": ""
+                            "campo_sni": "Nanociencias",
+                            "disciplina_sni": "Nanotecnologías"
                         },
                         {
                             "area_sni": "Maestría en Ciencia de Materiales",
-                            "campo_sni": "",
-                            "disciplina_sni": ""
+                            "campo_sni": "Ciencia y Tecnología de Materiales",
+                            "disciplina_sni":  "Ciencia de Materiales"
                         },
                         {
                             "area_sni": "Maestría en Ciencia y Tecnología Ambiental",
-                            "campo_sni": "",
-                            "disciplina_sni": ""
+                            "campo_sni": "Ciencias Ambientales",
+                            "disciplina_sni": "Química del Ambiente"
                         }
                     ],
                     "nivel": "maestría",
