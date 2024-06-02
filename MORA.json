@@ -1,0 +1,693 @@
+{
+    "cpis": [
+        {
+            "nombre_cpi": "Instituto de Investigaciones Dr. José María Luis Mora",
+            "siglas_cpi": "MORA",
+            "descripción_breve": "El Instituto Mora es reconocido en el mundo académico nacional e internacional por la excelencia en la investigación en historia y ciencias sociales, así como por la calidad de los programas académicos que imparte",
+            "descripción": "El Instituto Mora es un centro público de investigación y educación superior adscrito al Consejo Nacional de Ciencia y Tecnología (CONACYT) de México. Fue creado por decreto presidencial el 24 de septiembre de 1981 como un organismo público descentralizado. Su enfoque principal es la investigación en historia y ciencias sociales",
+            "misión": "La misión del Instituto Mora es contribuir al conocimiento y comprensión de la historia y las ciencias sociales, así como formar profesionales altamente capacitados en estas áreas.",
+            "visión": "El Instituto Mora busca ser un referente nacional e internacional en la investigación y la formación académica en historia y ciencias sociales.",
+            "titular": "Dra Ma. Gabriela Guadalupe Sánchez Gutiérrez",
+            "fecha_designación_titular": "2021",
+            "grado_académico_titular": "Doctora",
+            "especialidad_titular": "Ciencias de la Educación",
+            "origen": "El Instituto Mora El Instituto Mora fue creado por decreto presidencial en 1981.",
+            "fecha_creación": "1981-09-24",
+            "historia_establecimiento": "Instituto Mora, ha desempeñado un papel fundamental en el estudio de la historia y las ciencias sociales en México. A lo largo de los años, ha mantenido su compromiso con la investigación y la formación académica en estas áreas. Su Licenciatura en Historia es un programa docente que forma profesionales de excelencia en tres áreas clave del quehacer del historiador, Didáctica de la historia, Divulgación de la historia, Gestión del patrimonio cultural.",
+            "contexto_histórico": "Su establecimiento respondió a la necesidad de contar con una institución dedicada a la investigación en historia y ciencias sociales en México. Desde entonces, el Instituto Mora ha desarrollado una rica tradición de investigación y docencia en estas áreas. Su Licenciatura en Historia forma profesionales altamente capacitados en didáctica de la historia, divulgación histórica y gestión del patrimonio cultural.",
+            "tipo_entidad_legal": "Paraestatal asimilada al régimen de organismos descentralizados",
+            "figura_jurídica": "Organismo Descentralizado",
+            "marco_normativo": [
+                {
+                    "ley_o_instrumento_jurídico": "Ley Orgánica de la Administración Pública Federal"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "Ley Federal de las Entidades Paraestatales"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "Ley de Ciencia y Tecnología"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "Estatuto Orgánico del Instituto de Investigaciones Dr. José María Luis Mora"
+                }
+            ],
+            "presupuesto": [
+                {
+                    "año": 2024,
+                    "total": 225158328,
+                    "recursos_fiscales": 220764103,
+                    "recursos_propios": 4394225
+                },
+                {
+                    "año": 2023,
+                    "total": 214491007,
+                    "recursos_fiscales": 0,
+                    "recursos_propios": 0
+                },
+                {
+                    "año": 2022,
+                    "total": 202892796,
+                    "recursos_fiscales": 0,
+                    "recursos_propios": 0
+                },
+                {
+                    "año": 2021,
+                    "total": 195348388,
+                    "recursos_fiscales": 0,
+                    "recursos_propios": 0
+                },
+                {
+                    "año": 2020,
+                    "total": 189699938,
+                    "recursos_fiscales": 0,
+                    "recursos_propios": 0
+                }
+            ],
+            "programas_académicos": [
+                {
+                    "programa": "Licenciatura en Historia",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Humanidades y Ciencias de la Conducta",
+                            "campo_snii": "DIDÁCTICA Y DOCENCIA",
+                            "disciplina_snii": "Enseñanza de la Historia."
+                        }
+                    ],
+                    "nivel": "licenciatura",
+                    "modalidad": "regular",
+                    "vía": "presencial"
+                },
+                {
+                    "programa": "Maestría en Sociología Política",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Ciencias Sociales",
+                            "campo_snii": "CIENCIAS POLÍTICAS",
+                            "disciplina_snii": "Sociología Política."
+                        }
+                    ],
+                    "nivel": "maestría",
+                    "modalidad": "regular",
+                    "vía": "presencial"
+                },
+                {
+                    "programa": "Maestría en Estudios Regionales",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Humanidades y Ciencias de la Conducta",
+                            "campo_snii": "HISTORIA",
+                            "disciplina_snii": "Historia y Estudios Regionales"
+                        }
+                    ],
+                    "nivel": "maestría",
+                    "modalidad": "regular",
+                    "vía": "presencial"
+                },
+                {
+                    "programa": "Maestría en Historia Moderna y Contemporánea",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Humanidades y Ciencias de la Conducta",
+                            "campo_snii": "HISTORIA",
+                            "disciplina_snii": "Historia Moderna y Contemporánea"
+                        }
+                    ],
+                    "nivel": "maestría",
+                    "modalidad": "regular",
+                    "vía": "presencial"
+                },
+                {
+                    "programa": "Maestría en Cooperación Internacional para el Desarrollo",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Ciencias Sociales",
+                            "campo_snii": "CIENCIAS POLÍTICAS",
+                            "disciplina_snii": "Cooperación Internacional"
+                        }
+                    ],
+                    "nivel": "maestría",
+                    "modalidad": "regular",
+                    "vía": "presencial"
+                },
+                {
+                    "programa": "Doctorado en Historia Moderna y Contemporánea",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Humanidades y Ciencias de la Conducta",
+                            "campo_snii": "HISTORIA",
+                            "disciplina_snii": "Historia Moderna y Contemporánea"
+                        }
+                    ],
+                    "nivel": "doctorado",
+                    "modalidad": "regular",
+                    "vía": "presencial"
+                },
+                {
+                    "programa": "Doctorado en Estudios del Desarrollo. Problemas y Perspectivas Latinoamericanas",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Ciencias Sociales",
+                            "campo_snii": "SOCIOLOGÍA",
+                            "disciplina_snii": "Problemas Internacionales"
+                        }
+                    ],
+                    "nivel": "doctorado",
+                    "modalidad": "regular",
+                    "vía": "presencial"
+                },
+                {
+                    "programa": "XXXII Taller de Historia Oral: Teoría, Metodología y Práctica",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Humanidades y Ciencias de la Conducta",
+                            "campo_snii": "HISTORIA",
+                            "disciplina_snii": "Historia Moderna y Contemporánea"
+                        }
+                    ],
+                    "nivel": "educación continua",
+                    "modalidad": "regular",
+                    "vía": "mixta"
+                },
+                {
+                    "programa": "I Diplomado Seguridad Pública: Exclusión Social y Militarización",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Ciencias Sociales",
+                            "campo_snii": "CIENCIAS POLÍTICAS",
+                            "disciplina_snii": "Sociología Política."
+                        }
+                    ],
+                    "nivel": "educación continua",
+                    "modalidad": "regular",
+                    "vía": "mixta"
+                },
+                {
+                    "programa": "IX Curso Escuela de Verano de Cooperación Internacional para el Desarrollo",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Ciencias Sociales",
+                            "campo_snii": "CIENCIAS POLÍTICAS",
+                            "disciplina_snii": "Cooperación Internacional"
+                        }
+                    ],
+                    "nivel": "educación continua",
+                    "modalidad": "regular",
+                    "vía": "en línea"
+                },
+                {
+                    "programa": "III Curso - Taller Introductorio de Divulgación del Conocimiento: Ciencias Sociales y Humanidades",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Ciencias Sociales",
+                            "campo_snii": "CIENCIAS POLÍTICAS",
+                            "disciplina_snii": "Comunicaciones Sociales"
+                        }
+                    ],
+                    "nivel": "educación continua",
+                    "modalidad": "regular",
+                    "vía": "en línea"
+                },
+                {
+                    "programa": "I Curso Historia de Europa en el siglo XIX",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Humanidades y Ciencias de la Conducta",
+                            "campo_snii": "HISTORIA",
+                            "disciplina_snii": "Historia Universal"
+                        }
+                    ],
+                    "nivel": "educación continua",
+                    "modalidad": "regular",
+                    "vía": "en línea"
+                }
+            ],
+            "unidades": [
+                {
+                    "nombre_unidad": "Plaza",
+                    "descripción_unidad": "La sede Plaza, es la sede principal del Instituto Mora y se encuentra en la casa que habitó el destacado político y reformista Valentín Gómez Farías.En esta sede ubicada en la Colonia San Juan Mixcoac, se imparten la mayoría de las clases de los diferentes programas académicos que ofrece el Instituto Mora.",
+                    "dirección_postal": "03730",
+                    "latitud": 19.378043260819723,
+                    "longitud": -99.18266357565825,
+                    "departamentos": [
+                        {
+                            "departamento": "Historia",
+                            "descripción_departamento": "Estudio y análisis de los eventos y procesos históricos que han moldeado la sociedad.",
+                            "áreas": [
+                                {
+                                    "área": "Historia",
+                                    "descripción_del_área": "Investigación general de eventos y procesos históricos.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Didáctica de la historia",
+                                            "descripción": "Promover métodos didácticos adecuados para enseñar historia, fomentando el pensamiento crítico y la reflexión.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Humanidades y Ciencias de la Conducta",
+                                                    "campo_snii": "DIDÁCTICA Y DOCENCIA",
+                                                    "disciplina_snii": "Enseñanza de la Historia."
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Divulgación de la historia",
+                                            "descripción": "Socializar el conocimiento histórico más allá del ámbito académico, alcanzando a diversos públicos con herramientas pedagógicas.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Humanidades y Ciencias de la Conducta",
+                                                    "campo_snii": "DIDÁCTICA Y DOCENCIA",
+                                                    "disciplina_snii": "Enseñanza de la Historia."
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Gestión del patrimonio cultural",
+                                            "descripción": "Preservar y administrar el patrimonio histórico de una comunidad, promoviendo su valor y acceso para mejorar la calidad de vida.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Humanidades y Ciencias de la Conducta",
+                                                    "campo_snii": "DIDÁCTICA Y DOCENCIA",
+                                                    "disciplina_snii": "Enseñanza de la Historia."
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "Historia Moderna y Contemporánea",
+                                    "descripción_del_área": "Análisis de los eventos y desarrollos históricos desde la Edad Moderna hasta la actualidad.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Historia Política",
+                                            "descripción": "Estudia las estructuras, procesos y actores políticos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Humanidades y Ciencias de la Conducta",
+                                                    "campo_snii": "HISTORIA",
+                                                    "disciplina_snii": "Historia Moderna y Contemporánea"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Historia Económica",
+                                            "descripción": "Analiza los sistemas y cambios económicos a lo largo del tiempo.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Humanidades y Ciencias de la Conducta",
+                                                    "campo_snii": "HISTORIA",
+                                                    "disciplina_snii": "Historia Moderna y Contemporánea"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Historia Social y Cultural",
+                                            "descripción": "Investiga las prácticas sociales y culturales de diferentes épocas.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Humanidades y Ciencias de la Conducta",
+                                                    "campo_snii": "HISTORIA",
+                                                    "disciplina_snii": "Historia Moderna y Contemporánea"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Historia y Estudios Urbanos y Regionales",
+                                            "descripción": "Examina la historia de las ciudades y las regiones.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Humanidades y Ciencias de la Conducta",
+                                                    "campo_snii": "HISTORIA",
+                                                    "disciplina_snii": "Historia Moderna y Contemporánea"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Historia y Estudios Internacionales",
+                                            "descripción": "Se enfoca en la historia de América Latina, Estados Unidos y el Caribe.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Humanidades y Ciencias de la Conducta",
+                                                    "campo_snii": "HISTORIA",
+                                                    "disciplina_snii": "Historia Moderna y Contemporánea"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "Estudios Regionales",
+                                    "descripción_del_área": "Análisis de las características históricas, sociales, económicas y culturales de regiones específicas.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Historia Regional",
+                                            "descripción": "Analiza problemas regionales a partir de las transformaciones históricas del territorio.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Humanidades y Ciencias de la Conducta",
+                                                    "campo_snii": "HISTORIA",
+                                                    "disciplina_snii": "Historia y Estudios Regionales"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Políticas públicas, gobiernos locales y ciudadanía",
+                                            "descripción": "Estudia las relaciones entre actores sociales y gubernamentales en territorios definidos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Humanidades y Ciencias de la Conducta",
+                                                    "campo_snii": "HISTORIA",
+                                                    "disciplina_snii": "Historia y Estudios Regionales"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Política, gestión y cultura del agua",
+                                            "descripción": "Investiga la problemática del agua desde una perspectiva sociohistórica y regional.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Humanidades y Ciencias de la Conducta",
+                                                    "campo_snii": "HISTORIA",
+                                                    "disciplina_snii": "Historia y Estudios Regionales"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Territorio y cultura: transformaciones, usos y apropiaciones del espacio",
+                                            "descripción": "Examina la apropiación del espacio y los conflictos territoriales.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Humanidades y Ciencias de la Conducta",
+                                                    "campo_snii": "HISTORIA",
+                                                    "disciplina_snii": "Historia y Estudios Regionales"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Procesos urbanos y regionales",
+                                            "descripción": "Estudia fenómenos urbanos como expansión, movilidad y planeación urbana.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Humanidades y Ciencias de la Conducta",
+                                                    "campo_snii": "HISTORIA",
+                                                    "disciplina_snii": "Historia y Estudios Regionales"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "departamento": "Sociología",
+                            "descripción_departamento": "El Departamento de Sociología se dedica al estudio de las estructuras sociales, las relaciones humanas y las dinámicas culturales, abordando temas como la desigualdad, la movilidad social, y los procesos de cambio social a través de investigación y enseñanza interdisciplinaria.",
+                            "áreas": [
+                                {
+                                    "área": "Sociología Política",
+                                    "descripción_del_área": "Estudio de las relaciones entre sociedad y poder político.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Acción colectiva, organizaciones sociales y ciudadanía",
+                                            "descripción": "Se analizan los vínculos entre sociedad civil y Estado, enfocándose en la participación social y ciudadana para la construcción de ciudadanía democrática.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "CIENCIAS POLÍTICAS",
+                                                    "disciplina_snii": "Sociología Política."
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Instituciones, cultura política y procesos políticos",
+                                            "descripción": "Estudio de la interacción entre estructuras sociales, económicas y culturales, reconociendo tanto dinámicas institucionales como el papel de actores y prácticas en la definición del orden político y social.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "CIENCIAS POLÍTICAS",
+                                                    "disciplina_snii": "Sociología Política."
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Políticas públicas y desarrollo",
+                                            "descripción": "Investigación de políticas e instituciones gubernamentales para abordar problemas públicos en bienestar social, desarrollo, convivencia democrática, derechos humanos, prevención de violencia y acceso a la justicia.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "CIENCIAS POLÍTICAS",
+                                                    "disciplina_snii": "Sociología Política."
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Memoria e historia política de México y de América Latina",
+                                            "descripción": "Análisis histórico de fenómenos sociopolíticos y problemas públicos para diseñar políticas públicas y reformas institucionales adecuadas a la realidad sociopolítica del país y de la región latinoamericana en un mundo globalizado.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "CIENCIAS POLÍTICAS",
+                                                    "disciplina_snii": "Sociología Política."
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "Cooperación Internacional para el Desarrollo",
+                                    "descripción_del_área": "Análisis de políticas y prácticas de desarrollo global.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Teorías, Métodos y Prácticas",
+                                            "descripción": "Análisis de la eficacia y eficiencia de la CID, fundamentos teóricos, gobernanza global, y herramientas para consultoría y evaluación de programas.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "CIENCIAS POLÍTICAS",
+                                                    "disciplina_snii": "Cooperación Internacional"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Esquemas, Actores y Modalidades",
+                                            "descripción": "Estudio de la ayuda humanitaria, cooperación de agentes no gubernamentales, bilateral, regional, multilateral, sur-sur, triangular, y financiamiento al desarrollo.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "CIENCIAS POLÍTICAS",
+                                                    "disciplina_snii": "Cooperación Internacional"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Sectores Estratégicos I: Democracia, Seguridad y Desarrollo Humano",
+                                            "descripción": "Investigación sobre cohesión social, democracia, derechos humanos, educación, gobernanza, migración, pobreza, seguridad humana, y violencia estructural.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "CIENCIAS POLÍTICAS",
+                                                    "disciplina_snii": "Cooperación Internacional"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Sectores Estratégicos II: Población, Género y Ética",
+                                            "descripción": "Estudios sobre cambio tecnológico, coherencia política, violencia de género, ética de la cooperación, infancia, juventudes, vejez, salud, y principios de la CID.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "CIENCIAS POLÍTICAS",
+                                                    "disciplina_snii": "Cooperación Internacional"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Estudios sobre cambio tecnológico, coherencia política, violencia de género, ética de la cooperación, infancia, juventudes, vejez, salud, y principios de la CID.",
+                                            "descripción": "Investigación sobre cambio climático, crecimiento verde, desarrollo sustentable, prevención de desastres, energía, finanzas sostenibles, medio ambiente, y océanos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "CIENCIAS POLÍTICAS",
+                                                    "disciplina_snii": "Cooperación Internacional"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "Estudios del Desarrollo. Problemas y Perspectivas Latinoamericanas",
+                                    "descripción_del_área": "Investigación de los desafíos y oportunidades en América Latina.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Problemas Políticos y Económicos",
+                                            "descripción": "Análisis de problemas políticos y económicos que afectan el desarrollo en América Latina, enfocándose en la democratización, la construcción de ciudadanía, gobernanza, violencia e inseguridad.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "CIENCIAS POLÍTICAS",
+                                                    "disciplina_snii": "Problemas Internacionales"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Problemas Sociales y Culturales",
+                                            "descripción": "Estudio de factores sociales y culturales que influyen en el desarrollo, incluyendo temas como cultura, familia, lenguaje, género, identidades y conflictos étnicos, y vida urbana.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "CIENCIAS POLÍTICAS",
+                                                    "disciplina_snii": "Problemas Internacionales"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Problemas Urbanos y Ambientales",
+                                            "descripción": "Investigación sobre la apropiación y conflictos territoriales, expansión urbana, políticas de desarrollo sustentable, aprovechamiento de recursos comunes y desafíos del cambio climático.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "CIENCIAS POLÍTICAS",
+                                                    "disciplina_snii": "Problemas Internacionales"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Problemas Internacionales",
+                                            "descripción": "Análisis de políticas e instrumentos internacionales para fortalecer las relaciones entre países de América Latina, abordando temas como migración, derechos humanos, violencia y cooperación internacional para el desarrollo.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "CIENCIAS POLÍTICAS",
+                                                    "disciplina_snii": "Problemas Internacionales"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "nombre_unidad": "Madrid",
+                    "descripción_unidad": "En la sede Madrid que se ubica en la Colonia del Carmen Coyoacán.",
+                    "dirección_postal": "04100",
+                    "latitud": 19.356847882623317,
+                    "longitud": -99.16691558719847,
+                    "departamentos": [
+                        {
+                            "departamento": "",
+                            "descripción_departamento": "",
+                            "áreas": [
+                                {
+                                    "área": "",
+                                    "descripción_del_área": "",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "",
+                                            "descripción": "",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "",
+                                                    "disciplina_snii": ""
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "nombre_unidad": "Búfalo",
+                    "descripción_unidad": "En la sede Búfalo que se ubica en la Colonia del Valle Carmen Coyoacán",
+                    "dirección_postal": "03100",
+                    "latitud": 19.367318677819316,
+                    "longitud": -99.17770398281176,
+                    "departamentos": [
+                        {
+                            "departamento": "",
+                            "descripción_departamento": "",
+                            "áreas": [
+                                {
+                                    "área": "",
+                                    "descripción_del_área": "",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "",
+                                            "descripción": "",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "",
+                                                    "disciplina_snii": ""
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "nombre_unidad": "Poussin",
+                    "descripción_unidad": "El nuevo inmueble fue adquirido en diciembre de 2013.",
+                    "dirección_postal": "03730",
+                    "latitud": 19.381267388138127,
+                    "longitud": -99.18589537941622,
+                    "departamentos": [
+                        {
+                            "departamento": "",
+                            "descripción_departamento": "",
+                            "áreas": [
+                                {
+                                    "área": "",
+                                    "descripción_del_área": "",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "",
+                                            "descripción": "",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "",
+                                                    "disciplina_snii": ""
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "redes_sociales": [
+                {
+                    "red": "Facebook",
+                    "identificador": "https://www.facebook.com/Institutomora",
+                    "activa": true,
+                    "propósito": "difusión científica"
+                },
+                {
+                    "red": "YouTube",
+                    "identificador": "https://www.youtube.com/user/MoraInstituto",
+                    "activa": true,
+                    "propósito": "difusión científica"
+                },
+                {
+                    "red": "Instagram",
+                    "identificador": "https://www.instagram.com/instituto.mora/",
+                    "activa": true,
+                    "propósito": "difusión científica"
+                },
+                {
+                    "red": "X",
+                    "identificador": "https://x.com/institutomora",
+                    "activa": true,
+                    "propósito": "difusión científica"
+                }
+            ]
+        }
+    ]
+}

@@ -15,7 +15,7 @@
             "fecha_creación": "1980-12-19",
             "historia_establecimiento": "En sus inicios, algunos matemáticos mexicanos veían al CIMAT como una aventura sin un futuro claro. Sin embargo, en poco tiempo, la institución adquirió notoriedad internacional y se convirtió en una de las instituciones de matemáticas más sólidas de Latinoamérica",
             "contexto_histórico": "En 1980, en una etapa en la que el desarrollo nacional apuntaba hacia la descentralización, un grupo de académicos de la UNAM encontró en la ciudad de Guanajuato un escenario propicio para fundar una institución dedicada a la investigación básica en el campo de las matemáticas y al crecimiento de esta ciencia como área de formación a nivel de educación superior. De esta manera nació el CIMAT, Centro de Investigación en Matemáticas A.C.",
-            "tipo_entidad_legal": "Paraestatal asimilada al régimen de las empresas de participación estatal mayoritaria.",
+            "tipo_entidad_legal": "Paraestatal asimilada al régimen de las empresas de participación estatal mayoritaria",
             "figura_jurídica": "Asociación Civil",
             "marco_normativo": [
                 {
@@ -99,7 +99,7 @@
                             "disciplina_snii": "Estadística."
                         }
                     ],
-                    "nivel": "profesionalizante",
+                    "nivel": "maestría",
                     "modalidad": "regular",
                     "vía": "presencial"
                 },
@@ -112,7 +112,7 @@
                             "disciplina_snii": "Estadística."
                         }
                     ],
-                    "nivel": "profesionalizante",
+                    "nivel": "maestría",
                     "modalidad": "regular",
                     "vía": "presencial"
                 },
@@ -125,7 +125,7 @@
                             "disciplina_snii": "INGENIERÍA DE SOFTWARE"
                         }
                     ],
-                    "nivel": "profesionalizante",
+                    "nivel": "maestría",
                     "modalidad": "regular",
                     "vía": "presencial"
                 },
@@ -690,21 +690,21 @@
                     "longitud": -102.34422525397643,
                     "departamentos": [
                         {
-                            "departamento": "",
-                            "descripción_departamento": "",
+                            "departamento": " ",
+                            "descripción_departamento": " ",
                             "áreas": [
                                 {
                                     "área": "",
-                                    "descripción_del_área": "",
+                                    "descripción_del_área": " ",
                                     "líneas_investigación": [
                                         {
-                                            "línea": "",
-                                            "descripción": "",
+                                            "línea": " ",
+                                            "descripción": " ",
                                             "disciplinas": [
                                                 {
-                                                    "área_snii": "",
-                                                    "campo_snii": "",
-                                                    "disciplina_snii": ""
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": " ",
+                                                    "disciplina_snii": " "
                                                 }
                                             ]
                                         }

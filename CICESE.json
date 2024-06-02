@@ -16,7 +16,7 @@
             "historia_establecimiento": "Desde su creación, el CICESE ha sido un centro de formación académica líder, ofreciendo una amplia gama de programas de posgrado en ciencias. Su campus, inaugurado en 1977, ha experimentado un crecimiento significativo, albergando aulas y laboratorios modernos en más de 15 hectáreas. Además, el CICESE ha establecido unidades foráneas en La Paz y Monterrey para expandir su alcance investigativo. En la actualidad, es el centro público de investigación más grande dentro del Sistema de Centros Públicos de Investigación del Conacyt.",
             "contexto_histórico": "Política nacional por descentralizar la investigación científica, la presencia de la Escuela Superior [hoy Facultad] de Ciencias Marinas de la Universidad Autónoma de Baja California (UABC) y la cercanía del Scripps Institution of Oceanography (SIO); la decisión, en 1970, de la UNAM de construir el Observatorio Astronómico Nacional en la sierra de San Pedro Mártir; la intensa actividad tectónica y sísmica de la península de Baja California y del golfo de California que justificaba la realización de estudios en las ciencias de la Tierra, y el requerimiento por desarrollar instrumentación electrónica y óptica como apoyo a la UNAM y a la investigación oceanográfica y geofísica del nuevo centro.",
             "tipo_entidad_legal": "Paraestatal asimilada al régimen de organismos descentralizados",
-            "figura_jurídica": "Organismo descentralizado",
+            "figura_jurídica": "Organismo Descentralizado",
             "marco_normativo": [
                 {
                     "ley_o_instrumento_jurídico": "Ley Federal de las Entidades Paraestatales"
@@ -28,7 +28,7 @@
                     "ley_o_instrumento_jurídico": "Ley de Ciencia y Tecnología"
                 },
                 {
-                    "ley_o_instrumento_jurídico": "Estatuto Orgánico del Centro de Investigación Científica y de Educación Superior de Ensenada, Baja California (CICESE)"
+                    "ley_o_instrumento_jurídico": "Estatuto Orgánico del Centro de Investigación Científica y de Educación Superior de Ensenada, Baja California, (CICESE)"
                 }
             ],
             "presupuesto": [
@@ -1023,7 +1023,7 @@
                                             "descripción": "Profundiza en la ecología y comportamiento de la pardela mexicana para entender su resiliencia ante el cambio climático y sus amenazas, reimaginando su conservación.",
                                             "disciplinas": [
                                                 {
-                                                    "área_snii": "BIOLOGÍA Y QUÍMICA",
+                                                    "área_snii": "Biología y Química",
                                                     "campo_snii": "CIENCIAS AMBIENTALES",
                                                     "disciplina_snii": "Ecología Marina"
                                                 }
@@ -1034,7 +1034,7 @@
                                             "descripción": "Se evalúa el riesgo de colisiones entre fauna y aviones en aeropuertos mexicanos para implementar medidas preventivas y evitar accidentes, entrelazando conocimientos ecológicos y aeronáuticos.",
                                             "disciplinas": [
                                                 {
-                                                    "área_snii": "BIOLOGÍA Y QUÍMICA",
+                                                    "área_snii": "Biología y Química",
                                                     "campo_snii": "CIENCIAS AMBIENTALES",
                                                     "disciplina_snii": "Ecología Marina"
                                                 }
@@ -1045,7 +1045,7 @@
                                             "descripción": "Se monitorea la población y distribución de aves marinas en el Parque Nacional Isla Espíritu Santo, creando un mosaico de datos esenciales para su conservación.",
                                             "disciplinas": [
                                                 {
-                                                    "área_snii": "BIOLOGÍA Y QUÍMICA",
+                                                    "área_snii": "Biología y Química",
                                                     "campo_snii": "CIENCIAS AMBIENTALES",
                                                     "disciplina_snii": "Ecología Marina"
                                                 }
@@ -1056,7 +1056,7 @@
                                             "descripción": "Se investiga el comportamiento del sueño en aves marinas pelágicas, desentrañando cómo duermen en vuelo y en colonias, lo cual es un aspecto integral y enigmático de su biología.",
                                             "disciplinas": [
                                                 {
-                                                    "área_snii": "BIOLOGÍA Y QUÍMICA",
+                                                    "área_snii": "Biología y Química",
                                                     "campo_snii": "CIENCIAS AMBIENTALES",
                                                     "disciplina_snii": "Ecología Marina"
                                                 }
@@ -1067,7 +1067,7 @@
                                             "descripción": "Se analiza la salud de aves marinas para detectar patógenos y efectos de contaminantes, con el fin de mejorar las estrategias de conservación y manejo de estas especies.",
                                             "disciplinas": [
                                                 {
-                                                    "área_snii": "BIOLOGÍA Y QUÍMICA",
+                                                    "área_snii": "Biología y Química",
                                                     "campo_snii": "CIENCIAS AMBIENTALES",
                                                     "disciplina_snii": "Ecología Marina"
                                                 }
@@ -1113,7 +1113,7 @@
                                             "descripción": "Se realiza un estudio exhaustivo de la dinámica de los ecosistemas marinos a gran escala, con énfasis en la megafauna marina, utilizando enfoques cuantitativos y predictivos para comprender mejor su comportamiento y distribución en el océano.",
                                             "disciplinas": [
                                                 {
-                                                    "área_snii": "BIOLOGÍA Y QUÍMICA",
+                                                    "área_snii": "Biología y Química",
                                                     "campo_snii": "CIENCIAS AMBIENTALES",
                                                     "disciplina_snii": "Ecología Marina"
                                                 }
@@ -1463,12 +1463,6 @@
                 {
                     "red": "X",
                     "identificador": "https://x.com/i/flow/login?redirect_after_login=%2Ftodoscicese",
-                    "activa": true,
-                    "propósito": "difusión científica"
-                },
-                {
-                    "red": "Spotify",
-                    "identificador": "https://open.spotify.com/show/1ln4N878kYe03kuwru61O5?si=s0zg8t54TyCF3qppJpuQgg&dl_branch=1",
                     "activa": true,
                     "propósito": "difusión científica"
                 }
