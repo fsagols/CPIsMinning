@@ -1,62 +1,60 @@
+Última revisión: 2 de junio de 2023
+Centros correctamente capturados: CENTROGEO, CIBNOR, CICESE, CIMAT, COLSAN, COMIMSA, INAOE, IPICYT y MORA
+Centros con errores: CIAD, CIATEC, CICY, CIDE, CIMAV, CIO, CIDESI, CIQA, ECOSUR y FIDERH
+No puestos en Github: CIATEJ, CIATEQ, CIDETQ, CIESAS, COLEF, COLMICH, INECOL e INFOTEC
+
 TODOS
    1. Poner el campo "siglas_cpi" en mayúsculas
 
 CENTROGEO
-
 CIAD
   1. No compila en la versión 5. No se cambio "tierra" por "Tierra". Produce muchos errores.
-
 CIATEC
   1. No compila en la versión 5. Produce muchos errores.
-
+CIATEJ
+  1. ***
+CIATEQ
+  1. ***
 CIBNOR
-
 CICESE
-  1. No compila en la versión 5. Por ejemplo en figura_jurídica dice "Organismo descentralizado" y debería decir "Organismo descentralizado"
-
 CICY
   1. No compila en la versión 5.
-
 CIDE
   1. No compila en la versión 5.
-
-CIMAT
-  1. No compila en la versión 5.
-
-CIMAV
-  1. No compila en la versión 5.
-  2.  El campo "programas_académicos" no se llenó bien. Comparar contra INAOE.json o consultarme por favor.
-  3.  En generarl los campos area_sni, campo_sni y disciplina_sni no se llenaron bien.
-
-CIO
-  1. No compila en la versión 5.
-  
 CIDESI
   1. No compila en la versión 5.
   2. El presupuesto no se tomó del archivo https://docs.google.com/spreadsheets/d/1lzHlCdnX-DNWh5KekpCGJ8ka_ibx_dzmino3YOOMdVY/edit?usp=drive_link
      De hecho solo aparece para 2023 pero el dato es incorrecto.
-
+CIDETQ
+  1. ***
+CIESAS
+  1. ***
+CIMAT
+CIMAV
+  1. No compila en la versión 5.
+  2.  El campo "programas_académicos" no se llenó bien. Comparar contra INAOE.json o consultarme por favor.
+  3.  En generarl los campos area_sni, campo_sni y disciplina_sni no se llenaron bien.
+CIO
+  1. No compila en la versión 5.
 CIQA
    1. El nombre del titular pónerlo usando mayúsculas y minúsculas.
-
+COLEF
+  1. ***
+COLMICH
+  1. ***
 COLSAN
-
 COMIMSA
-  1. No compila en la versión 5.
-  1. Aparecía el error
-     "Load JSON document from file error: JSON.parse: bad control character in string literal at line 17 column 36 of the JSON data"
-     Aparecía un tabulador en la línea 17 y columna 36. Se corrigió borrando el tabulador.
-     El mismo error aparece en otros lugares.
-
 ECOSUR
   1. No compila en la versión 5.
-     
 FIDERH
   1. Falta la fecha de designación del titular.
   2. El tipo de entidad legal "Sin fines de lucro" no está en la lista de valores para este campo.
      Revisar por favor que efectivamente compile
-
 INAOE
-
+INECOL
+  1. ***
+INFOTEC
+  1. ***
 IPICYT
+MORA
 
