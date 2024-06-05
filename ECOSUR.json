@@ -117,92 +117,28 @@
             ],
             "unidades": [
                 {
-                    "nombre_unidad": "Unidad San Cristóbal",
-                    "descripción_unidad": "La Unidad San Cristóbal se dedica a la investigación y el desarrollo en ciencias sociales, naturales y exactas, enfocándose en la sostenibilidad y el bienestar de las comunidades.",
-                    "dirección_postal": "Carretera Panamericana y Periférico Sur s/n, Barrio de María Auxiliadora, CP 29290, San Cristóbal de Las Casas, Chiapas, México",
-                    "latitud": 16.735,
-                    "longitud": -92.6375,
+                    "nombre_unidad": "",
+                    "descripción_unidad": "",
+                    "dirección_postal": "",
+                    "latitud": 0,
+                    "longitud": 0,
                     "departamentos": [
                         {
-                            "departamento": "Departamento de Agricultura, Sociedad y Ambiente",
-                            "descripción_departamento": "Este departamento se centra en el estudio de las interacciones entre la agricultura, la sociedad y el medio ambiente, promoviendo prácticas agrícolas sostenibles.",
+                            "departamento": "",
+                            "descripción_departamento": "",
                             "áreas": [
                                 {
-                                    "área": "Agroecología",
-                                    "descripción_del_área": "Investigación sobre sistemas agrícolas sostenibles y resilientes.",
+                                    "área": "",
+                                    "descripción_del_área": "",
                                     "líneas_investigación": [
                                         {
-                                            "línea": "Agricultura Sostenible",
-                                            "descripción": "Desarrollo de técnicas agrícolas que preserven el medio ambiente.",
+                                            "línea": "",
+                                            "descripción": "",
                                             "disciplinas": [
                                                 {
-                                                    "área_snii": "Ciencias Agropecuarias y Biotecnología",
-                                                    "campo_snii": "Agroecología",
-                                                    "disciplina_snii": "Agricultura Sostenible"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "nombre_unidad": "Unidad Chetumal",
-                    "descripción_unidad": "La Unidad Chetumal se especializa en investigaciones relacionadas con los recursos naturales y el medio ambiente, especialmente en áreas costeras y marinas.",
-                    "dirección_postal": "Av. Centenario Km. 5.5, Col. Ra. El Bosque, CP 77014, Chetumal, Quintana Roo, México",
-                    "latitud": 18.5036,
-                    "longitud": -88.3055,
-                    "departamentos": [
-                        {
-                            "departamento": "Departamento de Ciencias de la Sustentabilidad",
-                            "descripción_departamento": "Este departamento trabaja en la conservación de recursos naturales y el desarrollo de estrategias sostenibles para la gestión ambiental.",
-                            "áreas": [
-                                {
-                                    "área": "Manejo de Recursos Naturales",
-                                    "descripción_del_área": "Investigación y desarrollo de métodos para el manejo sostenible de recursos naturales.",
-                                    "líneas_investigación": [
-                                        {
-                                            "línea": "Conservación de Ecosistemas",
-                                            "descripción": "Estrategias para la conservación y restauración de ecosistemas naturales.",
-                                            "disciplinas": [
-                                                {
-                                                    "área_snii": "Ciencias Ambientales",
-                                                    "campo_snii": "Conservación de Ecosistemas",
-                                                    "disciplina_snii": "Ecología y Manejo de Ecosistemas"
-                                                }
-                                            ]
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "nombre_unidad": "Unidad Tapachula",
-                    "descripción_unidad": "La Unidad Tapachula se enfoca en la investigación agrícola y biotecnológica, con especial énfasis en la innovación tecnológica para el desarrollo regional.",
-                    "dirección_postal": "Carretera Antiguo Aeropuerto Km. 2.5, CP 30700, Tapachula, Chiapas, México",
-                    "latitud": 14.899,
-                    "longitud": -92.2625,
-                    "departamentos": [
-                        {
-                            "departamento": "Departamento de Biotecnología",
-                            "descripción_departamento": "Dedicado a la investigación en biotecnología agrícola y ambiental, desarrollando nuevas tecnologías para la mejora de la producción y conservación.",
-                            "áreas": [
-                                {
-                                    "área": "Biotecnología Vegetal",
-                                    "descripción_del_área": "Desarrollo de tecnologías y métodos biotecnológicos para la mejora de cultivos.",
-                                    "líneas_investigación": [
-                                        {
-                                            "línea": "Mejoramiento Genético",
-                                            "descripción": "Uso de biotecnología para el mejoramiento genético de plantas.",
-                                            "disciplinas": [
-                                                {
-                                                    "área_snii": "Biotecnología",
-                                                    "campo_snii": "Biotecnología Vegetal",
-                                                    "disciplina_snii": "Mejoramiento Genético de Plantas"
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "",
+                                                    "disciplina_snii": ""
                                                 }
                                             ]
                                         }
@@ -215,45 +151,45 @@
             ],
             "redes_sociales": [
                 {
-                    "red": "facebook",
-                    "identificador": "https://www.facebook.com/Ecosur",
-                    "activa": true,
+                    "red": "X",
+                    "identificador": "",
+                    "activa": false,
                     "propósito": "difusión científica"
                 },
                 {
                     "red": "X",
-                    "identificador": "https://x.com/ecosurmx",
-                    "activa": true,
+                    "identificador": "",
+                    "activa": false,
                     "propósito": "difusión científica"
                 },
                 {
-                    "red": "instagram",
-                    "identificador": "https://www.instagram.com/ecosurmx",
-                    "activa": true,
+                    "red": "X",
+                    "identificador": "",
+                    "activa": false,
                     "propósito": "difusión científica"
                 },
                 {
-                    "red": "youtube",
-                    "identificador": "https://www.youtube.com/@ECOSURMX",
-                    "activa": true,
+                    "red": "X",
+                    "identificador": "",
+                    "activa": false,
                     "propósito": "difusión científica"
                 },
                 {
-                    "red": "linkedin",
-                    "identificador": "https://www.linkedin.com/school/el-colegio-de-la-frontera-sur-ecosur-/?originalSubdomain=mx",
-                    "activa": true,
-                    "propósito": "laboral"
-                },
-                {
-                    "red": "spotify",
-                    "identificador": "https://open.spotify.com/show/0BOr0ZnMu5oYpOFMoydkrE",
-                    "activa": true,
+                    "red": "X",
+                    "identificador": "",
+                    "activa": false,
                     "propósito": "difusión científica"
                 },
                 {
-                    "red": "podcastsgoogle",
-                    "identificador": "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy9lNDE3Njc5Yy9wb2RjYXN0L3Jzcw?sa=X&ved=0CBsQ27cFahcKEwiI3Lv7uZuAAxUAAAAAHQAAAAAQBg",
-                    "activa": true,
+                    "red": "X",
+                    "identificador": "",
+                    "activa": false,
+                    "propósito": "difusión científica"
+                },
+                {
+                    "red": "X",
+                    "identificador": "",
+                    "activa": false,
                     "propósito": "difusión científica"
                 }
             ]

@@ -1,6 +1,6 @@
 Última revisión: 2 de junio de 2023
 Centros correctamente capturados: CENTROGEO, CIBNOR, CICESE, CIMAT, COLSAN, COMIMSA, INAOE, IPICYT y MORA
-Centros con errores: CIAD, CIATEC, CICY, CIDE, CIMAV, CIO, CIDESI, CIQA, ECOSUR y FIDERH
+Centros con errores: CIAD, CIATEC, CICY, CIDE, CIDESI, CIMAV, CIO, CIQA, ECOSUR y FIDERH
 No puestos en Github: CIATEJ, CIATEQ, CIDETQ, CIESAS, COLEF, COLMICH, INECOL e INFOTEC
 
 TODOS
@@ -28,7 +28,8 @@ CIDESI
 CIDETQ
   1. ***
 CIESAS
-  1. ***
+  1. El archivo tiene un nombre inapropiado. Se llama "CIESAS,json" en lugar de "CIESAS.json"
+  2. Al archivo le faltan muchas cosas.
 CIMAT
 CIMAV
   1. No compila en la versión 5.
