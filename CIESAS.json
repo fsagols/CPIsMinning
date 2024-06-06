@@ -143,3 +143,59 @@
             "vía": "presencial"
         }
     ],
+            {
+  "unidades": [
+    {
+      "nombre_unidad": "CIESAS Ciudad de México",
+      "descripción_unidad": "Centro de investigación en ciencias sociales y humanidades con enfoque en estudios antropológicos, históricos y lingüísticos.",
+      "dirección_postal": "14000",
+      "latitud": 19.306058,
+      "longitud": -99.160456,
+              "departamentos": [
+                 { "nombre_departamento": "Antropología Social",
+                 },
+                 { "nombre_departamento": "Estudios Históricos", 
+                 },
+                 { "nombre_departamento": "Lingüística Indoamericana", 
+                 },
+                 { "nombre_departamento": "Estudios de Población", 
+                     }
+      ]
+    },
+    {
+      "nombre_unidad": "CIESAS Golfo",
+      "descripción_unidad": "Unidad regional dedicada a la investigación de las problemáticas sociales y culturales del Golfo de México.",
+      "dirección_postal": "91000",
+      "latitud": 19.178921,
+      "longitud": -96.130172,
+      "departamentos": [
+        { "nombre_departamento": "Estudios Sociales y Culturales del Golfo", 
+        },
+        { "nombre_departamento": "Estudios de Población y Desarrollo",
+        },
+        { "nombre_departamento": "Estudios Ambientales", 
+        }
+      ],
+    {
+      "nombre_unidad": "CIESAS Pacífico Sur",
+      "descripción_unidad": "Unidad regional enfocada en la investigación de las dinámicas sociales y culturales del Pacífico Sur de México.",
+      "dirección_postal": " 63732",
+      "latitud": 20.679982,
+      "longitud": -105.630432,
+      "departamentos": [
+        { "nombre_departamento": "Estudios Culturales y Turismo", 
+        },
+        { "nombre_departamento": "Estudios Migratorios",
+        },
+        { "nombre_departamento": "Estudios Ambientales y Sustentabilidad", 
+        }
+      ],
+      
+    },
+    {
+      "nombre_unidad": "CIESAS Occidente",
+      "descripción_unidad": "Unidad regional abocada a la investigación de las problemáticas sociales y culturales del occidente de México.",
+      "dirección_postal": "44100",
+      "latitud": 20.674982,
+      "longitud": -105.630432,
+      
