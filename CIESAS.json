@@ -15,4 +15,131 @@
             "fecha_creación": "1974-09-12",
             "historia_establecimiento": "El Centro de Investigaciones y Estudios Superiores en Antropología Social (CIESAS) es una institución académica mexicana fundada en 1973. Originalmente parte del Instituto Nacional de Antropología e Historia (INAH), se independizó en 1980. El CIESAS se ha destacado en la investigación y docencia en antropología y ciencias sociales, con programas de posgrado reconocidos y múltiples sedes en México. Ha contribuido significativamente a la comprensión de las culturas y sociedades mexicanas y latinoamericanas, y colabora con gobiernos y ONG en temas de políticas públicas y desarrollo social.",
             "contexto_histórico": "El CIESAS (Centro de Investigaciones y Estudios Superiores en Antropología Social) fue fundado en 1973 como parte del INAH para especializar la investigación antropológica en México. En 1980, se convirtió en una entidad autónoma, lo que le permitió ampliar su alcance académico. Durante las décadas de 1980 y 1990, se consolidó como un referente en ciencias sociales en México y América Latina. Actualmente, con varias sedes en el país, colabora internacionalmente y asesora a gobiernos y ONG en políticas públicas y desarrollo social, promoviendo la inclusión y la diversidad cultural.",
-            
+            "tipo_entidad_legal": "Paraestatal asimilada al régimen de las empresas de participación estatal mayoritaria",
+            "figura_jurídica": "Asociación Civil",
+            "marco_normativo": [
+        {
+            "ley_o_instrumento_jurídico": "Ley Orgánica de la Administración Pública Federal"
+        },
+        {
+            "ley_o_instrumento_jurídico": "Ley Federal de las Entidades Paraestatales"
+        },
+        {
+            "ley_o_instrumento_jurídico": "Ley de Ciencia y Tecnología"
+        },
+        {
+            "ley_o_instrumento_jurídico": "Estatutos del CIESAS"
+        }
+    ],
+    "presupuesto": [
+        {
+            "año": 2020,
+            "total": 66573239,
+            "recursos_fiscales": 66573239,
+            "recursos_propios": 0
+        },
+        {
+            "año": 2021,
+            "total": 71721348,
+            "recursos_fiscales": 71721348,
+            "recursos_propios": 0
+        },
+        {
+            "año": 2022,
+            "total": 71769066,
+            "recursos_fiscales": 71769066,
+            "recursos_propios": 0
+        },
+        {
+            "año": 2023,
+            "total": 76669655,
+            "recursos_fiscales": 76669655,
+            "recursos_propios": 0
+        },
+        {
+            "año": 2024,
+            "total": 76734836,
+            "recursos_fiscales": 72610917,
+            "recursos_propios": 4123919
+        }
+    ],
+    "programas_académicos": [
+        {
+            "programa": "Maestría en Antropología Social",
+            "disciplinas": [
+                {
+                    "área_snii": "Ciencias Sociales",
+                    "campo_snii": "Antropología",
+                    "disciplina_snii": "Antropología Social"
+                }
+            ],
+            "nivel": "maestría",
+            "modalidad": "regular",
+            "vía": "presencial"
+        },
+        {
+            "programa": "Doctorado en Antropología Social",
+            "disciplinas": [
+                {
+                    "área_snii": "Ciencias Sociales",
+                    "campo_snii": "Antropología",
+                    "disciplina_snii": "Antropología Social"
+                }
+            ],
+            "nivel": "doctorado",
+            "modalidad": "regular",
+            "vía": "presencial"
+        },
+        {
+            "programa": "Maestría en Historia",
+            "disciplinas": [
+                {
+                    "área_snii": "Ciencias Sociales",
+                    "campo_snii": "Historia",
+                    "disciplina_snii": "Historia de México"
+                }
+            ],
+            "nivel": "maestría",
+            "modalidad": "regular",
+            "vía": "presencial"
+        },
+        {
+            "programa": "Doctorado en Historia",
+            "disciplinas": [
+                {
+                    "área_snii": "Ciencias Sociales",
+                    "campo_snii": "Historia",
+                    "disciplina_snii": "Historia de México"
+                }
+            ],
+            "nivel": "doctorado",
+            "modalidad": "regular",
+            "vía": "presencial"
+        },
+        {
+            "programa": "Maestría en Lingüística Indoamericana",
+            "disciplinas": [
+                {
+                    "área_snii": "Ciencias Sociales",
+                    "campo_snii": "Lingüística",
+                    "disciplina_snii": "Lingüística Antropológica"
+                }
+            ],
+            "nivel": "maestría",
+            "modalidad": "regular",
+            "vía": "presencial"
+        },
+        {
+            "programa": "Especialidad en Estudios de Género",
+            "disciplinas": [
+                {
+                    "área_snii": "Ciencias Sociales",
+                    "campo_snii": "Estudios de Género",
+                    "disciplina_snii": "Género y Sociedad"
+                }
+            ],
+            "nivel": "especialidad",
+            "modalidad": "regular",
+            "vía": "presencial"
+        }
+    ],
