@@ -264,5 +264,29 @@
 }
   ],
 },
+{
+  "nombre_unidad": "CIESAS Peninsular",
+  "descripción_unidad": "Unidad regional especializada en estudios sobre las culturas y comunidades de la Península de Yucatán.",
+  "dirección_postal": "97150",
+  "latitud": 21.161908,
+  "longitud": -89.629566,
+  "departamentos": [
+    { "nombre_departamento": "Antropología Social" 
+},
+    { "nombre_departamento": "Historia Social" 
+},
+    { "nombre_departamento": "Estudios Urbanos y Regionales" 
+},
+    { "nombre_departamento": "Estudios de Género" 
+},
+    { "nombre_departamento": "Estudios sobre Migración"
+},
+    { "nombre_departamento": "Lingüística y Estudios sobre la Lengua" 
+},
+    { "nombre_departamento": "Estudios sobre Medio Ambiente y Sociedad"
+},
+    { "nombre_departamento": "Estudios sobre Educación y Cultura" }
+  ],
+},
 
 
