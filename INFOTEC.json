@@ -394,13 +394,7 @@
             "activa": true,
             "propósito": "Publicar artículos, blogs y casos de estudio relacionados con las tecnologías de la información y comunicación."
         },
-        {
-            "red": "Reddit",
-            "identificador": "infotecmx",
-            "activa": true,
-            "propósito": "Participar en comunidades y compartir noticias, proyectos y discusiones relacionadas con INFOTEC."
-        },
-      
+    
     ]
 }
    
