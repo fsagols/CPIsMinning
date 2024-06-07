@@ -350,5 +350,81 @@
         }
     ]
 },
-        
+     {
+    "redes_sociales": [
+        {
+            "red": "Twitter",
+            "identificador": "@INFOTECmx",
+            "activa": true,
+            "propósito": "Compartir noticias, eventos, y avances en investigación y desarrollo en tecnologías de la información y comunicación."
+        },
+        {
+            "red": "Facebook",
+            "identificador": "INFOTECmx",
+            "activa": true,
+            "propósito": "Interactuar con la comunidad, compartir contenido sobre proyectos, eventos y actividades de INFOTEC."
+        },
+        {
+            "red": "LinkedIn",
+            "identificador": "infotec",
+            "activa": true,
+            "propósito": "Establecer conexiones profesionales, compartir información sobre oportunidades laborales, proyectos y logros de INFOTEC."
+        },
+        {
+            "red": "YouTube",
+            "identificador": "INFOTECmx",
+            "activa": true,
+            "propósito": "Publicar videos sobre conferencias, tutoriales, y proyectos destacados de INFOTEC."
+        },
+        {
+            "red": "Instagram",
+            "identificador": "@infotecmx",
+            "activa": false,
+            "propósito": "Compartir imágenes y momentos destacados de eventos y actividades de INFOTEC."
+        },
+        {
+            "red": "GitHub",
+            "identificador": "infotecmx",
+            "activa": true,
+            "propósito": "Compartir proyectos de código abierto, colaborar con la comunidad y promover el desarrollo tecnológico."
+        },
+        {
+            "red": "Medium",
+            "identificador": "@infotec",
+            "activa": true,
+            "propósito": "Publicar artículos, blogs y casos de estudio relacionados con las tecnologías de la información y comunicación."
+        },
+        {
+            "red": "Reddit",
+            "identificador": "infotecmx",
+            "activa": true,
+            "propósito": "Participar en comunidades y compartir noticias, proyectos y discusiones relacionadas con INFOTEC."
+        },
+        {
+            "red": "WhatsApp",
+            "identificador": "+52 55 1234 5678",
+            "activa": true,
+            "propósito": "Grupo de difusión para enviar noticias, eventos y comunicaciones importantes a la comunidad de INFOTEC."
+        },
+        {
+            "red": "Telegram",
+            "identificador": "@infotecmx_group",
+            "activa": true,
+            "propósito": "Grupo de discusión para compartir noticias, eventos y tener conversaciones interactivas sobre tecnología y proyectos de INFOTEC."
+        },
+        {
+            "red": "LinkedIn",
+            "identificador": "infotecmx",
+            "activa": true,
+            "propósito": "Perfil oficial de INFOTECmx en LinkedIn para compartir actualizaciones, oportunidades laborales y conexiones profesionales."
+        },
+        {
+            "red": "Pinterest",
+            "identificador": "infotec_pins",
+            "activa": true,
+            "propósito": "Compartir imágenes, infografías y recursos visuales sobre proyectos y tecnologías de INFOTEC."
+        }
+    ]
+}
+   
 
