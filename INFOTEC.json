@@ -418,12 +418,7 @@
             "activa": true,
             "propósito": "Perfil oficial de INFOTECmx en LinkedIn para compartir actualizaciones, oportunidades laborales y conexiones profesionales."
         },
-        {
-            "red": "Pinterest",
-            "identificador": "infotec_pins",
-            "activa": true,
-            "propósito": "Compartir imágenes, infografías y recursos visuales sobre proyectos y tecnologías de INFOTEC."
-        }
+        
     ]
 }
    
