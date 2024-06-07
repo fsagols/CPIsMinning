@@ -99,5 +99,198 @@
             "vía": "virtual"
         }
     ],
-    
-
+{
+    "unidades": [
+        {
+            "nombre_unidad": "INFOTEC Ciudad de México",
+            "descripción_unidad": "INFOTEC es un centro de investigación y desarrollo en tecnologías de la información y comunicación, enfocado en la innovación, transferencia de tecnología y formación de capital humano especializado.",
+            "dirección_postal": "Av. San Fernando 37, Toriello Guerra, Tlalpan, 14050 Ciudad de México, CDMX, México",
+            "latitud": 19.304694,
+            "longitud": -99.176653,
+            "departamentos": [
+                {
+                    "departamento": "Departamento de Tecnologías de la Información y Comunicación",
+                    "descripción_departamento": "Este departamento se dedica a la investigación, desarrollo e implementación de soluciones tecnológicas avanzadas en el ámbito de las tecnologías de la información y comunicación.",
+                    "áreas": [
+                        {
+                            "área": "Ciberseguridad",
+                            "descripción_del_área": "Investigación y desarrollo de tecnologías y estrategias para proteger los sistemas de información de ciberataques y amenazas digitales.",
+                            "líneas_investigación": [
+                                {
+                                    "línea": "Protección de Infraestructuras Críticas",
+                                    "descripción": "Desarrollo de metodologías y herramientas para la protección de infraestructuras críticas contra amenazas cibernéticas.",
+                                    "disciplinas": [
+                                        {
+                                            "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                            "campo_snii": "Ciencias de la Computación",
+                                            "disciplina_snii": "Seguridad Informática"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "línea": "Seguridad en la Nube",
+                                    "descripción": "Investigación sobre técnicas de seguridad para proteger datos y aplicaciones en entornos de computación en la nube.",
+                                    "disciplinas": [
+                                        {
+                                            "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                            "campo_snii": "Ciencias de la Computación",
+                                            "disciplina_snii": "Seguridad Informática"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "área": "Inteligencia Artificial y Machine Learning",
+                            "descripción_del_área": "Desarrollo e implementación de algoritmos y modelos de aprendizaje automático para resolver problemas complejos y mejorar procesos en diversos sectores.",
+                            "líneas_investigación": [
+                                {
+                                    "línea": "Modelos Predictivos",
+                                    "descripción": "Investigación y desarrollo de modelos predictivos basados en inteligencia artificial para la toma de decisiones informada.",
+                                    "disciplinas": [
+                                        {
+                                            "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                            "campo_snii": "Ciencias de la Computación",
+                                            "disciplina_snii": "Inteligencia Artificial"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "línea": "Procesamiento de Lenguaje Natural",
+                                    "descripción": "Desarrollo de técnicas y aplicaciones para el análisis y comprensión del lenguaje humano por parte de las máquinas.",
+                                    "disciplinas": [
+                                        {
+                                            "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                            "campo_snii": "Ciencias de la Computación",
+                                            "disciplina_snii": "Inteligencia Artificial"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "área": "Big Data y Análisis de Datos",
+                            "descripción_del_área": "Investigación y desarrollo de técnicas y herramientas para la gestión y análisis de grandes volúmenes de datos.",
+                            "líneas_investigación": [
+                                {
+                                    "línea": "Analítica de Datos Masivos",
+                                    "descripción": "Desarrollo de tecnologías para la extracción de información valiosa de grandes conjuntos de datos para la toma de decisiones estratégicas.",
+                                    "disciplinas": [
+                                        {
+                                            "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                            "campo_snii": "Ciencias de la Computación",
+                                            "disciplina_snii": "Análisis de Datos"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "línea": "Minería de Datos",
+                                    "descripción": "Investigación en técnicas de minería de datos para descubrir patrones y tendencias en grandes conjuntos de datos.",
+                                    "disciplinas": [
+                                        {
+                                            "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                            "campo_snii": "Ciencias de la Computación",
+                                            "disciplina_snii": "Análisis de Datos"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "área": "Desarrollo de Software",
+                            "descripción_del_área": "Creación y mejora de metodologías y herramientas para el desarrollo eficiente de software de alta calidad.",
+                            "líneas_investigación": [
+                                {
+                                    "línea": "Metodologías Ágiles",
+                                    "descripción": "Investigación y aplicación de metodologías ágiles para mejorar la eficiencia y calidad en el desarrollo de software.",
+                                    "disciplinas": [
+                                        {
+                                            "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                            "campo_snii": "Ciencias de la Computación",
+                                            "disciplina_snii": "Ingeniería de Software"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "línea": "Desarrollo de Aplicaciones Móviles",
+                                    "descripción": "Creación de técnicas y herramientas para el desarrollo de aplicaciones móviles innovadoras y de alta calidad.",
+                                    "disciplinas": [
+                                        {
+                                            "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                            "campo_snii": "Ciencias de la Computación",
+                                            "disciplina_snii": "Ingeniería de Software"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "nombre_unidad": "INFOTEC Aguascalientes",
+            "descripción_unidad": "INFOTEC Aguascalientes se centra en la investigación aplicada y el desarrollo tecnológico en las áreas de TIC para impulsar el crecimiento regional.",
+            "dirección_postal": "Blvd. a Zacatecas 649, Col. Ejido las Cumbres, Aguascalientes, Ags., México",
+            "latitud": 21.928558,
+            "longitud": -102.305921,
+            "departamentos": [
+                {
+                    "departamento": "Departamento de Innovación y Desarrollo Tecnológico",
+                    "descripción_departamento": "Focalizado en la creación de soluciones tecnológicas innovadoras que respondan a las necesidades del sector productivo y social.",
+                    "áreas": [
+                        {
+                            "área": "Internet de las Cosas (IoT)",
+                            "descripción_del_área": "Desarrollo de tecnologías y aplicaciones para conectar dispositivos y sistemas a través de internet, permitiendo la automatización y el control remoto.",
+                            "líneas_investigación": [
+                                {
+                                    "línea": "Sensores y Actuadores Inteligentes",
+                                    "descripción": "Investigación y desarrollo de sensores y actuadores avanzados para aplicaciones en IoT.",
+                                    "disciplinas": [
+                                        {
+                                            "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                            "campo_snii": "Ingeniería Electrónica",
+                                            "disciplina_snii": "Internet de las Cosas"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "área": "Automatización y Robótica",
+                            "descripción_del_área": "Desarrollo de sistemas automáticos y robots para mejorar la eficiencia y productividad en diversos sectores.",
+                            "líneas_investigación": [
+                                {
+                                    "línea": "Robots Colaborativos",
+                                    "descripción": "Desarrollo de robots que pueden trabajar junto a humanos en entornos industriales y de servicios.",
+                                    "disciplinas": [
+                                        {
+                                            "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                            "campo_snii": "Ingeniería Mecatrónica",
+                                            "disciplina_snii": "Robótica"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "nombre_unidad": "INFOTEC Monterrey",
+            "descripción_unidad": "INFOTEC Monterrey se dedica a la investigación en tecnologías avanzadas de la información para apoyar la transformación digital de las empresas en la región.",
+            "dirección_postal": "Av. Eugenio Garza Sada 427, Tecnológico, 64849 Monterrey, N.L., México",
+            "latitud": 25.651443,
+            "longitud": -100.290987,
+            "departamentos": [
+                {
+                    "departamento": "Departamento de Transformación Digital",
+                    "descripción_departamento": "Apoya a las empresas en su proceso de transformación digital a través de la adopción de tecnologías innovadoras y el rediseño de procesos.",
+                    "áreas": [
+                        {
+                            "área": "Computación en la Nube",
+                            "descripción_del_área": "Investigación y desarrollo de soluciones en la nube para mejorar la flexibilidad y escalabilidad de las operaciones empresariales.",
+                            "líneas_investigación": [
+                                {
+                                    "línea": "Arquitecturas en la Nube",
