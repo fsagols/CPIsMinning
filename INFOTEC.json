@@ -294,3 +294,60 @@
                             "líneas_investigación": [
                                 {
                                     "línea": "Arquitecturas en la Nube",
+                                                                        "descripción": "Investigación y desarrollo de arquitecturas eficientes y seguras para entornos de computación en la nube.",
+                                    "disciplinas": [
+                                        {
+                                            "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                            "campo_snii": "Ciencias de la Computación",
+                                            "disciplina_snii": "Computación en la Nube"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "línea": "Servicios en la Nube",
+                                    "descripción": "Desarrollo de servicios y aplicaciones innovadoras basadas en la nube para empresas y usuarios finales.",
+                                    "disciplinas": [
+                                        {
+                                            "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                            "campo_snii": "Ciencias de la Computación",
+                                            "disciplina_snii": "Computación en la Nube"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "área": "Internet de las Cosas (IoT)",
+                            "descripción_del_área": "Investigación y desarrollo de soluciones IoT para la optimización de procesos y la creación de nuevos servicios.",
+                            "líneas_investigación": [
+                                {
+                                    "línea": "Aplicaciones Industriales de IoT",
+                                    "descripción": "Desarrollo de soluciones IoT para mejorar la eficiencia y seguridad en entornos industriales.",
+                                    "disciplinas": [
+                                        {
+                                            "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                            "campo_snii": "Ingeniería Electrónica",
+                                            "disciplina_snii": "Internet de las Cosas"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "línea": "IoT para la Salud",
+                                    "descripción": "Investigación en aplicaciones de IoT para monitoreo y atención médica remota.",
+                                    "disciplinas": [
+                                        {
+                                            "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                            "campo_snii": "Ingeniería Electrónica",
+                                            "disciplina_snii": "Internet de las Cosas"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
+
