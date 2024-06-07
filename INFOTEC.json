@@ -375,14 +375,7 @@
             "identificador": "INFOTECmx",
             "activa": true,
             "propósito": "Publicar videos sobre conferencias, tutoriales, y proyectos destacados de INFOTEC."
-        },
-        {
-            "red": "Instagram",
-            "identificador": "@infotecmx",
-            "activa": false,
-            "propósito": "Compartir imágenes y momentos destacados de eventos y actividades de INFOTEC."
-        },
-       
+        },    
         {
             "red": "Medium",
             "identificador": "@infotec",
