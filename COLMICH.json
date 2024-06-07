@@ -250,14 +250,7 @@
       "nivel": "doctorado",
       "modalidad": "regular",
       "vía": "presencial"
-    }
-  ]
-}
-continua
-ChatGPT
-json
-Copiar código
-{
+  
       "programa": "Maestría en Políticas Públicas",
       "disciplinas": [
         {
@@ -308,6 +301,4 @@ Copiar código
       "nivel": "doctorado",
       "modalidad": "regular",
       "vía": "presencial"
-    }
-  ]
 },
