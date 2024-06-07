@@ -1,5 +1,5 @@
 {
-    "cpis": [
+    "cpis": [       
         {
             "nombre_cpi": "Centro de Investigación y Docencia Económicas A.C.",
             "siglas_cpi": "CIDE",
@@ -15,13 +15,31 @@
             "fecha_creación": "1974-12-25",
             "historia_establecimiento": "",
             "contexto_histórico": "El CIDE (Centro de Investigación y Docencia Económicas) fue fundado en 1974, un periodo significativo en la historia económica y política de México y el mundo. En ese contexto, el presidente de México era Luis Echeverría Álvarez, quien gobernó de 1970 a 1976. Su administración estuvo marcada por un estilo de gobierno populista y un enfoque hacia políticas económicas intervencionistas, con un aumento considerable en el gasto público y en la inversión en infraestructura social y económica. Durante esta época, México experimentó un crecimiento económico inicialmente robusto, conocido como el 'milagro mexicano', aunque eventualmente esto llevó a problemas de inflación y deuda externa creciente hacia el final de su mandato. La administración de Echeverría también fue testigo de tensiones y represiones políticas, como la masacre de estudiantes en 1971 conocida como el Halconazo.  A nivel global, el mundo estaba experimentando cambios económicos y políticos significativos, incluyendo las consecuencias de la crisis del petróleo de 1973, que sacudió las economías de muchos países y puso de relieve la necesidad de una mayor investigación y desarrollo en políticas económicas. Este fue también el período del fin del sistema de Bretton Woods y los tipos de cambio fijos, lo que introdujo más volatilidad e incertidumbre en los mercados globales. En este entorno, la creación del CIDE como un centro público de investigación en ciencias sociales estaba alineada con la necesidad de fortalecer la capacidad de México para analizar y formular políticas económicas y sociales en respuesta a estos rápidos cambios y desafíos. El objetivo era generar conocimiento y soluciones basadas en la investigación académica rigurosa que pudieran guiar el desarrollo económico y social del país en un contexto cada vez más complejo y globalizado.",
-            "tipo_entidad_legal": "Sin fines de lucro",
-            "figura_jurídica": "Asociación civil",
-            "marco_normativo": "El marco normativo que rige al CIDE está enfocado en la transparencia, la ética y la integridad pública. Incluye protocolos de atención, comisiones de ética, y un fuerte posicionamiento contra la corrupción y la tolerancia cero hacia faltas éticas. Además, se enfatiza la protección de datos personales y la normativa de transparencia para asegurar un manejo adecuado y abierto de la información institucional. Este marco normativo refleja el compromiso del CIDE con los estándares más altos de conducta ética y responsabilidad social.",
+            "tipo_entidad_legal": "Desconocida",
+            "figura_jurídica": "Asociación Civil",
+            "marco_normativo": [
+                {
+                  "ley_o_instrumento_jurídico": "Ley Orgánica de la Administración Pública Federal"
+                },
+                {
+                  "ley_o_instrumento_jurídico": "Ley Federal de las Entidades Paraestatales"
+                },
+                {
+                  "ley_o_instrumento_jurídico": "Ley de Ciencia y Tecnología"
+                },
+                {
+                  "ley_o_instrumento_jurídico": "Ley General en Materia de Humanidades, Ciencias Tecnologías e Innovación"
+                },
+                {
+                  "ley_o_instrumento_jurídico": "Manual de Organización del Centro de Investigación y Docencia Económicas, A.C."
+                }
+              ],
             "presupuesto": [
                 {
                     "año": 0,
-                    "monto": 0
+                    "total": 0,
+                    "recursos_fiscales": 0,
+                    "recursos_propios": 0
                 }
             ],
             "programas_académicos": [
@@ -29,14 +47,14 @@
                     "programa": "Licenciatura en Ciencia Política y Relaciones Internacionales",
                     "disciplinas": [
                         {
-                            "area_sni": "Ciencias Sociales",
-                            "campo_sni": "Ciencias Políticas",
-                            "disciplina_sni": "Política y gobierno"
+                            "área_snii": "Ciencias Sociales",
+                            "campo_snii": "Ciencias Políticas",
+                            "disciplina_snii": "Política y gobierno"
                         },
                         {
-                            "area_sni": "Ciencias Sociales",
-                            "campo_sni": "Ciencias Políticas",
-                            "disciplina_sni": "Relaciones Internacionales"
+                            "área_snii": "Ciencias Sociales",
+                            "campo_snii": "Ciencias Políticas",
+                            "disciplina_snii": "Relaciones Internacionales"
                         }
                     ],
                     "nivel": "educación continua",
@@ -47,19 +65,19 @@
                     "programa": "Licenciatura en Economía",
                     "disciplinas": [
                         {
-                            "area_sni": "Ciencias Sociales",
-                            "campo_sni": "Economía",
-                            "disciplina_sni": "Economía general"
+                            "área_snii": "Ciencias Sociales",
+                            "campo_snii": "Economía",
+                            "disciplina_snii": "Economía general"
                         },
                         {
-                            "area_sni": "Ciencias Sociales",
-                            "campo_sni": "Economía",
-                            "disciplina_sni": "Econometría"
+                            "área_snii": "Ciencias Sociales",
+                            "campo_snii": "Economía",
+                            "disciplina_snii": "Econometría"
                         },
                         {
-                            "area_sni": "Ciencias Sociales",
-                            "campo_sni": "Economía",
-                            "disciplina_sni": "Economía aplicada"
+                            "área_snii": "Ciencias Sociales",
+                            "campo_snii": "Economía",
+                            "disciplina_snii": "Economía aplicada"
                         }
                     ],
                     "nivel": "educación continua",
@@ -70,29 +88,29 @@
                     "programa": "Licenciatura en Políticas Públicas",
                     "disciplinas": [
                         {
-                            "area_sni": "Ciencias Sociales",
-                            "campo_sni": "Ciencia Política",
-                            "disciplina_sni": "Política y gobierno"
+                            "área_snii": "Ciencias Sociales",
+                            "campo_snii": "Ciencia Política",
+                            "disciplina_snii": "Política y gobierno"
                         },
                         {
-                            "area_sni": "Ciencias Sociales",
-                            "campo_sni": "Administración Pública",
-                            "disciplina_sni": "Gestión pública"
+                            "área_snii": "Ciencias Sociales",
+                            "campo_snii": "Administración Pública",
+                            "disciplina_snii": "Gestión pública"
                         },
                         {
-                            "area_sni": "Ciencias Sociales",
-                            "campo_sni": "Derecho",
-                            "disciplina_sni": "Derecho y legislación nacionales"
+                            "área_snii": "Ciencias Sociales",
+                            "campo_snii": "Derecho",
+                            "disciplina_snii": "Derecho y legislación nacionales"
                         },
                         {
-                            "area_sni": "Ciencias Sociales",
-                            "campo_sni": "Sociología",
-                            "disciplina_sni": "Problemas sociales"
+                            "área_snii": "Ciencias Sociales",
+                            "campo_snii": "Sociología",
+                            "disciplina_snii": "Problemas sociales"
                         },
                         {
-                            "area_sni": "Ciencias Sociales",
-                            "campo_sni": "Economía",
-                            "disciplina_sni": "Políticas económicas"
+                            "área_snii": "Ciencias Sociales",
+                            "campo_snii": "Economía",
+                            "disciplina_snii": "Políticas económicas"
                         }
                     ],
                     "nivel": "educación continua",
@@ -103,19 +121,19 @@
                     "programa": "Licenciatura en Derecho",
                     "disciplinas": [
                         {
-                            "area_sni": "Ciencias Sociales",
-                            "campo_sni": "Derecho",
-                            "disciplina_sni": "Derecho y legislación nacionales"
+                            "área_snii": "Ciencias Sociales",
+                            "campo_snii": "Derecho",
+                            "disciplina_snii": "Derecho y legislación nacionales"
                         },
                         {
-                            "area_sni": "Ciencias Sociales",
-                            "campo_sni": "Derecho",
-                            "disciplina_sni": "Teoría del Derecho"
+                            "área_snii": "Ciencias Sociales",
+                            "campo_snii": "Derecho",
+                            "disciplina_snii": "Teoría del Derecho"
                         },
                         {
-                            "area_sni": "Ciencias Sociales",
-                            "campo_sni": "Derecho",
-                            "disciplina_sni": "Derecho comparado"
+                            "área_snii": "Ciencias Sociales",
+                            "campo_snii": "Derecho",
+                            "disciplina_snii": "Derecho comparado"
                         }
                     ],
                     "nivel": "educación continua",
@@ -126,19 +144,19 @@
                     "programa": "Maestría en Administración y Políticas Públicas",
                     "disciplinas": [
                         {
-                            "area_sni": "Ciencias Sociales",
-                            "campo_sni": "Administración Pública",
-                            "disciplina_sni": "Gestión y políticas públicas"
+                            "área_snii": "Ciencias Sociales",
+                            "campo_snii": "Administración Pública",
+                            "disciplina_snii": "Gestión y políticas públicas"
                         },
                         {
-                            "area_sni": "Ciencias Sociales",
-                            "campo_sni": "Ciencia Política",
-                            "disciplina_sni": "Política y gobierno"
+                            "área_snii": "Ciencias Sociales",
+                            "campo_snii": "Ciencia Política",
+                            "disciplina_snii": "Política y gobierno"
                         },
                         {
-                            "area_sni": "Ciencias Sociales",
-                            "campo_sni": "Derecho",
-                            "disciplina_sni": "Derecho público"
+                            "área_snii": "Ciencias Sociales",
+                            "campo_snii": "Derecho",
+                            "disciplina_snii": "Derecho público"
                         }
                     ],
                     "nivel": "maestría",
@@ -149,29 +167,29 @@
                     "programa": "Maestría en Ciencia Política",
                     "disciplinas": [
                         {
-                            "area_sni": "Ciencias Sociales",
-                            "campo_sni": "Ciencia Política",
-                            "disciplina_sni": "Teoría política"
+                            "área_snii": "Ciencias Sociales",
+                            "campo_snii": "Ciencia Política",
+                            "disciplina_snii": "Teoría política"
                         },
                         {
-                            "area_sni": "Ciencias Sociales",
-                            "campo_sni": "Ciencia Política",
-                            "disciplina_sni": "Política comparada"
+                            "área_snii": "Ciencias Sociales",
+                            "campo_snii": "Ciencia Política",
+                            "disciplina_snii": "Política comparada"
                         },
                         {
-                            "area_sni": "Ciencias Sociales",
-                            "campo_sni": "Ciencia Política",
-                            "disciplina_sni": "Política y gobierno"
+                            "área_snii": "Ciencias Sociales",
+                            "campo_snii": "Ciencia Política",
+                            "disciplina_snii": "Política y gobierno"
                         },
                         {
-                            "area_sni": "Ciencias Sociales",
-                            "campo_sni": "Economía",
-                            "disciplina_sni": "Economía política"
+                            "área_snii": "Ciencias Sociales",
+                            "campo_snii": "Economía",
+                            "disciplina_snii": "Economía política"
                         },
                         {
-                            "area_sni": "Ciencias Sociales",
-                            "campo_sni": "Ciencia Política",
-                            "disciplina_sni": "Política internacional"
+                            "área_snii": "Ciencias Sociales",
+                            "campo_snii": "Ciencia Política",
+                            "disciplina_snii": "Política internacional"
                         }
                     ],
                     "nivel": "maestría",
@@ -182,29 +200,29 @@
                     "programa": "Maestría en Ciencia Política",
                     "disciplinas": [
                         {
-                            "area_sni": "Ciencias Sociales",
-                            "campo_sni": "Ciencia Política",
-                            "disciplina_sni": "Teoría política"
+                            "área_snii": "Ciencias Sociales",
+                            "campo_snii": "Ciencia Política",
+                            "disciplina_snii": "Teoría política"
                         },
                         {
-                            "area_sni": "Ciencias Sociales",
-                            "campo_sni": "Ciencia Política",
-                            "disciplina_sni": "Política comparada"
+                            "área_snii": "Ciencias Sociales",
+                            "campo_snii": "Ciencia Política",
+                            "disciplina_snii": "Política comparada"
                         },
                         {
-                            "area_sni": "Ciencias Sociales",
-                            "campo_sni": "Ciencia Política",
-                            "disciplina_sni": "Política y gobierno"
+                            "área_snii": "Ciencias Sociales",
+                            "campo_snii": "Ciencia Política",
+                            "disciplina_snii": "Política y gobierno"
                         },
                         {
-                            "area_sni": "Ciencias Sociales",
-                            "campo_sni": "Economía",
-                            "disciplina_sni": "Economía política"
+                            "área_snii": "Ciencias Sociales",
+                            "campo_snii": "Economía",
+                            "disciplina_snii": "Economía política"
                         },
                         {
-                            "area_sni": "Ciencias Sociales",
-                            "campo_sni": "Ciencia Política",
-                            "disciplina_sni": "Política internacional"
+                            "área_snii": "Ciencias Sociales",
+                            "campo_snii": "Ciencia Política",
+                            "disciplina_snii": "Política internacional"
                         }
                     ],
                     "nivel": "maestría",
@@ -215,19 +233,19 @@
                     "programa": "Maestría en Desarrollo Económico",
                     "disciplinas": [
                         {
-                            "area_sni": "Ciencias Sociales",
-                            "campo_sni": "Economía",
-                            "disciplina_sni": "Economía del desarrollo"
+                            "área_snii": "Ciencias Sociales",
+                            "campo_snii": "Economía",
+                            "disciplina_snii": "Economía del desarrollo"
                         },
                         {
-                            "area_sni": "Ciencias Sociales",
-                            "campo_sni": "Economía",
-                            "disciplina_sni": "Economía aplicada"
+                            "área_snii": "Ciencias Sociales",
+                            "campo_snii": "Economía",
+                            "disciplina_snii": "Economía aplicada"
                         },
                         {
-                            "area_sni": "Ciencias Sociales",
-                            "campo_sni": "Economía",
-                            "disciplina_sni": "Economía internacional"
+                            "área_snii": "Ciencias Sociales",
+                            "campo_snii": "Economía",
+                            "disciplina_snii": "Economía internacional"
                         }
                     ],
                     "nivel": "maestría",
@@ -238,19 +256,19 @@
                     "programa": "Maestría en Economía",
                     "disciplinas": [
                         {
-                            "area_sni": "Ciencias Sociales",
-                            "campo_sni": "Economía",
-                            "disciplina_sni": "Economía general"
+                            "área_snii": "Ciencias Sociales",
+                            "campo_snii": "Economía",
+                            "disciplina_snii": "Economía general"
                         },
                         {
-                            "area_sni": "Ciencias Sociales",
-                            "campo_sni": "Economía",
-                            "disciplina_sni": "Econometría"
+                            "área_snii": "Ciencias Sociales",
+                            "campo_snii": "Economía",
+                            "disciplina_snii": "Econometría"
                         },
                         {
-                            "area_sni": "Ciencias Sociales",
-                            "campo_sni": "Economía",
-                            "disciplina_sni": "Economía del desarrollo"
+                            "área_snii": "Ciencias Sociales",
+                            "campo_snii": "Economía",
+                            "disciplina_snii": "Economía del desarrollo"
                         }
                     ],
                     "nivel": "maestría",
@@ -261,19 +279,19 @@
                     "programa": "Maestría en Gestión Pública",
                     "disciplinas": [
                         {
-                            "area_sni": "Ciencias Sociales",
-                            "campo_sni": "Administración Pública",
-                            "disciplina_sni": "Gestión y políticas públicas"
+                            "área_snii": "Ciencias Sociales",
+                            "campo_snii": "Administración Pública",
+                            "disciplina_snii": "Gestión y políticas públicas"
                         },
                         {
-                            "area_sni": "Ciencias Sociales",
-                            "campo_sni": "Derecho",
-                            "disciplina_sni": "Derecho administrativo"
+                            "área_snii": "Ciencias Sociales",
+                            "campo_snii": "Derecho",
+                            "disciplina_snii": "Derecho administrativo"
                         },
                         {
-                            "area_sni": "Ciencias Sociales",
-                            "campo_sni": "Economía",
-                            "disciplina_sni": "Economía pública"
+                            "área_snii": "Ciencias Sociales",
+                            "campo_snii": "Economía",
+                            "disciplina_snii": "Economía pública"
                         }
                     ],
                     "nivel": "maestría",
@@ -284,14 +302,14 @@
                     "programa": "Maestría en Historia Internacional",
                     "disciplinas": [
                         {
-                            "area_sni": "Humanidades y Ciencias de la Conducta",
-                            "campo_sni": "Historia",
-                            "disciplina_sni": "Historia mundial"
+                            "área_snii": "Humanidades y Ciencias de la Conducta",
+                            "campo_snii": "Historia",
+                            "disciplina_snii": "Historia mundial"
                         },
                         {
-                            "area_sni": "Humanidades y Ciencias de la Conducta",
-                            "campo_sni": "Historia",
-                            "disciplina_sni": "Historia regional y nacional"
+                            "área_snii": "Humanidades y Ciencias de la Conducta",
+                            "campo_snii": "Historia",
+                            "disciplina_snii": "Historia regional y nacional"
                         }
                     ],
                     "nivel": "maestría",
@@ -302,24 +320,24 @@
                     "programa": "Maestría en Métodos para el Análisis de Políticas Públicas",
                     "disciplinas": [
                         {
-                            "area_sni": "Ciencias Sociales",
-                            "campo_sni": "Ciencias Políticas",
-                            "disciplina_sni": "Análisis de políticas públicas"
+                            "área_snii": "Ciencias Sociales",
+                            "campo_snii": "Ciencias Políticas",
+                            "disciplina_snii": "Análisis de políticas públicas"
                         },
                         {
-                            "area_sni": "Ciencias Sociales",
-                            "campo_sni": "Administración Pública",
-                            "disciplina_sni": "Gestión pública"
+                            "área_snii": "Ciencias Sociales",
+                            "campo_snii": "Administración Pública",
+                            "disciplina_snii": "Gestión pública"
                         },
                         {
-                            "area_sni": "Ciencias Sociales",
-                            "campo_sni": "Sociología",
-                            "disciplina_sni": "Sociología del desarrollo"
+                            "área_snii": "Ciencias Sociales",
+                            "campo_snii": "Sociología",
+                            "disciplina_snii": "Sociología del desarrollo"
                         },
                         {
-                            "area_sni": "Ciencias Sociales",
-                            "campo_sni": "Economía",
-                            "disciplina_sni": "Economía del desarrollo"
+                            "área_snii": "Ciencias Sociales",
+                            "campo_snii": "Economía",
+                            "disciplina_snii": "Economía del desarrollo"
                         }
                     ],
                     "nivel": "maestría",
@@ -330,24 +348,24 @@
                     "programa": "Doctorado en Ciencia Política",
                     "disciplinas": [
                         {
-                            "area_sni": "Ciencias Sociales",
-                            "campo_sni": "Ciencia Política",
-                            "disciplina_sni": "Teoría política"
+                            "área_snii": "Ciencias Sociales",
+                            "campo_snii": "Ciencia Política",
+                            "disciplina_snii": "Teoría política"
                         },
                         {
-                            "area_sni": "Ciencias Sociales",
-                            "campo_sni": "Ciencia Política",
-                            "disciplina_sni": "Política comparada"
+                            "área_snii": "Ciencias Sociales",
+                            "campo_snii": "Ciencia Política",
+                            "disciplina_snii": "Política comparada"
                         },
                         {
-                            "area_sni": "Ciencias Sociales",
-                            "campo_sni": "Ciencia Política",
-                            "disciplina_sni": "Economía política"
+                            "área_snii": "Ciencias Sociales",
+                            "campo_snii": "Ciencia Política",
+                            "disciplina_snii": "Economía política"
                         },
                         {
-                            "area_sni": "Ciencias Sociales",
-                            "campo_sni": "Ciencia Política",
-                            "disciplina_sni": "Relaciones internacionales"
+                            "área_snii": "Ciencias Sociales",
+                            "campo_snii": "Ciencia Política",
+                            "disciplina_snii": "Relaciones internacionales"
                         }
                     ],
                     "nivel": "doctorado",
@@ -358,24 +376,24 @@
                     "programa": "Doctorado en Ciencia Política",
                     "disciplinas": [
                         {
-                            "area_sni": "Ciencias Sociales",
-                            "campo_sni": "Ciencia Política",
-                            "disciplina_sni": "Teoría política"
+                            "área_snii": "Ciencias Sociales",
+                            "campo_snii": "Ciencia Política",
+                            "disciplina_snii": "Teoría política"
                         },
                         {
-                            "area_sni": "Ciencias Sociales",
-                            "campo_sni": "Ciencia Política",
-                            "disciplina_sni": "Política comparada"
+                            "área_snii": "Ciencias Sociales",
+                            "campo_snii": "Ciencia Política",
+                            "disciplina_snii": "Política comparada"
                         },
                         {
-                            "area_sni": "Ciencias Sociales",
-                            "campo_sni": "Ciencia Política",
-                            "disciplina_sni": "Economía política"
+                            "área_snii": "Ciencias Sociales",
+                            "campo_snii": "Ciencia Política",
+                            "disciplina_snii": "Economía política"
                         },
                         {
-                            "area_sni": "Ciencias Sociales",
-                            "campo_sni": "Ciencia Política",
-                            "disciplina_sni": "Relaciones internacionales"
+                            "área_snii": "Ciencias Sociales",
+                            "campo_snii": "Ciencia Política",
+                            "disciplina_snii": "Relaciones internacionales"
                         }
                     ],
                     "nivel": "doctorado",
@@ -386,24 +404,24 @@
                     "programa": "Doctorado en Ciencia Política",
                     "disciplinas": [
                         {
-                            "area_sni": "Ciencias Sociales",
-                            "campo_sni": "Ciencia Política",
-                            "disciplina_sni": "Teoría política"
+                            "área_snii": "Ciencias Sociales",
+                            "campo_snii": "Ciencia Política",
+                            "disciplina_snii": "Teoría política"
                         },
                         {
-                            "area_sni": "Ciencias Sociales",
-                            "campo_sni": "Ciencia Política",
-                            "disciplina_sni": "Política comparada"
+                            "área_snii": "Ciencias Sociales",
+                            "campo_snii": "Ciencia Política",
+                            "disciplina_snii": "Política comparada"
                         },
                         {
-                            "area_sni": "Ciencias Sociales",
-                            "campo_sni": "Ciencia Política",
-                            "disciplina_sni": "Economía política"
+                            "área_snii": "Ciencias Sociales",
+                            "campo_snii": "Ciencia Política",
+                            "disciplina_snii": "Economía política"
                         },
                         {
-                            "area_sni": "Ciencias Sociales",
-                            "campo_sni": "Ciencia Política",
-                            "disciplina_sni": "Relaciones internacionales"
+                            "área_snii": "Ciencias Sociales",
+                            "campo_snii": "Ciencia Política",
+                            "disciplina_snii": "Relaciones internacionales"
                         }
                     ],
                     "nivel": "doctorado",
@@ -414,14 +432,14 @@
                     "programa": "Doctorado en Historia Aplicada",
                     "disciplinas": [
                         {
-                            "area_sni": "Humanidades y Ciencias de la Conducta",
-                            "campo_sni": "Historia",
-                            "disciplina_sni": "Historia moderna y contemporánea"
+                            "área_snii": "Humanidades y Ciencias de la Conducta",
+                            "campo_snii": "Historia",
+                            "disciplina_snii": "Historia moderna y contemporánea"
                         },
                         {
-                            "area_sni": "Humanidades y Ciencias de la Conducta",
-                            "campo_sni": "Historia",
-                            "disciplina_sni": "Historia de América Latina"
+                            "área_snii": "Humanidades y Ciencias de la Conducta",
+                            "campo_snii": "Historia",
+                            "disciplina_snii": "Historia de América Latina"
                         }
                     ],
                     "nivel": "doctorado",
@@ -450,9 +468,9 @@
                                             "descripción": "Investiga comportamientos económicos bajo condiciones controladas.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Economía",
-                                                    "disciplina_sni": "Economía experimental"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Economía",
+                                                    "disciplina_snii": "Economía experimental"
                                                 }
                                             ]
                                         },
@@ -461,9 +479,9 @@
                                             "descripción": "Aplica teoría de juegos para analizar decisiones estratégicas en economía.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Economía",
-                                                    "disciplina_sni": "Teoría de juegos"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Economía",
+                                                    "disciplina_snii": "Teoría de juegos"
                                                 }
                                             ]
                                         }
@@ -478,9 +496,9 @@
                                             "descripción": "Desarrolla modelos económicos para evaluar políticas de cambio climático.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Economía",
-                                                    "disciplina_sni": "Economía ambiental"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Economía",
+                                                    "disciplina_snii": "Economía ambiental"
                                                 }
                                             ]
                                         },
@@ -489,9 +507,9 @@
                                             "descripción": "Analiza las políticas energéticas y su relación con la economía y el medio ambiente.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Economía",
-                                                    "disciplina_sni": "Economía de la energía"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Economía",
+                                                    "disciplina_snii": "Economía de la energía"
                                                 }
                                             ]
                                         }
@@ -506,9 +524,9 @@
                                             "descripción": "Analiza el impacto de las políticas laborales y las dinámicas del mercado de trabajo en la economía.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Economía",
-                                                    "disciplina_sni": "Economía laboral"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Economía",
+                                                    "disciplina_snii": "Economía laboral"
                                                 }
                                             ]
                                         },
@@ -517,9 +535,9 @@
                                             "descripción": "Examina cómo los cambios demográficos afectan la economía y las políticas públicas.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Economía",
-                                                    "disciplina_sni": "Demografía económica"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Economía",
+                                                    "disciplina_snii": "Demografía económica"
                                                 }
                                             ]
                                         }
@@ -534,14 +552,14 @@
                                             "descripción": "Explora el impacto de las decisiones humanas en los mercados y políticas a través de experimentos controlados y análisis de comportamiento.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Economía",
-                                                    "disciplina_sni": "Economía del comportamiento"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Economía",
+                                                    "disciplina_snii": "Economía del comportamiento"
                                                 },
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Economía",
-                                                    "disciplina_sni": "Economía experimental"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Economía",
+                                                    "disciplina_snii": "Economía experimental"
                                                 }
                                             ]
                                         }
@@ -556,9 +574,9 @@
                                             "descripción": "Estudia cómo las plataformas sociales influencian las decisiones económicas y políticas.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Ciencia Política",
-                                                    "disciplina_sni": "Comunicación política"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Ciencia Política",
+                                                    "disciplina_snii": "Comunicación política"
                                                 }
                                             ]
                                         },
@@ -567,9 +585,9 @@
                                             "descripción": "Analiza la influencia de las estrategias de persuasión y las estructuras de red en los resultados económicos y sociales.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Sociología",
-                                                    "disciplina_sni": "Sociología de las redes"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Sociología",
+                                                    "disciplina_snii": "Sociología de las redes"
                                                 }
                                             ]
                                         }
@@ -584,9 +602,9 @@
                                             "descripción": "Aplica técnicas econométricas para analizar datos de series de tiempo y predecir tendencias futuras.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Economía",
-                                                    "disciplina_sni": "Econometría de series de tiempo"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Economía",
+                                                    "disciplina_snii": "Econometría de series de tiempo"
                                                 }
                                             ]
                                         },
@@ -595,9 +613,9 @@
                                             "descripción": "Utiliza métodos econométricos para analizar fenómenos macroeconómicos a gran escala.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Economía",
-                                                    "disciplina_sni": "Macroeconometría"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Economía",
+                                                    "disciplina_snii": "Macroeconometría"
                                                 }
                                             ]
                                         },
@@ -606,9 +624,9 @@
                                             "descripción": "Se centra en el desarrollo de nuevos métodos econométricos y la mejora de los existentes.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Economía",
-                                                    "disciplina_sni": "Econometría teórica"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Economía",
+                                                    "disciplina_snii": "Econometría teórica"
                                                 }
                                             ]
                                         }
@@ -623,9 +641,9 @@
                                             "descripción": "Explora cómo la innovación puede ser estimulada por políticas y su impacto en la economía(global y en contextos de alta competitividad.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Economía",
-                                                    "disciplina_sni": "Economía de la innovación"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Economía",
+                                                    "disciplina_snii": "Economía de la innovación"
                                                 }
                                             ]
                                         },
@@ -634,9 +652,9 @@
                                             "descripción": "Se centra en el análisis de las políticas públicas dirigidas a promover la investigación y el desarrollo, y su impacto en el sector económico.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Economía",
-                                                    "disciplina_sni": "Política económica"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Economía",
+                                                    "disciplina_snii": "Política económica"
                                                 }
                                             ]
                                         }
@@ -651,9 +669,9 @@
                                             "descripción": "Analiza las políticas y estrategias económicas que impactan la educación en regiones en desarrollo, con un enfoque particular en África y Latinoamérica.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Economía",
-                                                    "disciplina_sni": "Economía de la educación"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Economía",
+                                                    "disciplina_snii": "Economía de la educación"
                                                 }
                                             ]
                                         }
@@ -668,9 +686,9 @@
                                             "descripción": "Analiza la eficacia y eficiencia de los programas sociales en mejorar las condiciones de vida.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Economía",
-                                                    "disciplina_sni": "Economía del bienestar social"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Economía",
+                                                    "disciplina_snii": "Economía del bienestar social"
                                                 }
                                             ]
                                         },
@@ -679,9 +697,9 @@
                                             "descripción": "Explora estrategias para promover el crecimiento y desarrollo en economías menos avanzadas.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Economía",
-                                                    "disciplina_sni": "Economía del desarrollo"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Economía",
+                                                    "disciplina_snii": "Economía del desarrollo"
                                                 }
                                             ]
                                         },
@@ -690,9 +708,9 @@
                                             "descripción": "Investiga los factores que influyen en la estructura y dinámica del mercado de trabajo.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Economía",
-                                                    "disciplina_sni": "Economía laboral"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Economía",
+                                                    "disciplina_snii": "Economía laboral"
                                                 }
                                             ]
                                         }
@@ -707,14 +725,14 @@
                                             "descripción": "Estudia las políticas macroeconómicas y fiscales y su impacto en la economía.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Economía",
-                                                    "disciplina_sni": "Macroeconomía"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Economía",
+                                                    "disciplina_snii": "Macroeconomía"
                                                 },
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Economía",
-                                                    "disciplina_sni": "Política fiscal"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Economía",
+                                                    "disciplina_snii": "Política fiscal"
                                                 }
                                             ]
                                         },
@@ -723,9 +741,9 @@
                                             "descripción": "Analiza los mercados financieros y su interacción con la economía en general.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Economía",
-                                                    "disciplina_sni": "Economía financiera"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Economía",
+                                                    "disciplina_snii": "Economía financiera"
                                                 }
                                             ]
                                         }
@@ -740,9 +758,9 @@
                                             "descripción": "Analiza cómo las políticas educativas impactan el desarrollo económico y social.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Economía",
-                                                    "disciplina_sni": "Economía de la educación"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Economía",
+                                                    "disciplina_snii": "Economía de la educación"
                                                 }
                                             ]
                                         },
@@ -751,9 +769,9 @@
                                             "descripción": "Explora las interacciones entre educación, formación laboral y mercados de trabajo.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Economía",
-                                                    "disciplina_sni": "Economía laboral"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Economía",
+                                                    "disciplina_snii": "Economía laboral"
                                                 }
                                             ]
                                         }
@@ -768,14 +786,14 @@
                                             "descripción": "Estudia cómo las redes complejas pueden influir en el desarrollo económico.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Economía",
-                                                    "disciplina_sni": "Economía del desarrollo"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Economía",
+                                                    "disciplina_snii": "Economía del desarrollo"
                                                 },
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Sociología",
-                                                    "disciplina_sni": "Sociología de las redes"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Sociología",
+                                                    "disciplina_snii": "Sociología de las redes"
                                                 }
                                             ]
                                         },
@@ -784,14 +802,14 @@
                                             "descripción": "Analiza el papel de las redes complejas en la promoción de la inclusión social.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Sociología",
-                                                    "disciplina_sni": "Sociología de las redes"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Sociología",
+                                                    "disciplina_snii": "Sociología de las redes"
                                                 },
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Ciencia Política",
-                                                    "disciplina_sni": "Políticas de inclusión"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Ciencia Política",
+                                                    "disciplina_snii": "Políticas de inclusión"
                                                 }
                                             ]
                                         },
@@ -800,14 +818,14 @@
                                             "descripción": "Investiga cómo las redes complejas pueden contribuir a la sustentabilidad a través de las instituciones.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Ciencia Política",
-                                                    "disciplina_sni": "Políticas de sustentabilidad"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Ciencia Política",
+                                                    "disciplina_snii": "Políticas de sustentabilidad"
                                                 },
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Sociología",
-                                                    "disciplina_sni": "Sociología de las instituciones"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Sociología",
+                                                    "disciplina_snii": "Sociología de las instituciones"
                                                 }
                                             ]
                                         },
@@ -816,14 +834,14 @@
                                             "descripción": "Estudia cómo las redes complejas pueden influir en la política industrial.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Economía",
-                                                    "disciplina_sni": "Economía industrial"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Economía",
+                                                    "disciplina_snii": "Economía industrial"
                                                 },
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Sociología",
-                                                    "disciplina_sni": "Sociología de las redes"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Sociología",
+                                                    "disciplina_snii": "Sociología de las redes"
                                                 }
                                             ]
                                         }
@@ -838,14 +856,14 @@
                                             "descripción": "Investiga las metodologías para definir y calcular un salario vital adecuado en México.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Economía",
-                                                    "disciplina_sni": "Economía laboral"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Economía",
+                                                    "disciplina_snii": "Economía laboral"
                                                 },
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Economía",
-                                                    "disciplina_sni": "Economía del bienestar"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Economía",
+                                                    "disciplina_snii": "Economía del bienestar"
                                                 }
                                             ]
                                         },
@@ -854,14 +872,14 @@
                                             "descripción": "Estudia los patrones de movilidad social entre generaciones en México.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Sociología",
-                                                    "disciplina_sni": "Sociología de la movilidad social"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Sociología",
+                                                    "disciplina_snii": "Sociología de la movilidad social"
                                                 },
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Economía",
-                                                    "disciplina_sni": "Economía de la educación"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Economía",
+                                                    "disciplina_snii": "Economía de la educación"
                                                 }
                                             ]
                                         }
@@ -876,9 +894,9 @@
                                             "descripción": "Investiga el papel del gobierno en la economía, enfocándose en la regulación y políticas públicas.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Economía",
-                                                    "disciplina_sni": "Economía pública"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Economía",
+                                                    "disciplina_snii": "Economía pública"
                                                 }
                                             ]
                                         }
@@ -893,9 +911,9 @@
                                             "descripción": "Estudia las implicaciones de la política monetaria utilizando métodos econométricos avanzados.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Economía",
-                                                    "disciplina_sni": "Economía monetaria"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Economía",
+                                                    "disciplina_snii": "Economía monetaria"
                                                 }
                                             ]
                                         }
@@ -910,9 +928,9 @@
                                             "descripción": "Analiza cómo diseñar y mejorar los mercados para optimizar su eficiencia y equidad.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Economía",
-                                                    "disciplina_sni": "Economía industrial"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Economía",
+                                                    "disciplina_snii": "Economía industrial"
                                                 }
                                             ]
                                         }
@@ -927,9 +945,9 @@
                                             "descripción": "Desarrolla y perfecciona herramientas para capturar datos precisos sobre prácticas educativas y rendimiento estudiantil.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Humanidades y Ciencias de la Conducta",
-                                                    "campo_sni": "Educación",
-                                                    "disciplina_sni": "Evaluación educativa"
+                                                    "área_snii": "Humanidades y Ciencias de la Conducta",
+                                                    "campo_snii": "Educación",
+                                                    "disciplina_snii": "Evaluación educativa"
                                                 }
                                             ]
                                         }
@@ -944,9 +962,9 @@
                                             "descripción": "Estudia las dinámicas de los mercados internacionales y cómo afectan a la economía global.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Economía",
-                                                    "disciplina_sni": "Economía Internacional"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Economía",
+                                                    "disciplina_snii": "Economía Internacional"
                                                 }
                                             ]
                                         },
@@ -955,9 +973,9 @@
                                             "descripción": "Analiza la estructura y comportamiento de las industrias desde un enfoque empírico.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Economía",
-                                                    "disciplina_sni": "Organización Industrial"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Economía",
+                                                    "disciplina_snii": "Organización Industrial"
                                                 }
                                             ]
                                         }
@@ -972,9 +990,9 @@
                                             "descripción": "Investiga los factores que promueven o inhiben la evolución de las instituciones en contextos de desarrollo.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Ciencia Política",
-                                                    "disciplina_sni": "Política del desarrollo"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Ciencia Política",
+                                                    "disciplina_snii": "Política del desarrollo"
                                                 }
                                             ]
                                         }
@@ -989,9 +1007,9 @@
                                             "descripción": "Analiza los patrones de comercio internacional y su impacto en la economía global.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Economía",
-                                                    "disciplina_sni": "Comercio internacional"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Economía",
+                                                    "disciplina_snii": "Comercio internacional"
                                                 }
                                             ]
                                         },
@@ -1000,9 +1018,9 @@
                                             "descripción": "Estudia los factores que contribuyen al crecimiento económico a largo plazo.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Economía",
-                                                    "disciplina_sni": "Crecimiento económico"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Economía",
+                                                    "disciplina_snii": "Crecimiento económico"
                                                 }
                                             ]
                                         },
@@ -1011,9 +1029,9 @@
                                             "descripción": "Investiga los procesos de desarrollo económico a gran escala y cómo se pueden mejorar.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Economía",
-                                                    "disciplina_sni": "Desarrollo macroeconómico"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Economía",
+                                                    "disciplina_snii": "Desarrollo macroeconómico"
                                                 }
                                             ]
                                         }
@@ -1028,9 +1046,9 @@
                                             "descripción": "Aborda múltiples aspectos del comportamiento humano desde una perspectiva económica y cultural.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Economía",
-                                                    "disciplina_sni": "Economía del comportamiento"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Economía",
+                                                    "disciplina_snii": "Economía del comportamiento"
                                                 }
                                             ]
                                         }
@@ -1045,9 +1063,9 @@
                                             "descripción": "Analiza la estructura, estrategias y comportamientos de las empresas dentro de los mercados industriales.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Economía",
-                                                    "disciplina_sni": "Economía industrial"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Economía",
+                                                    "disciplina_snii": "Economía industrial"
                                                 }
                                             ]
                                         }
@@ -1062,9 +1080,9 @@
                                             "descripción": "Investiga cómo las familias toman decisiones financieras que afectan su bienestar económico.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Economía",
-                                                    "disciplina_sni": "Economía del hogar"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Economía",
+                                                    "disciplina_snii": "Economía del hogar"
                                                 }
                                             ]
                                         }
@@ -1079,9 +1097,9 @@
                                             "descripción": "Se centra en mejorar y desarrollar instrumentos de medición utilizando teorías y modelos psicométricos.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Humanidades y Ciencias de la Conducta",
-                                                    "campo_sni": "Psicología",
-                                                    "disciplina_sni": "Psicometría"
+                                                    "área_snii": "Humanidades y Ciencias de la Conducta",
+                                                    "campo_snii": "Psicología",
+                                                    "disciplina_snii": "Psicometría"
                                                 }
                                             ]
                                         }
@@ -1102,9 +1120,9 @@
                                             "descripción": "Estudia los movimientos sociales y su impacto en la política y la sociedad.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Ciencia Política",
-                                                    "disciplina_sni": "Movimientos sociales"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Ciencia Política",
+                                                    "disciplina_snii": "Movimientos sociales"
                                                 }
                                             ]
                                         },
@@ -1113,9 +1131,9 @@
                                             "descripción": "Analiza el papel de la sociedad civil en la promoción y protección de los derechos humanos.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Sociología",
-                                                    "disciplina_sni": "Sociología de las organizaciones"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Sociología",
+                                                    "disciplina_snii": "Sociología de las organizaciones"
                                                 }
                                             ]
                                         },
@@ -1124,9 +1142,9 @@
                                             "descripción": "Investiga los conflictos generados por la gestión de recursos naturales y el impacto ambiental.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Estudios Ambientales",
-                                                    "disciplina_sni": "Conflictos ambientales"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Estudios Ambientales",
+                                                    "disciplina_snii": "Conflictos ambientales"
                                                 }
                                             ]
                                         },
@@ -1135,9 +1153,9 @@
                                             "descripción": "Explora las dinámicas del extractivismo y su relación con el cambio climático y los conflictos locales.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Estudios Ambientales",
-                                                    "disciplina_sni": "Gestión de recursos naturales"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Estudios Ambientales",
+                                                    "disciplina_snii": "Gestión de recursos naturales"
                                                 }
                                             ]
                                         },
@@ -1146,9 +1164,9 @@
                                             "descripción": "Analiza el desarrollo, implementación y efectividad de los tratados internacionales sobre derechos humanos.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Derecho",
-                                                    "disciplina_sni": "Derecho internacional"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Derecho",
+                                                    "disciplina_snii": "Derecho internacional"
                                                 }
                                             ]
                                         }
@@ -1163,9 +1181,9 @@
                                             "descripción": "Estudia los patrones y desafíos de la migración en este corredor específico.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Estudios de Migración",
-                                                    "disciplina_sni": "Migración internacional"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Estudios de Migración",
+                                                    "disciplina_snii": "Migración internacional"
                                                 }
                                             ]
                                         },
@@ -1174,9 +1192,9 @@
                                             "descripción": "Evalúa las políticas diseñadas para facilitar la integración de migrantes en nuevas sociedades.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Estudios de Migración",
-                                                    "disciplina_sni": "Políticas migratorias"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Estudios de Migración",
+                                                    "disciplina_snii": "Políticas migratorias"
                                                 }
                                             ]
                                         },
@@ -1185,9 +1203,9 @@
                                             "descripción": "Analiza cómo los migrantes mantienen y construyen redes sociales a través de las fronteras internacionales.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Estudios de Migración",
-                                                    "disciplina_sni": "Transnacionalismo"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Estudios de Migración",
+                                                    "disciplina_snii": "Transnacionalismo"
                                                 }
                                             ]
                                         },
@@ -1196,9 +1214,9 @@
                                             "descripción": "Investiga cómo la migración afecta la opinión pública y las actitudes hacia los migrantes en los países de origen y destino.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Ciencia Política",
-                                                    "disciplina_sni": "Opinión pública"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Ciencia Política",
+                                                    "disciplina_snii": "Opinión pública"
                                                 }
                                             ]
                                         },
@@ -1207,9 +1225,9 @@
                                             "descripción": "Estudia los patrones y tendencias de los movimientos migratorios a nivel internacional.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Estudios de Migración",
-                                                    "disciplina_sni": "Migración internacional"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Estudios de Migración",
+                                                    "disciplina_snii": "Migración internacional"
                                                 }
                                             ]
                                         },
@@ -1218,9 +1236,9 @@
                                             "descripción": "Investiga las políticas y prácticas de integración de migrantes en Estados Unidos y Europa.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Estudios de Migración",
-                                                    "disciplina_sni": "Políticas migratorias"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Estudios de Migración",
+                                                    "disciplina_snii": "Políticas migratorias"
                                                 }
                                             ]
                                         },
@@ -1229,9 +1247,9 @@
                                             "descripción": "Analiza cómo la migración internacional afecta la opinión pública en los países de origen y destino.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Ciencia Política",
-                                                    "disciplina_sni": "Opinión pública"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Ciencia Política",
+                                                    "disciplina_snii": "Opinión pública"
                                                 }
                                             ]
                                         },
@@ -1240,9 +1258,9 @@
                                             "descripción": "Estudia la relación entre ciudadanía, nacionalidad y migración.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Ciencia Política",
-                                                    "disciplina_sni": "Ciudadanía"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Ciencia Política",
+                                                    "disciplina_snii": "Ciudadanía"
                                                 }
                                             ]
                                         }
@@ -1257,9 +1275,9 @@
                                             "descripción": "Estudia la relación entre la violencia política, el conflicto y la seguridad internacional.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Ciencia Política",
-                                                    "disciplina_sni": "Seguridad internacional"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Ciencia Política",
+                                                    "disciplina_snii": "Seguridad internacional"
                                                 }
                                             ]
                                         },
@@ -1268,9 +1286,9 @@
                                             "descripción": "Analiza la evolución histórica del sistema de seguridad en el hemisferio occidental.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Historia",
-                                                    "disciplina_sni": "Historia de la seguridad"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Historia",
+                                                    "disciplina_snii": "Historia de la seguridad"
                                                 }
                                             ]
                                         },
@@ -1279,9 +1297,9 @@
                                             "descripción": "Investiga los desafíos y tendencias en seguridad internacional.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Ciencia Política",
-                                                    "disciplina_sni": "Seguridad internacional"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Ciencia Política",
+                                                    "disciplina_snii": "Seguridad internacional"
                                                 }
                                             ]
                                         },
@@ -1290,9 +1308,9 @@
                                             "descripción": "Estudia las dinámicas y consecuencias del crimen organizado.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Criminología",
-                                                    "disciplina_sni": "Crimen organizado"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Criminología",
+                                                    "disciplina_snii": "Crimen organizado"
                                                 }
                                             ]
                                         }
@@ -1307,9 +1325,9 @@
                                             "descripción": "Estudia las relaciones políticas, económicas y culturales entre México y Estados Unidos.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Relaciones Internacionales",
-                                                    "disciplina_sni": "Relaciones bilaterales"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Relaciones Internacionales",
+                                                    "disciplina_snii": "Relaciones bilaterales"
                                                 }
                                             ]
                                         },
@@ -1318,9 +1336,9 @@
                                             "descripción": "Analiza cómo los factores internos en Estados Unidos afectan su política exterior.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Ciencia Política",
-                                                    "disciplina_sni": "Política exterior de Estados Unidos"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Ciencia Política",
+                                                    "disciplina_snii": "Política exterior de Estados Unidos"
                                                 }
                                             ]
                                         },
@@ -1329,9 +1347,9 @@
                                             "descripción": "Investiga el proceso de integración económica y política en América del Norte.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Relaciones Internacionales",
-                                                    "disciplina_sni": "Integración regional"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Relaciones Internacionales",
+                                                    "disciplina_snii": "Integración regional"
                                                 }
                                             ]
                                         },
@@ -1340,9 +1358,9 @@
                                             "descripción": "Estudia las relaciones de México con los países de América Latina.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Relaciones Internacionales",
-                                                    "disciplina_sni": "Relaciones bilaterales"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Relaciones Internacionales",
+                                                    "disciplina_snii": "Relaciones bilaterales"
                                                 }
                                             ]
                                         },
@@ -1351,9 +1369,9 @@
                                             "descripción": "Analiza cómo la opinión pública influye en la política exterior de México.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Ciencia Política",
-                                                    "disciplina_sni": "Opinión pública"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Ciencia Política",
+                                                    "disciplina_snii": "Opinión pública"
                                                 }
                                             ]
                                         },
@@ -1362,9 +1380,9 @@
                                             "descripción": "Estudia la historia de las relaciones diplomáticas de México con otros países.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Historia",
-                                                    "disciplina_sni": "Historia diplomática"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Historia",
+                                                    "disciplina_snii": "Historia diplomática"
                                                 }
                                             ]
                                         },
@@ -1373,9 +1391,9 @@
                                             "descripción": "Investiga los patrones y tendencias de los movimientos migratorios a nivel internacional.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Estudios de Migración",
-                                                    "disciplina_sni": "Migración internacional"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Estudios de Migración",
+                                                    "disciplina_snii": "Migración internacional"
                                                 }
                                             ]
                                         },
@@ -1384,9 +1402,9 @@
                                             "descripción": "Estudia las relaciones políticas, económicas y culturales entre México y Europa.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Relaciones Internacionales",
-                                                    "disciplina_sni": "Relaciones bilaterales"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Relaciones Internacionales",
+                                                    "disciplina_snii": "Relaciones bilaterales"
                                                 }
                                             ]
                                         },
@@ -1395,9 +1413,9 @@
                                             "descripción": "Analiza las relaciones entre Europa y América Latina en términos políticos, económicos y culturales.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Relaciones Internacionales",
-                                                    "disciplina_sni": "Relaciones bilaterales"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Relaciones Internacionales",
+                                                    "disciplina_snii": "Relaciones bilaterales"
                                                 }
                                             ]
                                         },
@@ -1406,9 +1424,9 @@
                                             "descripción": "Investiga los procesos de integración regional en Europa y América.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Relaciones Internacionales",
-                                                    "disciplina_sni": "Integración regional"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Relaciones Internacionales",
+                                                    "disciplina_snii": "Integración regional"
                                                 }
                                             ]
                                         },
@@ -1417,9 +1435,9 @@
                                             "descripción": "Estudia la política y las relaciones internacionales en el contexto de la Unión Europea.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Relaciones Internacionales",
-                                                    "disciplina_sni": "Política internacional"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Relaciones Internacionales",
+                                                    "disciplina_snii": "Política internacional"
                                                 }
                                             ]
                                         },
@@ -1428,9 +1446,9 @@
                                             "descripción": "Analiza la política exterior de México en relación con los países de Centroamérica.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Relaciones Internacionales",
-                                                    "disciplina_sni": "Política exterior"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Relaciones Internacionales",
+                                                    "disciplina_snii": "Política exterior"
                                                 }
                                             ]
                                         },
@@ -1439,9 +1457,9 @@
                                             "descripción": "Investiga cómo la opinión pública, el comportamiento político y la polarización política afectan las relaciones entre México y Estados Unidos.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Ciencia Política",
-                                                    "disciplina_sni": "Opinión pública"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Ciencia Política",
+                                                    "disciplina_snii": "Opinión pública"
                                                 }
                                             ]
                                         },
@@ -1450,9 +1468,9 @@
                                             "descripción": "Estudia las similitudes y diferencias en la política de América Latina y Europa.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Ciencia Política",
-                                                    "disciplina_sni": "Política comparada"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Ciencia Política",
+                                                    "disciplina_snii": "Política comparada"
                                                 }
                                             ]
                                         },
@@ -1461,9 +1479,9 @@
                                             "descripción": "Analiza la política exterior de México y su impacto en las relaciones internacionales.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Relaciones Internacionales",
-                                                    "disciplina_sni": "Análisis de política exterior"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Relaciones Internacionales",
+                                                    "disciplina_snii": "Análisis de política exterior"
                                                 }
                                             ]
                                         },
@@ -1472,9 +1490,9 @@
                                             "descripción": "Estudia la historia de las relaciones internacionales de México.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Historia",
-                                                    "disciplina_sni": "Historia de las relaciones internacionales"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Historia",
+                                                    "disciplina_snii": "Historia de las relaciones internacionales"
                                                 }
                                             ]
                                         },
@@ -1483,9 +1501,9 @@
                                             "descripción": "Investiga cómo se toman las decisiones en la política exterior de México.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Ciencia Política",
-                                                    "disciplina_sni": "Toma de decisiones"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Ciencia Política",
+                                                    "disciplina_snii": "Toma de decisiones"
                                                 }
                                             ]
                                         }
@@ -1500,14 +1518,14 @@
                                             "descripción": "Estudia las relaciones exteriores de los gobiernos subnacionales en América Latina.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Relaciones Internacionales",
-                                                    "disciplina_sni": "Relaciones bilaterales"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Relaciones Internacionales",
+                                                    "disciplina_snii": "Relaciones bilaterales"
                                                 },
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Ciencia Política",
-                                                    "disciplina_sni": "Política comparada"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Ciencia Política",
+                                                    "disciplina_snii": "Política comparada"
                                                 }
                                             ]
                                         },
@@ -1516,14 +1534,14 @@
                                             "descripción": "Analiza cómo los gobiernos subnacionales participan en las relaciones internacionales a través de la paradiplomacia.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Relaciones Internacionales",
-                                                    "disciplina_sni": "Paradiplomacia"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Relaciones Internacionales",
+                                                    "disciplina_snii": "Paradiplomacia"
                                                 },
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Ciencia Política",
-                                                    "disciplina_sni": "Política local"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Ciencia Política",
+                                                    "disciplina_snii": "Política local"
                                                 }
                                             ]
                                         },
@@ -1532,14 +1550,14 @@
                                             "descripción": "Investiga cómo las dinámicas de poder afectan la cooperación y el conflicto en el ámbito internacional.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Relaciones Internacionales",
-                                                    "disciplina_sni": "Dinámicas de poder"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Relaciones Internacionales",
+                                                    "disciplina_snii": "Dinámicas de poder"
                                                 },
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Ciencia Política",
-                                                    "disciplina_sni": "Teoría política"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Ciencia Política",
+                                                    "disciplina_snii": "Teoría política"
                                                 }
                                             ]
                                         },
@@ -1548,14 +1566,14 @@
                                             "descripción": "Estudia los procesos de integración en Europa y su impacto en los gobiernos subnacionales.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Relaciones Internacionales",
-                                                    "disciplina_sni": "Integración regional"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Relaciones Internacionales",
+                                                    "disciplina_snii": "Integración regional"
                                                 },
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Ciencia Política",
-                                                    "disciplina_sni": "Política comparada"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Ciencia Política",
+                                                    "disciplina_snii": "Política comparada"
                                                 }
                                             ]
                                         }
@@ -1576,9 +1594,9 @@
                                             "descripción": "Estudia la interrelación entre derecho y sociedad.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Sociología",
-                                                    "disciplina_sni": "Sociología jurídica"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Sociología",
+                                                    "disciplina_snii": "Sociología jurídica"
                                                 }
                                             ]
                                         },
@@ -1587,9 +1605,9 @@
                                             "descripción": "Analiza la interacción entre sistemas económicos y marcos jurídicos.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Economía",
-                                                    "disciplina_sni": "Economía del derecho"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Economía",
+                                                    "disciplina_snii": "Economía del derecho"
                                                 }
                                             ]
                                         },
@@ -1598,9 +1616,9 @@
                                             "descripción": "Estudia las prácticas y culturas de los profesionales del derecho.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Derecho",
-                                                    "disciplina_sni": "Cultura jurídica"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Derecho",
+                                                    "disciplina_snii": "Cultura jurídica"
                                                 }
                                             ]
                                         },
@@ -1609,9 +1627,9 @@
                                             "descripción": "Investiga el impacto de las políticas públicas en el derecho.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Derecho",
-                                                    "disciplina_sni": "Derecho público"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Derecho",
+                                                    "disciplina_snii": "Derecho público"
                                                 }
                                             ]
                                         }
@@ -1626,9 +1644,9 @@
                                             "descripción": "Explora el impacto de la inteligencia artificial en el derecho.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ingeniería y Biotecnología",
-                                                    "campo_sni": "Ingeniería",
-                                                    "disciplina_sni": "Tecnologías de la información"
+                                                    "área_snii": "Ciencias Agropecuarias y Biotecnología",
+                                                    "campo_snii": "Ingeniería",
+                                                    "disciplina_snii": "Tecnologías de la información"
                                                 }
                                             ]
                                         }
@@ -1643,9 +1661,9 @@
                                             "descripción": "Estudia la protección y promoción de los derechos humanos en el ámbito internacional.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Derecho",
-                                                    "disciplina_sni": "Derechos humanos"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Derecho",
+                                                    "disciplina_snii": "Derechos humanos"
                                                 }
                                             ]
                                         },
@@ -1654,9 +1672,9 @@
                                             "descripción": "Analiza las normas y principios que rigen las relaciones entre Estados.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Derecho",
-                                                    "disciplina_sni": "Derecho internacional público"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Derecho",
+                                                    "disciplina_snii": "Derecho internacional público"
                                                 }
                                             ]
                                         },
@@ -1665,9 +1683,9 @@
                                             "descripción": "Estudia las normas que rigen las relaciones privadas internacionales.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Derecho",
-                                                    "disciplina_sni": "Derecho internacional privado"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Derecho",
+                                                    "disciplina_snii": "Derecho internacional privado"
                                                 }
                                             ]
                                         }
@@ -1682,9 +1700,9 @@
                                             "descripción": "Investiga las políticas y prácticas de seguridad pública.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Ciencia Política",
-                                                    "disciplina_sni": "Políticas de seguridad"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Ciencia Política",
+                                                    "disciplina_snii": "Políticas de seguridad"
                                                 }
                                             ]
                                         }
@@ -1699,14 +1717,14 @@
                                             "descripción": "Investiga y desarrolla nuevas metodologías para la enseñanza del derecho.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Humanidades y Ciencias de la Conducta",
-                                                    "campo_sni": "Educación",
-                                                    "disciplina_sni": "Metodología de la enseñanza"
+                                                    "área_snii": "Humanidades y Ciencias de la Conducta",
+                                                    "campo_snii": "Educación",
+                                                    "disciplina_snii": "Metodología de la enseñanza"
                                                 },
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Derecho",
-                                                    "disciplina_sni": "Derecho"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Derecho",
+                                                    "disciplina_snii": "Derecho"
                                                 }
                                             ]
                                         },
@@ -1715,14 +1733,14 @@
                                             "descripción": "Explora las innovaciones en la enseñanza del derecho, incluyendo el uso de tecnología y enfoques pedagógicos modernos.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Humanidades y Ciencias de la Conducta",
-                                                    "campo_sni": "Educación",
-                                                    "disciplina_sni": "Innovación educativa"
+                                                    "área_snii": "Humanidades y Ciencias de la Conducta",
+                                                    "campo_snii": "Educación",
+                                                    "disciplina_snii": "Innovación educativa"
                                                 },
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Derecho",
-                                                    "disciplina_sni": "Derecho"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Derecho",
+                                                    "disciplina_snii": "Derecho"
                                                 }
                                             ]
                                         }
@@ -1737,9 +1755,9 @@
                                             "descripción": "Estudia los derechos asociados a la propiedad intelectual y cómo se protegen.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Derecho",
-                                                    "disciplina_sni": "Derecho de propiedad intelectual"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Derecho",
+                                                    "disciplina_snii": "Derecho de propiedad intelectual"
                                                 }
                                             ]
                                         },
@@ -1748,14 +1766,14 @@
                                             "descripción": "Analiza las regulaciones que rigen la propiedad intelectual y su impacto en la innovación y la economía.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Derecho",
-                                                    "disciplina_sni": "Derecho de propiedad intelectual"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Derecho",
+                                                    "disciplina_snii": "Derecho de propiedad intelectual"
                                                 },
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Economía",
-                                                    "disciplina_sni": "Economía de la innovación"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Economía",
+                                                    "disciplina_snii": "Economía de la innovación"
                                                 }
                                             ]
                                         }
@@ -1770,9 +1788,9 @@
                                             "descripción": "Estudia las leyes y regulaciones que protegen la privacidad de los individuos.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Derecho",
-                                                    "disciplina_sni": "Derecho de la privacidad"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Derecho",
+                                                    "disciplina_snii": "Derecho de la privacidad"
                                                 }
                                             ]
                                         },
@@ -1781,14 +1799,14 @@
                                             "descripción": "Investiga las prácticas y políticas que aseguran la protección de los datos personales.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Derecho",
-                                                    "disciplina_sni": "Derecho de la protección de datos"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Derecho",
+                                                    "disciplina_snii": "Derecho de la protección de datos"
                                                 },
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Ciencia Política",
-                                                    "disciplina_sni": "Políticas de protección de datos"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Ciencia Política",
+                                                    "disciplina_snii": "Políticas de protección de datos"
                                                 }
                                             ]
                                         }
@@ -1809,9 +1827,9 @@
                                             "descripción": "Analiza cómo los individuos toman decisiones y cómo estos comportamientos afectan los mercados y la economía en general.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Economía",
-                                                    "disciplina_sni": "Economía del comportamiento"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Economía",
+                                                    "disciplina_snii": "Economía del comportamiento"
                                                 }
                                             ]
                                         },
@@ -1820,9 +1838,9 @@
                                             "descripción": "Diseña y realiza experimentos para probar teorías económicas y entender mejor el comportamiento económico.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Economía",
-                                                    "disciplina_sni": "Economía experimental"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Economía",
+                                                    "disciplina_snii": "Economía experimental"
                                                 }
                                             ]
                                         }
@@ -1837,9 +1855,9 @@
                                             "descripción": "Estudia el impacto de las redes sociales en la comunicación y las decisiones económicas.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Ciencia Política",
-                                                    "disciplina_sni": "Comunicación política"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Ciencia Política",
+                                                    "disciplina_snii": "Comunicación política"
                                                 }
                                             ]
                                         },
@@ -1848,9 +1866,9 @@
                                             "descripción": "Explora cómo las estrategias de persuasión y la formación de redes afectan las decisiones económicas.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Sociología",
-                                                    "disciplina_sni": "Sociología de redes"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Sociología",
+                                                    "disciplina_snii": "Sociología de redes"
                                                 }
                                             ]
                                         }
@@ -1865,9 +1883,9 @@
                                             "descripción": "Aplica técnicas econométricas para analizar datos de series de tiempo y predecir tendencias futuras.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Economía",
-                                                    "disciplina_sni": "Econometría de series de tiempo"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Economía",
+                                                    "disciplina_snii": "Econometría de series de tiempo"
                                                 }
                                             ]
                                         },
@@ -1876,9 +1894,9 @@
                                             "descripción": "Utiliza métodos econométricos para analizar fenómenos macroeconómicos a gran escala.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Economía",
-                                                    "disciplina_sni": "Macroeconometría"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Economía",
+                                                    "disciplina_snii": "Macroeconometría"
                                                 }
                                             ]
                                         },
@@ -1887,9 +1905,9 @@
                                             "descripción": "Se centra en el desarrollo de nuevos métodos econométricos y la mejora de los existentes.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Economía",
-                                                    "disciplina_sni": "Econometría teórica"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Economía",
+                                                    "disciplina_snii": "Econometría teórica"
                                                 }
                                             ]
                                         }
@@ -1904,9 +1922,9 @@
                                             "descripción": "Analiza cómo las innovaciones tecnológicas impactan la economía.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Economía",
-                                                    "disciplina_sni": "Economía de la innovación"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Economía",
+                                                    "disciplina_snii": "Economía de la innovación"
                                                 }
                                             ]
                                         },
@@ -1915,9 +1933,9 @@
                                             "descripción": "Evalúa las políticas públicas diseñadas para promover la investigación y el desarrollo.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Economía",
-                                                    "disciplina_sni": "Política económica"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Economía",
+                                                    "disciplina_snii": "Política económica"
                                                 }
                                             ]
                                         }
@@ -1932,9 +1950,9 @@
                                             "descripción": "Analiza las políticas y estrategias económicas que impactan la educación en regiones en desarrollo.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Economía",
-                                                    "disciplina_sni": "Economía de la educación"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Economía",
+                                                    "disciplina_snii": "Economía de la educación"
                                                 }
                                             ]
                                         }
@@ -1949,9 +1967,9 @@
                                             "descripción": "Explora el impacto del capital humano en el mercado laboral y la economía.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Economía",
-                                                    "disciplina_sni": "Economía laboral"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Economía",
+                                                    "disciplina_snii": "Economía laboral"
                                                 }
                                             ]
                                         },
@@ -1960,9 +1978,9 @@
                                             "descripción": "Analiza la efectividad de las políticas públicas en el ámbito económico.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Economía",
-                                                    "disciplina_sni": "Política económica"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Economía",
+                                                    "disciplina_snii": "Política económica"
                                                 }
                                             ]
                                         },
@@ -1971,9 +1989,9 @@
                                             "descripción": "Estudia las políticas públicas dirigidas a reducir la pobreza.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Economía",
-                                                    "disciplina_sni": "Economía del bienestar"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Economía",
+                                                    "disciplina_snii": "Economía del bienestar"
                                                 }
                                             ]
                                         }
@@ -1988,14 +2006,14 @@
                                             "descripción": "Analiza las políticas macroeconómicas y fiscales y su impacto en la economía en general.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Economía",
-                                                    "disciplina_sni": "Macroeconomía"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Economía",
+                                                    "disciplina_snii": "Macroeconomía"
                                                 },
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Economía",
-                                                    "disciplina_sni": "Política fiscal"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Economía",
+                                                    "disciplina_snii": "Política fiscal"
                                                 }
                                             ]
                                         },
@@ -2004,9 +2022,9 @@
                                             "descripción": "Estudia los mercados financieros y su interacción con la economía en general.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Economía",
-                                                    "disciplina_sni": "Economía financiera"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Economía",
+                                                    "disciplina_snii": "Economía financiera"
                                                 }
                                             ]
                                         }
@@ -2021,9 +2039,9 @@
                                             "descripción": "Explora estrategias para promover el crecimiento y desarrollo en economías menos avanzadas.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Economía",
-                                                    "disciplina_sni": "Economía del desarrollo"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Economía",
+                                                    "disciplina_snii": "Economía del desarrollo"
                                                 }
                                             ]
                                         }
@@ -2038,14 +2056,14 @@
                                             "descripción": "Estudia cómo las redes complejas pueden influir en el desarrollo económico.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Economía",
-                                                    "disciplina_sni": "Economía del desarrollo"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Economía",
+                                                    "disciplina_snii": "Economía del desarrollo"
                                                 },
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Sociología",
-                                                    "disciplina_sni": "Sociología de las redes"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Sociología",
+                                                    "disciplina_snii": "Sociología de las redes"
                                                 }
                                             ]
                                         },
@@ -2054,14 +2072,14 @@
                                             "descripción": "Analiza el papel de las redes complejas en la promoción de la inclusión social.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Sociología",
-                                                    "disciplina_sni": "Sociología de la inclusión"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Sociología",
+                                                    "disciplina_snii": "Sociología de la inclusión"
                                                 },
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Ciencia Política",
-                                                    "disciplina_sni": "Políticas de inclusión"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Ciencia Política",
+                                                    "disciplina_snii": "Políticas de inclusión"
                                                 }
                                             ]
                                         },
@@ -2070,14 +2088,14 @@
                                             "descripción": "Investiga cómo las redes complejas pueden contribuir a la sustentabilidad a través de las instituciones.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Ciencia Política",
-                                                    "disciplina_sni": "Políticas de sustentabilidad"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Ciencia Política",
+                                                    "disciplina_snii": "Políticas de sustentabilidad"
                                                 },
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Sociología",
-                                                    "disciplina_sni": "Sociología de las instituciones"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Sociología",
+                                                    "disciplina_snii": "Sociología de las instituciones"
                                                 }
                                             ]
                                         },
@@ -2086,14 +2104,14 @@
                                             "descripción": "Estudia cómo las redes complejas pueden influir en la política industrial.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Economía",
-                                                    "disciplina_sni": "Economía industrial"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Economía",
+                                                    "disciplina_snii": "Economía industrial"
                                                 },
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Sociología",
-                                                    "disciplina_sni": "Sociología de las redes"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Sociología",
+                                                    "disciplina_snii": "Sociología de las redes"
                                                 }
                                             ]
                                         }
@@ -2114,9 +2132,9 @@
                                             "descripción": "Estudia cómo se reproduce la ideología y el papel del discurso en este proceso.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Ciencia Política",
-                                                    "disciplina_sni": "Ideología política"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Ciencia Política",
+                                                    "disciplina_snii": "Ideología política"
                                                 }
                                             ]
                                         },
@@ -2125,9 +2143,9 @@
                                             "descripción": "Analiza la producción y consumo de bienes culturales en el capitalismo.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Humanidades y Ciencias de la Conducta",
-                                                    "campo_sni": "Ciencias de la Comunicación",
-                                                    "disciplina_sni": "Estudios culturales"
+                                                    "área_snii": "Humanidades y Ciencias de la Conducta",
+                                                    "campo_snii": "Ciencias de la Comunicación",
+                                                    "disciplina_snii": "Estudios culturales"
                                                 }
                                             ]
                                         },
@@ -2136,9 +2154,9 @@
                                             "descripción": "Explora la intersección entre la economía política y la comunicación.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Economía",
-                                                    "disciplina_sni": "Economía política"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Economía",
+                                                    "disciplina_snii": "Economía política"
                                                 }
                                             ]
                                         },
@@ -2147,9 +2165,9 @@
                                             "descripción": "Investiga cómo la información y la cultura se interrelacionan y afectan mutuamente.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Humanidades y Ciencias de la Conducta",
-                                                    "campo_sni": "Ciencias de la Comunicación",
-                                                    "disciplina_sni": "Estudios culturales"
+                                                    "área_snii": "Humanidades y Ciencias de la Conducta",
+                                                    "campo_snii": "Ciencias de la Comunicación",
+                                                    "disciplina_snii": "Estudios culturales"
                                                 }
                                             ]
                                         },
@@ -2158,9 +2176,9 @@
                                             "descripción": "Estudia los procesos de decadencia ética y deshumanización en el contexto del capitalismo contemporáneo.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Humanidades y Ciencias de la Conducta",
-                                                    "campo_sni": "Filosofía",
-                                                    "disciplina_sni": "Ética"
+                                                    "área_snii": "Humanidades y Ciencias de la Conducta",
+                                                    "campo_snii": "Filosofía",
+                                                    "disciplina_snii": "Ética"
                                                 }
                                             ]
                                         }
@@ -2175,9 +2193,9 @@
                                             "descripción": "Estudia cómo la ciencia influye en la sociedad y el papel que desempeña en el capitalismo.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ingeniería y Biotecnología",
-                                                    "campo_sni": "Ingeniería",
-                                                    "disciplina_sni": "Ciencia, tecnología y sociedad"
+                                                    "área_snii": "Ciencias Agropecuarias y Biotecnología",
+                                                    "campo_snii": "Ingeniería",
+                                                    "disciplina_snii": "Ciencia, tecnología y sociedad"
                                                 }
                                             ]
                                         },
@@ -2186,9 +2204,9 @@
                                             "descripción": "Explora los cambios tecnológicos y su impacto en la innovación económica.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Economía",
-                                                    "disciplina_sni": "Economía de la innovación"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Economía",
+                                                    "disciplina_snii": "Economía de la innovación"
                                                 }
                                             ]
                                         },
@@ -2197,9 +2215,9 @@
                                             "descripción": "Analiza los procesos de globalización económica y financiera.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Economía",
-                                                    "disciplina_sni": "Economía internacional"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Economía",
+                                                    "disciplina_snii": "Economía internacional"
                                                 }
                                             ]
                                         },
@@ -2208,9 +2226,9 @@
                                             "descripción": "Estudia cómo la automatización afecta los procesos de trabajo y la economía.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ingeniería y Biotecnología",
-                                                    "campo_sni": "Ingeniería",
-                                                    "disciplina_sni": "Ingeniería industrial"
+                                                    "área_snii": "Ciencias Agropecuarias y Biotecnología",
+                                                    "campo_snii": "Ingeniería",
+                                                    "disciplina_snii": "Ingeniería industrial"
                                                 }
                                             ]
                                         },
@@ -2219,9 +2237,9 @@
                                             "descripción": "Explora la evolución del capital financiero y los procesos de financiarización.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Economía",
-                                                    "disciplina_sni": "Economía financiera"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Economía",
+                                                    "disciplina_snii": "Economía financiera"
                                                 }
                                             ]
                                         },
@@ -2230,9 +2248,9 @@
                                             "descripción": "Estudia la evolución del pensamiento económico desde una perspectiva crítica.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Economía",
-                                                    "disciplina_sni": "Historia del pensamiento económico"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Economía",
+                                                    "disciplina_snii": "Historia del pensamiento económico"
                                                 }
                                             ]
                                         },
@@ -2241,9 +2259,9 @@
                                             "descripción": "Explora las bases filosóficas del pensamiento y las teorías económicas.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Humanidades y Ciencias de la Conducta",
-                                                    "campo_sni": "Filosofía",
-                                                    "disciplina_sni": "Filosofía de la economía"
+                                                    "área_snii": "Humanidades y Ciencias de la Conducta",
+                                                    "campo_snii": "Filosofía",
+                                                    "disciplina_snii": "Filosofía de la economía"
                                                 }
                                             ]
                                         }
@@ -2258,9 +2276,9 @@
                                             "descripción": "Estudia las causas y consecuencias de la desigualdad socioeconómica.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Sociología",
-                                                    "disciplina_sni": "Desigualdad social"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Sociología",
+                                                    "disciplina_snii": "Desigualdad social"
                                                 }
                                             ]
                                         },
@@ -2269,9 +2287,9 @@
                                             "descripción": "Explora cómo se reproducen las élites sociales y económicas.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Ciencia Política",
-                                                    "disciplina_sni": "Estudios de élites"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Ciencia Política",
+                                                    "disciplina_snii": "Estudios de élites"
                                                 }
                                             ]
                                         },
@@ -2280,9 +2298,9 @@
                                             "descripción": "Analiza los patrones y factores que influyen en la movilidad social.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Sociología",
-                                                    "disciplina_sni": "Movilidad social"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Sociología",
+                                                    "disciplina_snii": "Movilidad social"
                                                 }
                                             ]
                                         },
@@ -2291,9 +2309,9 @@
                                             "descripción": "Estudia las desigualdades de género en diferentes contextos sociales.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Sociología",
-                                                    "disciplina_sni": "Estudios de género"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Sociología",
+                                                    "disciplina_snii": "Estudios de género"
                                                 }
                                             ]
                                         },
@@ -2302,9 +2320,9 @@
                                             "descripción": "Explora las desigualdades étnicas, raciales y de clase.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Antropología",
-                                                    "disciplina_sni": "Estudios étnicos"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Antropología",
+                                                    "disciplina_snii": "Estudios étnicos"
                                                 }
                                             ]
                                         },
@@ -2313,9 +2331,9 @@
                                             "descripción": "Analiza el impacto del eurocentrismo en la economía y la sociedad.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Humanidades y Ciencias de la Conducta",
-                                                    "campo_sni": "Historia",
-                                                    "disciplina_sni": "Estudios eurocéntricos"
+                                                    "área_snii": "Humanidades y Ciencias de la Conducta",
+                                                    "campo_snii": "Historia",
+                                                    "disciplina_snii": "Estudios eurocéntricos"
                                                 }
                                             ]
                                         },
@@ -2324,9 +2342,9 @@
                                             "descripción": "Estudia el surgimiento y evolución de los movimientos sociales.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Sociología",
-                                                    "disciplina_sni": "Movimientos sociales"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Sociología",
+                                                    "disciplina_snii": "Movimientos sociales"
                                                 }
                                             ]
                                         },
@@ -2335,9 +2353,9 @@
                                             "descripción": "Explora las dinámicas geopolíticas y geoeconómicas en el contexto global.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Relaciones Internacionales",
-                                                    "disciplina_sni": "Geopolítica"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Relaciones Internacionales",
+                                                    "disciplina_snii": "Geopolítica"
                                                 }
                                             ]
                                         }
@@ -2358,9 +2376,9 @@
                                             "descripción": "Estudia las estructuras de los sistemas políticos y los procesos electorales comparativos.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Ciencia Política",
-                                                    "disciplina_sni": "Política comparada"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Ciencia Política",
+                                                    "disciplina_snii": "Política comparada"
                                                 }
                                             ]
                                         }
@@ -2375,9 +2393,9 @@
                                             "descripción": "Analiza cómo el diseño de las instituciones afecta la gobernanza y la toma de decisiones.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Ciencia Política",
-                                                    "disciplina_sni": "Instituciones políticas"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Ciencia Política",
+                                                    "disciplina_snii": "Instituciones políticas"
                                                 }
                                             ]
                                         }
@@ -2392,9 +2410,9 @@
                                             "descripción": "Investiga los factores que influyen en el comportamiento electoral y los resultados de las elecciones.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Ciencia Política",
-                                                    "disciplina_sni": "Procesos electorales"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Ciencia Política",
+                                                    "disciplina_snii": "Procesos electorales"
                                                 }
                                             ]
                                         }
@@ -2409,9 +2427,9 @@
                                             "descripción": "Estudia las teorías y conceptos filosóficos que fundamentan la política.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Humanidades y Ciencias de la Conducta",
-                                                    "campo_sni": "Filosofía",
-                                                    "disciplina_sni": "Filosofía política"
+                                                    "área_snii": "Humanidades y Ciencias de la Conducta",
+                                                    "campo_snii": "Filosofía",
+                                                    "disciplina_snii": "Filosofía política"
                                                 }
                                             ]
                                         }
@@ -2426,9 +2444,9 @@
                                             "descripción": "Investiga cómo las políticas públicas afectan el desarrollo económico y social.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Economía",
-                                                    "disciplina_sni": "Economía política"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Economía",
+                                                    "disciplina_snii": "Economía política"
                                                 }
                                             ]
                                         }
@@ -2443,9 +2461,9 @@
                                             "descripción": "Analiza los factores psicológicos que influyen en el comportamiento político.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Psicología",
-                                                    "disciplina_sni": "Psicología política"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Psicología",
+                                                    "disciplina_snii": "Psicología política"
                                                 }
                                             ]
                                         }
@@ -2460,9 +2478,9 @@
                                             "descripción": "Desarrolla y aplica métodos para medir y analizar la opinión pública.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Ciencia Política",
-                                                    "disciplina_sni": "Opinión pública"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Ciencia Política",
+                                                    "disciplina_snii": "Opinión pública"
                                                 }
                                             ]
                                         }
@@ -2483,9 +2501,9 @@
                                             "descripción": "Estudia la evolución de las políticas fiscales y su impacto en la economía.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Economía",
-                                                    "disciplina_sni": "Historia económica"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Economía",
+                                                    "disciplina_snii": "Historia económica"
                                                 }
                                             ]
                                         },
@@ -2494,9 +2512,9 @@
                                             "descripción": "Explora la historia de las empresas y los empresarios, y su rol en la economía.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Economía",
-                                                    "disciplina_sni": "Historia empresarial"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Economía",
+                                                    "disciplina_snii": "Historia empresarial"
                                                 }
                                             ]
                                         }
@@ -2511,9 +2529,9 @@
                                             "descripción": "Analiza los procesos históricos de formación y consolidación del estado.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Ciencia Política",
-                                                    "disciplina_sni": "Historia política"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Ciencia Política",
+                                                    "disciplina_snii": "Historia política"
                                                 }
                                             ]
                                         },
@@ -2522,9 +2540,9 @@
                                             "descripción": "Investiga la evolución de las instituciones políticas y su impacto en la gobernanza.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Ciencia Política",
-                                                    "disciplina_sni": "Instituciones políticas"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Ciencia Política",
+                                                    "disciplina_snii": "Instituciones políticas"
                                                 }
                                             ]
                                         }
@@ -2539,9 +2557,9 @@
                                             "descripción": "Estudia los cambios en las mentalidades colectivas y sus expresiones culturales.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Humanidades y Ciencias de la Conducta",
-                                                    "campo_sni": "Historia",
-                                                    "disciplina_sni": "Historia cultural"
+                                                    "área_snii": "Humanidades y Ciencias de la Conducta",
+                                                    "campo_snii": "Historia",
+                                                    "disciplina_snii": "Historia cultural"
                                                 }
                                             ]
                                         },
@@ -2550,9 +2568,9 @@
                                             "descripción": "Analiza la evolución de las prácticas y creencias religiosas y su impacto en la sociedad.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Humanidades y Ciencias de la Conducta",
-                                                    "campo_sni": "Historia",
-                                                    "disciplina_sni": "Historia de la religión"
+                                                    "área_snii": "Humanidades y Ciencias de la Conducta",
+                                                    "campo_snii": "Historia",
+                                                    "disciplina_snii": "Historia de la religión"
                                                 }
                                             ]
                                         }
@@ -2567,9 +2585,9 @@
                                             "descripción": "Estudia los procesos de globalización y sus efectos históricos en diferentes sociedades.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Historia",
-                                                    "disciplina_sni": "Historia global"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Historia",
+                                                    "disciplina_snii": "Historia global"
                                                 }
                                             ]
                                         },
@@ -2578,9 +2596,9 @@
                                             "descripción": "Explora las conexiones y flujos transnacionales de personas, ideas y bienes.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Historia",
-                                                    "disciplina_sni": "Historia transnacional"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Historia",
+                                                    "disciplina_snii": "Historia transnacional"
                                                 }
                                             ]
                                         }
@@ -2595,9 +2613,9 @@
                                             "descripción": "Analiza cómo las sociedades han respondido y se han adaptado a los desastres naturales.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Historia",
-                                                    "disciplina_sni": "Historia ambiental"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Historia",
+                                                    "disciplina_snii": "Historia ambiental"
                                                 }
                                             ]
                                         },
@@ -2606,9 +2624,9 @@
                                             "descripción": "Estudia los cambios climáticos y su impacto en las sociedades humanas a lo largo de la historia.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Físico Matemáticas y Ciencias de la tierra",
-                                                    "campo_sni": "Ciencias de la Tierra",
-                                                    "disciplina_sni": "Climatología histórica"
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "Ciencias de la Tierra",
+                                                    "disciplina_snii": "Climatología histórica"
                                                 }
                                             ]
                                         }
