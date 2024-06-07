@@ -63,5 +63,112 @@
       "recursos_fiscales": 72610917,
       "recursos_propios": 4123919
     }
+  ],
+     "programas_académicos": [
+    {
+      "programa": "Posgrado Integrado en Ciencias de Información Geoespacial (Maestría)",
+      "disciplinas": [
+        {
+          "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+          "campo_snii": "Ciencias de la Tierra y del Espacio",
+          "disciplina_snii": "Ciencias de la Atmósfera"
+        }
+      ],
+      "nivel": "maestría",
+      "modalidad": "regular",
+      "vía": "presencial"
+    },
+    {
+      "programa": "Posgrado Integrado en Ciencias de Información Geoespacial (Doctorado)",
+      "disciplinas": [
+        {
+          "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+          "campo_snii": "Ciencias de la Tierra y del Espacio",
+          "disciplina_snii": "Ciencias de la Atmósfera"
+        }
+      ],
+      "nivel": "doctorado",
+      "modalidad": "regular",
+      "vía": "presencial"
+    }
+  ],
+    {
+      "programa": "Maestría en Historia",
+      "disciplinas": [
+        {
+          "área_snii": "Ciencias Sociales",
+          "campo_snii": "Historia y Arqueología",
+          "disciplina_snii": "Historia"
+        }
+      ],
+      "nivel": "maestría",
+      "modalidad": "regular",
+      "vía": "presencial"
+    },
+    {
+      "programa": "Doctorado en Historia",
+      "disciplinas": [
+        {
+          "área_snii": "Ciencias Sociales",
+          "campo_snii": "Historia y Arqueología",
+          "disciplina_snii": "Historia"
+        }
+      ],
+      "nivel": "doctorado",
+      "modalidad": "regular",
+      "vía": "presencial"
+    },
+    {
+      "programa": "Maestría en Antropología",
+      "disciplinas": [
+        {
+          "área_snii": "Ciencias Sociales",
+          "campo_snii": "Antropología",
+          "disciplina_snii": "Antropología Cultural"
+        }
+      ],
+      "nivel": "maestría",
+      "modalidad": "regular",
+      "vía": "presencial"
+    },
+    {
+      "programa": "Doctorado en Antropología",
+      "disciplinas": [
+        {
+          "área_snii": "Ciencias Sociales",
+          "campo_snii": "Antropología",
+          "disciplina_snii": "Antropología Cultural"
+        }
+      ],
+      "nivel": "doctorado",
+      "modalidad": "regular",
+      "vía": "presencial"
+    },
+    {
+      "programa": "Maestría en Estudios Regionales",
+      "disciplinas": [
+        {
+          "área_snii": "Ciencias Sociales",
+          "campo_snii": "Estudios Regionales",
+          "disciplina_snii": "Estudios Regionales"
+        }
+      ],
+      "nivel": "maestría",
+      "modalidad": "regular",
+      "vía": "presencial"
+    },
+    {
+      "programa": "Doctorado en Estudios Regionales",
+      "disciplinas": [
+        {
+          "área_snii": "Ciencias Sociales",
+          "campo_snii": "Estudios Regionales",
+          "disciplina_snii": "Estudios Regionales"
+        }
+      ],
+      "nivel": "doctorado",
+      "modalidad": "regular",
+      "vía": "presencial"
+    }
   ]
-},
+},    
