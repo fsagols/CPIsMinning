@@ -1,0 +1,67 @@
+{
+    "cpis": [
+{
+  "nombre": "Colegio de Michoacán (COLMICH)",
+  "siglas": "COLMICH",
+  "ubicación": "Calle Dr. José Ma. Luis Mora 1, Centro, 59300 La Piedad de Cabadas, Michoacán, México",
+  "descripción_breve": "Es un centro público de investigación en Ciencias Sociales y Humanidades, integrado al Sistema Nacional de Centros de Investigación CONAHCYT.",
+  "descripción": "A través de nuestro trabajo buscamos contribuir a la solución de los problemas y prioridades que nuestro país demanda, ya sea contribuyendo con nuevo conocimiento generado en la investigación que nos permita comprender diversos fenómenos que se presentan en el territorio, o bien, a través de la aplicación del conocimiento que deriva en desarrollos tecnológicos que son implementados en diversos contextos.",
+  "misión": "Generar, aplicar y transferir conocimiento de frontera en ciencias sociales y humanidades, formar talento especializado de alto nivel, el desarrollo tecnológico e innovación, orientadas hacia la solución de problemas y prioridades nacionales, regionales y locales del país y al desarrollo de la ciencia y la tecnología en México y en beneficio de la sociedad.",
+  "visión": "Ser el centro de investigación enfocado al desarrollo de capacidades de calidad y competitividad internacional en la formación de talento especializado, investigación, generación, aplicación y transferencia de conocimiento de frontera en ciencias sociales y humanidades, que incidan en la atención de temas prioritarios para el país, la creación de valor público y apropiación social del conocimiento, que contribuyan al desarrollo de la ciencia y la tecnología en México en beneficio de la sociedad.",
+  "titular": "José Luis Velasco",
+  "fecha_designación_titular": "10 de Enero de 2021",
+  "grado_académico_titular": "Doctorado",
+  "especialidad_titular": "Doctorado en Historia por El Colegio de México.",
+  "origen": "El Colegio de Michoacán surgió en respuesta a la necesidad de fortalecer la investigación y la aplicación de las ciencias sociales y humanidades en México. Su establecimiento en 1979 como parte del sistema de centros públicos de investigación del CONACYT refleja el reconocimiento del valor estratégico de estas disciplinas en el contexto nacional e internacional.",
+  "fecha_creación": "1979-02-15",
+  "historia_establecimiento": "El Colegio de Michoacán fue creado en el año 1979 como parte del Sistema de Centros Públicos de Investigación del Consejo Nacional de Ciencia y Tecnología (CONACYT) de México. Su establecimiento se enmarca en la necesidad de impulsar la investigación científica y tecnológica en áreas relacionadas con las ciencias sociales y humanidades en el país. Desde su fundación, COLMICH se ha dedicado a realizar investigaciones interdisciplinarias, formar recursos humanos especializados y desarrollar conocimientos innovadores en su campo.",
+  "contexto_histórico": "A finales del siglo XX, México estaba experimentando una creciente demanda de conocimientos y tecnologías relacionadas con las ciencias sociales y humanidades. Estos campos son fundamentales para abordar una amplia gama de desafíos, desde la gestión del territorio y los recursos culturales hasta la planificación urbana y el desarrollo social. El establecimiento de COLMICH reflejó el reconocimiento de la importancia estratégica de estas disciplinas en el desarrollo del país y la necesidad de contar con instituciones de investigación dedicadas a ellas.",
+  "tipo_entidad_legal": "Paraestatal asimilada al régimen de las empresas de participación estatal mayoritaria",
+  "figura_jurídica": "Asociación Civil",
+  "marco_normativo": [
+    {
+      "ley_o_instrumento_jurídico": "Ley Orgánica de la Administración Pública Federal"
+    },
+    {
+      "ley_o_instrumento_jurídico": "Ley Federal de las Entidades Paraestatales"
+    },
+    {
+      "ley_o_instrumento_jurídico": "Ley de Ciencia y Tecnología"
+    },
+    {
+      "ley_o_instrumento_jurídico": "Estatutos del Colegio de Michoacán, A.C"
+    }
+  ],
+  "presupuesto": [
+    {
+      "año": 2020,
+      "total": 66573239,
+      "recursos_fiscales": 0,
+      "recursos_propios": 0
+    },
+    {
+      "año": 2021,
+      "total": 71721348,
+      "recursos_fiscales": 0,
+      "recursos_propios": 0
+    },
+    {
+      "año": 2022,
+      "total": 71769066,
+      "recursos_fiscales": 0,
+      "recursos_propios": 0
+    },
+    {
+      "año": 2023,
+      "total": 76669655,
+      "recursos_fiscales": 0,
+      "recursos_propios": 0
+    },
+    {
+      "año": 2024,
+      "total": 76734836,
+      "recursos_fiscales": 72610917,
+      "recursos_propios": 4123919
+    }
+  ]
+}
