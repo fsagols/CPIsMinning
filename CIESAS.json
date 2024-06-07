@@ -208,7 +208,12 @@
         }
           { "nombre_departamento": "Estudios sobre Migración", 
         }
-      ],
-      
+           { "nombre_departamento": " Linguística y Estudios sobre la Lengua", 
+        }
+          { "nombre_departamento": "Estudios sobre Medio Ambiente y Sociedad", 
+        }
+           { "nombre_departamento": "Estudios sobre Educación y Cultura", 
+        }
+      ], 
     },
 
