@@ -171,3 +171,143 @@
       "vía": "presencial"
     }
 },    
+{
+      "programa": "Maestría en Estudios de la Cultura",
+      "disciplinas": [
+        {
+          "área_snii": "Ciencias Sociales",
+          "campo_snii": "Estudios de la Cultura",
+          "disciplina_snii": "Estudios Culturales"
+        }
+      ],
+      "nivel": "maestría",
+      "modalidad": "regular",
+      "vía": "presencial"
+    },
+    {
+      "programa": "Doctorado en Estudios de la Cultura",
+      "disciplinas": [
+        {
+          "área_snii": "Ciencias Sociales",
+          "campo_snii": "Estudios de la Cultura",
+          "disciplina_snii": "Estudios Culturales"
+        }
+      ],
+      "nivel": "doctorado",
+      "modalidad": "regular",
+      "vía": "presencial"
+    },
+    {
+      "programa": "Maestría en Estudios de Migración",
+      "disciplinas": [
+        {
+          "área_snii": "Ciencias Sociales",
+          "campo_snii": "Sociología",
+          "disciplina_snii": "Estudios de Migración"
+        }
+      ],
+      "nivel": "maestría",
+      "modalidad": "regular",
+      "vía": "presencial"
+    },
+    {
+      "programa": "Doctorado en Estudios de Migración",
+      "disciplinas": [
+        {
+          "área_snii": "Ciencias Sociales",
+          "campo_snii": "Sociología",
+          "disciplina_snii": "Estudios de Migración"
+        }
+      ],
+      "nivel": "doctorado",
+      "modalidad": "regular",
+      "vía": "presencial"
+    }
+  ]
+}
+{
+      "programa": "Maestría en Gestión del Territorio",
+      "disciplinas": [
+        {
+          "área_snii": "Ciencias Sociales",
+          "campo_snii": "Geografía",
+          "disciplina_snii": "Gestión del Territorio"
+        }
+      ],
+      "nivel": "maestría",
+      "modalidad": "regular",
+      "vía": "presencial"
+    },
+    {
+      "programa": "Doctorado en Gestión del Territorio",
+      "disciplinas": [
+        {
+          "área_snii": "Ciencias Sociales",
+          "campo_snii": "Geografía",
+          "disciplina_snii": "Gestión del Territorio"
+        }
+      ],
+      "nivel": "doctorado",
+      "modalidad": "regular",
+      "vía": "presencial"
+    }
+  ]
+}
+continua
+ChatGPT
+json
+Copiar código
+{
+      "programa": "Maestría en Políticas Públicas",
+      "disciplinas": [
+        {
+          "área_snii": "Ciencias Sociales",
+          "campo_snii": "Ciencia Política",
+          "disciplina_snii": "Políticas Públicas"
+        }
+      ],
+      "nivel": "maestría",
+      "modalidad": "regular",
+      "vía": "presencial"
+    },
+    {
+      "programa": "Doctorado en Políticas Públicas",
+      "disciplinas": [
+        {
+          "área_snii": "Ciencias Sociales",
+          "campo_snii": "Ciencia Política",
+          "disciplina_snii": "Políticas Públicas"
+        }
+      ],
+      "nivel": "doctorado",
+      "modalidad": "regular",
+      "vía": "presencial"
+    },
+    {
+      "programa": "Maestría en Sociología",
+      "disciplinas": [
+        {
+          "área_snii": "Ciencias Sociales",
+          "campo_snii": "Sociología",
+          "disciplina_snii": "Sociología General"
+        }
+      ],
+      "nivel": "maestría",
+      "modalidad": "regular",
+      "vía": "presencial"
+    },
+    {
+      "programa": "Doctorado en Sociología",
+      "disciplinas": [
+        {
+          "área_snii": "Ciencias Sociales",
+          "campo_snii": "Sociología",
+          "disciplina_snii": "Sociología General"
+        }
+      ],
+      "nivel": "doctorado",
+      "modalidad": "regular",
+      "vía": "presencial"
+    }
+  ]
+},
