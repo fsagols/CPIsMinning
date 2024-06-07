@@ -15,45 +15,71 @@
             "fecha_creación": "1971-07-13",
             "historia_establecimiento": "El Fondo para el Desarrollo de Recursos Humanos (FIDERH) fue creado en 1971 bajo la administración del Banco de México con el objetivo de financiar estudios de posgrado en México y el extranjero. Surgió en respuesta a la necesidad de fortalecer el capital humano del país, ofreciendo préstamos educativos a estudiantes destacados para que pudieran continuar su formación académica y profesional en instituciones de renombre. Desde sus inicios, FIDERH ha buscado facilitar el acceso a educación superior de alta calidad, promoviendo el desarrollo de habilidades y conocimientos avanzados en diversas áreas del conocimiento. A lo largo de los años, ha apoyado a miles de profesionales mexicanos, contribuyendo significativamente al desarrollo científico y tecnológico del país. El fondo se ha caracterizado por su flexibilidad y accesibilidad, adaptándose a las necesidades cambiantes de los estudiantes y las demandas del mercado laboral. Además de ofrecer financiamiento, FIDERH ha brindado orientación y apoyo a los beneficiarios durante y después de sus estudios, ayudándolos a reintegrarse exitosamente al mercado laboral mexicano. Gracias a su estructura y misión, FIDERH se ha consolidado como una herramienta clave para impulsar la formación de recursos humanos altamente capacitados, fortaleciendo así la competitividad y el desarrollo integral de México.",
             "contexto_histórico": "En la década de 1960 y principios de 1970, México enfrentó una serie de desafíos económicos y sociales que impulsaron cambios en sus políticas educativas y de desarrollo. Durante este período, el país experimentaba un crecimiento demográfico acelerado, lo que incrementaba la demanda de educación superior. Al mismo tiempo, el gobierno mexicano, bajo la presidencia de Gustavo Díaz Ordaz (1964-1970) y luego Luis Echeverría Álvarez (1970-1976), buscaba promover el desarrollo económico y tecnológico para fortalecer la competitividad del país. A nivel global, la Guerra Fría dominaba el panorama político, con Estados Unidos y la Unión Soviética compitiendo por la supremacía tecnológica y militar. En este contexto, la educación y la investigación científica se convirtieron en prioridades estratégicas para muchas naciones. México, buscando no quedarse atrás, reconoció la necesidad de formar recursos humanos altamente calificados para participar activamente en la economía global y fomentar la innovación tecnológica. El gobierno mexicano identificó la falta de financiamiento como una barrera significativa para que los estudiantes talentosos pudieran acceder a estudios de posgrado en el extranjero. Esto llevó a la creación del Fondo para el Desarrollo de Recursos Humanos (FIDERH) en 1971, administrado por el Banco de México. Este fondo tenía el objetivo de otorgar préstamos educativos a estudiantes destacados, facilitando su acceso a instituciones de educación superior de renombre y fortaleciendo así el capital humano del país. FIDERH fue una respuesta estratégica a las necesidades nacionales de desarrollo educativo y económico, enmarcada en un contexto global que valorizaba la educación superior y la investigación como pilares del progreso y la competitividad internacional. Desde su creación, FIDERH ha jugado un papel crucial en la formación de profesionales altamente capacitados que contribuyen al desarrollo de México en diversos campos.",
-            "tipo_entidad_legal": "Sin fines de lucro",
-            "figura_jurídica": "fideicomiso",
-            "marco_normativo": "El marco normativo del FIDERH se basa en su constitución como fideicomiso federal, administrado por el Banco de México desde su creación en 1971. Su operación está regida por las disposiciones legales y reglamentarias aplicables a los fideicomisos públicos, así como por los lineamientos específicos establecidos por el Banco de México para la administración de recursos destinados a financiar estudios de posgrado. FIDERH también sigue normas de transparencia y rendición de cuentas para garantizar el uso adecuado de los fondos. ",
+            "tipo_entidad_legal": "Desconocida",
+            "figura_jurídica": "Fideicomiso Público",
+            "marco_normativo": [
+                {
+                  "ley_o_instrumento_jurídico": "Ley Orgánica de la Administración Pública Federal"
+                },
+                {
+                  "ley_o_instrumento_jurídico": "Ley Federal de las Entidades Paraestatales"
+                }
+              ],
             "presupuesto": [
                 {
                     "año": 2015,
-                    "monto": 206906.21 
-                },
+                    "total": 925114650, 
+                    "recursos_fiscales": 81960380,  
+                    "recursos_propios": 10230590  
+                }
+                ,
                 {
                     "año": 2016,
-                    "monto": 219526.14
+                    "total": 95023790,
+                    "recursos_fiscales": 81876490,
+                    "recursos_propios": 13147300
                 },
                 {
                     "año": 2017,
-                    "monto": 225948.69 
+                    "total": 85101410,
+                    "recursos_fiscales": 64113480,
+                    "recursos_propios": 20396540
                 },
                 {
                     "año": 2018,
-                    "monto": 255341.67
+                    "total": 102917820,
+                    "recursos_fiscales": 75305620,
+                    "recursos_propios": 27612200
                 },
                 {
                     "año": 2019,
-                    "monto": 288436.17
+                    "total": 118646610,
+                    "recursos_fiscales": 84023920,
+                    "recursos_propios": 34622690
                 },
                 {
                     "año": 2020,
-                    "monto": 227251.14
+                    "total": 40386710,
+                    "recursos_fiscales": 7705250,
+                    "recursos_propios": 32681460
                 },
                 {
                     "año": 2021,
-                    "monto": 302890.94
+                    "total": 114446580,
+                    "recursos_fiscales": 86795420,
+                    "recursos_propios": 27651160
                 },
                 {
                     "año": 2022,
-                    "monto": 319899.14
+                    "total": 133802090,
+                    "recursos_fiscales": 90052820,
+                    "recursos_propios": 43749260
                 },
                 {
                     "año": 2023,
-                    "monto": 356705.38 
+                    "total": 159093990,
+                    "recursos_fiscales": 95092590,
+                    "recursos_propios": 64001400
                 }
             ],
             "programas_académicos": [
@@ -61,9 +87,9 @@
                     "programa": "",
                     "disciplinas": [
                         {
-                            "area_sni": "Ciencias Físico Matemáticas y Ciencias de la tierra",
-                            "campo_sni": "",
-                            "disciplina_sni": ""
+                            "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                            "campo_snii": "",
+                            "disciplina_snii": ""
                         }
                     ],
                     "nivel": "maestría",
@@ -92,9 +118,9 @@
                                             "descripción": "",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Físico Matemáticas y Ciencias de la tierra",
-                                                    "campo_sni": "",
-                                                    "disciplina_sni": ""
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "",
+                                                    "disciplina_snii": ""
                                                 }
                                             ]
                                         }
