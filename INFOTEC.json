@@ -406,13 +406,7 @@
             "activa": true,
             "propósito": "Grupo de difusión para enviar noticias, eventos y comunicaciones importantes a la comunidad de INFOTEC."
         },
-        {
-            "red": "Telegram",
-            "identificador": "@infotecmx_group",
-            "activa": true,
-            "propósito": "Grupo de discusión para compartir noticias, eventos y tener conversaciones interactivas sobre tecnología y proyectos de INFOTEC."
-        },
-     
+      
     ]
 }
    
