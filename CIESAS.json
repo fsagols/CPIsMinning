@@ -216,4 +216,27 @@
         }
       ], 
     },
+{
+  "nombre_unidad": "CIESAS Sureste",
+  "descripción_unidad": "Unidad regional enfocada en el estudio de las culturas indígenas y las problemáticas sociales del sureste de México.",
+  "dirección_postal": "29200",
+  "latitud": 16.737853,
+  "longitud": -92.637592,
+  "departamentos": [
+      { "nombre_departamento": "Antropología Social" 
+    },
+      { "nombre_departamento": "Historia Social" 
+    },
+      { "nombre_departamento": "Estudios Urbanos y Regionales"
+    },
+      { "nombre_departamento": "Estudios de Género"
+    },
+      { "nombre_departamento": "Estudios sobre Migración"
+    },
+      { "nombre_departamento": "Lingüística y Estudios sobre la Lengua"
+    },
+    { "nombre_departamento": "Estudios sobre Medio Ambiente y Sociedad" },
+    { "nombre_departamento": "Estudios sobre Educación y Cultura" }
+  ],
+},
 
