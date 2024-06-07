@@ -412,13 +412,7 @@
             "activa": true,
             "propósito": "Grupo de discusión para compartir noticias, eventos y tener conversaciones interactivas sobre tecnología y proyectos de INFOTEC."
         },
-        {
-            "red": "LinkedIn",
-            "identificador": "infotecmx",
-            "activa": true,
-            "propósito": "Perfil oficial de INFOTECmx en LinkedIn para compartir actualizaciones, oportunidades laborales y conexiones profesionales."
-        },
-        
+     
     ]
 }
    
