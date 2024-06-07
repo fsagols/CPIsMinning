@@ -64,4 +64,40 @@
             "recursos_propios": 4123919
         }
     ],
+  "programas_académicos": [
+        {
+            "programa": "Posgrado Integrado en Ciencias de Información Geoespacial (Maestría)",
+            "disciplinas": [
+                {
+                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                    "campo_snii": "Ciencias de la Tierra y del Espacio",
+                    "disciplina_snii": "Ciencias de la Atmósfera"
+                }
+            ],
+            "nivel": "maestría",
+            "modalidad": "regular",
+            "vía": "presencial"
+        },
+        {
+            "programa": "Doctorado en Ciencia de Datos y Tecnologías de la Información y Comunicación",
+            "disciplinas": [
+                {
+                    "área_snii": "Ciencias Exactas y Naturales",
+                    "campo_snii": "Ciencias Computacionales",
+                    "disciplina_snii": "Computación"
+                }
+            ],
+            "nivel": "doctorado",
+            "modalidad": "regular",
+            "vía": "presencial"
+        },
+        {
+            "programa": "Diplomado en Inteligencia Artificial",
+            "disciplinas": [],
+            "nivel": "diplomado",
+            "modalidad": "regular",
+            "vía": "virtual"
+        }
+    ],
+    
 
