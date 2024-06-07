@@ -197,4 +197,18 @@
       "dirección_postal": "44100",
       "latitud": 20.674982,
       "longitud": -105.630432,
+      "departamentos": [
+           { "nombre_departamento": "Antropología Social", 
+        },
+           { "nombre_departamento": "Historia Social",
+        },
+           { "nombre_departamento": "Estudios Urbanos y Regionales", 
+        } 
+          { "nombre_departamento": "Estudios de Género", 
+        }
+          { "nombre_departamento": "Estudios sobre Migración", 
+        }
+      ],
       
+    },
+
