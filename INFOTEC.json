@@ -1,20 +1,21 @@
 {
     "cpis": [
         {
+   {
     "nombre_cpi": "Instituto de Investigación en Ciencia de Datos y Tecnologías de la Información y Comunicación",
     "siglas_cpi": "INFOTEC",
     "descripción_breve": "Es un instituto público de investigación en Ciencia de Datos y Tecnologías de la Información y Comunicación, integrado al Sistema Nacional de Centros de Investigación CONACYT.",
-    "descripción": "El INFOTEC se dedica a la investigación aplicada, el desarrollo tecnológico y la innovación en el área de Ciencia de Datos y Tecnologías de la Información y Comunicación. Nuestro trabajo abarca desde la creación de soluciones tecnológicas hasta la transferencia de conocimiento y la formación de recursos humanos especializados.",
-    "misión": "Contribuir al avance de la Ciencia de Datos y las Tecnologías de la Información y Comunicación a través de la generación de conocimiento científico, el desarrollo de tecnología innovadora, la formación de recursos humanos altamente calificados y la transferencia de resultados, con el fin de impulsar la transformación digital y el desarrollo sustentable de México.",
-    "visión": "Ser un referente nacional e internacional en la investigación, desarrollo e innovación en Ciencia de Datos y Tecnologías de la Información y Comunicación, impulsando la generación de soluciones tecnológicas de vanguardia que contribuyan a resolver los retos del país y a mejorar la calidad de vida de la sociedad.",
-    "titular": "María García Pérez",
-    "fecha_designación_titular": "10 de Mayo de 2022",
+    "descripción": "El INFOTEC es un instituto de investigación aplicada y desarrollo tecnológico enfocado en Ciencia de Datos, Inteligencia Artificial, Tecnologías de la Información y Comunicación. Nuestro trabajo abarca desde la generación de conocimiento hasta la transferencia de tecnología para promover la innovación y la transformación digital.",
+    "misión": "Generar conocimiento científico y tecnológico en Ciencia de Datos, Inteligencia Artificial y Tecnologías de la Información y Comunicación, promover su aplicación en sectores estratégicos y formar talento humano de alto nivel, contribuyendo así al desarrollo tecnológico y la transformación digital de México.",
+    "visión": "Ser un referente nacional e internacional en la investigación, desarrollo e innovación en Ciencia de Datos, Inteligencia Artificial y Tecnologías de la Información y Comunicación, impulsando soluciones tecnológicas innovadoras que impulsen el crecimiento económico y mejoren la calidad de vida.",
+    "titular": "Federico C. González Waite",
+    "fecha_designación_titular": "15 de Septiembre de 2023",
     "grado_académico_titular": "Doctorado",
-    "especialidad_titular": "Doctorado en Ciencia de Datos por el INFOTEC.",
-    "origen": "El INFOTEC fue creado con el propósito de fortalecer la investigación y el desarrollo tecnológico en Ciencia de Datos y Tecnologías de la Información y Comunicación en México. Desde su establecimiento en el año 2004, ha trabajado en proyectos que buscan impulsar la innovación tecnológica y la transformación digital en diversas áreas de aplicación.",
-    "fecha_creación": "2004-09-20",
-    "historia_establecimiento": "El INFOTEC fue creado en el año 2004 como parte del Sistema de Centros Públicos de Investigación del Consejo Nacional de Ciencia y Tecnología (CONACYT) de México. Desde entonces, ha desarrollado investigaciones punteras en Ciencia de Datos y Tecnologías de la Información y Comunicación, colaborando con diversas instituciones nacionales e internacionales.",
-    "contexto_histórico": "A principios del siglo XXI, México reconoció la importancia estratégica de la Ciencia de Datos y las Tecnologías de la Información y Comunicación en el desarrollo socioeconómico del país. El establecimiento del INFOTEC respondió a la necesidad de contar con un centro de investigación dedicado a estas áreas, capaz de impulsar la innovación y la tecnología en beneficio de la sociedad.",
+    "especialidad_titular": "Ciencia de Datos",
+    "origen": "El INFOTEC fue creado con el propósito de fortalecer la investigación y desarrollo en Ciencia de Datos, Inteligencia Artificial y Tecnologías de la Información y Comunicación en México. Desde su fundación en 2004, ha sido un actor clave en la generación de conocimiento y tecnología para impulsar la innovación tecnológica del país.",
+    "fecha_creación": "2004-08-30",
+    "historia_establecimiento": "El INFOTEC fue creado en el año 2004 como parte del Sistema de Centros Públicos de Investigación del Consejo Nacional de Ciencia y Tecnología (CONACYT) de México. A lo largo de los años, ha contribuido significativamente al avance científico y tecnológico en Ciencia de Datos y Tecnologías de la Información y Comunicación.",
+    "contexto_histórico": "En el siglo XXI, México reconoció la importancia estratégica de la Ciencia de Datos, la Inteligencia Artificial y las Tecnologías de la Información y Comunicación en el desarrollo socioeconómico del país. El establecimiento del INFOTEC respondió a la necesidad de contar con un centro de investigación dedicado a estas áreas para impulsar la innovación y la competitividad.",
     "tipo_entidad_legal": "Paraestatal asimilada al régimen de las empresas de participación estatal mayoritaria",
     "figura_jurídica": "Asociación Civil"
 }
