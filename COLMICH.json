@@ -349,3 +349,68 @@
     }
   ]
 }
+{
+  "unidades": [
+    {
+      "nombre_unidad": "El Colegio de Michoacán (COLMICH)",
+      "descripción_unidad": "Es una institución dedicada a la investigación, desarrollo y aplicación de las ciencias sociales y humanidades. Sus actividades abarcan una amplia gama de áreas relacionadas con la historia, la antropología, la sociología, los estudios culturales, entre otros.",
+      "dirección_postal": "Calle Dr. José Ma. Luis Mora 1, Centro, 59300 La Piedad de Cabadas, Michoacán, México",
+      "latitud": 20.348582,
+      "longitud": -102.034767,
+      "departamentos": [
+        {
+          "departamento": "",
+          "descripción_departamento": "",
+          "áreas": [
+            {
+              "área": "",
+              "descripción_del_área": "",
+              "líneas_investigación": [
+                {
+                  "línea": "",
+                  "descripción": "",
+                  "disciplinas": [
+                    {
+                      "área_snii": "",
+                      "campo_snii": "",
+                      "disciplina_snii": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+ "redes_sociales": [
+        {
+          "red": "Facebook",
+          "identificador": "https://www.facebook.com/COLMICH/",
+          "activa": true,
+          "propósito": "difusión científica"
+        },
+        {
+          "red": "Twitter",
+          "identificador": "https://twitter.com/COLMICH_",
+          "activa": true,
+          "propósito": "difusión científica"
+        },
+        {
+          "red": "Instagram",
+          "identificador": "https://www.instagram.com/colmich_/",
+          "activa": true,
+          "propósito": "difusión científica"
+        },
+        {
+          "red": "YouTube",
+          "identificador": "https://www.youtube.com/user/COLMICH",
+          "activa": true,
+          "propósito": "difusión científica"
+        }
+      ]
+    }
+  ]
+}
