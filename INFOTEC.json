@@ -18,5 +18,50 @@
     "contexto_histórico": "En el siglo XXI, México reconoció la importancia estratégica de la Ciencia de Datos, la Inteligencia Artificial y las Tecnologías de la Información y Comunicación en el desarrollo socioeconómico del país. El establecimiento del INFOTEC respondió a la necesidad de contar con un centro de investigación dedicado a estas áreas para impulsar la innovación y la competitividad.",
     "tipo_entidad_legal": "Paraestatal asimilada al régimen de las empresas de participación estatal mayoritaria",
     "figura_jurídica": "Asociación Civil"
-}
+"marco_normativo": [
+        {
+            "ley_o_instrumento_jurídico": "Ley Orgánica de la Administración Pública Federal"
+        },
+        {
+            "ley_o_instrumento_jurídico": "Ley Federal de las Entidades Paraestatales"
+        },
+        {
+            "ley_o_instrumento_jurídico": "Ley de Ciencia y Tecnología"
+        },
+        {
+            "ley_o_instrumento_jurídico": "Estatutos del Centro de Investigación en Ciencias de Información Geoespacial, A.C"
+        }
+    ],
+    "presupuesto": [
+        {
+            "año": 2020,
+            "total": 66573239,
+            "recursos_fiscales": 0,
+            "recursos_propios": 0
+        },
+        {
+            "año": 2021,
+            "total": 71721348,
+            "recursos_fiscales": 0,
+            "recursos_propios": 0
+        },
+        {
+            "año": 2022,
+            "total": 71769066,
+            "recursos_fiscales": 0,
+            "recursos_propios": 0
+        },
+        {
+            "año": 2023,
+            "total": 76669655,
+            "recursos_fiscales": 0,
+            "recursos_propios": 0
+        },
+        {
+            "año": 2024,
+            "total": 76734836,
+            "recursos_fiscales": 72610917,
+            "recursos_propios": 4123919
+        }
+    ],
 
