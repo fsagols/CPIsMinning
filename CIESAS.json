@@ -288,5 +288,31 @@
     { "nombre_departamento": "Estudios sobre Educación y Cultura" }
   ],
 },
-
+ "redes_sociales": [
+                {
+                    "red": "Facebook",
+                    "identificador": "https://www.facebook.com/ciesas.oficial",
+                    "activa": true,
+                    "propósito": "difusión científica"
+                },
+                {
+                    "red": "Instagram",
+                    "identificador": "https://www.instagram.com/ciesas.oficial/",
+                    "activa": true,
+                    "propósito": "difusión científica"
+                },
+                {
+                    "red": "YouTube",
+                    "identificador": "https://www.youtube.com/@ciesas/videos",
+                    "activa": true,
+                    "propósito": "difusión científica"
+                },
+                {
+                    "red": "X",
+                    "identificador": "https://x.com/ciesas",
+                    "activa": false,
+                    "propósito": "difusión científica"
+                }
+            ]
+        }
 
