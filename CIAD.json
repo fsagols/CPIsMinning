@@ -15,37 +15,55 @@
             "fecha_creación": "1981-09-22",
             "historia_establecimiento": "En 1993 se integraron como asociados activos el Gobierno del Estado de Sinaloa y la Secretaría de Pesca (hoy Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación) y en 1997 el Gobierno del Estado de Chihuahua.",
             "contexto_histórico": "En 1981, México se adentraba en una nueva década enfrentando diversas dificultades económicas y sociales. La crisis del petróleo de finales de los 70 había dejado una huella profunda en la economía, resultando en inflación y deuda externa elevadas. Estos problemas macroeconómicos afectaban directamente sectores cruciales como la alimentación y la agricultura. El país enfrentaba desafíos significativos en estas áreas, incluyendo la dependencia de importaciones de alimentos básicos y una productividad agrícola limitada por la falta de tecnología moderna y prácticas de cultivo eficientes. El ambiente sociopolítico en México durante este periodo estaba marcado por el intento de modernización y estabilización. El gobierno de José López Portillo, que comenzó en 1976 y concluyó en 1982, enfocó esfuerzos en políticas dirigidas al desarrollo tecnológico y agrícola como parte de su plan de Renovación Moral. Se hicieron inversiones significativas en infraestructura y en el desarrollo de tecnologías para mejorar la productividad agrícola, aunque estos esfuerzos a menudo eran obstaculizados por problemas de corrupción y una ejecución ineficaz. A nivel global, 1981 también fue un año de transición. El mundo estaba en medio de la Guerra Fría, con Estados Unidos bajo la nueva presidencia de Ronald Reagan y la Unión Soviética empezando la era de Mijaíl Gorbachov poco después. Estos liderazgos marcaban un cambio significativo en las políticas internacionales y tenían un impacto directo en las economías de muchos países, incluyendo México, que dependía en gran medida de las dinámicas económicas y políticas globales. Además, el mundo también empezaba a enfrentar los primeros desafíos de la globalización, que prometía mayores interconexiones internacionales pero también una competencia más intensa.",
-            "tipo_entidad_legal": "Sin fines de lucro",
-            "figura_jurídica": "Asociación civil",
-            "marco_normativo": "La normateca del CIAD contiene regulaciones y directrices internas que orientan la operación y las prácticas del centro. Incluye normas internas específicas de la organización, normas acordadas con terceros, normas transversales que afectan a múltiples áreas, y documentos de apoyo a la operación interna. Estos documentos están diseñados para garantizar que el CIAD opere de manera ética, responsable y conforme a la legislación aplicable.",
+            "tipo_entidad_legal": "Desconocida",
+            "figura_jurídica": "Asociación Civil",
+            "marco_normativo": [
+                {
+                  "ley_o_instrumento_jurídico": "Instrumento jurídico de creación del Centro de Investigación en Alimentación y Desarrollo, A.C. (CIAD)"
+                }
+            ],
             "presupuesto": [
                 {
                     "año": 2017,
-                    "monto": 330952281
+                    "total": 383799193,
+                    "recursos_fiscales": 347633169,
+                    "recursos_propios": 36166024
                 },
                 {
                     "año": 2018,
-                    "monto": 338467387
+                    "total": 407781278,
+                    "recursos_fiscales": 369270526,
+                    "recursos_propios": 38510752
                 },
                 {
                     "año": 2019,
-                    "monto": 351810144
+                    "total": 424615701,
+                    "recursos_fiscales": 359848927,
+                    "recursos_propios": 64766774
                 },
                 {
                     "año": 2020,
-                    "monto": 373291949
+                    "total": 450760512,
+                    "recursos_fiscales": 399763986,
+                    "recursos_propios": 61996526
                 },
                 {
                     "año": 2021,
-                    "monto": 386103329
+                    "total": 481973814,
+                    "recursos_fiscales": 428704677,
+                    "recursos_propios": 53296137
                 },
                 {
                     "año": 2022,
-                    "monto": 401595166
-                },
-                {
+                    "total": 494662775,
+                    "recursos_fiscales": 447998564,
+                    "recursos_propios": 46664211
+                },{
+                  
                     "año": 2023,
-                    "monto": 425320187
+                    "total": 493255208,
+                    "recursos_fiscales": 464435162,
+                    "recursos_propios": 28820046
                 }
             ],
             "programas_académicos": [
@@ -53,54 +71,54 @@
                     "programa": "Maestría en Ciencias",
                     "disciplinas": [
                         {
-                            "area_sni": "Biología y Química",
-                            "campo_sni": "Agricultura, Silvicultura y Pesca",
-                            "disciplina_sni": "Acuicultura"
+                            "área_snii": "Biología y Química",
+                            "campo_snii": "Agricultura, Silvicultura y Pesca",
+                            "disciplina_snii": "Acuicultura"
                         },
                         {
-                            "area_sni": "Ciencias Físico Matemáticas y Ciencias de la tierra",
-                            "campo_sni": "Química",
-                            "disciplina_sni": "Química de Polímeros"
+                            "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                            "campo_snii": "Química",
+                            "disciplina_snii": "Química de Polímeros"
                         },
                         {
-                            "area_sni": "Biología y Química",
-                            "campo_sni": "Biología",
-                            "disciplina_sni": "Bioquímica"
+                            "área_snii": "Biología y Química",
+                            "campo_snii": "Biología",
+                            "disciplina_snii": "Bioquímica"
                         },
                         {
-                            "area_sni": "Biología y Química",
-                            "campo_sni": "Biotecnología y Bioingeniería",
-                            "disciplina_sni": "Biotecnología"
+                            "área_snii": "Biología y Química",
+                            "campo_snii": "Biotecnología y Bioingeniería",
+                            "disciplina_snii": "Biotecnología"
                         },
                         {
-                            "area_sni": "Biología y Química",
-                            "campo_sni": "Tecnología y Ciencias de los Alimentos",
-                            "disciplina_sni": "Ciencia y Tecnología de Alimentos"
+                            "área_snii": "Biología y Química",
+                            "campo_snii": "Tecnología y Ciencias de los Alimentos",
+                            "disciplina_snii": "Ciencia y Tecnología de Alimentos"
                         },
                         {
-                            "area_sni": "Biología y Química",
-                            "campo_sni": "Biología",
-                            "disciplina_sni": "Ecología"
+                            "área_snii": "Biología y Química",
+                            "campo_snii": "Biología",
+                            "disciplina_snii": "Ecología"
                         },
                         {
-                            "area_sni": "Biología y Química",
-                            "campo_sni": "Agricultura, Silvicultura y Pesca",
-                            "disciplina_sni": "Horticultura"
+                            "área_snii": "Biología y Química",
+                            "campo_snii": "Agricultura, Silvicultura y Pesca",
+                            "disciplina_snii": "Horticultura"
                         },
                         {
-                            "area_sni": "Biología y Química",
-                            "campo_sni": "Biología",
-                            "disciplina_sni": "Microbiología"
+                            "área_snii": "Biología y Química",
+                            "campo_snii": "Biología",
+                            "disciplina_snii": "Microbiología"
                         },
                         {
-                            "area_sni": "Medicina y Ciencias de la Salud",
-                            "campo_sni": "Medicina y Ciencias de la Salud",
-                            "disciplina_sni": "Nutrición y Dietética"
+                            "área_snii": "Medicina y Ciencias de la Salud",
+                            "campo_snii": "Medicina y Ciencias de la Salud",
+                            "disciplina_snii": "Nutrición y Dietética"
                         },
                         {
-                            "area_sni": "Medicina y Ciencias de la Salud",
-                            "campo_sni": "Farmacia",
-                            "disciplina_sni": "Toxicología"
+                            "área_snii": "Medicina y Ciencias de la Salud",
+                            "campo_snii": "Farmacia",
+                            "disciplina_snii": "Toxicología"
                         }
                     ],
                     "nivel": "maestría",
@@ -111,54 +129,54 @@
                     "programa": "Doctorado en Ciencias",
                     "disciplinas": [
                         {
-                            "area_sni": "Biología y Química",
-                            "campo_sni": "Agricultura, Silvicultura y Pesca",
-                            "disciplina_sni": "Acuicultura"
+                            "área_snii": "Biología y Química",
+                            "campo_snii": "Agricultura, Silvicultura y Pesca",
+                            "disciplina_snii": "Acuicultura"
                         },
                         {
-                            "area_sni": "Ciencias Físico Matemáticas y Ciencias de la tierra",
-                            "campo_sni": "Química",
-                            "disciplina_sni": "Química de Polímeros"
+                            "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                            "campo_snii": "Química",
+                            "disciplina_snii": "Química de Polímeros"
                         },
                         {
-                            "area_sni": "Biología y Química",
-                            "campo_sni": "Biología",
-                            "disciplina_sni": "Bioquímica"
+                            "área_snii": "Biología y Química",
+                            "campo_snii": "Biología",
+                            "disciplina_snii": "Bioquímica"
                         },
                         {
-                            "area_sni": "Biología y Química",
-                            "campo_sni": "Biotecnología y Bioingeniería",
-                            "disciplina_sni": "Biotecnología"
+                            "área_snii": "Biología y Química",
+                            "campo_snii": "Biotecnología y Bioingeniería",
+                            "disciplina_snii": "Biotecnología"
                         },
                         {
-                            "area_sni": "Biología y Química",
-                            "campo_sni": "Tecnología y Ciencias de los Alimentos",
-                            "disciplina_sni": "Ciencia y Tecnología de Alimentos"
+                            "área_snii": "Biología y Química",
+                            "campo_snii": "Tecnología y Ciencias de los Alimentos",
+                            "disciplina_snii": "Ciencia y Tecnología de Alimentos"
                         },
                         {
-                            "area_sni": "Biología y Química",
-                            "campo_sni": "Biología",
-                            "disciplina_sni": "Ecología"
+                            "área_snii": "Biología y Química",
+                            "campo_snii": "Biología",
+                            "disciplina_snii": "Ecología"
                         },
                         {
-                            "area_sni": "Biología y Química",
-                            "campo_sni": "Agricultura, Silvicultura y Pesca",
-                            "disciplina_sni": "Horticultura"
+                            "área_snii": "Biología y Química",
+                            "campo_snii": "Agricultura, Silvicultura y Pesca",
+                            "disciplina_snii": "Horticultura"
                         },
                         {
-                            "area_sni": "Biología y Química",
-                            "campo_sni": "Biología",
-                            "disciplina_sni": "Microbiología"
+                            "área_snii": "Biología y Química",
+                            "campo_snii": "Biología",
+                            "disciplina_snii": "Microbiología"
                         },
                         {
-                            "area_sni": "Medicina y Ciencias de la Salud",
-                            "campo_sni": "Medicina y Ciencias de la Salud",
-                            "disciplina_sni": "Nutrición y Dietética"
+                            "área_snii": "Medicina y Ciencias de la Salud",
+                            "campo_snii": "Medicina y Ciencias de la Salud",
+                            "disciplina_snii": "Nutrición y Dietética"
                         },
                         {
-                            "area_sni": "Medicina y Ciencias de la Salud",
-                            "campo_sni": "Farmacia",
-                            "disciplina_sni": "Toxicología"
+                            "área_snii": "Medicina y Ciencias de la Salud",
+                            "campo_snii": "Farmacia",
+                            "disciplina_snii": "Toxicología"
                         }
                     ],
                     "nivel": "doctorado",
@@ -169,24 +187,24 @@
                     "programa": "Maestría en Desarrollo Regional",
                     "disciplinas": [
                         {
-                            "area_sni": "Ciencias Sociales",
-                            "campo_sni": "Estudios Urbanos, Rurales, Regionales y de la Población",
-                            "disciplina_sni": "Desarrollo Rural"
+                            "área_snii": "Ciencias Sociales",
+                            "campo_snii": "Estudios Urbanos, Rurales, Regionales y de la Población",
+                            "disciplina_snii": "Desarrollo Rural"
                         },
                         {
-                            "area_sni": "Ciencias Sociales",
-                            "campo_sni": "Ciencias Ambientales y de la Tierra",
-                            "disciplina_sni": "Sociología Ambiental"
+                            "área_snii": "Ciencias Sociales",
+                            "campo_snii": "Ciencias Ambientales y de la Tierra",
+                            "disciplina_snii": "Sociología Ambiental"
                         },
                         {
-                            "area_sni": "Ciencias Sociales",
-                            "campo_sni": "Sociología",
-                            "disciplina_sni": "Estudios de Vulnerabilidad y Desarrollo Humano"
+                            "área_snii": "Ciencias Sociales",
+                            "campo_snii": "Sociología",
+                            "disciplina_snii": "Estudios de Vulnerabilidad y Desarrollo Humano"
                         },
                         {
-                            "area_sni": "Ciencias Sociales",
-                            "campo_sni": "Economía",
-                            "disciplina_sni": "Economía Regional y Urbana"
+                            "área_snii": "Ciencias Sociales",
+                            "campo_snii": "Economía",
+                            "disciplina_snii": "Economía Regional y Urbana"
                         }
                     ],
                     "nivel": "maestría",
@@ -197,24 +215,24 @@
                     "programa": "Doctorado en Desarrollo Regional",
                     "disciplinas": [
                         {
-                            "area_sni": "Ciencias Sociales",
-                            "campo_sni": "Estudios Urbanos, Rurales, Regionales y de la Población",
-                            "disciplina_sni": "Desarrollo Rural"
+                            "área_snii": "Ciencias Sociales",
+                            "campo_snii": "Estudios Urbanos, Rurales, Regionales y de la Población",
+                            "disciplina_snii": "Desarrollo Rural"
                         },
                         {
-                            "area_sni": "Ciencias Sociales",
-                            "campo_sni": "Ciencias Ambientales y de la Tierra",
-                            "disciplina_sni": "Sociología Ambiental"
+                            "área_snii": "Ciencias Sociales",
+                            "campo_snii": "Ciencias Ambientales y de la Tierra",
+                            "disciplina_snii": "Sociología Ambiental"
                         },
                         {
-                            "area_sni": "Ciencias Sociales",
-                            "campo_sni": "Sociología",
-                            "disciplina_sni": "Estudios de Vulnerabilidad y Desarrollo Humano"
+                            "área_snii": "Ciencias Sociales",
+                            "campo_snii": "Sociología",
+                            "disciplina_snii": "Estudios de Vulnerabilidad y Desarrollo Humano"
                         },
                         {
-                            "area_sni": "Ciencias Sociales",
-                            "campo_sni": "Economía",
-                            "disciplina_sni": "Economía Regional y Urbana"
+                            "área_snii": "Ciencias Sociales",
+                            "campo_snii": "Economía",
+                            "disciplina_snii": "Economía Regional y Urbana"
                         }
                     ],
                     "nivel": "doctorado",
@@ -243,9 +261,9 @@
                                             "descripción": "Estudio de dietas y desarrollo de productos alternativos para mejorar la nutrición y la salud",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Medicina y Ciencias de la Salud",
-                                                    "campo_sni": "Medicina y Ciencias de la Salud",
-                                                    "disciplina_sni": "Nutrición y Dietética"
+                                                    "área_snii": "Medicina y Ciencias de la Salud",
+                                                    "campo_snii": "Medicina y Ciencias de la Salud",
+                                                    "disciplina_snii": "Nutrición y Dietética"
                                                 }
                                             ]
                                         },
@@ -254,14 +272,14 @@
                                             "descripción": "Identificación de los procesos socioculturales, conductuales y económicos que determinan los problemas de seguridad alimentaria dentro de los contextos locales",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Sociología",
-                                                    "disciplina_sni": "Sociología de la Alimentación"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Sociología",
+                                                    "disciplina_snii": "Sociología de la Alimentación"
                                                 },
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Economía",
-                                                    "disciplina_sni": "Economía Agrícola"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Economía",
+                                                    "disciplina_snii": "Economía Agrícola"
                                                 }
                                             ]
                                         },
@@ -270,9 +288,9 @@
                                             "descripción": "Principales enfermedades no transmisibles relacionadas con la nutrición",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Medicina y Ciencias de la Salud",
-                                                    "campo_sni": "Medicina y Ciencias de la Salud",
-                                                    "disciplina_sni": "Epidemiología Nutricional"
+                                                    "área_snii": "Medicina y Ciencias de la Salud",
+                                                    "campo_snii": "Medicina y Ciencias de la Salud",
+                                                    "disciplina_snii": "Epidemiología Nutricional"
                                                 }
                                             ]
                                         },
@@ -281,9 +299,9 @@
                                             "descripción": "Relación de la nutrición con los procesos infecciosos y la respuesta inmune",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Medicina y Ciencias de la Salud",
-                                                    "campo_sni": "Medicina y Ciencias de la Salud",
-                                                    "disciplina_sni": "Inmunología"
+                                                    "área_snii": "Medicina y Ciencias de la Salud",
+                                                    "campo_snii": "Medicina y Ciencias de la Salud",
+                                                    "disciplina_snii": "Inmunología"
                                                 }
                                             ]
                                         },
@@ -292,9 +310,9 @@
                                             "descripción": "Diagnóstico, control y profilaxis de los procesos infecciosos y respuesta inmune",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Medicina y Ciencias de la Salud",
-                                                    "campo_sni": "Medicina y Ciencias de la Salud",
-                                                    "disciplina_sni": "Veterinaria"
+                                                    "área_snii": "Medicina y Ciencias de la Salud",
+                                                    "campo_snii": "Medicina y Ciencias de la Salud",
+                                                    "disciplina_snii": "Veterinaria"
                                                 }
                                             ]
                                         }
@@ -315,9 +333,9 @@
                                             "descripción": "Investigación y desarrollo de métodos para garantizar la calidad, autenticidad y trazabilidad de los alimentos de origen animal.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Biología y Química",
-                                                    "campo_sni": "Biotecnología y Bioingeniería",
-                                                    "disciplina_sni": "Biotecnología de Alimentos"
+                                                    "área_snii": "Biología y Química",
+                                                    "campo_snii": "Biotecnología y Bioingeniería",
+                                                    "disciplina_snii": "Biotecnología de Alimentos"
                                                 }
                                             ]
                                         },
@@ -326,9 +344,9 @@
                                             "descripción": "Innovación y optimización de productos y procesos en la industria alimentaria para aumentar la eficiencia y la calidad de los alimentos de origen animal.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ingeniería y Biotecnología",
-                                                    "campo_sni": "Ingeniería y Biotecnología de Procesos",
-                                                    "disciplina_sni": "Ingeniería y Biotecnología de Alimentos"
+                                                    "área_snii": "Ciencias Agropecuarias y Biotecnología",
+                                                    "campo_snii": "Ciencias Agropecuarias y Biotecnología de Procesos",
+                                                    "disciplina_snii": "Ciencias Agropecuarias y Biotecnología de Alimentos"
                                                 }
                                             ]
                                         },
@@ -337,9 +355,9 @@
                                             "descripción": "Estudios avanzados en el procesamiento, calidad y características nutricionales de la leche y productos lácteos.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Biología y Química",
-                                                    "campo_sni": "Tecnología y Ciencias de los Alimentos",
-                                                    "disciplina_sni": "Tecnología Láctea"
+                                                    "área_snii": "Biología y Química",
+                                                    "campo_snii": "Tecnología y Ciencias de los Alimentos",
+                                                    "disciplina_snii": "Tecnología Láctea"
                                                 }
                                             ]
                                         },
@@ -348,9 +366,9 @@
                                             "descripción": "Investigación en métodos de procesamiento, conservación y evaluación de la carne y productos cárnicos.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Biología y Química",
-                                                    "campo_sni": "Tecnología y Ciencias de los Alimentos",
-                                                    "disciplina_sni": "Tecnología Cárnica"
+                                                    "área_snii": "Biología y Química",
+                                                    "campo_snii": "Tecnología y Ciencias de los Alimentos",
+                                                    "disciplina_snii": "Tecnología Cárnica"
                                                 }
                                             ]
                                         },
@@ -359,9 +377,9 @@
                                             "descripción": "Desarrollo de técnicas y procesos para mejorar la calidad y seguridad de los productos pesqueros.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Biología y Química",
-                                                    "campo_sni": "Tecnología y Ciencias de los Alimentos",
-                                                    "disciplina_sni": "Tecnología de Productos del Mar"
+                                                    "área_snii": "Biología y Química",
+                                                    "campo_snii": "Tecnología y Ciencias de los Alimentos",
+                                                    "disciplina_snii": "Tecnología de Productos del Mar"
                                                 }
                                             ]
                                         },
@@ -370,9 +388,9 @@
                                             "descripción": "Estudio de la bioquímica y la biología molecular de organismos acuáticos para aplicaciones en biotecnología y alimentación.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Biología y Química",
-                                                    "campo_sni": "Biología",
-                                                    "disciplina_sni": "Bioquímica"
+                                                    "área_snii": "Biología y Química",
+                                                    "campo_snii": "Biología",
+                                                    "disciplina_snii": "Bioquímica"
                                                 }
                                             ]
                                         },
@@ -381,9 +399,9 @@
                                             "descripción": "Investigación fundamental y aplicada en la estructura y función de las proteínas de origen animal.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Biología y Química",
-                                                    "campo_sni": "Biología",
-                                                    "disciplina_sni": "Bioquímica"
+                                                    "área_snii": "Biología y Química",
+                                                    "campo_snii": "Biología",
+                                                    "disciplina_snii": "Bioquímica"
                                                 }
                                             ]
                                         },
@@ -392,9 +410,9 @@
                                             "descripción": "Identificación y análisis de biopolímeros funcionales derivados de fuentes animales para uso en aplicaciones alimentarias y biomédicas.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Físico Matemáticas y Ciencias de la tierra",
-                                                    "campo_sni": "Química",
-                                                    "disciplina_sni": "Química de Polímeros"
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "Química",
+                                                    "disciplina_snii": "Química de Polímeros"
                                                 }
                                             ]
                                         },
@@ -403,9 +421,9 @@
                                             "descripción": "Técnicas de evaluación sensorial para determinar las preferencias del consumidor y mejorar la aceptación de los alimentos de origen animal.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Biología y Química",
-                                                    "campo_sni": "Tecnología y Ciencias de los Alimentos",
-                                                    "disciplina_sni": "Ciencia Sensorial de Alimentos"
+                                                    "área_snii": "Biología y Química",
+                                                    "campo_snii": "Tecnología y Ciencias de los Alimentos",
+                                                    "disciplina_snii": "Ciencia Sensorial de Alimentos"
                                                 }
                                             ]
                                         }
@@ -426,9 +444,9 @@
                                             "descripción": "Estudios sobre la función y funcionalidad de proteínas, carbohidratos y compuestos marcadores en organismos vivos.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Biología y Química",
-                                                    "campo_sni": "Biotecnología y Bioingeniería",
-                                                    "disciplina_sni": "Bioquímica"
+                                                    "área_snii": "Biología y Química",
+                                                    "campo_snii": "Biotecnología y Bioingeniería",
+                                                    "disciplina_snii": "Bioquímica"
                                                 }
                                             ]
                                         },
@@ -437,9 +455,9 @@
                                             "descripción": "Biotransformaciones y biocatálisis, desde la ciencia básica hasta la aplicación tecnológica y el patentamiento.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Biología y Química",
-                                                    "campo_sni": "Biotecnología y Bioingeniería",
-                                                    "disciplina_sni": "Biotecnología"
+                                                    "área_snii": "Biología y Química",
+                                                    "campo_snii": "Biotecnología y Bioingeniería",
+                                                    "disciplina_snii": "Biotecnología"
                                                 }
                                             ]
                                         }
@@ -454,9 +472,9 @@
                                             "descripción": "Estudio de microorganismos, tanto patógenos como benéficos, en su impacto en el deterioro de alimentos y transmisión de enfermedades.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Biología y Química",
-                                                    "campo_sni": "Biología",
-                                                    "disciplina_sni": "Microbiología"
+                                                    "área_snii": "Biología y Química",
+                                                    "campo_snii": "Biología",
+                                                    "disciplina_snii": "Microbiología"
                                                 }
                                             ]
                                         },
@@ -465,9 +483,9 @@
                                             "descripción": "Estudio de la interacción de patógenos y microbiota intestinal con el sistema inmunológico del hospedero.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Biología y Química",
-                                                    "campo_sni": "Medicina y Ciencias de la Salud",
-                                                    "disciplina_sni": "Inmunología"
+                                                    "área_snii": "Biología y Química",
+                                                    "campo_snii": "Medicina y Ciencias de la Salud",
+                                                    "disciplina_snii": "Inmunología"
                                                 }
                                             ]
                                         }
@@ -482,9 +500,9 @@
                                             "descripción": "Estudio de la presencia de contaminantes químicos en alimentos y sus efectos nocivos en organismos y entornos.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Biología y Química",
-                                                    "campo_sni": "Biología",
-                                                    "disciplina_sni": "Toxicología"
+                                                    "área_snii": "Biología y Química",
+                                                    "campo_snii": "Biología",
+                                                    "disciplina_snii": "Toxicología"
                                                 }
                                             ]
                                         },
@@ -493,9 +511,9 @@
                                             "descripción": "Investigación de compuestos vegetales, animales y microbianos con actividad insecticida, fungicida y de regulación metabólica.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Biología y Química",
-                                                    "campo_sni": "Biología",
-                                                    "disciplina_sni": "Ecotoxicología"
+                                                    "área_snii": "Biología y Química",
+                                                    "campo_snii": "Biología",
+                                                    "disciplina_snii": "Ecotoxicología"
                                                 }
                                             ]
                                         }
@@ -516,9 +534,9 @@
                                             "descripción": "Estudios para optimizar la calidad y vida útil de alimentos vegetales, mediante el entendimiento de sus procesos fisiológicos y bioquímicos.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Biología y Química",
-                                                    "campo_sni": "Biología",
-                                                    "disciplina_sni": "Bioquímica"
+                                                    "área_snii": "Biología y Química",
+                                                    "campo_snii": "Biología",
+                                                    "disciplina_snii": "Bioquímica"
                                                 }
                                             ]
                                         },
@@ -527,9 +545,9 @@
                                             "descripción": "Investigación en genética y biología molecular aplicada al desarrollo y mejora de variedades de frutas, hortalizas, cereales y hongos.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Biología y Química",
-                                                    "campo_sni": "Biotecnología y Bioingeniería",
-                                                    "disciplina_sni": "Biología Molecular"
+                                                    "área_snii": "Biología y Química",
+                                                    "campo_snii": "Biotecnología y Bioingeniería",
+                                                    "disciplina_snii": "Biología Molecular"
                                                 }
                                             ]
                                         }
@@ -544,9 +562,9 @@
                                             "descripción": "Innovación en procesos de manufactura para crear nuevos productos alimenticios a partir de fuentes vegetales.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ingeniería y Biotecnología",
-                                                    "campo_sni": "Ingeniería y Biotecnología de Procesos",
-                                                    "disciplina_sni": "Ingeniería y Biotecnología de Alimentos"
+                                                    "área_snii": "Ciencias Agropecuarias y Biotecnología",
+                                                    "campo_snii": "Ciencias Agropecuarias y Biotecnología de Procesos",
+                                                    "disciplina_snii": "Ciencias Agropecuarias y Biotecnología de Alimentos"
                                                 }
                                             ]
                                         },
@@ -555,9 +573,9 @@
                                             "descripción": "Desarrollo de alimentos que proporcionan beneficios de salud más allá de la nutrición básica, incluyendo nutracéuticos.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Biología y Química",
-                                                    "campo_sni": "Medicina y Ciencias de la Salud",
-                                                    "disciplina_sni": "Nutrición y Ciencias de los Alimentos"
+                                                    "área_snii": "Biología y Química",
+                                                    "campo_snii": "Medicina y Ciencias de la Salud",
+                                                    "disciplina_snii": "Nutrición y Ciencias de los Alimentos"
                                                 }
                                             ]
                                         }
@@ -572,9 +590,9 @@
                                             "descripción": "Estudios para promover la biodiversidad en sistemas agrícolas mediante enfoques sostenibles.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Biología y Química",
-                                                    "campo_sni": "Ecología",
-                                                    "disciplina_sni": "Biodiversidad"
+                                                    "área_snii": "Biología y Química",
+                                                    "campo_snii": "Ecología",
+                                                    "disciplina_snii": "Biodiversidad"
                                                 }
                                             ]
                                         },
@@ -583,9 +601,9 @@
                                             "descripción": "Desarrollo de productos biotecnológicos y sostenibles para mejorar la eficacia y sostenibilidad de las prácticas agrícolas.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Biología y Química",
-                                                    "campo_sni": "Biotecnología y Bioingeniería",
-                                                    "disciplina_sni": "Biotecnología Productiva"
+                                                    "área_snii": "Biología y Química",
+                                                    "campo_snii": "Biotecnología y Bioingeniería",
+                                                    "disciplina_snii": "Biotecnología Productiva"
                                                 }
                                             ]
                                         }
@@ -606,9 +624,9 @@
                                             "descripción": "Estudios sobre la interacción entre economía regional y prácticas de desarrollo sustentable.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Economía",
-                                                    "disciplina_sni": "Economía Regional"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Economía",
+                                                    "disciplina_snii": "Economía Regional"
                                                 }
                                             ]
                                         },
@@ -617,9 +635,9 @@
                                             "descripción": "Investigación sobre la influencia de las políticas económicas y sociales en el bienestar de la población.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Ciencias Políticas",
-                                                    "disciplina_sni": "Políticas Públicas"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Ciencias Políticas",
+                                                    "disciplina_snii": "Políticas Públicas"
                                                 }
                                             ]
                                         },
@@ -628,9 +646,9 @@
                                             "descripción": "Análisis de la reestructuración productiva regional y su planeación estratégica para el desarrollo sostenible.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Administración y Políticas Públicas",
-                                                    "disciplina_sni": "Planificación Estratégica"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Administración y Políticas Públicas",
+                                                    "disciplina_snii": "Planificación Estratégica"
                                                 }
                                             ]
                                         },
@@ -639,9 +657,9 @@
                                             "descripción": "Estudio de las dinámicas conductuales, la ecología humana y su relación con el género y el desarrollo humano.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Antropología",
-                                                    "disciplina_sni": "Ecología Humana"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Antropología",
+                                                    "disciplina_snii": "Ecología Humana"
                                                 }
                                             ]
                                         },
@@ -650,9 +668,9 @@
                                             "descripción": "Evaluación del impacto de las políticas públicas y programas gubernamentales en los sectores de la salud y educación.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Administración y Políticas Públicas",
-                                                    "disciplina_sni": "Evaluación de Políticas Públicas"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Administración y Políticas Públicas",
+                                                    "disciplina_snii": "Evaluación de Políticas Públicas"
                                                 }
                                             ]
                                         },
@@ -661,9 +679,9 @@
                                             "descripción": "Investigaciones focalizadas en género y la inclusión de grupos vulnerables en el desarrollo regional.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Sociología",
-                                                    "disciplina_sni": "Estudios de Género"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Sociología",
+                                                    "disciplina_snii": "Estudios de Género"
                                                 }
                                             ]
                                         },
@@ -672,9 +690,9 @@
                                             "descripción": "Exploración de estrategias para alcanzar la autosuficiencia alimentaria y promover un desarrollo rural sostenible.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Desarrollo Rural",
-                                                    "disciplina_sni": "Desarrollo Rural Sustentable"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Desarrollo Rural",
+                                                    "disciplina_snii": "Desarrollo Rural Sustentable"
                                                 }
                                             ]
                                         },
@@ -683,9 +701,9 @@
                                             "descripción": "Estudio de cómo la modernidad influye en las prácticas alimentarias, la salud y la cultura regional.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Antropología",
-                                                    "disciplina_sni": "Antropología de la Alimentación"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Antropología",
+                                                    "disciplina_snii": "Antropología de la Alimentación"
                                                 }
                                             ]
                                         },
@@ -694,9 +712,9 @@
                                             "descripción": "Análisis de las relaciones de poder en la gestión de recursos naturales y su impacto ambiental.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Ciencias Políticas",
-                                                    "disciplina_sni": "Ecología Política"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Ciencias Políticas",
+                                                    "disciplina_snii": "Ecología Política"
                                                 }
                                             ]
                                         },
@@ -705,9 +723,9 @@
                                             "descripción": "Estudios sobre la implementación de políticas y prácticas de gestión ambiental en contextos de desarrollo.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Ciencias Ambientales",
-                                                    "disciplina_sni": "Gestión Ambiental"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Ciencias Ambientales",
+                                                    "disciplina_snii": "Gestión Ambiental"
                                                 }
                                             ]
                                         },
@@ -716,9 +734,9 @@
                                             "descripción": "Investigación sobre cómo la modernización afecta la cultura local y la sostenibilidad ambiental.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Antropología",
-                                                    "disciplina_sni": "Antropología Ambiental"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Antropología",
+                                                    "disciplina_snii": "Antropología Ambiental"
                                                 }
                                             ]
                                         }
@@ -748,9 +766,9 @@
                                             "descripción": "Investigación sobre la ecología de bacterias patógenas en la cadena de producción alimentaria y su impacto en la seguridad alimentaria.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Biología y Química",
-                                                    "campo_sni": "Biología",
-                                                    "disciplina_sni": "Microbiología"
+                                                    "área_snii": "Biología y Química",
+                                                    "campo_snii": "Biología",
+                                                    "disciplina_snii": "Microbiología"
                                                 }
                                             ]
                                         },
@@ -759,9 +777,9 @@
                                             "descripción": "Desarrollo y optimización de sistemas para garantizar la calidad y trazabilidad de los alimentos desde la producción hasta el consumidor.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ingeniería y Biotecnología",
-                                                    "campo_sni": "Ingeniería y Biotecnología de Procesos",
-                                                    "disciplina_sni": "Ingeniería y Biotecnología de Alimentos"
+                                                    "área_snii": "Ciencias Agropecuarias y Biotecnología",
+                                                    "campo_snii": "Ciencias Agropecuarias y Biotecnología de Procesos",
+                                                    "disciplina_snii": "Ciencias Agropecuarias y Biotecnología de Alimentos"
                                                 }
                                             ]
                                         }
@@ -776,9 +794,9 @@
                                             "descripción": "Estudio de las respuestas fisiológicas de especies a factores ambientales y su adaptación en diferentes ecosistemas.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Biología y Química",
-                                                    "campo_sni": "Ecología",
-                                                    "disciplina_sni": "Fisiología Ambiental"
+                                                    "área_snii": "Biología y Química",
+                                                    "campo_snii": "Ecología",
+                                                    "disciplina_snii": "Fisiología Ambiental"
                                                 }
                                             ]
                                         },
@@ -787,9 +805,9 @@
                                             "descripción": "Investigación de la diversidad de peces en México y su importancia ecológica y económica.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Biología y Química",
-                                                    "campo_sni": "Biología",
-                                                    "disciplina_sni": "Ictiología"
+                                                    "área_snii": "Biología y Química",
+                                                    "campo_snii": "Biología",
+                                                    "disciplina_snii": "Ictiología"
                                                 }
                                             ]
                                         }
@@ -804,9 +822,9 @@
                                             "descripción": "Desarrollo de nanosistemas basados en biopolímeros para la liberación controlada de fármacos.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Biología y Química",
-                                                    "campo_sni": "Biotecnología y Bioingeniería",
-                                                    "disciplina_sni": "Nanobiotecnología"
+                                                    "área_snii": "Biología y Química",
+                                                    "campo_snii": "Biotecnología y Bioingeniería",
+                                                    "disciplina_snii": "Nanobiotecnología"
                                                 }
                                             ]
                                         }
@@ -836,9 +854,9 @@
                                             "descripción": "Optimización de técnicas para el manejo poscosecha que mejoren la calidad y durabilidad de productos hortofrutícolas.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Biología y Química",
-                                                    "campo_sni": "Biotecnología y Bioingeniería",
-                                                    "disciplina_sni": "Tecnología Postcosecha"
+                                                    "área_snii": "Biología y Química",
+                                                    "campo_snii": "Biotecnología y Bioingeniería",
+                                                    "disciplina_snii": "Tecnología Postcosecha"
                                                 }
                                             ]
                                         },
@@ -847,9 +865,9 @@
                                             "descripción": "Investigación en el desarrollo de nuevos materiales biodegradables para la industria alimentaria usando almidones no-convencionales.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ingeniería y Biotecnología",
-                                                    "campo_sni": "Ingeniería y Biotecnología Química",
-                                                    "disciplina_sni": "Ciencia de Materiales"
+                                                    "área_snii": "Ciencias Agropecuarias y Biotecnología",
+                                                    "campo_snii": "Ciencias Agropecuarias y Biotecnología Química",
+                                                    "disciplina_snii": "Ciencia de Materiales"
                                                 }
                                             ]
                                         },
@@ -858,9 +876,9 @@
                                             "descripción": "Desarrollo de métodos de control biológico para enfermedades en apiarios que sean sostenibles y eficientes.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Biología y Química",
-                                                    "campo_sni": "Biología",
-                                                    "disciplina_sni": "Entomología"
+                                                    "área_snii": "Biología y Química",
+                                                    "campo_snii": "Biología",
+                                                    "disciplina_snii": "Entomología"
                                                 }
                                             ]
                                         },
@@ -869,9 +887,9 @@
                                             "descripción": "Estudio de las propiedades de compuestos bioactivos en plantas y su aplicación en alimentos funcionales.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Biología y Química",
-                                                    "campo_sni": "Química",
-                                                    "disciplina_sni": "Bioquímica"
+                                                    "área_snii": "Biología y Química",
+                                                    "campo_snii": "Química",
+                                                    "disciplina_snii": "Bioquímica"
                                                 }
                                             ]
                                         },
@@ -880,9 +898,9 @@
                                             "descripción": "Mejora de procesos en la producción y calidad de productos lácteos a través de tecnologías avanzadas.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ingeniería y Biotecnología",
-                                                    "campo_sni": "Ingeniería y Biotecnología de Procesos",
-                                                    "disciplina_sni": "Ingeniería y Biotecnología de Alimentos"
+                                                    "área_snii": "Ciencias Agropecuarias y Biotecnología",
+                                                    "campo_snii": "Ciencias Agropecuarias y Biotecnología de Procesos",
+                                                    "disciplina_snii": "Ciencias Agropecuarias y Biotecnología de Alimentos"
                                                 }
                                             ]
                                         },
@@ -891,9 +909,9 @@
                                             "descripción": "Investigación en los procesos químicos y bioquímicos que influyen en el desarrollo del aroma en diferentes tipos de frutas, crucial para la calidad sensorial de los productos.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Biología y Química",
-                                                    "campo_sni": "Química",
-                                                    "disciplina_sni": "Bioquímica de Alimentos"
+                                                    "área_snii": "Biología y Química",
+                                                    "campo_snii": "Química",
+                                                    "disciplina_snii": "Bioquímica de Alimentos"
                                                 }
                                             ]
                                         },
@@ -902,9 +920,9 @@
                                             "descripción": "Estudio de las interacciones a nivel molecular entre patógenos vegetales y sus hospederos, buscando métodos para mejorar la resistencia de las plantas.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Biología y Química",
-                                                    "campo_sni": "Biología",
-                                                    "disciplina_sni": "Fitopatología"
+                                                    "área_snii": "Biología y Química",
+                                                    "campo_snii": "Biología",
+                                                    "disciplina_snii": "Fitopatología"
                                                 }
                                             ]
                                         },
@@ -913,9 +931,9 @@
                                             "descripción": "Investigación dirigida a identificar y evaluar patógenos de insectos que puedan ser utilizados en control biológico, contribuyendo a prácticas agrícolas más sostenibles.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Biología y Química",
-                                                    "campo_sni": "Biología",
-                                                    "disciplina_sni": "Entomología"
+                                                    "área_snii": "Biología y Química",
+                                                    "campo_snii": "Biología",
+                                                    "disciplina_snii": "Entomología"
                                                 }
                                             ]
                                         }
@@ -945,9 +963,9 @@
                                             "descripción": "Estudio y caracterización de microorganismos en alimentos mediante técnicas moleculares para asegurar la calidad e inocuidad.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Biología y Química",
-                                                    "campo_sni": "Biología",
-                                                    "disciplina_sni": "Microbiología"
+                                                    "área_snii": "Biología y Química",
+                                                    "campo_snii": "Biología",
+                                                    "disciplina_snii": "Microbiología"
                                                 }
                                             ]
                                         },
@@ -956,9 +974,9 @@
                                             "descripción": "Desarrollo de protocolos y sistemas para asegurar la calidad e inocuidad de los alimentos durante su producción y procesamiento.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ingeniería y Biotecnología",
-                                                    "campo_sni": "Ingeniería y Biotecnología de Procesos",
-                                                    "disciplina_sni": "Ingeniería y Biotecnología de Alimentos"
+                                                    "área_snii": "Ciencias Agropecuarias y Biotecnología",
+                                                    "campo_snii": "Ciencias Agropecuarias y Biotecnología de Procesos",
+                                                    "disciplina_snii": "Ciencias Agropecuarias y Biotecnología de Alimentos"
                                                 }
                                             ]
                                         },
@@ -967,9 +985,9 @@
                                             "descripción": "Implementación de sistemas de control de calidad para garantizar la seguridad alimentaria a lo largo de toda la cadena de producción.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ingeniería y Biotecnología",
-                                                    "campo_sni": "Ingeniería y Biotecnología de Procesos",
-                                                    "disciplina_sni": "Seguridad Alimentaria"
+                                                    "área_snii": "Ciencias Agropecuarias y Biotecnología",
+                                                    "campo_snii": "Ciencias Agropecuarias y Biotecnología de Procesos",
+                                                    "disciplina_snii": "Seguridad Alimentaria"
                                                 }
                                             ]
                                         },
@@ -978,9 +996,9 @@
                                             "descripción": "Uso de herramientas computacionales para el estudio de biomoléculas que impactan en la calidad y funcionalidad de los alimentos.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Físico Matemáticas y Ciencias de la tierra",
-                                                    "campo_sni": "Química",
-                                                    "disciplina_sni": "Química Computacional"
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "Química",
+                                                    "disciplina_snii": "Química Computacional"
                                                 }
                                             ]
                                         },
@@ -989,9 +1007,9 @@
                                             "descripción": "Optimización de procesos para mejorar la calidad de los alimentos procesados, extendiendo su vida útil y preservando sus propiedades nutricionales.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ingeniería y Biotecnología",
-                                                    "campo_sni": "Ingeniería y Biotecnología de Procesos",
-                                                    "disciplina_sni": "Tecnología de Alimentos"
+                                                    "área_snii": "Ciencias Agropecuarias y Biotecnología",
+                                                    "campo_snii": "Ciencias Agropecuarias y Biotecnología de Procesos",
+                                                    "disciplina_snii": "Tecnología de Alimentos"
                                                 }
                                             ]
                                         },
@@ -1000,9 +1018,9 @@
                                             "descripción": "Técnicas avanzadas para la conservación poscosecha que mantengan la calidad y prolonguen la vida útil de frutas y hortalizas.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Biología y Química",
-                                                    "campo_sni": "Biotecnología y Bioingeniería",
-                                                    "disciplina_sni": "Tecnología Postcosecha"
+                                                    "área_snii": "Biología y Química",
+                                                    "campo_snii": "Biotecnología y Bioingeniería",
+                                                    "disciplina_snii": "Tecnología Postcosecha"
                                                 }
                                             ]
                                         },
@@ -1011,9 +1029,9 @@
                                             "descripción": "Investigación sobre los requerimientos nutricionales de plantas cultivadas y su impacto en la productividad y calidad de los cultivos.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Biología y Química",
-                                                    "campo_sni": "Biología",
-                                                    "disciplina_sni": "Fisiología Vegetal"
+                                                    "área_snii": "Biología y Química",
+                                                    "campo_snii": "Biología",
+                                                    "disciplina_snii": "Fisiología Vegetal"
                                                 }
                                             ]
                                         }
@@ -1043,9 +1061,9 @@
                                             "descripción": "Enfoque en el valor agregado y composición nutricional de los alimentos, explorando propiedades bioactivas y su funcionalidad con fines medicinales y bioenergéticos.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ingeniería y Biotecnología",
-                                                    "campo_sni": "Ingeniería y Biotecnología de Procesos",
-                                                    "disciplina_sni": "Tecnología de Alimentos"
+                                                    "área_snii": "Ciencias Agropecuarias y Biotecnología",
+                                                    "campo_snii": "Ciencias Agropecuarias y Biotecnología de Procesos",
+                                                    "disciplina_snii": "Tecnología de Alimentos"
                                                 }
                                             ]
                                         }
@@ -1060,9 +1078,9 @@
                                             "descripción": "Valoración, diagnóstico e identificación de contaminantes físicos, químicos y biológicos en alimentos, definiendo estrategias para reducir riesgos.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Biología y Química",
-                                                    "campo_sni": "Biología",
-                                                    "disciplina_sni": "Microbiología"
+                                                    "área_snii": "Biología y Química",
+                                                    "campo_snii": "Biología",
+                                                    "disciplina_snii": "Microbiología"
                                                 }
                                             ]
                                         }
@@ -1077,9 +1095,9 @@
                                             "descripción": "Valoración de técnicas de cultivo y manejo agronómico para mejorar la productividad y sostenibilidad de cultivos.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Biología y Química",
-                                                    "campo_sni": "Agronomía",
-                                                    "disciplina_sni": "Horticultura"
+                                                    "área_snii": "Biología y Química",
+                                                    "campo_snii": "Agronomía",
+                                                    "disciplina_snii": "Horticultura"
                                                 }
                                             ]
                                         }
@@ -1094,9 +1112,9 @@
                                             "descripción": "Análisis de datos climáticos y su relación con las prácticas agrícolas y pecuarias, apoyando decisiones en el sector agrícola.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Físico Matemáticas y Ciencias de la tierra",
-                                                    "campo_sni": "Ciencias de la Tierra",
-                                                    "disciplina_sni": "Meteorología Agrícola"
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "Ciencias de la Tierra",
+                                                    "disciplina_snii": "Meteorología Agrícola"
                                                 }
                                             ]
                                         }
@@ -1126,9 +1144,9 @@
                                             "descripción": "Investigación sobre los parásitos que afectan a los organismos acuáticos y sus ciclos de vida.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Biología y Química",
-                                                    "campo_sni": "Biología",
-                                                    "disciplina_sni": "Parasitología"
+                                                    "área_snii": "Biología y Química",
+                                                    "campo_snii": "Biología",
+                                                    "disciplina_snii": "Parasitología"
                                                 }
                                             ]
                                         },
@@ -1137,9 +1155,9 @@
                                             "descripción": "Estudio de los efectos de los contaminantes en los ecosistemas costeros y marinos.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Biología y Química",
-                                                    "campo_sni": "Ciencias Ambientales",
-                                                    "disciplina_sni": "Ecotoxicología"
+                                                    "área_snii": "Biología y Química",
+                                                    "campo_snii": "Ciencias Ambientales",
+                                                    "disciplina_snii": "Ecotoxicología"
                                                 }
                                             ]
                                         }
@@ -1160,9 +1178,9 @@
                                             "descripción": "Estudios sobre los requerimientos nutricionales y las mejores prácticas de alimentación para la acuicultura.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Medicina y Ciencias de la Salud",
-                                                    "campo_sni": "Nutrición",
-                                                    "disciplina_sni": "Nutrición Animal"
+                                                    "área_snii": "Medicina y Ciencias de la Salud",
+                                                    "campo_snii": "Nutrición",
+                                                    "disciplina_snii": "Nutrición Animal"
                                                 }
                                             ]
                                         },
@@ -1171,9 +1189,9 @@
                                             "descripción": "Investigación sobre las enfermedades en acuicultura y métodos para garantizar la inocuidad de los productos acuáticos.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Medicina y Ciencias de la Salud",
-                                                    "campo_sni": "Medicina y Ciencias de la Salud",
-                                                    "disciplina_sni": "Sanidad Acuícola"
+                                                    "área_snii": "Medicina y Ciencias de la Salud",
+                                                    "campo_snii": "Medicina y Ciencias de la Salud",
+                                                    "disciplina_snii": "Sanidad Acuícola"
                                                 }
                                             ]
                                         }
@@ -1203,9 +1221,9 @@
                                             "descripción": "",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Físico Matemáticas y Ciencias de la tierra",
-                                                    "campo_sni": "",
-                                                    "disciplina_sni": ""
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "",
+                                                    "disciplina_snii": ""
                                                 }
                                             ]
                                         }
@@ -1235,9 +1253,9 @@
                                             "descripción": "Investigación en métodos de cultivo que optimicen el uso del agua y del suelo en diferentes condiciones climáticas.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Físico Matemáticas y Ciencias de la tierra",
-                                                    "campo_sni": "Agronomía",
-                                                    "disciplina_sni": "Agricultura Sostenible"
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "Agronomía",
+                                                    "disciplina_snii": "Agricultura Sostenible"
                                                 }
                                             ]
                                         },
@@ -1246,9 +1264,9 @@
                                             "descripción": "Desarrollo de tecnologías para mantener la calidad y prolongar la vida útil de productos agrícolas después de la cosecha.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ingeniería y Biotecnología",
-                                                    "campo_sni": "Ingeniería y Biotecnología de Procesos",
-                                                    "disciplina_sni": "Tecnología Postcosecha"
+                                                    "área_snii": "Ciencias Agropecuarias y Biotecnología",
+                                                    "campo_snii": "Ciencias Agropecuarias y Biotecnología de Procesos",
+                                                    "disciplina_snii": "Tecnología Postcosecha"
                                                 }
                                             ]
                                         },
@@ -1257,9 +1275,9 @@
                                             "descripción": "Optimización de técnicas de cultivo para trucha y tilapia, centradas en la sostenibilidad y la productividad.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Biología y Química",
-                                                    "campo_sni": "Biología",
-                                                    "disciplina_sni": "Acuicultura"
+                                                    "área_snii": "Biología y Química",
+                                                    "campo_snii": "Biología",
+                                                    "disciplina_snii": "Acuicultura"
                                                 }
                                             ]
                                         }
@@ -1274,9 +1292,9 @@
                                             "descripción": "Mejora de la eficiencia y sostenibilidad de las cadenas de valor agroalimentarias a través de la innovación y la cooperación.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ciencias Sociales",
-                                                    "campo_sni": "Economía",
-                                                    "disciplina_sni": "Economía Agrícola"
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Economía",
+                                                    "disciplina_snii": "Economía Agrícola"
                                                 }
                                             ]
                                         }
@@ -1291,9 +1309,9 @@
                                             "descripción": "Desarrollo de nuevas tecnologías y procesos para mejorar la calidad y seguridad de los alimentos procesados.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Ingeniería y Biotecnología",
-                                                    "campo_sni": "Ingeniería y Biotecnología de Procesos",
-                                                    "disciplina_sni": "Tecnología de Alimentos"
+                                                    "área_snii": "Ciencias Agropecuarias y Biotecnología",
+                                                    "campo_snii": "Ciencias Agropecuarias y Biotecnología de Procesos",
+                                                    "disciplina_snii": "Tecnología de Alimentos"
                                                 }
                                             ]
                                         }
@@ -1308,9 +1326,9 @@
                                             "descripción": "Estudios avanzados para detectar y controlar patógenos en alimentos y agua, reduciendo riesgos para la salud humana.",
                                             "disciplinas": [
                                                 {
-                                                    "area_sni": "Medicina y Ciencias de la Salud",
-                                                    "campo_sni": "Medicina y Ciencias de la Salud",
-                                                    "disciplina_sni": "Sanidad Acuícola"
+                                                    "área_snii": "Medicina y Ciencias de la Salud",
+                                                    "campo_snii": "Medicina y Ciencias de la Salud",
+                                                    "disciplina_snii": "Sanidad Acuícola"
                                                 }
                                             ]
                                         }
