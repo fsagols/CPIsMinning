@@ -354,31 +354,31 @@
     "redes_sociales": [
         {
             "red": "Twitter",
-            "identificador": "@INFOTECmx",
+            "identificador": "https://twitter.com/InfotecMexico?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
             "activa": true,
             "propósito": "Compartir noticias, eventos, y avances en investigación y desarrollo en tecnologías de la información y comunicación."
         },
         {
             "red": "Facebook",
-            "identificador": "INFOTECmx",
+            "identificador": "https://www.facebook.com/INFOTECMexico",
             "activa": true,
             "propósito": "Interactuar con la comunidad, compartir contenido sobre proyectos, eventos y actividades de INFOTEC."
         },
         {
             "red": "LinkedIn",
-            "identificador": "infotec",
+            "identificador": "https://www.linkedin.com/company/infotec-mexico/",
             "activa": true,
             "propósito": "Establecer conexiones profesionales, compartir información sobre oportunidades laborales, proyectos y logros de INFOTEC."
         },
         {
             "red": "YouTube",
-            "identificador": "INFOTECmx",
+            "identificador": "https://www.youtube.com/@InfotecMexico",
             "activa": true,
             "propósito": "Publicar videos sobre conferencias, tutoriales, y proyectos destacados de INFOTEC."
         },    
         {
             "red": "Medium",
-            "identificador": "@infotec",
+            "identificador": "https://www.infotec.mx/Medios",
             "activa": true,
             "propósito": "Publicar artículos, blogs y casos de estudio relacionados con las tecnologías de la información y comunicación."
         },
