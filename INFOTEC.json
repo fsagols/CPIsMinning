@@ -400,12 +400,6 @@
             "activa": true,
             "propósito": "Participar en comunidades y compartir noticias, proyectos y discusiones relacionadas con INFOTEC."
         },
-        {
-            "red": "WhatsApp",
-            "identificador": "+52 55 1234 5678",
-            "activa": true,
-            "propósito": "Grupo de difusión para enviar noticias, eventos y comunicaciones importantes a la comunidad de INFOTEC."
-        },
       
     ]
 }
