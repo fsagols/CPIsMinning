@@ -302,3 +302,50 @@
       "modalidad": "regular",
       "vía": "presencial"
 },
+     {
+  "unidades": [
+    {
+      "nombre_unidad": "El Colegio de Michoacán (COLMICH)",
+      "descripción_unidad": "Es una institución dedicada a la investigación, desarrollo y aplicación de las ciencias sociales y humanidades. Sus actividades abarcan una amplia gama de áreas relacionadas con la historia, la antropología, la sociología, los estudios culturales, entre otros.",
+      "dirección_postal": "Calle Dr. José Ma. Luis Mora 1, Centro, 59300 La Piedad de Cabadas, Michoacán, México",
+      "latitud": 20.348582,
+      "longitud": -102.034767,
+      "departamentos": [
+        {
+          "nombre_departamento": "Agendas de Investigación",
+          "descripción_departamento": "Plan estratégico que define las áreas prioritarias y los objetivos específicos que una institución, grupo de investigadores o individuo pretende abordar en un período determinado. La agenda de investigación sirve como guía para orientar los esfuerzos y recursos en proyectos de investigación, asegurando que se aborden temas relevantes y que se alcancen los objetivos establecidos.",
+          "áreas": [
+            {
+              "nombre_area": "Sistemas Socio-ecológicos",
+              "descripción_area": "Las ciencias sociales y humanidades se aplican en el estudio de sistemas socio-ecológicos para comprender las interacciones entre la sociedad y el medio ambiente, incluyendo aspectos culturales, económicos y políticos.",
+              "líneas_investigación": [
+                {
+                  "nombre_línea": "Historia Ambiental",
+                  "descripción_línea": "Investigación que analiza las interacciones históricas entre las sociedades humanas y su entorno natural, explorando cómo han evolucionado estas relaciones a lo largo del tiempo.",
+                  "disciplinas": [
+                    {
+                      "área_snii": "Ciencias Sociales",
+                      "campo_snii": "Historia y Arqueología",
+                      "disciplina_snii": "Historia Ambiental"
+                    }
+                  ]
+                },
+                {
+                  "nombre_línea": "Antropología Ambiental",
+                  "descripción_línea": "Estudio de las culturas humanas y sus relaciones con el medio ambiente, abordando temas como las prácticas de subsistencia, la gestión de recursos naturales y el conocimiento tradicional.",
+                  "disciplinas": [
+                    {
+                      "área_snii": "Ciencias Sociales",
+                      "campo_snii": "Antropología",
+                      "disciplina_snii": "Antropología Ambiental"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
