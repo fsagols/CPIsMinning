@@ -239,4 +239,30 @@
     { "nombre_departamento": "Estudios sobre Educación y Cultura" }
   ],
 },
+{
+  "nombre_unidad": "CIESAS Noreste",
+  "descripción_unidad": "Unidad regional dedicada a estudiar las dinámicas sociales, económicas y culturales del noreste de México.",
+  "dirección_postal": "64849",
+  "latitud": 25.651489,
+  "longitud": -100.289360,
+  "departamentos": [
+    { "nombre_departamento": "Antropología Social"
+},
+    { "nombre_departamento": "Historia Social" 
+},
+    { "nombre_departamento": "Estudios Urbanos y Regionales"
+},
+    { "nombre_departamento": "Estudios de Género" 
+},
+    { "nombre_departamento": "Estudios sobre Migración" 
+},
+    { "nombre_departamento": "Lingüística y Estudios sobre la Lengua"
+},
+    { "nombre_departamento": "Estudios sobre Medio Ambiente y Sociedad"
+},
+    { "nombre_departamento": "Estudios sobre Educación y Cultura"
+}
+  ],
+},
+
 
