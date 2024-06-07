@@ -382,12 +382,7 @@
             "activa": false,
             "propósito": "Compartir imágenes y momentos destacados de eventos y actividades de INFOTEC."
         },
-        {
-            "red": "GitHub",
-            "identificador": "infotecmx",
-            "activa": true,
-            "propósito": "Compartir proyectos de código abierto, colaborar con la comunidad y promover el desarrollo tecnológico."
-        },
+       
         {
             "red": "Medium",
             "identificador": "@infotec",
