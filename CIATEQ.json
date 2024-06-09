@@ -1,6 +1,6 @@
 {
  "cpis",
-[ 
+[
 “nombre CPI”:“Centro de Tecnología Avanzada”,
 “siglas_cpi”:“CIATEQ”,
 “descripción_breve” :“CIATEQ es una organización mexicana de investigación y tecnología que se especializa en soluciones de ingeniería, materiales avanzados, energía renovable e innovación industrial.”,
@@ -8,7 +8,7 @@
 “misión” :“Busca generar soluciones tecnológicas que incrementen la competitividad de sus clientes, aporten valor a la organización y mejoren las competencias y satisfacción de su personal​”,
 “visión” : “Ser un centro líder en desarrollo tecnológico e innovación, comprometido con el medio ambiente y la sociedad”,
 “titular”: “María Guadalupe Navarro Rojero”,
-“fecha designación titular” : “2021-06-01”, 
+“fecha designación titular” : “2021-06-01”,
 “grado_acádemico_titular” : “Doctora ”,
 "especialidad_titular": "Doctora en Ingeniería Cerámica  ",
 “importancia diagnóstico” : “ofrece diagnóstico industrial: procesos, materiales, automatización, energía y medio ambiente, impulsando eficiencia y competitividad empresarial.”,
@@ -17,12 +17,12 @@
 “historia establecimiento” : “En los años 70, Querétaro experimentó un auge industrial, especialmente en el sector metalmecánico. Para apoyar este crecimiento, se fundó CIATEQ en 1978, con la participación de CONACYT, el gobierno estatal y empresas líderes como ICA y SPICER. CIATEQ se estableció con el propósito de brindar asesoramiento técnico, promover la capacitación, ofrecer servicios de calidad y realizar investigación para impulsar la industria local.”,
 “tipo entidad local” : “Paraestatal, asimilada al régimen de las empresas de participación estatal.”,
 “marco normativo”:
-[ 
+[
  “Ley Orgánica de la Administración Pública Federal.”,
 “Ley Federal de las Entidades Paraestatales.”,
-“Ley de Ciencia y Tecnología,” , 
-“presupuesto”: 
-[ 
+“Ley de Ciencia y Tecnología,” ,
+“presupuesto”:
+[
 {
 “año” : “2020”,
 “montó” : 603,540,129,
@@ -265,7 +265,7 @@
           "año": "2023",
           "especialistas en": "Ingeniería Electrónica",
           "total": "30",
-          "total con sni":"5", 
+          "total con sni":"5",
         }
       ],
       "líneas investigación": [
@@ -297,7 +297,7 @@
           ],
           "repositorio": "",
           "comercializable": true,
-          "nivel madurez trl": "6", 
+          "nivel madurez trl": "6",
         }
       ],
       "mecanismos coordinación": [
@@ -351,7 +351,7 @@
           "notas": [
             {
               "fecha":" 2023-01-01",
-              "nota": "Materiales listos para pruebas industriales." , 
+              "nota": "Materiales listos para pruebas industriales." ,
             }
           ]
         }

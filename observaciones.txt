@@ -1,20 +1,24 @@
-Última revisión: 2 de junio de 2023
-Centros correctamente capturados: CENTROGEO, CIBNOR, CICESE, CIMAT, COLSAN, COMIMSA, INAOE, IPICYT y MORA
-Centros con errores: CIAD, CIATEC, CICY, CIDE, CIDESI, CIMAV, CIO, CIQA, ECOSUR y FIDERH
-No puestos en Github: CIATEJ, CIATEQ, CIDETQ, CIESAS, COLEF, COLMICH, INECOL e INFOTEC
+Última revisión: 8 de junio de 2023
+Centros correctamente capturados: CIAD, CENTROGEO, CIBNOR, CICESE, CIDE, CIMAT, COLSAN, COMIMSA, INAOE, IPICYT y MORA
+Centros con errores: CIATEQ, CIATEC, CICY, CIDESI, CIESAS, CIMAV, CIO, CIQA, COLMICH, ECOSUR, FIDERH, INFOTEC
+No puestos en Github: CIATEJ, CIDETQ, COLEF e INECOL
 
 TODOS
    1. Poner el campo "siglas_cpi" en mayúsculas
 
 CENTROGEO
 CIAD
-  1. No compila en la versión 5. No se cambio "tierra" por "Tierra". Produce muchos errores.
 CIATEC
   1. No compila en la versión 5. Produce muchos errores.
 CIATEJ
   1. ***
 CIATEQ
-  1. ***
+  1. No carga en json editor con la versión 5.
+  2. Dice "cpis", debería decir "cpis":
+  3. La estructura del archivo no corresponde con la del esquema. Habría que comparar con un
+     archivo correcto como INAOE.json.
+  4. El archivo usa un caracter comillas inapropiado. Usa “ y debería usar ". Hay que cambiar en todo el archivo.
+  5. Consultarme en caso de dudas.
 CIBNOR
 CICESE
 CICY
@@ -28,34 +32,55 @@ CIDESI
 CIDETQ
   1. ***
 CIESAS
-  1. El archivo tiene un nombre inapropiado. Se llama "CIESAS,json" en lugar de "CIESAS.json"
-  2. Al archivo le faltan muchas cosas.
+  1. No se puede cargar en Json Editor con la versión 5.
+  2. Muestra el error.
+     Load JSON document from file error: Unexpected token } in JSON at position 7510
+  1. El problema está en la línea 154 dice
+                 { "nombre_departamento": "Antropología Social",
+     La coma al final está de más. El error se repite en otros lugares.
+  2. Hay más errores.
 CIMAT
 CIMAV
   1. No compila en la versión 5.
   2.  El campo "programas_académicos" no se llenó bien. Comparar contra INAOE.json o consultarme por favor.
   3.  En generarl los campos area_sni, campo_sni y disciplina_sni no se llenaron bien.
 CIO
-  1. No compila en la versión 5.
+  1. El campo presupuesto no se capturó.
+     La información está incluida en el archivo https://docs.google.com/spreadsheets/d/1IqHb-XnQikgMwZ_04ZKjeVfFjJF5E7_q/edit?usp=drive_link&ouid=112981778137874757561&rtpof=true&sd=true. En las pestañas “CPI-Presupuesto Evolución Anual” y “CPI-Presupuesto Financiamiento” se encuentran respectivamente, la asignación histórica del presupuesto y el presupuesto del 2024.
 CIQA
    1. El nombre del titular pónerlo usando mayúsculas y minúsculas.
 COLEF
   1. ***
 COLMICH
-  1. ***
+  1. Hay errores estructurales graves. Algunos los pude corregir, sobraban llaves o paréntesis cuadrados. Otros hay que revisarlos con cuidado. Por ejemplo en las líneas 300 a 305 aparece:
+      "vía": "presencial"
+},
+     {
+  "unidades": [
+    {
+      "nombre_unidad": "El Colegio de Michoacán (COLMICH)",
+     Esto significa que está terminando la sección de 'programas_académicos' y empieza 'unidades', pero no aparece el paréntesis ']' que debería cerrar la lista 'programas_académicos'. En la línea 302 hay un '}' que no tiene razón de ser.
+  2. Otro error es que aparecen dos etiquetas "unidades". Solo debe aparecer una por archivo json.
+  3. Revisen cómo se ve en INAOE.json para vean cómo debería quedar.
+  4. Contactarme en caso de duda.
+  5. Hice algunos cambios al archivo json, así que antes de hacer cualquier corrección hay que descargar la última versión de Github.
 COLSAN
 COMIMSA
 ECOSUR
   1. No compila en la versión 5.
 FIDERH
-  1. Falta la fecha de designación del titular.
-  2. El tipo de entidad legal "Sin fines de lucro" no está en la lista de valores para este campo.
-     Revisar por favor que efectivamente compile
+  1. Compila bien en la versión 5 pero parece no estar completo.
+  2. El tipo de entidad legal tenía "Sin fines de lucro", normalmente cuando eso pasa se pone "Asociación Civil", pero habría que verificarlo.
+  3. Faltan los programas académicos e información sobre las unidades. Díganme por favor si esta información no está disponible en los sitios públicos asociados al centro.
 INAOE
 INECOL
   1. ***
 INFOTEC
-  1. ***
+  1. El archivo no lo carga Json Editor. Aparece el siguiente error:
+     Load JSON document from file error: Unexpected token { in JSON at position 29
+     Esto sucede porque en la línea 4 hay un { que no debe ir. Hay que eliminar esa línea.
+  2. Me da la impresión que se tienen errores estructurales similares a los que reporté para COLMICH.json pero no lo revisé con cuidado.
+  3. En caso de dudas consultarme por favor.
 IPICYT
 MORA
 
