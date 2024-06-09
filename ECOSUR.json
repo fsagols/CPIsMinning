@@ -15,7 +15,7 @@
             "fecha_creación": "1994-08-27",
             "historia_establecimiento": "El Colegio de la Frontera Sur (ECOSUR) se fundó en 1994 como una institución dedicada a la investigación científica y tecnológica para promover el desarrollo sustentable en la región sureste de México.",
             "contexto_histórico": "ECOSUR se estableció en respuesta a la necesidad de abordar problemas ambientales, sociales y económicos en la frontera sur de México, integrando conocimientos de las ciencias sociales y naturales.",
-            "tipo_entidad_legal": "Centro Público de Investigación",
+            "tipo_entidad_legal": "Desconocida",
             "figura_jurídica": "Asociación Civil",
             "marco_normativo": [
                 {
@@ -53,9 +53,9 @@
                     "programa": "Maestría en Ciencias en Recursos Naturales y Desarrollo Rural",
                     "disciplinas": [
                         {
-                            "área_snii": "CIENCIAS AGROPECUARIAS Y BIOTECNOLOGÍA",
-                            "campo_snii": "AGRONOMÍA",
-                            "disciplina_snii": "MANEJO SUSTENTABLE DE AGROECOSISTEMAS"
+                            "área_snii": "Ciencias Agropecuarias y Biotecnología",
+                            "campo_snii": "Ciencias Agropecuarias",
+                            "disciplina_snii": "Manejo Sustentable de Agroecosistemas"
                         }
                     ],
                     "nivel": "maestría",
@@ -66,9 +66,9 @@
                     "programa": "Maestría en Ecología Internacional",
                     "disciplinas": [
                         {
-                            "área_snii": "CIENCIAS AMBIENTALES",
-                            "campo_snii": "ECOLOGÍA",
-                            "disciplina_snii": "ECOLOGÍA MARINA"
+                            "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                            "campo_snii": "Ecología",
+                            "disciplina_snii": "Ecología Marina"
                         }
                     ],
                     "nivel": "maestría",
@@ -79,9 +79,9 @@
                     "programa": "Maestría en Agroecología",
                     "disciplinas": [
                         {
-                            "área_snii": "CIENCIAS AGROPECUARIAS Y BIOTECNOLOGÍA",
-                            "campo_snii": "AGRONOMÍA",
-                            "disciplina_snii": "AGROECOLOGÍA"
+                            "área_snii": "Ciencias Agropecuarias y Biotecnología",
+                            "campo_snii": "Ciencias Agropecuarias",
+                            "disciplina_snii": "Agroecología"
                         }
                     ],
                     "nivel": "maestría",
@@ -89,15 +89,15 @@
                     "vía": "presencial"
                 },
                 {
-                    "programa": "Doctorado en Ciencias en Agroecología ",
+                    "programa": "Doctorado en Ciencias en Agroecología",
                     "disciplinas": [
                         {
-                            "área_snii": "CIENCIAS AGROPECUARIAS Y BIOTECNOLOGÍA",
-                            "campo_snii": "AGRONOMÍA",
-                            "disciplina_snii": "AGROECOLOGÍA"
+                            "área_snii": "Ciencias Agropecuarias y Biotecnología",
+                            "campo_snii": "Ciencias Agropecuarias",
+                            "disciplina_snii": "Agroecología"
                         }
                     ],
-                    "nivel": "Doctorado",
+                    "nivel": "doctorado",
                     "modalidad": "regular",
                     "vía": "presencial"
                 },
@@ -105,40 +105,136 @@
                     "programa": "Doctorado en Ciencias en Ecología y Desarrollo Sustentable",
                     "disciplinas": [
                         {
-                            "área_snii": "CIENCIAS AMBIENTALES",
-                            "campo_snii": "ECOLOGÍA",
-                            "disciplina_snii": "DESARROLLO SUSTENTABLE"
+                            "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                            "campo_snii": "Ecología",
+                            "disciplina_snii": "Desarrollo Sustentable"
                         }
                     ],
-                    "nivel": "Doctorado",
+                    "nivel": "doctorado",
                     "modalidad": "regular",
                     "vía": "presencial"
                 }
             ],
             "unidades": [
                 {
-                    "nombre_unidad": "",
-                    "descripción_unidad": "",
-                    "dirección_postal": "",
-                    "latitud": 0,
-                    "longitud": 0,
+                    "nombre_unidad": "Unidad San Cristóbal",
+                    "descripción_unidad": "Unidad enfocada en la investigación de recursos naturales y el desarrollo sustentable en la región sureste de México.",
+                    "dirección_postal": "Carretera Panamericana y Periférico Sur s/n, Barrio de María Auxiliadora, San Cristóbal de las Casas, Chiapas, México.",
+                    "latitud": 16.737,
+                    "longitud": -92.637,
                     "departamentos": [
                         {
-                            "departamento": "",
-                            "descripción_departamento": "",
+                            "departamento": "Departamento de Agricultura, Sociedad y Ambiente",
+                            "descripción_departamento": "Investigación en sistemas agrícolas sustentables y su impacto en la sociedad y el ambiente.",
                             "áreas": [
                                 {
-                                    "área": "",
-                                    "descripción_del_área": "",
+                                    "área": "Agroecología",
+                                    "descripción_del_área": "Estudio de sistemas agrícolas que buscan la sostenibilidad ecológica y económica.",
                                     "líneas_investigación": [
                                         {
-                                            "línea": "",
-                                            "descripción": "",
+                                            "línea": "Manejo Sustentable de Agroecosistemas",
+                                            "descripción": "Desarrollo de prácticas agrícolas sostenibles.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Agropecuarias y Biotecnología",
+                                                    "campo_snii": "Ciencias Agropecuarias",
+                                                    "disciplina_snii": "Agroecología"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "nombre_unidad": "Unidad Chetumal",
+                    "descripción_unidad": "Unidad enfocada en el estudio y conservación de la biodiversidad, así como en el manejo de los recursos naturales.",
+                    "dirección_postal": "Av. Centenario Km. 5.5, Chetumal, Quintana Roo, México.",
+                    "latitud": 18.503,
+                    "longitud": -88.305,
+                    "departamentos": [
+                        {
+                            "departamento": "Departamento de Conservación de la Biodiversidad",
+                            "descripción_departamento": "Investigación en la conservación de la biodiversidad y manejo de ecosistemas.",
+                            "áreas": [
+                                {
+                                    "área": "Ecología y Conservación",
+                                    "descripción_del_área": "Estudio de la ecología y conservación de especies y ecosistemas.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Conservación de Ecosistemas",
+                                            "descripción": "Estrategias para la conservación y manejo de ecosistemas.",
                                             "disciplinas": [
                                                 {
                                                     "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
-                                                    "campo_snii": "",
-                                                    "disciplina_snii": ""
+                                                    "campo_snii": "Ecología",
+                                                    "disciplina_snii": "Conservación"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "nombre_unidad": "Unidad Tapachula",
+                    "descripción_unidad": "Unidad dedicada a la investigación en agroecosistemas y el desarrollo rural.",
+                    "dirección_postal": "Carretera Antiguo Aeropuerto km 2.5, Tapachula, Chiapas, México.",
+                    "latitud": 14.903,
+                    "longitud": -92.257,
+                    "departamentos": [
+                        {
+                            "departamento": "Departamento de Agroecología",
+                            "descripción_departamento": "Investigación en la producción sostenible y resiliente de agroecosistemas.",
+                            "áreas": [
+                                {
+                                    "área": "Agroecología",
+                                    "descripción_del_área": "Promoción de prácticas agrícolas sostenibles.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Manejo de Agroecosistemas",
+                                            "descripción": "Desarrollo de sistemas agrícolas sostenibles.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Agropecuarias y Biotecnología",
+                                                    "campo_snii": "Ciencias Agropecuarias",
+                                                    "disciplina_snii": "Agroecología"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "nombre_unidad": "Unidad Villahermosa",
+                    "descripción_unidad": "Unidad dedicada a la investigación y educación ambiental en la región sureste de México.",
+                    "dirección_postal": "Carretera a Reforma km 17.5, Villahermosa, Tabasco, México.",
+                    "latitud": 17.989,
+                    "longitud": -92.938,
+                    "departamentos": [
+                        {
+                            "departamento": "Departamento de Educación Ambiental",
+                            "descripción_departamento": "Investigación y desarrollo de programas de educación ambiental.",
+                            "áreas": [
+                                {
+                                    "área": "Educación Ambiental",
+                                    "descripción_del_área": "Promoción de la educación ambiental para la sostenibilidad.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Educación para la Sostenibilidad",
+                                            "descripción": "Desarrollo de programas educativos para promover la sostenibilidad.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Humanidades y Ciencias de la Conducta",
+                                                    "campo_snii": "Educación",
+                                                    "disciplina_snii": "Educación Ambiental"
                                                 }
                                             ]
                                         }
@@ -151,44 +247,32 @@
             ],
             "redes_sociales": [
                 {
-                    "red": "X",
-                    "identificador": "",
-                    "activa": false,
+                    "red": "Facebook",
+                    "identificador": "https://www.facebook.com/Ecosur",
+                    "activa": true,
                     "propósito": "difusión científica"
                 },
                 {
                     "red": "X",
-                    "identificador": "",
+                    "identificador": "https://x.com/",
                     "activa": false,
                     "propósito": "difusión científica"
                 },
                 {
-                    "red": "X",
-                    "identificador": "",
-                    "activa": false,
+                    "red": "Instagram",
+                    "identificador": "https://www.instagram.com/ecosurmx",
+                    "activa": true,
                     "propósito": "difusión científica"
                 },
                 {
-                    "red": "X",
-                    "identificador": "",
-                    "activa": false,
+                    "red": "YouTube",
+                    "identificador": "https://www.youtube.com/@ECOSURMX",
+                    "activa": true,
                     "propósito": "difusión científica"
                 },
                 {
-                    "red": "X",
-                    "identificador": "",
-                    "activa": false,
-                    "propósito": "difusión científica"
-                },
-                {
-                    "red": "X",
-                    "identificador": "",
-                    "activa": false,
-                    "propósito": "difusión científica"
-                },
-                {
-                    "red": "X",
-                    "identificador": "",
+                    "red": "LinkedIn",
+                    "identificador": "https://www.linkedin.com/school/el-colegio-de-la-frontera-sur-ecosur-/?originalSubdomain=mx",
                     "activa": false,
                     "propósito": "difusión científica"
                 }

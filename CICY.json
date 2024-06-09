@@ -15,11 +15,11 @@
             "fecha_creación": "1979-11-16",
             "historia_establecimiento": "El Centro de Investigación Científica de Yucatán (CICY) fue fundado el 16 de noviembre de 1979.",
             "contexto_histórico": "El CICY se estableció en respuesta a la necesidad de abordar problemas específicos del sector productivo en la región de Yucatán. Desde sus inicios, se enfocó en la investigación científica y tecnológica, así como en la formación de recursos humanos altamente capacitados.",
-            "tipo_entidad_legal": "Centro Público de Investigación",
+            "tipo_entidad_legal": "Desconocida",
             "figura_jurídica": "Asociación Civil",
             "marco_normativo": [
                 {
-                    "ley_o_instrumento_jurídico": "Ley de Ciencia y Tecnología de México"
+                    "ley_o_instrumento_jurídico": "Ley de Ciencia y Tecnología"
                 }
             ],
             "presupuesto": [
@@ -53,9 +53,9 @@
                     "programa": "Maestría en Ciencias del Agua",
                     "disciplinas": [
                         {
-                            "área_snii": "CIENCIAS DEL MAR",
-                            "campo_snii": "CIENCIAS DEL MAR",
-                            "disciplina_snii": "HIDROLOGÍA Y RECURSOS HÍDRICOS"
+                            "área_snii": "Ciencias Agropecuarias y Biotecnología",
+                            "campo_snii": "Ciencias Agropecuarias",
+                            "disciplina_snii": "Hidrología y Recursos Hídricos"
                         }
                     ],
                     "nivel": "maestría",
@@ -66,9 +66,9 @@
                     "programa": "Maestría en Ciencias Biológicas",
                     "disciplinas": [
                         {
-                            "área_snii": "BIOLOGÍA Y QUÍMICA",
-                            "campo_snii": "BIOLOGÍA",
-                            "disciplina_snii": "BIOLOGÍA INTEGRATIVA"
+                            "área_snii": "Biología y Química",
+                            "campo_snii": "Biología",
+                            "disciplina_snii": "Biología Integrativa"
                         }
                     ],
                     "nivel": "maestría",
@@ -79,9 +79,9 @@
                     "programa": "Maestría en Energía Renovable",
                     "disciplinas": [
                         {
-                            "área_snii": "INGENIERÍA Y TECNOLOGÍA",
-                            "campo_snii": "ENERGÍA",
-                            "disciplina_snii": "ENERGÍA RENOVABLE"
+                            "área_snii": "Ingeniería y Tecnología",
+                            "campo_snii": "Ingeniería",
+                            "disciplina_snii": "Energía Renovable"
                         }
                     ],
                     "nivel": "maestría",
@@ -92,9 +92,9 @@
                     "programa": "Maestría en Ciencias en Materiales Poliméricos",
                     "disciplinas": [
                         {
-                            "área_snii": "INGENIERÍA Y TECNOLOGÍA",
-                            "campo_snii": "CIENCIA Y TECNOLOGÍA DE MATERIALES",
-                            "disciplina_snii": "CIENCIA DE MATERIALES"
+                            "área_snii": "Ingeniería y Tecnología",
+                            "campo_snii": "Ciencia y Tecnología de Materiales",
+                            "disciplina_snii": "Ciencia de Materiales"
                         }
                     ],
                     "nivel": "maestría",
@@ -105,9 +105,9 @@
                     "programa": "Doctorado en Ciencias del Agua",
                     "disciplinas": [
                         {
-                            "área_snii": "CIENCIAS DEL MAR",
-                            "campo_snii": "CIENCIAS DEL MAR",
-                            "disciplina_snii": "HIDROLOGÍA Y RECURSOS HÍDRICOS"
+                            "área_snii": "Ciencias Agropecuarias y Biotecnología",
+                            "campo_snii": "Ciencias Agropecuarias",
+                            "disciplina_snii": "Hidrología y Recursos Hídricos"
                         }
                     ],
                     "nivel": "doctorado",
@@ -118,9 +118,9 @@
                     "programa": "Doctorado en Ciencias Biológicas",
                     "disciplinas": [
                         {
-                            "área_snii": "BIOLOGÍA Y QUÍMICA",
-                            "campo_snii": "BIOLOGÍA",
-                            "disciplina_snii": "BIOLOGÍA INTEGRATIVA"
+                            "área_snii": "Biología y Química",
+                            "campo_snii": "Biología",
+                            "disciplina_snii": "Biología Integrativa"
                         }
                     ],
                     "nivel": "doctorado",
@@ -131,9 +131,9 @@
                     "programa": "Doctorado en Energía Renovable",
                     "disciplinas": [
                         {
-                            "área_snii": "INGENIERÍA Y TECNOLOGÍA",
-                            "campo_snii": "ENERGÍA",
-                            "disciplina_snii": "ENERGÍA RENOVABLE"
+                            "área_snii": "Ingeniería y Tecnología",
+                            "campo_snii": "Ingeniería",
+                            "disciplina_snii": "Energía Renovable"
                         }
                     ],
                     "nivel": "doctorado",
@@ -144,74 +144,42 @@
                     "programa": "Doctorado en Ciencias en Materiales Poliméricos",
                     "disciplinas": [
                         {
-                            "área_snii": "INGENIERÍA Y TECNOLOGÍA",
-                            "campo_snii": "CIENCIA Y TECNOLOGÍA DE MATERIALES",
-                            "disciplina_snii": "CIENCIA DE MATERIALES"
+                            "área_snii": "Ingeniería y Tecnología",
+                            "campo_snii": "Ciencia y Tecnología de Materiales",
+                            "disciplina_snii": "Ciencia de Materiales"
                         }
                     ],
                     "nivel": "doctorado",
                     "modalidad": "regular",
                     "vía": "presencial"
                 }
-            ]
-        }
-    ],
-    "unidades": [
-        {
-            "nombre_unidad": "Unidad de Ciencias del Agua",
-            "descripción_unidad": "La Unidad de Ciencias del Agua se dedica a la investigación y desarrollo de soluciones para la gestión sostenible del agua, abarcando desde la hidrología hasta la tecnología de tratamiento de aguas.",
-            "dirección_postal": "Calle 43 No. 130, Col. Chuburná de Hidalgo Inn, C.P. 97200, Mérida, Yucatán, México",
-            "latitud": 20.9876,
-            "longitud": -89.6234,
-            "departamentos": [
+            ],
+            "unidades": [
                 {
-                    "departamento": "Departamento de Hidrología",
-                    "descripción_departamento": "El Departamento de Hidrología se enfoca en el estudio de los recursos hídricos, la gestión del agua y las técnicas de mitigación y adaptación al cambio climático.",
-                    "áreas": [
+                    "nombre_unidad": "Unidad de Ciencias del Agua",
+                    "descripción_unidad": "La Unidad de Ciencias del Agua se dedica a la investigación y desarrollo de soluciones para la gestión sostenible del agua, abarcando desde la hidrología hasta la tecnología de tratamiento de aguas.",
+                    "dirección_postal": "Calle 43 No. 130, Col. Chuburná de Hidalgo Inn, C.P. 97200, Mérida, Yucatán, México",
+                    "latitud": 20.9876,
+                    "longitud": -89.6234,
+                    "departamentos": [
                         {
-                            "área": "Gestión de Recursos Hídricos",
-                            "descripción_del_área": "El área de Gestión de Recursos Hídricos aborda la administración sostenible de los recursos acuáticos, la conservación y el uso eficiente del agua.",
-                            "líneas_investigación": [
+                            "departamento": "Departamento de Hidrología",
+                            "descripción_departamento": "El Departamento de Hidrología se enfoca en el estudio de los recursos hídricos, la gestión del agua y las técnicas de mitigación y adaptación al cambio climático.",
+                            "áreas": [
                                 {
-                                    "línea": "Tecnologías de Tratamiento de Aguas",
-                                    "descripción": "Desarrollo e implementación de tecnologías avanzadas para el tratamiento y reutilización del agua, con un enfoque en la sostenibilidad y eficiencia.",
-                                    "disciplinas": [
+                                    "área": "Gestión de Recursos Hídricos",
+                                    "descripción_del_área": "El área de Gestión de Recursos Hídricos aborda la administración sostenible de los recursos acuáticos, la conservación y el uso eficiente del agua.",
+                                    "líneas_investigación": [
                                         {
-                                            "área_snii": "CIENCIAS DEL MAR",
-                                            "campo_snii": "CIENCIAS DEL MAR",
-                                            "disciplina_snii": "HIDROLOGÍA Y RECURSOS HÍDRICOS"
-                                        }
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "nombre_unidad": "Unidad de Ciencias Biológicas",
-            "descripción_unidad": "La Unidad de Ciencias Biológicas se dedica a la investigación en biotecnología, genética y ecología para el desarrollo de soluciones innovadoras en biología y medio ambiente.",
-            "dirección_postal": "Calle 43 No. 130, Col. Chuburná de Hidalgo Inn, C.P. 97200, Mérida, Yucatán, México",
-            "latitud": 20.9876,
-            "longitud": -89.6234,
-            "departamentos": [
-                {
-                    "departamento": "Departamento de Biotecnología",
-                    "descripción_departamento": "El Departamento de Biotecnología se dedica a la investigación en biotecnología vegetal, genética y biología molecular para el desarrollo de soluciones innovadoras en agricultura y medio ambiente.",
-                    "áreas": [
-                        {
-                            "área": "Biotecnología Vegetal",
-                            "descripción_del_área": "El área de Biotecnología Vegetal se enfoca en la mejora genética de plantas y el desarrollo de biotecnologías para la agricultura sostenible.",
-                            "líneas_investigación": [
-                                {
-                                    "línea": "Genética y Biología Molecular de Plantas",
-                                    "descripción": "Investigación en genética y biología molecular para la mejora de cultivos y la resistencia a enfermedades.",
-                                    "disciplinas": [
-                                        {
-                                            "área_snii": "BIOLOGÍA Y QUÍMICA",
-                                            "campo_snii": "BIOLOGÍA",
-                                            "disciplina_snii": "BIOTECNOLOGÍA VEGETAL"
+                                            "línea": "Tecnologías de Tratamiento de Aguas",
+                                            "descripción": "Desarrollo e implementación de tecnologías avanzadas para el tratamiento y reutilización del agua, con un enfoque en la sostenibilidad y eficiencia.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Agropecuarias y Biotecnología",
+                                                    "campo_snii": "Ciencias Agropecuarias",
+                                                    "disciplina_snii": "Hidrología y Recursos Hídricos"
+                                                }
+                                            ]
                                         }
                                     ]
                                 }
@@ -220,53 +188,85 @@
                     ]
                 },
                 {
-                    "departamento": "Departamento de Ecología",
-                    "descripción_departamento": "El Departamento de Ecología estudia la biodiversidad, la conservación de ecosistemas y la gestión de recursos naturales para promover la sostenibilidad ambiental.",
-                    "áreas": [
+                    "nombre_unidad": "Unidad de Ciencias Biológicas",
+                    "descripción_unidad": "La Unidad de Ciencias Biológicas se dedica a la investigación en biotecnología, genética y ecología para el desarrollo de soluciones innovadoras en biología y medio ambiente.",
+                    "dirección_postal": "Calle 43 No. 130, Col. Chuburná de Hidalgo Inn, C.P. 97200, Mérida, Yucatán, México",
+                    "latitud": 20.9876,
+                    "longitud": -89.6234,
+                    "departamentos": [
                         {
-                            "área": "Conservación de Ecosistemas",
-                            "descripción_del_área": "Se enfoca en la conservación y manejo sostenible de los ecosistemas, con énfasis en la biodiversidad y la restauración ecológica.",
-                            "líneas_investigación": [
+                            "departamento": "Departamento de Biotecnología",
+                            "descripción_departamento": "El Departamento de Biotecnología se dedica a la investigación en biotecnología vegetal, genética y biología molecular para el desarrollo de soluciones innovadoras en agricultura y medio ambiente.",
+                            "áreas": [
                                 {
-                                    "línea": "Biodiversidad y Conservación",
-                                    "descripción": "Estudios sobre la biodiversidad, su conservación y la restauración de ecosistemas dañados.",
-                                    "disciplinas": [
+                                    "área": "Biotecnología Vegetal",
+                                    "descripción_del_área": "El área de Biotecnología Vegetal se enfoca en la mejora genética de plantas y el desarrollo de biotecnologías para la agricultura sostenible.",
+                                    "líneas_investigación": [
                                         {
-                                            "área_snii": "CIENCIAS AMBIENTALES",
-                                            "campo_snii": "BIOSEGURIDAD",
-                                            "disciplina_snii": "BIOSISTEMÁTICA Y MANEJO DE RECURSOS NATURALES"
+                                            "línea": "Genética y Biología Molecular de Plantas",
+                                            "descripción": "Investigación en genética y biología molecular para la mejora de cultivos y la resistencia a enfermedades.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Biología y Química",
+                                                    "campo_snii": "Biología",
+                                                    "disciplina_snii": "Biotecnología Vegetal"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "departamento": "Departamento de Ecología",
+                            "descripción_departamento": "El Departamento de Ecología estudia la biodiversidad, la conservación de ecosistemas y la gestión de recursos naturales para promover la sostenibilidad ambiental.",
+                            "áreas": [
+                                {
+                                    "área": "Conservación de Ecosistemas",
+                                    "descripción_del_área": "Se enfoca en la conservación y manejo sostenible de los ecosistemas, con énfasis en la biodiversidad y la restauración ecológica.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Biodiversidad y Conservación",
+                                            "descripción": "Estudios sobre la biodiversidad, su conservación y la restauración de ecosistemas dañados.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Biología y Química",
+                                                    "campo_snii": "Biología",
+                                                    "disciplina_snii": "Biodiversidad y Conservación"
+                                                }
+                                            ]
                                         }
                                     ]
                                 }
                             ]
                         }
                     ]
-                }
-            ]
-        },
-        {
-            "nombre_unidad": "Unidad de Materiales",
-            "descripción_unidad": "La Unidad de Materiales se dedica al estudio y desarrollo de nuevos materiales poliméricos y nanocompuestos para aplicaciones industriales y tecnológicas.",
-            "dirección_postal": "Calle 43 No. 130, Col. Chuburná de Hidalgo Inn, C.P. 97200, Mérida, Yucatán, México",
-            "latitud": 20.9876,
-            "longitud": -89.6234,
-            "departamentos": [
+                },
                 {
-                    "departamento": "Departamento de Materiales Poliméricos",
-                    "descripción_departamento": "El Departamento de Materiales Poliméricos se dedica al estudio y desarrollo de nuevos materiales poliméricos y nanocompuestos para aplicaciones industriales y tecnológicas.",
-                    "áreas": [
+                    "nombre_unidad": "Unidad de Materiales",
+                    "descripción_unidad": "La Unidad de Materiales se dedica al estudio y desarrollo de nuevos materiales poliméricos y nanocompuestos para aplicaciones industriales y tecnológicas.",
+                    "dirección_postal": "Calle 43 No. 130, Col. Chuburná de Hidalgo Inn, C.P. 97200, Mérida, Yucatán, México",
+                    "latitud": 20.9876,
+                    "longitud": -89.6234,
+                    "departamentos": [
                         {
-                            "área": "Ciencia de Materiales",
-                            "descripción_del_área": "Investigación en la estructura, propiedades y aplicaciones de materiales poliméricos y nanocompuestos.",
-                            "líneas_investigación": [
+                            "departamento": "Departamento de Materiales Poliméricos",
+                            "descripción_departamento": "El Departamento de Materiales Poliméricos se dedica al estudio y desarrollo de nuevos materiales poliméricos y nanocompuestos para aplicaciones industriales y tecnológicas.",
+                            "áreas": [
                                 {
-                                    "línea": "Nanomateriales y Composites",
-                                    "descripción": "Desarrollo de nanomateriales y composites avanzados para mejorar el rendimiento de materiales en diversas aplicaciones.",
-                                    "disciplinas": [
+                                    "área": "Ciencia de Materiales",
+                                    "descripción_del_área": "Investigación en la estructura, propiedades y aplicaciones de materiales poliméricos y nanocompuestos.",
+                                    "líneas_investigación": [
                                         {
-                                            "área_snii": "CIENCIAS FÍSICAS",
-                                            "campo_snii": "CIENCIA DE MATERIALES",
-                                            "disciplina_snii": "NANOCIENCIAS"
+                                            "línea": "Nanomateriales y Composites",
+                                            "descripción": "Desarrollo de nanomateriales y composites avanzados para mejorar el rendimiento de materiales en diversas aplicaciones.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "Ciencia de Materiales",
+                                                    "disciplina_snii": "Nanociencias"
+                                                }
+                                            ]
                                         }
                                     ]
                                 }
@@ -274,21 +274,21 @@
                         }
                     ]
                 }
+            ],
+            "redes_sociales": [
+                {
+                    "red": "Facebook",
+                    "identificador": "https://www.facebook.com/gobmexico",
+                    "activa": true,
+                    "propósito": "difusión científica"
+                },
+                {
+                    "red": "X",
+                    "identificador": "https://x.com/GobiernoMX",
+                    "activa": true,
+                    "propósito": "otro"
+                }
             ]
-        }
-    ],
-    "redes_sociales": [
-        {
-            "red": "Facebook",
-            "identificador": "https://www.facebook.com/gobmexico",
-            "activa": true,
-            "propósito": "difusión científica"
-        },
-        {
-            "red": "X",
-            "identificador": "https://x.com/GobiernoMX",
-            "activa": true,
-            "propósito": "comunicación y difusión"
         }
     ]
 }
