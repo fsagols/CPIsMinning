@@ -24,6 +24,12 @@
             ],
             "presupuesto": [
                 {
+                    "año": 2024,
+                    "total": 74334985,
+                    "recursos_fiscales": 71796243,
+                    "recursos_propios": 2065494
+                },
+                {
                     "año": 2023,
                     "total": 354945082,
                     "recursos_fiscales": 246894345,
