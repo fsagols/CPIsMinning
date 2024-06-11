@@ -46,6 +46,12 @@
                     "total": 240033589,
                     "recursos_fiscales": 0,
                     "recursos_propios": 0
+                },
+                {
+                    "año": 2024,
+                    "total": 256861364,
+                    "recursos_fiscales": 230369308,
+                    "recursos_propios": 26492056
                 }
             ],
             "programas_académicos": [
