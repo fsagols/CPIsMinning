@@ -1,6 +1,6 @@
 Última revisión: 9 de junio de 2023
-Centros correctamente capturados: CIAD, CENTROGEO, CIBNOR, CICESE, CIDE, CIMAT, COLSAN, COMIMSA, INAOE, IPICYT y MORA
-Centros con errores: CIATEQ, CIATEC, CICY, CIDESI, CIESAS, CIMAV, CIO, CIQA, COLMICH, ECOSUR, FIDERH, INFOTEC
+Centros correctamente capturados: CENTROGEO, CIAD, CIBNOR, CICESE, CICY, CIDE, CIMAT, CIMAV, COLSAN, COMIMSA, ECOSUR, INAOE, IPICYT y MORA
+Centros con errores: CIATEQ, CIATEC, CIDESI, CIESAS, CIO, CIQA, COLMICH, FIDERH, INFOTEC
 No puestos en Github: CIATEJ, CIDETQ, COLEF e INECOL
 
 TODOS
@@ -65,7 +65,6 @@ COLMICH
 COLSAN
 COMIMSA
 ECOSUR
-  1. Carga bien con la versión 5 pero no contiene el presupuesto para el 2024.
 FIDERH
   1. Compila bien en la versión 5 pero parece no estar completo.
   2. El tipo de entidad legal tenía "Sin fines de lucro", normalmente cuando eso pasa se pone "Asociación Civil", pero habría que verificarlo.
