@@ -1,4 +1,4 @@
-Última revisión: 8 de junio de 2023
+Última revisión: 9 de junio de 2023
 Centros correctamente capturados: CIAD, CENTROGEO, CIBNOR, CICESE, CIDE, CIMAT, COLSAN, COMIMSA, INAOE, IPICYT y MORA
 Centros con errores: CIATEQ, CIATEC, CICY, CIDESI, CIESAS, CIMAV, CIO, CIQA, COLMICH, ECOSUR, FIDERH, INFOTEC
 No puestos en Github: CIATEJ, CIDETQ, COLEF e INECOL
@@ -22,7 +22,7 @@ CIATEQ
 CIBNOR
 CICESE
 CICY
-  1. No compila en la versión 5.
+  1. Compila en la versión 5 pero la suma de recursos propios más recursos fiscales no corresponde con el total. 
 CIDE
   1. No compila en la versión 5.
 CIDESI
@@ -41,9 +41,7 @@ CIESAS
   2. Hay más errores.
 CIMAT
 CIMAV
-  1. No compila en la versión 5.
-  2.  El campo "programas_académicos" no se llenó bien. Comparar contra INAOE.json o consultarme por favor.
-  3.  En generarl los campos area_sni, campo_sni y disciplina_sni no se llenaron bien.
+  1. Se carga bien con la versión 5, pero no contiene el presupuesto para el 2024.
 CIO
   1. El campo presupuesto no se capturó.
      La información está incluida en el archivo https://docs.google.com/spreadsheets/d/1IqHb-XnQikgMwZ_04ZKjeVfFjJF5E7_q/edit?usp=drive_link&ouid=112981778137874757561&rtpof=true&sd=true. En las pestañas “CPI-Presupuesto Evolución Anual” y “CPI-Presupuesto Financiamiento” se encuentran respectivamente, la asignación histórica del presupuesto y el presupuesto del 2024.
@@ -67,7 +65,7 @@ COLMICH
 COLSAN
 COMIMSA
 ECOSUR
-  1. No compila en la versión 5.
+  1. Carga bien con la versión 5 pero no contiene el presupuesto para el 2024.
 FIDERH
   1. Compila bien en la versión 5 pero parece no estar completo.
   2. El tipo de entidad legal tenía "Sin fines de lucro", normalmente cuando eso pasa se pone "Asociación Civil", pero habría que verificarlo.
