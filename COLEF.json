@@ -55,33 +55,84 @@
                   "presupuesto": [
     {
         "año": 2024,
-        "total": "MXN 180,000,000",
-        "recursos_fiscales": "MXN 150,000,000",
-        "recursos_propios": "MXN 30,000,000"
+        "total": 180,000,000,
+        "recursos_fiscales": 150,000,000,
+        "recursos_propios": 30,000,000
     },
     {
         "año": 2023,
-        "total": "MXN 175,000,000",
-        "recursos_fiscales": "MXN 145,000,000",
-        "recursos_propios": "MXN 30,000,000"
+        "total": 175,000,000,
+        "recursos_fiscales": 145,000,000,
+        "recursos_propios": 30,000,000
     },
     {
         "año": 2022,
-        "total": "MXN 170,000,000",
-        "recursos_fiscales": "MXN 140,000,000",
-        "recursos_propios": "MXN 30,000,000"
+        "total": 170,000,000,
+        "recursos_fiscales": 140,000,000,
+        "recursos_propios": 30,000,000
     },
     {
         "año": 2021,
-        "total": "MXN 165,000,000",
-        "recursos_fiscales": "MXN 135,000,000",
-        "recursos_propios": "MXN 30,000,000"
+        "total": 165,000,000,
+        "recursos_fiscales": 135,000,000,
+        "recursos_propios": 30,000,000
     },
     {
         "año": 2020,
-        "total": "MXN 160,000,000",
-        "recursos_fiscales": "MXN 130,000,000",
-        "recursos_propios": "MXN 30,000,000"
+        "total": 160,000,000,
+        "recursos_fiscales": 130,000,000,
+        "recursos_propios": 30,000,000
     }
       ],
+    "programas_académicos": [
+    {
+        "programa": "Maestría en Sociología",
+        "disciplinas": [
+            {
+                "área_snii": "Ciencias Sociales",
+                "campo_snii": "Sociología.",
+                "disciplina_snii": "Sociología."
+            }
+        ],
+        "nivel": "maestría",
+        "modalidad": "presencial"
+    },
+    {
+        "programa": "Doctorado en Sociología",
+        "disciplinas": [
+            {
+                "área_snii": "Ciencias Sociales",
+                "campo_snii": "Sociología.",
+                "disciplina_snii": "Sociología."
+            }
+        ],
+        "nivel": "doctorado",
+        "modalidad": "presencial"
+    },
+    {
+        "programa": "Maestría en Políticas Públicas",
+        "disciplinas": [
+            {
+                "área_snii": "Ciencias Sociales",
+                "campo_snii": "Ciencia Política.",
+                "disciplina_snii": "Políticas Públicas."
+            }
+        ],
+        "nivel": "maestría",
+        "modalidad": "presencial"
+    },
+    {
+        "programa": "Doctorado en Políticas Públicas",
+        "disciplinas": [
+            {
+                "área_snii": "Ciencias Sociales",
+                "campo_snii": "Ciencia Política.",
+                "disciplina_snii": "Políticas Públicas."
+            }
+        ],
+        "nivel": "doctorado",
+        "modalidad": "presencial"
+    }
+],
+
             
