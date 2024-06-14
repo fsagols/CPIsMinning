@@ -55,33 +55,33 @@
                   "presupuesto": [
     {
         "año": 2024,
-        "total": 180,000,000,
-        "recursos_fiscales": 150,000,000,
-        "recursos_propios": 30,000,000
+        "total": 180000000,
+        "recursos_fiscales": 150000000,
+        "recursos_propios": 30000000
     },
     {
         "año": 2023,
-        "total": 175,000,000,
-        "recursos_fiscales": 145,000,000,
-        "recursos_propios": 30,000,000
+        "total": 175000000,
+        "recursos_fiscales": 145000000,
+        "recursos_propios": 30000000
     },
     {
         "año": 2022,
-        "total": 170,000,000,
-        "recursos_fiscales": 140,000,000,
-        "recursos_propios": 30,000,000
+        "total": 170000000,
+        "recursos_fiscales": 140000000,
+        "recursos_propios": 30000000
     },
     {
         "año": 2021,
-        "total": 165,000,000,
-        "recursos_fiscales": 135,000,000,
-        "recursos_propios": 30,000,000
+        "total": 165000000,
+        "recursos_fiscales": 135000000,
+        "recursos_propios": 30000000
     },
     {
         "año": 2020,
-        "total": 160,000,000,
-        "recursos_fiscales": 130,000,000,
-        "recursos_propios": 30,000,000
+        "total": 160000000,
+        "recursos_fiscales": 130000000,
+        "recursos_propios": 30000000
     }
       ],
     "programas_académicos": [
