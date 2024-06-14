@@ -134,5 +134,17 @@
         "modalidad": "presencial"
     }
 ],
-
-            
+"unidades": [
+                {
+                    "nombre_unidad": "CASA COLEF",
+                    "descripción_unidad": "Su actividad preponderante es la vinculación y enlace con diversos actores e instituciones en Ciudad México, para dar a conocer la producción académica de El Colegio de la Frontera Norte, así como sus eventos y programas de posgrado. Asimismo, se ha consolidado como un foro de discusión de alto nivel a través de seminarios, talleres, simposios, congresos y presentaciones de libros; para ello, cuenta con una sala-auditorio, biblioteca, sala de divulgación y área de venta de las publicaciones propias de El Colef, asequibles al público en general.",
+                    "dirección_postal": "04210",
+                    "latitud": 19.3597,
+                    "longitud": -99.1436,    
+             "departamentos": [
+                        {
+                            "departamento": "Departamento de Estudios Culturales",
+                            "descripción_departamento": " Sus líneas temáticas son: identidades colectivas, procesos históricos regionales, culturas de frontera, violencia y relaciones de poder, cultura y derechos humanos, migraciones internacionales, y movilidades humanas y transfronterizas.",
+                        }
+                 },
+                 
