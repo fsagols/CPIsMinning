@@ -14,4 +14,41 @@
           "origen": "El Colegio de la Frontera Norte (COLEF) fue fundado en 1982 en Tijuana, Baja California, México. Su creación respondió a la necesidad de entender y abordar las complejas dinámicas sociales, económicas, políticas y culturales que caracterizan la región fronteriza entre México y Estados Unidos. La iniciativa surgió del gobierno mexicano, con el apoyo de la Secretaría de Educación Pública y del Consejo Nacional de Ciencia y Tecnología (CONACYT), en un esfuerzo por desarrollar un centro académico especializado que pudiera investigar y contribuir a la solución de los problemas específicos de esta área.",
           "fecha_creación": "1982-08-03", 
           "historia_establecimiento": "El Colegio de la Frontera Norte (COLEF), fundado en 1982 en Tijuana, Baja California, es una institución de educación superior y centro de investigación. Se especializa en estudios sociales, económicos y políticos de la región fronteriza México-Estados Unidos, con el objetivo de generar conocimiento y desarrollar políticas públicas.Destaca por su enfoque interdisciplinario y su excelencia académica, ofreciendo programas de posgrado e investigaciones en temas como migración, desarrollo regional y medio ambiente. La colaboración con instituciones nacionales e internacionales refuerza su impacto, convirtiéndolo en un referente clave para el estudio y comprensión de las dinámicas fronterizas.",
-          
+          "contexto_histórico": "El Colegio de la Frontera Norte (COLEF) se fundó en 1982 en Tijuana, Baja California, en respuesta a la creciente necesidad de comprender y abordar los desafíos específicos de la región fronteriza entre México y Estados Unidos. Durante las décadas de 1980 y 1990, esta área experimentó significativos cambios económicos, sociales y políticos, impulsados por la globalización y la intensificación de los flujos migratorios.Surgió en un contexto donde la colaboración académica y la investigación interdisciplinaria eran esenciales para desarrollar políticas públicas efectivas. La institución se dedicó a estudiar fenómenos como la migración, el comercio transfronterizo, el desarrollo regional y las relaciones binacionales, proporcionando datos y análisis fundamentales para la formulación de políticas y estrategias de desarrollo.",
+          "tipo_entidad_legal": "Entidad paraestatal del gobierno mexicano.",
+          "figura_jurídica": "Entidad paraestatal de carácter público.",
+          "marco_normativo": [
+                {
+                    "ley_o_instrumento_jurídico": "Ley de Ciencia y Tecnología"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "Ley Orgánica del Consejo Nacional de Ciencia y Tecnología (CONACYT)"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "Estatuto Orgánico de COLEF"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "Reglamento de Estudios de Posgrado"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "Reglamento de Personal Académico"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "Reglamento Interno de Trabajo"
+                },
+                  {
+                    "ley_o_instrumento_jurídico": "Reglamento de Investigación"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "Código de ética"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "Reglamento de Administración y Finanzas"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "Reglamento de Transparencia y Acceso a la Información Pública"
+                },
+                 {
+                    "ley_o_instrumento_jurídico": "Reglamento de Propiedad Intelectual"
+                }
+            ],
