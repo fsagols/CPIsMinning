@@ -146,5 +146,22 @@
                             "departamento": "Departamento de Estudios Culturales",
                             "descripción_departamento": " Sus líneas temáticas son: identidades colectivas, procesos históricos regionales, culturas de frontera, violencia y relaciones de poder, cultura y derechos humanos, migraciones internacionales, y movilidades humanas y transfronterizas.",
                         },
-                 
+                 "áreas": [
+                                {
+                                    "área": "",
+                                    "descripción_del_área": " ",
+                                    "líneas_investigación": [
+                         "líneas_investigación": [
+                                        {
+                                            "línea": "Fronteras, Migración e Identidades.",
+                                            "descripción": "aborda temas fundamentales para comprender la dinámica de las fronteras, los movimientos migratorios y la formación de identidades en contextos fronterizos, contribuyendo al análisis de políticas y al entendimiento de las complejidades sociales, culturales y económicas en estas áreas.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "",
+                                                    "campo_snii": "",
+                                                    "disciplina_snii": ""
+                                                },
+                            "departamento": "Departamento de Estudios de Población",
+                            "descripción_departamento": "Desarrolla investigación sobre la dinámica de la población, los procesos que la sustentan y los factores sociales, culturales, económicos y políticos que la modifican. La investigación tiene un énfasis particular en el estudio de la región México-Estados Unidos, cuyas características determinan dinámicas particulares que impactan aspectos fundamentales del bienestar de la población.",
+                        }, 
                  
