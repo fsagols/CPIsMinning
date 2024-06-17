@@ -1,6 +1,6 @@
-Última revisión: 9 de junio de 2023
-Centros correctamente capturados: CENTROGEO, CIAD, CIBNOR, CICESE, CICY, CIDE, CIMAT, CIMAV, COLSAN, COMIMSA, ECOSUR, INAOE, IPICYT, MORA
-Centros con errores: CIATEQ, CIATEC, CIDESI, CIESAS, CIO, CIQA, COLMICH, FIDERH, INFOTEC
+Última revisión: 16 de junio de 2023
+Centros correctamente capturados: CENTROGEO, CIAD, CIBNOR, CICESE, CICY, CIMAT, CIMAV, COLSAN, COMIMSA, ECOSUR, INAOE, IPICYT, MORA
+Centros con errores: CIATEQ, CIATEC, CIDE, CIDESI, CIESAS, CIO, CIQA, COLMICH, FIDERH, INFOTEC
 No puestos en Github: CIATEJ, CIDETQ, COLEF e INECOL
 
 TODOS
@@ -24,7 +24,14 @@ CICESE
 CICY
   1. Compila en la versión 5 pero la suma de recursos propios más recursos fiscales no corresponde con el total. 
 CIDE
-  1. No compila en la versión 5.
+  1 para la llave "unidades" no aparecen de:
+                    "nombre_unidad": "",
+                    "descripción_unidad": "",
+                    "dirección_postal": "",
+                    "latitud": 0,
+                    "longitud": 0,
+    En casos como este, donde no hay más que una unidad,  se ponen los datos de la sede principal.
+    Para el CIDE está en la Ciudad de México.
 CIDESI
   1. No compila en la versión 5.
   2. El presupuesto no se tomó del archivo https://docs.google.com/spreadsheets/d/1lzHlCdnX-DNWh5KekpCGJ8ka_ibx_dzmino3YOOMdVY/edit?usp=drive_link

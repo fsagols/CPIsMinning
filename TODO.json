@@ -2536,7 +2536,7 @@
                 "descripción_unidad": "Promover el desarrollo agrícola y pecuario sostenible en zonas áridas y semiáridas, prioritariamente de la región noroeste del país.",
                 "dirección_postal": "23940",
                 "latitud": 27.9685,
-                "longitud": 114.0367,
+                "longitud": -114.0367,
                 "departamentos": [
                     {
                         "departamento": "Guerrero Negro",
@@ -2589,8 +2589,8 @@
                 "nombre_unidad": "Unidad Guaymas",
                 "descripción_unidad": "Unidad del CIBNOR en Guaymas dedicada a la investigación científica, formación de capital humano, divulgación de la ciencia a la sociedad y vinculación con sectores productivos y gubernamentales.",
                 "dirección_postal": "85400",
-                "latitud": -110.9450853,
-                "longitud": 27.9340699,
+                "latitud": 27.9340699,
+                "longitud": -110.9450853,
                 "departamentos": [
                     {
                         "departamento": "Unidad Guaymas",
