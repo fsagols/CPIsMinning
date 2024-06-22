@@ -55,7 +55,41 @@ CIO
 CIQA
    1. El nombre del titular pónerlo usando mayúsculas y minúsculas.
 COLEF
-  1. ***
+   1. En el campo "presupuesto" aparecen números que no corresponden con la realidad:
+
+                  "presupuesto": [
+    {
+        "año": 2024,
+        "total": 180000000,
+        "recursos_fiscales": 150000000,
+        "recursos_propios": 30000000
+    },
+    {
+        "año": 2023,
+        "total": 175000000,
+        "recursos_fiscales": 145000000,
+        "recursos_propios": 30000000
+    },
+    {
+        "año": 2022,
+        "total": 170000000,
+        "recursos_fiscales": 140000000,
+        "recursos_propios": 30000000
+    },
+    {
+        "año": 2021,
+        "total": 165000000,
+        "recursos_fiscales": 135000000,
+        "recursos_propios": 30000000
+    },
+    {
+        "año": 2020,
+        "total": 160000000,
+        "recursos_fiscales": 130000000,
+        "recursos_propios": 30000000
+    }
+      ],
+    2. El archivo está incompleto.
 COLMICH
   1. Hay errores estructurales graves. Algunos los pude corregir, sobraban llaves o paréntesis cuadrados. Otros hay que revisarlos con cuidado. Por ejemplo en las líneas 300 a 305 aparece:
       "vía": "presencial"
