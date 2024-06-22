@@ -1,0 +1,1740 @@
+{
+    "cpis": [
+        {
+            "nombre_cpi": "Centro de Investigación y Desarrollo Tecnológico en Electroquímica, S.C.",
+            "siglas_cpi": "CIDETEQ",
+            "descripción_breve": "El CIDETEQ es un centro dedicado a la investigación y desarrollo en el campo de la electroquímica, enfocado en crear tecnologías que benefician sectores como la salud, la gestión de recursos hídricos, la producción de energía y la protección del medio ambiente.",
+            "descripción": "El CIDETEQ fue creado como Centro Público de Investigación en septiembre de 1991, con el propósito fundamental de vincular a los investigadores con el reto de responder a la necesidad de vincular la industria con la academia y la investigación. Cuenta con una sede localizada en Sanfandila, Pedro Escobedo, a sólo 30 km. de la ciudad de Querétaro y otra en la zona conurbada de Corregidora, Qro.",
+            "misión": "Generar conocimiento de vanguardia, investigación y desarrollo tecnológico en las áreas de agua, medio ambiente, energía limpia y salud, a través de procesos innovadores basados en electroquímica y tratamiento avanzado de superficies para dar soluciones a problemas complejos en beneficio de la sociedad.",
+            "visión": "Ser un centro reconocido nacional e internacionalmente por nuestra capacidad de lograr beneficios que impactan positivamente a la sociedad, a nuestros clientes y otras partes interesadas, cuidando el medio ambiente.",
+            "titular": "Dr. René Antaño López",
+            "fecha_designación_titular": "2024",
+            "grado_académico_titular": "Doctor",
+            "especialidad_titular": "Doctor en Química-Física, orientado al estudio de la Electroquímica.",
+            "origen": "El CIDETEQ se originó como una iniciativa para fortalecer la investigación y el desarrollo tecnológico en México, particularmente en el campo de la electroquímica.",
+            "fecha_creación": "1991-09-26",
+            "historia_establecimiento": "Se estableció como una sociedad civil con el objetivo de convertirse en un Centro Público de Investigación que vinculara la industria con la academia.",
+            "contexto_histórico": "La creación del CIDETEQ fue parte de una estrategia nacional para impulsar la innovación y el desarrollo tecnológico en sectores clave para el crecimiento económico y el bienestar social del país.",
+            "tipo_entidad_legal": "Paraestatal asimilada al régimen de las empresas de participación estatal mayoritaria",
+            "figura_jurídica": "Sociedad Civil",
+            "marco_normativo": [
+                {
+                    "ley_o_instrumento_jurídico": "Ley Orgánica de la Administración Pública Federal"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "Ley Federal de las Entidades Paraestatales"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "Ley General en Materia de Humanidades, Ciencias Tecnologías e Innovación"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "Manual de Organización del Centro de Investigación y Desarrollo Tecnológico en Electroquímica S.C. (CIDETEQ)"
+                }
+            ],
+            "presupuesto": [
+                {
+                    "año": 2024,
+                    "total": 177089678,
+                    "recursos_fiscales": 136551356,
+                    "recursos_propios": 40538322
+                },
+                {
+                    "año": 2023,
+                    "total": 157642754,
+                    "recursos_fiscales": 0,
+                    "recursos_propios": 0
+                },
+                {
+                    "año": 2022,
+                    "total": 160472917,
+                    "recursos_fiscales": 0,
+                    "recursos_propios": 0
+                },
+                {
+                    "año": 2021,
+                    "total": 162386379,
+                    "recursos_fiscales": 0,
+                    "recursos_propios": 0
+                },
+                {
+                    "año": 2020,
+                    "total": 147564991,
+                    "recursos_fiscales": 0,
+                    "recursos_propios": 0
+                }
+            ],
+            "programas_académicos": [
+                {
+                    "programa": "Maestría en Electroquímica",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Biología y Química",
+                            "campo_snii": "QUÍMICA",
+                            "disciplina_snii": "Electroquímica"
+                        }
+                    ],
+                    "nivel": "maestría",
+                    "modalidad": "regular",
+                    "vía": "presencial"
+                },
+                {
+                    "programa": "Doctorado en Electroquímica",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Biología y Química",
+                            "campo_snii": "QUÍMICA",
+                            "disciplina_snii": "Electroquímica"
+                        }
+                    ],
+                    "nivel": "doctorado",
+                    "modalidad": "regular",
+                    "vía": "presencial"
+                },
+                {
+                    "programa": "Maestría en Ingeniería Ambiental",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Ingeniería y Tecnología",
+                            "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                            "disciplina_snii": "Ingeniería Ambiental"
+                        }
+                    ],
+                    "nivel": "maestría",
+                    "modalidad": "regular",
+                    "vía": "presencial"
+                },
+                {
+                    "programa": "Doctorado en Ingeniería Ambiental",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Ingeniería y Tecnología",
+                            "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                            "disciplina_snii": "Ingeniería Ambiental"
+                        }
+                    ],
+                    "nivel": "doctorado",
+                    "modalidad": "regular",
+                    "vía": "presencial"
+                },
+                {
+                    "programa": "Curso – Taller de Tratamiento de Aguas Residuales Sanitarias y de Altas Cargas Orgánicas de Agroindustrial (Rastros, Casas de Matanzas y Similares)",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Ingeniería y Tecnología",
+                            "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                            "disciplina_snii": "Ciencia y Tecnología del Agua"
+                        }
+                    ],
+                    "nivel": "educación continua",
+                    "modalidad": "regular",
+                    "vía": "en línea"
+                },
+                {
+                    "programa": "Control de Baños en Galvanoplastia",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Ingeniería y Tecnología",
+                            "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                            "disciplina_snii": "Ingeniería Metalúrgia"
+                        }
+                    ],
+                    "nivel": "educación continua",
+                    "modalidad": "regular",
+                    "vía": "en línea"
+                },
+                {
+                    "programa": "Corrosión Acelerada en Recubrimientos Orgánicos e Inorgánicos",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Ingeniería y Tecnología",
+                            "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                            "disciplina_snii": "Ingeniería Metalúrgia"
+                        }
+                    ],
+                    "nivel": "educación continua",
+                    "modalidad": "regular",
+                    "vía": "presencial"
+                },
+                {
+                    "programa": "Métodos y Técnicas de Análisis para la Caracterización de Materiales",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Ingeniería y Tecnología",
+                            "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                            "disciplina_snii": "Ciencia y Tecnología de Materiales"
+                        }
+                    ],
+                    "nivel": "educación continua",
+                    "modalidad": "regular",
+                    "vía": "presencial"
+                },
+                {
+                    "programa": "Análisis de Falla en Componentes Industriales",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Ingeniería y Tecnología",
+                            "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                            "disciplina_snii": "Ciencia y Tecnología de Materiales"
+                        }
+                    ],
+                    "nivel": "educación continua",
+                    "modalidad": "regular",
+                    "vía": "presencial"
+                },
+                {
+                    "programa": "Control de Baño de Zinc Ácido",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Ingeniería y Tecnología",
+                            "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                            "disciplina_snii": "Ingeniería Metalúrgia"
+                        }
+                    ],
+                    "nivel": "educación continua",
+                    "modalidad": "regular",
+                    "vía": "en línea"
+                },
+                {
+                    "programa": "Principios Básicos de la Generación, Manejo y uso del Biogás",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Ciencias Agropecuarias y Biotecnología",
+                            "campo_snii": "BIOTECNOLOGÍA",
+                            "disciplina_snii": "Bioprocesos"
+                        }
+                    ],
+                    "nivel": "educación continua",
+                    "modalidad": "regular",
+                    "vía": "en línea"
+                },
+                {
+                    "programa": "Curso Básico, Elaboración de Estudios de Riesgo Ambiental",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Ingeniería y Tecnología",
+                            "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                            "disciplina_snii": "Ingeniería Ambiental"
+                        }
+                    ],
+                    "nivel": "educación continua",
+                    "modalidad": "regular",
+                    "vía": "en línea"
+                },
+                {
+                    "programa": "Baterías Secundarias, Principios y Aplicaciones",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Ingeniería y Tecnología",
+                            "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                            "disciplina_snii": "Ingeniería Ambiental"
+                        }
+                    ],
+                    "nivel": "educación continua",
+                    "modalidad": "regular",
+                    "vía": "mixta"
+                },
+                {
+                    "programa": "Metalurgia para No Metalúrgicos",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Ingeniería y Tecnología",
+                            "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                            "disciplina_snii": "Ingeniería Metalúrgia"
+                        }
+                    ],
+                    "nivel": "educación continua",
+                    "modalidad": "regular",
+                    "vía": "presencial"
+                }
+            ],
+            "unidades": [
+                {
+                    "nombre_unidad": "CIDETEQ",
+                    "descripción_unidad": "CIDETEQ, SC., Pedro Escobedo (Querétaro)",
+                    "dirección_postal": "76703",
+                    "latitud": 20.508093433630936,
+                    "longitud": -100.22314993637688,
+                    "departamentos": [
+                        {
+                            "departamento": "Electroquímica",
+                            "descripción_departamento": "El departamento de electroquímica se enfoca en el estudio de las reacciones químicas que involucran transferencia de electrones y sus aplicaciones",
+                            "áreas": [
+                                {
+                                    "área": "Agua y Medio Ambiente",
+                                    "descripción_del_área": "Investigación y desarrollo de tecnologías para la purificación, conservación y gestión sostenible del agua y el medio ambiente.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Tratamiento de efluentes industriales mediante tecnologías electroquímicas microbianas (TEM)",
+                                            "descripción": "Uso de microorganismos y técnicas electroquímicas para tratar efluentes industriales.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Medicina y Ciencias de la Salud",
+                                                    "campo_snii": "QUÍMICA",
+                                                    "disciplina_snii": "Electroquímica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Ciencias ómicas de microorganismos electrogénicos",
+                                            "descripción": "Estudio de microorganismos que generan electricidad mediante análisis genómicos y proteómicos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Medicina y Ciencias de la Salud",
+                                                    "campo_snii": "QUÍMICA",
+                                                    "disciplina_snii": "Electroquímica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Procesos Electroquímicos",
+                                            "descripción": "Investigación en reacciones y sistemas que involucran procesos electroquímicos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Medicina y Ciencias de la Salud",
+                                                    "campo_snii": "QUÍMICA",
+                                                    "disciplina_snii": "Electroquímica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Ingeniería Electroquímica",
+                                            "descripción": "Diseño y optimización de sistemas y dispositivos electroquímicos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Medicina y Ciencias de la Salud",
+                                                    "campo_snii": "QUÍMICA",
+                                                    "disciplina_snii": "Electroquímica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Modificación de electrodos para su aplicación en sistemas fotovoltaicos, electrocatálisis ambiental y sensores electroquímicos",
+                                            "descripción": "Desarrollo de electrodos especializados para aplicaciones energéticas y ambientales.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Medicina y Ciencias de la Salud",
+                                                    "campo_snii": "QUÍMICA",
+                                                    "disciplina_snii": "Electroquímica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Procesos Avanzados de Oxidación Electroquímica para degradación de contaminantes emergentes en agua",
+                                            "descripción": "Uso de técnicas avanzadas de oxidación para eliminar contaminantes en el agua.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Medicina y Ciencias de la Salud",
+                                                    "campo_snii": "QUÍMICA",
+                                                    "disciplina_snii": "Electroquímica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Fotocatálisis",
+                                            "descripción": "Uso de catalizadores activados por luz para acelerar reacciones químicas.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Medicina y Ciencias de la Salud",
+                                                    "campo_snii": "QUÍMICA",
+                                                    "disciplina_snii": "Electroquímica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Electrodos de pasta de carbón modificados y su aplicación como sensores",
+                                            "descripción": "Desarrollo de sensores basados en electrodos de pasta de carbón.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Medicina y Ciencias de la Salud",
+                                                    "campo_snii": "QUÍMICA",
+                                                    "disciplina_snii": "Electroquímica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Procesos electroquímicos (electrodepósito y materiales electrocatalíticos)",
+                                            "descripción": "Estudio y desarrollo de técnicas de electrodepósito y materiales que actúan como catalizadores electroquímicos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Medicina y Ciencias de la Salud",
+                                                    "campo_snii": "QUÍMICA",
+                                                    "disciplina_snii": "Electroquímica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Sistema de ahorro de energía",
+                                            "descripción": "Desarrollo de sistemas electroquímicos para mejorar la eficiencia energética.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Medicina y Ciencias de la Salud",
+                                                    "campo_snii": "QUÍMICA",
+                                                    "disciplina_snii": "Electroquímica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Electrocatálisis",
+                                            "descripción": "Uso de catalizadores en reacciones electroquímicas para mejorar su eficiencia y selectividad.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Medicina y Ciencias de la Salud",
+                                                    "campo_snii": "QUÍMICA",
+                                                    "disciplina_snii": "Electroquímica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Estudio del comportamiento de microorganismos electrogénicos en celdas electroquímicas",
+                                            "descripción": "Investigación sobre cómo los microorganismos que generan electricidad se comportan en celdas electroquímicas.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Medicina y Ciencias de la Salud",
+                                                    "campo_snii": "QUÍMICA",
+                                                    "disciplina_snii": "Electroquímica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Modelamiento y aplicación de reactores electroquímicos a diversos procesos",
+                                            "descripción": "Modelado y diseño de reactores para aplicaciones en síntesis, tratamiento ambiental y almacenamiento de energía.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Medicina y Ciencias de la Salud",
+                                                    "campo_snii": "QUÍMICA",
+                                                    "disciplina_snii": "Electroquímica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Análisis de técnicas electroquímicas aplicado al diseño y modelamiento de reactores y procesos electroquímicos",
+                                            "descripción": "Uso de técnicas electroquímicas para optimizar el diseño y funcionamiento de reactores.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Medicina y Ciencias de la Salud",
+                                                    "campo_snii": "QUÍMICA",
+                                                    "disciplina_snii": "Electroquímica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Resolución de ecuaciones diferenciales para reactores electroquímicos",
+                                            "descripción": "Solución de ecuaciones que describen el comportamiento de reactores electroquímicos mediante métodos analíticos y numéricos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Medicina y Ciencias de la Salud",
+                                                    "campo_snii": "QUÍMICA",
+                                                    "disciplina_snii": "Electroquímica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Síntesis de nanomateriales",
+                                            "descripción": "Creación de materiales a nanoescala para aplicaciones diversas.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Medicina y Ciencias de la Salud",
+                                                    "campo_snii": "QUÍMICA",
+                                                    "disciplina_snii": "Electroquímica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Electrolizadores y Celdas de combustible (tipo PEM y microbianas)",
+                                            "descripción": "Desarrollo de dispositivos que convierten energía química en eléctrica, incluyendo celdas de combustible microbianas.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Medicina y Ciencias de la Salud",
+                                                    "campo_snii": "QUÍMICA",
+                                                    "disciplina_snii": "Electroquímica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Síntesis de biodiesel utilizando cavitación ultrasónica e hidrodinámica",
+                                            "descripción": "Uso de cavitación ultrasónica e hidrodinámica para producir biodiesel.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Medicina y Ciencias de la Salud",
+                                                    "campo_snii": "QUÍMICA",
+                                                    "disciplina_snii": "Electroquímica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Energías alternas",
+                                            "descripción": "Desarrollo de fuentes de energía alternativas y sostenibles.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Medicina y Ciencias de la Salud",
+                                                    "campo_snii": "QUÍMICA",
+                                                    "disciplina_snii": "Electroquímica"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "Energía",
+                                    "descripción_del_área": "Desarrollo y optimización de sistemas de producción, almacenamiento y gestión de energía sostenible.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Sistemas Microfluídicos de conversión de energía",
+                                            "descripción": "Desarrollo de dispositivos microfluídicos para convertir energía.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Medicina y Ciencias de la Salud",
+                                                    "campo_snii": "QUÍMICA",
+                                                    "disciplina_snii": "Electroquímica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Diseño y desarrollo de materiales electrocatalíticos para conversión de energía",
+                                            "descripción": "Creación de materiales para catalizar reacciones energéticas.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Medicina y Ciencias de la Salud",
+                                                    "campo_snii": "QUÍMICA",
+                                                    "disciplina_snii": "Electroquímica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Generación, almacenamiento y compresión de Hidrógeno",
+                                            "descripción": "Tecnologías para producir, almacenar y comprimir hidrógeno.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Medicina y Ciencias de la Salud",
+                                                    "campo_snii": "QUÍMICA",
+                                                    "disciplina_snii": "Electroquímica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Electrónica orgánica",
+                                            "descripción": "Desarrollo de dispositivos electrónicos basados en compuestos orgánicos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Medicina y Ciencias de la Salud",
+                                                    "campo_snii": "QUÍMICA",
+                                                    "disciplina_snii": "Electroquímica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Polímeros para almacenamiento de energía",
+                                            "descripción": "Uso de polímeros en sistemas de almacenamiento energético.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Medicina y Ciencias de la Salud",
+                                                    "campo_snii": "QUÍMICA",
+                                                    "disciplina_snii": "Electroquímica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Polímeros para aplicación en sensores",
+                                            "descripción": "Desarrollo de sensores basados en polímeros.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Medicina y Ciencias de la Salud",
+                                                    "campo_snii": "QUÍMICA",
+                                                    "disciplina_snii": "Electroquímica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Sistemas bioelectroquímicos microbianos",
+                                            "descripción": "Uso de microorganismos en sistemas bioelectroquímicos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Medicina y Ciencias de la Salud",
+                                                    "campo_snii": "QUÍMICA",
+                                                    "disciplina_snii": "Electroquímica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Sistemas electroquímicos de conversión y almacenamiento de energía",
+                                            "descripción": "Desarrollo de sistemas para convertir y almacenar energía electroquímicamente.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Medicina y Ciencias de la Salud",
+                                                    "campo_snii": "QUÍMICA",
+                                                    "disciplina_snii": "Electroquímica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Compresión electroquímica de hidrógeno",
+                                            "descripción": "Técnicas electroquímicas para comprimir hidrógeno.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Medicina y Ciencias de la Salud",
+                                                    "campo_snii": "QUÍMICA",
+                                                    "disciplina_snii": "Electroquímica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Sensores y Biosensores Lab-on-a-Chip",
+                                            "descripción": "Desarrollo de sensores integrados en microchips.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Medicina y Ciencias de la Salud",
+                                                    "campo_snii": "QUÍMICA",
+                                                    "disciplina_snii": "Electroquímica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Fotoelectroquímica de semiconductores y perovskitas",
+                                            "descripción": "Estudio de la fotoelectroquímica en materiales semiconductores y perovskitas.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Medicina y Ciencias de la Salud",
+                                                    "campo_snii": "QUÍMICA",
+                                                    "disciplina_snii": "Electroquímica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Síntesis y caracterización electroquímica de materiales",
+                                            "descripción": "Creación y análisis de materiales mediante métodos electroquímicos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Medicina y Ciencias de la Salud",
+                                                    "campo_snii": "QUÍMICA",
+                                                    "disciplina_snii": "Electroquímica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Desarrollo de sistemas microfluídicos para técnicas de sensado y conversión energética",
+                                            "descripción": "Creación de dispositivos microfluídicos para detección y conversión de energía.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Medicina y Ciencias de la Salud",
+                                                    "campo_snii": "QUÍMICA",
+                                                    "disciplina_snii": "Electroquímica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Degradación fotoelectrocatalítica de compuestos recalcitrantes",
+                                            "descripción": "Uso de fotoelectrocatalizadores para descomponer compuestos difíciles de eliminar.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Medicina y Ciencias de la Salud",
+                                                    "campo_snii": "QUÍMICA",
+                                                    "disciplina_snii": "Electroquímica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Bioelectroquímica",
+                                            "descripción": "Estudio de procesos electroquímicos en sistemas biológicos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Medicina y Ciencias de la Salud",
+                                                    "campo_snii": "QUÍMICA",
+                                                    "disciplina_snii": "Electroquímica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Películas delgadas de Nanocompuestos de TiBxNy y TiBxCy para aplicaciones de alta temperatura",
+                                            "descripción": "Desarrollo de películas delgadas para aplicaciones a altas temperaturas.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Medicina y Ciencias de la Salud",
+                                                    "campo_snii": "QUÍMICA",
+                                                    "disciplina_snii": "Electroquímica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Membranas antibacteriales de aplicación biomédica",
+                                            "descripción": "Creación de membranas con propiedades antibacteriales para uso en medicina.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Medicina y Ciencias de la Salud",
+                                                    "campo_snii": "QUÍMICA",
+                                                    "disciplina_snii": "Electroquímica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Electrodos catalizadores nanoestructurados para celdas de hidrógeno",
+                                            "descripción": "Desarrollo de electrodos para mejorar la eficiencia de celdas de hidrógeno.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Medicina y Ciencias de la Salud",
+                                                    "campo_snii": "QUÍMICA",
+                                                    "disciplina_snii": "Electroquímica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Análisis estructural de recubrimientos de multicapa como barreras térmicas y de protección a la corrosión-erosión",
+                                            "descripción": "Estudio de recubrimientos para protección térmica y contra la corrosión y erosión.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Medicina y Ciencias de la Salud",
+                                                    "campo_snii": "QUÍMICA",
+                                                    "disciplina_snii": "Electroquímica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Síntesis de nanoestructuras metal-cerámicas para el desarrollo de nanofluidos para colectores solares",
+                                            "descripción": "Creación de nanomateriales para mejorar la eficiencia de colectores solares.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Medicina y Ciencias de la Salud",
+                                                    "campo_snii": "QUÍMICA",
+                                                    "disciplina_snii": "Electroquímica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Desarrollo de supercapacitores de óxidos metálicos de alta capacidad de almacenamiento",
+                                            "descripción": "Creación de supercapacitores con alta capacidad de almacenamiento de energía.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Medicina y Ciencias de la Salud",
+                                                    "campo_snii": "QUÍMICA",
+                                                    "disciplina_snii": "Electroquímica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Procesos de preparación de materiales de reactividad modulada por vía química y electroquímica",
+                                            "descripción": "Desarrollo de materiales mediante procesos químicos y electroquímicos ambientalmente amigables.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Medicina y Ciencias de la Salud",
+                                                    "campo_snii": "QUÍMICA",
+                                                    "disciplina_snii": "Electroquímica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Procesos de tratamiento y modificación de superficies por vía química y electroquímica",
+                                            "descripción": "Técnicas químicas y electroquímicas para modificar superficies.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Medicina y Ciencias de la Salud",
+                                                    "campo_snii": "QUÍMICA",
+                                                    "disciplina_snii": "Electroquímica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Electrocristalización, nucleación y crecimiento de cristales metálicos",
+                                            "descripción": "Estudio de la formación y crecimiento de cristales metálicos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Medicina y Ciencias de la Salud",
+                                                    "campo_snii": "QUÍMICA",
+                                                    "disciplina_snii": "Electroquímica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Electrodeposición",
+                                            "descripción": "Proceso de depósito de materiales mediante técnicas electroquímicas.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Medicina y Ciencias de la Salud",
+                                                    "campo_snii": "QUÍMICA",
+                                                    "disciplina_snii": "Electroquímica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Estudio de la interfase metal/solución (adsorción-desorción)",
+                                            "descripción": "Investigación de las interacciones en la interfase metal/solución.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Medicina y Ciencias de la Salud",
+                                                    "campo_snii": "QUÍMICA",
+                                                    "disciplina_snii": "Electroquímica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Síntesis de nanomateriales para la conversión y almacenamiento de energía",
+                                            "descripción": "Creación de nanomateriales para aplicaciones energéticas.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Medicina y Ciencias de la Salud",
+                                                    "campo_snii": "QUÍMICA",
+                                                    "disciplina_snii": "Electroquímica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Valorización electroquímica de residuos industriales para la conversión de energía",
+                                            "descripción": "Uso de residuos industriales para generar energía mediante procesos electroquímicos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Medicina y Ciencias de la Salud",
+                                                    "campo_snii": "QUÍMICA",
+                                                    "disciplina_snii": "Electroquímica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Desarrollo de baterías metal-aire",
+                                            "descripción": "Innovación en baterías que utilizan reacciones de metal-aire.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Medicina y Ciencias de la Salud",
+                                                    "campo_snii": "QUÍMICA",
+                                                    "disciplina_snii": "Electroquímica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Desarrollo de micro y nanodispositivos de conversión y almacenamiento de energía",
+                                            "descripción": "Creación de dispositivos a micro y nano escala para aplicaciones energéticas.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Medicina y Ciencias de la Salud",
+                                                    "campo_snii": "QUÍMICA",
+                                                    "disciplina_snii": "Electroquímica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Síntesis de heterociclos",
+                                            "descripción": "Producción de compuestos heterocíclicos para aplicaciones químicas.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Medicina y Ciencias de la Salud",
+                                                    "campo_snii": "QUÍMICA",
+                                                    "disciplina_snii": "Electroquímica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Estudio electroquímico de compuestos organometálicos",
+                                            "descripción": "Investigación de las propiedades electroquímicas de compuestos organometálicos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Medicina y Ciencias de la Salud",
+                                                    "campo_snii": "QUÍMICA",
+                                                    "disciplina_snii": "Electroquímica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Electrodepósitos (Galvanoplastia)",
+                                            "descripción": "Técnicas de depósito de capas metálicas mediante electroquímica.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Medicina y Ciencias de la Salud",
+                                                    "campo_snii": "QUÍMICA",
+                                                    "disciplina_snii": "Electroquímica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Recubrimientos electrolíticos",
+                                            "descripción": "Aplicación de recubrimientos metálicos mediante técnicas electrolíticas.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Medicina y Ciencias de la Salud",
+                                                    "campo_snii": "QUÍMICA",
+                                                    "disciplina_snii": "Electroquímica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Optimización de baños para recubrimientos electrolíticos",
+                                            "descripción": "Mejora de procesos para aplicar recubrimientos metálicos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Medicina y Ciencias de la Salud",
+                                                    "campo_snii": "QUÍMICA",
+                                                    "disciplina_snii": "Electroquímica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Recubrimientos Funcionales",
+                                            "descripción": "Desarrollo de recubrimientos con propiedades específicas para diversas aplicaciones.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Medicina y Ciencias de la Salud",
+                                                    "campo_snii": "QUÍMICA",
+                                                    "disciplina_snii": "Electroquímica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Tratamiento de superficies",
+                                            "descripción": "Métodos para modificar y proteger superficies metálicas y no metálicas.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Medicina y Ciencias de la Salud",
+                                                    "campo_snii": "QUÍMICA",
+                                                    "disciplina_snii": "Electroquímica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Sistemas de generación de Biogás",
+                                            "descripción": "Desarrollo de sistemas para producir biogás a partir de residuos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Medicina y Ciencias de la Salud",
+                                                    "campo_snii": "QUÍMICA",
+                                                    "disciplina_snii": "Electroquímica"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "Salud",
+                                    "descripción_del_área": "Innovación en tecnologías y estrategias para mejorar la salud pública y ambiental.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Espectroscopía de impedancia en la caracterización de procesos electroquímicos, materiales, y para desarrollo de sensores",
+                                            "descripción": "Utilización de técnicas de espectroscopía de impedancia para estudiar procesos electroquímicos y desarrollo de sensores.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Medicina y Ciencias de la Salud",
+                                                    "campo_snii": "QUÍMICA",
+                                                    "disciplina_snii": "Electroquímica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Síntesis de Magnetita en nanopartículas por métodos electroquímicos",
+                                            "descripción": "Método electroquímico para la síntesis controlada de nanopartículas de Magnetita.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Medicina y Ciencias de la Salud",
+                                                    "campo_snii": "QUÍMICA",
+                                                    "disciplina_snii": "Electroquímica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Recuperación de baños de decapado",
+                                            "descripción": "Desarrollo de métodos electroquímicos para la recuperación de metales de baños de decapado.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Medicina y Ciencias de la Salud",
+                                                    "campo_snii": "QUÍMICA",
+                                                    "disciplina_snii": "Electroquímica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Cinética de adsorción de especies químicas en electrodos",
+                                            "descripción": "Estudio de la velocidad y mecanismos de adsorción en electrodos mediante técnicas electroquímicas.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Medicina y Ciencias de la Salud",
+                                                    "campo_snii": "QUÍMICA",
+                                                    "disciplina_snii": "Electroquímica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Recuperación de metales a partir de desechos electrónicos",
+                                            "descripción": "Desarrollo de procesos electroquímicos para la recuperación de metales de desechos electrónicos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Medicina y Ciencias de la Salud",
+                                                    "campo_snii": "QUÍMICA",
+                                                    "disciplina_snii": "Electroquímica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Superficies de electrodos modificadas con catalizadores y biocatalizadores",
+                                            "descripción": "Modificación de superficies de electrodos para mejorar la actividad catalítica y biológica.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Medicina y Ciencias de la Salud",
+                                                    "campo_snii": "QUÍMICA",
+                                                    "disciplina_snii": "Electroquímica"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "departamento": "Ingeniería Ambiental",
+                            "descripción_departamento": "El departamento de Ingeniería Ambiental se dedica al desarrollo de tecnologías y estrategias para la protección, conservación y gestión sostenible de recursos naturales y la mitigación de impactos ambientales.",
+                            "áreas": [
+                                {
+                                    "área": "Agua y Medio Ambiente",
+                                    "descripción_del_área": "Investigación y desarrollo de tecnologías para la purificación, conservación y gestión sostenible del agua y el medio ambiente.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Diseño y construcción de superficies modificadas para la transformación y detección de moléculas ambientales",
+                                            "descripción": "Creación de superficies especializadas para detectar y transformar contaminantes en agua, suelo y aire.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Ambiental"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Valorización de residuos para materiales en tratamiento de aguas y remoción de gases contaminantes",
+                                            "descripción": "Transformación de residuos en materiales útiles para el tratamiento de aguas y la eliminación de gases contaminantes.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Ambiental"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Adsorción de metales pesados en biomateriales",
+                                            "descripción": "Uso de biomateriales para la captura y eliminación de metales pesados del medio ambiente.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Ambiental"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Tratamiento de aguas",
+                                            "descripción": "Desarrollo de tecnologías y métodos para la purificación y tratamiento de agua.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Ambiental"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Tratamiento de superficies",
+                                            "descripción": "Métodos para la limpieza y protección de superficies ambientales.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Ambiental"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Tratamiento de aguas residuales usando sistemas electroquímicos microbianos y biotecnológicos",
+                                            "descripción": "Uso de biotecnología y electroquímica para el tratamiento de aguas residuales.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Ambiental"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Valorización de residuos orgánicos",
+                                            "descripción": "Recuperación de materiales valiosos a partir de residuos orgánicos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Ambiental"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Procesos de producción de biodiesel",
+                                            "descripción": "Desarrollo de métodos eficientes para producir biodiesel a partir de diversas fuentes.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Ambiental"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Valorización de residuos de aceites y grasas",
+                                            "descripción": "Transformación de residuos grasos en bioproductos útiles.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Ambiental"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Desarrollo de celdas de combustible microbiano para tratamiento de agua y residuos",
+                                            "descripción": "Uso de microorganismos en celdas de combustible para el tratamiento de agua y residuos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Ambiental"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Tratamiento de aguas residuales por catálisis homogénea y heterogénea",
+                                            "descripción": "Aplicación de métodos catalíticos para la depuración de aguas residuales.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Ambiental"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Energías alternativas",
+                                            "descripción": "Investigación en fuentes de energía sostenibles y alternativas.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Ambiental"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Tratamiento de residuos",
+                                            "descripción": "Métodos y tecnologías para la gestión y reciclaje de residuos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Ambiental"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Potabilización de agua",
+                                            "descripción": "Desarrollo de sistemas y tecnologías para hacer agua potable.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Ambiental"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Síntesis de materiales absorbentes",
+                                            "descripción": "Creación de materiales capaces de adsorber contaminantes del medio ambiente.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Ambiental"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Desarrollo de ingeniería de procesos para agua y lodo residual",
+                                            "descripción": "Diseño de procesos eficientes para el tratamiento de aguas residuales y lodos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Ambiental"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Diseño de plantas potabilizadoras",
+                                            "descripción": "Planificación y construcción de instalaciones para la potabilización de agua.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Ambiental"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Diseño de plantas de tratamiento de aguas residuales, biológicas y fisicoquímicas",
+                                            "descripción": "Creación de instalaciones para el tratamiento de aguas residuales mediante procesos biológicos y fisicoquímicos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Ambiental"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Desarrollo de procedimientos para remoción de contaminantes",
+                                            "descripción": "Implementación de métodos a nivel laboratorio para eliminar contaminantes del agua.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Ambiental"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Tratamiento de aguas residuales por métodos fisicoquímicos y electroquímicos",
+                                            "descripción": "Aplicación de técnicas diversas para la purificación de aguas residuales.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Ambiental"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Tratamiento de aguas residuales sanitarias mediante Humedales Artificiales",
+                                            "descripción": "Uso de humedales artificiales para el tratamiento natural de aguas residuales.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Ambiental"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Aprovechamiento del Biogás para generación de Energía",
+                                            "descripción": "Uso de biogás producido por residuos orgánicos como fuente de energía.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Ambiental"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Procesos biológicos aerobios y anaerobios para el tratamiento de efluentes",
+                                            "descripción": "Uso de microorganismos en condiciones aerobias y anaerobias para tratar aguas residuales.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Ambiental"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Líneas de desarrollo en tratamiento de agua para potabilización, tratamiento de aguas residuales y energías alternas",
+                                            "descripción": "Investigación y desarrollo en tecnologías de tratamiento de agua y energías sostenibles.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Ambiental"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Energías Alternas, sistemas de generación de biogás y revalorización de residuos orgánicos",
+                                            "descripción": "Innovación en la generación de energía a partir de biogás y la reutilización de residuos orgánicos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Ambiental"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "Energía",
+                                    "descripción_del_área": "Desarrollo y optimización de sistemas de producción, almacenamiento y gestión de energía sostenible.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Biorreactores y biorreactores asistidos electro-químicamente para el tratamiento de agua residual compleja",
+                                            "descripción": "Uso de biorreactores para tratar aguas residuales con alta carga orgánica y contaminantes complejos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Ambiental"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Valorización de residuos para el desarrollo de materiales funcionalizados con objetivos ambientales y energías alternativas",
+                                            "descripción": "Transformación de residuos en materiales útiles para aplicaciones ambientales y energéticas.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Ambiental"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Tratamiento químico y electroquímico de efluentes y residuos",
+                                            "descripción": "Técnicas químicas y electroquímicas para purificar efluentes y gestionar residuos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Ambiental"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Calor de Procesos por Concentración Solar con Espejos de Policarbonato",
+                                            "descripción": "Uso de energía solar concentrada para generar calor en procesos industriales.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Ambiental"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Recubrimientos fotocatalíticos en grandes áreas con proceso automatizado",
+                                            "descripción": "Aplicación automatizada de recubrimientos que catalizan reacciones bajo luz para degradar contaminantes.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Ambiental"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Materiales grafénicos en capas superficiales en grandes áreas con proceso automatizado",
+                                            "descripción": "Producción automatizada de capas de grafeno para diversas aplicaciones.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Ambiental"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Materiales compuestos con geopolímeros y materiales de reciclaje",
+                                            "descripción": "Desarrollo de materiales compuestos usando geopolímeros y materiales reciclados.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Ambiental"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Nanoalambres, nanotubos y nanopartículas",
+                                            "descripción": "Síntesis de nanoestructuras para aplicaciones en diversos campos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Ambiental"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Tratamiento de residuos en procesos de galvanoplastia",
+                                            "descripción": "Gestión y reciclaje de residuos generados en procesos de galvanoplastia.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Ambiental"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Tratamiento de agua en procesos de galvanoplastia",
+                                            "descripción": "Purificación del agua utilizada en procesos de galvanoplastia.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Ambiental"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Sistemas de Tratamiento de agua residual",
+                                            "descripción": "Desarrollo de tecnologías para la depuración de aguas residuales.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Ambiental"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Sistemas de Potabilización de agua",
+                                            "descripción": "Innovación en tecnologías para convertir agua no potable en potable.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Ambiental"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Clúster de Biocombustibles",
+                                            "descripción": "Investigación y desarrollo de biocombustibles y sus aplicaciones.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Ambiental"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Caracterización de materiales metálicos",
+                                            "descripción": "Estudio de las propiedades de materiales metálicos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Ambiental"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Corrosión de materiales metálicos",
+                                            "descripción": "Investigación de los procesos de corrosión en materiales metálicos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Ambiental"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Tecnología de materiales, tratamientos de superficies, corrosión, recubrimientos anticorrosivos",
+                                            "descripción": "Desarrollo de tecnologías para mejorar la durabilidad y funcionalidad de materiales mediante tratamientos superficiales.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Ambiental"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Desarrollo de materiales compuestos con matriz polimérica orgánica e inorgánica y con material reciclable",
+                                            "descripción": "Creación de materiales compuestos usando polímeros y materiales reciclados.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Ambiental"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Optimización de baños para recubrimientos electrolíticos",
+                                            "descripción": "Mejora de procesos para aplicar recubrimientos metálicos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Ambiental"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Recubrimientos Funcionales",
+                                            "descripción": "Desarrollo de recubrimientos con propiedades específicas para diversas aplicaciones.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Ambiental"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Tratamiento de superficies",
+                                            "descripción": "Métodos para modificar y proteger superficies metálicas y no metálicas.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Ambiental"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Sistemas de generación de Biogás",
+                                            "descripción": "Desarrollo de sistemas para producir biogás a partir de materia orgánica",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Ambiental"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "Salud",
+                                    "descripción_del_área": "Innovación en tecnologías y estrategias para mejorar la salud pública y ambiental.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Monocapas autoensambladas",
+                                            "descripción": "Formación de monocapas autoensambladas para aplicaciones en sensores y dispositivos microfluídicos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Ambiental"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Celdas de combustible microfluídicas",
+                                            "descripción": "Desarrollo de celdas de combustible integradas en sistemas microfluídicos para aplicaciones portátiles.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Ambiental"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Sistemas de microanálisis total (microTAS, lab on a chip)",
+                                            "descripción": "Integración de sistemas de análisis completos en dispositivos lab-on-a-chip para diagnósticos rápidos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Ambiental"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Diseño, preparación y caracterización de nanomateriales poliméricos de uso biomédico e industrial",
+                                            "descripción": "Desarrollo de nanomateriales poliméricos para aplicaciones específicas en biomedicina e industria.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Ambiental"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Desarrollo de recubrimientos poliméricos de última generación",
+                                            "descripción": "Investigación de recubrimientos poliméricos avanzados para aplicaciones en aeronáutica, automotriz y biomédica.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Ambiental"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Comportamiento y mecanismo de acción antibacteriana de nanomateriales",
+                                            "descripción": "Estudio de nanomateriales para entender y mejorar su capacidad antibacteriana.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Ambiental"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Artificial Fotosíntesis (CO2 reduction) en sistemas Microfluídica",
+                                            "descripción": "Aplicación de sistemas microfluídicos para la reducción electroquímica de CO2 y obtención de combustibles líquidos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Ambiental"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Organ-on-a chip",
+                                            "descripción": "Desarrollo de dispositivos microfluídicos para cultivos celulares y estudios de órganos en chips.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Ambiental"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Biosensores",
+                                            "descripción": "Investigación y desarrollo de biosensores basados en sistemas microfluídicos y lab-on-a-chip.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Ambiental"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Magnetic Hipertermia",
+                                            "descripción": "Utilización de nanopartículas magnéticas para tratamiento de hipertermia en cáncer.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Ambiental"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "MRI y Liberación de Fármacos para Teranostica Cancer",
+                                            "descripción": "Aplicación de resonancia magnética y liberación controlada de fármacos para diagnóstico y tratamiento de cáncer.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Ambiental"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Depósito y caracterización de biomateriales",
+                                            "descripción": "Desarrollo y análisis de biomateriales depositados en superficies para aplicaciones específicas.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Ambiental"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Procesos de biofuncionalización de superficies",
+                                            "descripción": "Estudio de métodos para funcionalizar superficies con aplicaciones biológicas.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Ambiental"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Procesos de microfabricación basados en polímeros",
+                                            "descripción": "Desarrollo de procesos de fabricación a microescala utilizando polímeros como materiales base.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Ambiental"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Reducción electroquímica de CO2 mediada con compuestos de coordinación",
+                                            "descripción": "Investigación de compuestos de coordinación para la reducción electroquímica de CO2 y producción de combustibles.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Ambiental"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Estudio de la transferencia electrónica de enzimas redox con compuestos de coordinación",
+                                            "descripción": "Investigación de la interacción entre enzimas redox y compuestos de coordinación para desarrollo de biosensores.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Ambiental"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Estudio de los procesos electroquímicos de compuestos de coordinación bio-miméticos",
+                                            "descripción": "Análisis de procesos electroquímicos utilizando compuestos de coordinación con actividad biológica.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Ambiental"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Diseño de materiales nanoestructurados para fotocatálisis y foto electrocatálisis",
+                                            "descripción": "Desarrollo de materiales nanoestructurados para aplicaciones en fotocatálisis y fotoelectrocatalisis.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Ambiental"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "redes_sociales": [
+                {
+                    "red": "Facebook",
+                    "identificador": "https://www.facebook.com/cideteqsc/",
+                    "activa": true,
+                    "propósito": "difusión científica"
+                },
+                {
+                    "red": "YouTube",
+                    "identificador": "https://www.youtube.com/cideteqsc",
+                    "activa": true,
+                    "propósito": "difusión científica"
+                },
+                {
+                    "red": "Instagram",
+                    "identificador": "https://www.instagram.com/cideteq/",
+                    "activa": true,
+                    "propósito": "difusión científica"
+                },
+                {
+                    "red": "X",
+                    "identificador": "https://x.com/i/flow/login?redirect_after_login=%2FCIDETEQ",
+                    "activa": true,
+                    "propósito": "difusión científica"
+                },
+                {
+                    "red": "LinkedIn",
+                    "identificador": "https://mx.linkedin.com/company/cideteq",
+                    "activa": true,
+                    "propósito": "difusión científica"
+                }
+            ]
+        }
+    ]
+}
