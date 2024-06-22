@@ -1,0 +1,909 @@
+{
+    "cpis": [
+        {
+            "nombre_cpi": "Centro de Investigación y Asistencia en Tecnología y Diseño del Estado de Jalisco",
+            "siglas_cpi": "CIATEJ",
+            "descripción_breve": "Es un Centro de Investigación que pertenece a la Coordinación de Medio Ambiente, Salud y Alimentación del Sistema de Centros Públicos de Investigación (CPI) del Consejo Nacional de Humanidades, Ciencia y Tecnología (Conahcyt).",
+            "descripción": "Desde hace más de 40 años hemos realizado actividades de Investigación, Desarrollo Tecnológico e Innovación (I+D+i), además ofrecemos servicios tecnológicos y de formación de recursos humanos especializados con programas de posgrado (maestrías y doctorados), educación continua (capacitación) e iniciación a la investigación (estancias y tesistas de pregrado).",
+            "misión": "Somos un Centro Público de Investigación del CONACYT que impulsa el desarrollo sostenible de la sociedad, mediante la generación de conocimiento de vanguardia, formación de talento especializado y aplicación innovadora de la ciencia y tecnología.",
+            "visión": "Ser una organización que fomenta el conocimiento e innovación tecnológica, a través de redes de colaboración nacionales e internacionales y alianzas con los sectores público y privado para contribuir al desarrollo sostenible de la sociedad.",
+            "titular": "Eugenia del Carmen Lugo Cervantes",
+            "fecha_designación_titular": "2019/07/26",
+            "grado_académico_titular": "Doctorado",
+            "especialidad_titular": "En procesos biotecnológicos. Este doctorado lo obtuvo de la Universidad de Guadalajara, México, en colaboración con el Politécnico de Lorraine, Francia.",
+            "origen": "El Centro de Investigación y Asistencia en Tecnología y Diseño del Estado de Jalisco (CIATEJ) fue fundado en 1976 como una iniciativa del gobierno de Jalisco y el Consejo Nacional de Ciencia y Tecnología (CONACYT) para promover el desarrollo tecnológico y la innovación en la región.",
+            "fecha_creación": "1979-11-16",
+            "historia_establecimiento": "Este centro se originó como una iniciativa conjunta del Gobierno del Estado de Jalisco y el Consejo Nacional de Ciencia y Tecnología (CONACYT) con el propósito de impulsar el desarrollo tecnológico y la innovación en la región.",
+            "contexto_histórico": "En los años 70, México experimentó una creciente demanda de desarrollo tecnológico y científico para apoyar la industrialización y el crecimiento económico del país. En este contexto, el Gobierno del Estado de Jalisco y el CONACYT vieron la necesidad de crear una institución que pudiera brindar asistencia tecnológica a las industrias locales. La creación del CIATEJ respondió a esta necesidad, ofreciendo servicios de investigación aplicada, desarrollo tecnológico y capacitación en diversas áreas, como biotecnología, tecnología de alimentos, medio ambiente y diseño industrial.",
+            "tipo_entidad_legal": "Paraestatal asimilada al régimen de las empresas de participación estatal mayoritaria",
+            "figura_jurídica": "Asociación Civil",
+            "marco_normativo": [
+                {
+                    "ley_o_instrumento_jurídico": "Ley Orgánica de la Administración Pública Federal"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "Ley Federal de las Entidades Paraestatales"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "Ley de Ciencia y Tecnología"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "Instrumento Jurídico de Creación del Centro de Investigación y Asistencia en Tecnología y Diseño del Estado de Jalisco, Asociación Civil (CIATEJ, A.C.)"
+                }
+            ],
+            "presupuesto": [
+                {
+                    "año": 2020,
+                    "total": 244448096,
+                    "recursos_fiscales": 0,
+                    "recursos_propios": 0
+                },
+                {
+                    "año": 2021,
+                    "total": 251292451,
+                    "recursos_fiscales": 0,
+                    "recursos_propios": 0
+                },
+                {
+                    "año": 2022,
+                    "total": 259816757,
+                    "recursos_fiscales": 0,
+                    "recursos_propios": 0
+                },
+                {
+                    "año": 2023,
+                    "total": 271945684,
+                    "recursos_fiscales": 0,
+                    "recursos_propios": 0
+                },
+                {
+                    "año": 2024,
+                    "total": 286814083,
+                    "recursos_fiscales": 231912893,
+                    "recursos_propios": 54901190
+                }
+            ],
+            "programas_académicos": [
+                {
+                    "programa": "Maestría en Investigación Clínica",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Medicina y Ciencias de la Salud",
+                            "campo_snii": "Investigación Médica",
+                            "disciplina_snii": "Investigación Clinica"
+                        }
+                    ],
+                    "nivel": "maestría",
+                    "modalidad": "regular",
+                    "vía": "presencial"
+                },
+                {
+                    "programa": "Maestría en Ciencias de la Floricultura",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Ciencias Agropecuarias y Biotecnología",
+                            "campo_snii": "Agronomía",
+                            "disciplina_snii": "Ciencias de la Floricultura"
+                        }
+                    ],
+                    "nivel": "maestría",
+                    "modalidad": "regular",
+                    "vía": "presencial"
+                },
+                {
+                    "programa": "Maestría en Ciencias en Innovación Biotecnológica",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Ciencias Agropecuarias y Biotecnología",
+                            "campo_snii": "Biotecnología",
+                            "disciplina_snii": "Bioprocesos"
+                        }
+                    ],
+                    "nivel": "maestría",
+                    "modalidad": "regular",
+                    "vía": "presencial"
+                },
+                {
+                    "programa": "Doctorado en Ciencias en Innovación Biotecnológica",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Ciencias Agropecuarias y Biotecnología",
+                            "campo_snii": "Biotecnología",
+                            "disciplina_snii": "Bioprocesos"
+                        }
+                    ],
+                    "nivel": "doctorado",
+                    "modalidad": "regular",
+                    "vía": "presencial"
+                },
+                {
+                    "programa": "Especialidad Nacional para el Bienestar Comunitario en Agroecologías y Soberanías Alimentarias (ENBC - ASA)",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Ciencias Agropecuarias y Biotecnología",
+                            "campo_snii": "Agronomía",
+                            "disciplina_snii": "Manejo Sustentable de Agroecosistemas"
+                        }
+                    ],
+                    "nivel": "educación continua",
+                    "modalidad": "regular",
+                    "vía": "presencial"
+                }
+            ],
+            "unidades": [
+                {
+                    "nombre_unidad": "CIATEJ GUADALAJARA",
+                    "descripción_unidad": "La sede Guadalajara ha sido pionera e históricamente nos representa como uno de los centros de innovación científica de mayor reconocimiento gracias a su calidad y prospección en la aplicación de la ciencia y la tecnología.",
+                    "dirección_postal": "44270",
+                    "latitud": 20.6938586,
+                    "longitud": -103.4292453,
+                    "departamentos": [
+                        {
+                            "departamento": "Biotecnología Médica y Farmacéutica",
+                            "descripción_departamento": "Atender las demandas y retos del sector médico y farmacéutico en México a través de la investigación, desarrollo y transferencia de productos innovadores para la prevención, diagnóstico, tratamiento y control de patologías humanas y veterinarias considerando las bases moleculares de la salud y la enfermedad.",
+                            "áreas": [
+                                {
+                                    "área": "Biotecnología Médica y Farmacéutica",
+                                    "descripción_del_área": "La Unidad de Biotecnología Médica y Farmacéutica la conformamos 22-24 investigadores comprometidos a atender las demandas y retos del sector médico y farmacéutico a nivel global a través de la investigación, desarrollo y transferencia de productos innovadores y oferta de servicios altamente especializados para la prevención, diagnóstico, tratamiento y control de patologías humanas y animales, infecciosas y no infecciosas, considerando las bases moleculares de la salud y la enfermedad.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Desarrollo y evaluación de productos con potencial terapéutico",
+                                            "descripción": "Somos un grupo multidisciplinario orientado a desarrollar estrategias terapéuticas innovadoras y que realiza investigación en la frontera de la ciencia, dando prioridad a la protección intelectual y la transferencia tecnológica. Los proyectos se realizan vinculando instituciones de educación superior, empresas nacionales y/o extranjeras.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Agropecuarias y Biotecnología",
+                                                    "campo_snii": "Biotecnología",
+                                                    "disciplina_snii": "Bioprocesos"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Desarrollo y evaluación de vacunas y compuestos inmunomoduladores",
+                                            "descripción": "Desarrollamos y evaluamos estrategias para mejorar la protección conferida por las vacunas. Para ello, empleamos virus o bacterias, ya sea aislados de pacientes y atenuados o modificados por ingeniería genética, o bien por el empleo de compuestos (ADN o proteínas) derivados de estos microorganismos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Agropecuarias y Biotecnología",
+                                                    "campo_snii": "Biotecnología",
+                                                    "disciplina_snii": "Bioprocesos"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Ingeniería biomédica de medicamentos biotecnológicos e ingeniería de tejidos",
+                                            "descripción": "Somos un grupo de investigadores especialistas en el área de la Ingeniería de Medicamentos e Ingeniería de Tejidos, cuyo objetivo es ofrecer soluciones e innovar en el área de la bioingeniería médica a nivel Nacional e Internacional. Nuestra investigación aborda temas como la; terapia génica, la terapia celular, la ingeniería tisular, la ciencia de materiales y la nanotecnología. Tenemos colaboración con diferentes Universidades, Institutos, Centros de Investigación Empresas de base biotecnológica y organizaciones sin fines de lucro.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Agropecuarias y Biotecnología",
+                                                    "campo_snii": "Biotecnología",
+                                                    "disciplina_snii": "Bioprocesos"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Desarrollo y validación de pruebas de diagnóstico molecular",
+                                            "descripción": "Desarrollo de nuevos métodos diagnósticos cualitativos o cuantitativos, que sean mínimamente invasivos, eficientes, sensibles, específicos, de fácil uso e interpretación, así como económicos para su aplicación en campo o en puntos de atención. Además, del enfoque del diagnóstico asociado a la medicina personalizada.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Agropecuarias y Biotecnología",
+                                                    "campo_snii": "Biotecnología",
+                                                    "disciplina_snii": "Bioprocesos"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "departamento": "Tecnología Ambiental",
+                            "descripción_departamento": "En México al igual que en todo el mundo, las actividades productivas han deteriorado el ecosistema afectando la salud de las poblaciones. En los últimos años, las investigaciones en temas ambientales se han vuelto una prioridad para los gobiernos del mundo. Buscamos tecnologías innovadoras que prevengan, reduzcan y controlen la contaminación, es decir, que los desarrollos productivos sean solidarios con el cuidado del medio ambiente.",
+                            "áreas": [
+                                {
+                                    "área": "Tecnología Ambiental",
+                                    "descripción_del_área": "Somos un grupo de investigación que atiende las necesidades de los sectores productivos y gubernamental, generamos nuevo conocimiento mediante el desarrollo de proyectos de I+D+i con alto valor ambiental, de impacto social regional y nacional; llevamos a cabo la transferencia de servicios tecnológicos con valor agregado; formamos recursos humanos de licenciatura y posgrado en el campo ambiental y fomentamos la divulgación y la difusión del conocimiento a través de publicaciones nacionales e internacionales.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Tratamiento de Aguas Residuales",
+                                            "descripción": "Con la finalidad de evitar su contaminación, el agua residual doméstica e industrial requiere un tratamiento previo a su descarga a cuerpos receptores de agua y suelos fértiles. En Tecnología Ambiental generamos conocimiento aplicando procesos y tecnologías innovadoras, que sean eficientes y sustentables para el tratamiento de las aguas residuales.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "Ingeniería y Tecnología",
+                                                    "disciplina_snii": "Ingenieria Ambiental"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Evaluación de la Calidad del Agua",
+                                            "descripción": "En la UTAM tenemos el propósito de generar conocimiento e innovación para el estudio, preservación y aprovechamiento racional de uno de los recursos naturales con mayor valor para la sociedad: el agua para consumo humano. Además de determinar su calidad a través de la medición de numerosos parámetros fisicoquímicos, se genera información que permitirá su utilización sostenible para que este recurso detone el crecimiento y desarrollo en las distintas regiones del país.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "Ingeniería y Tecnología",
+                                                    "disciplina_snii": "Ingenieria Ambiental"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Manejo Integral de Residuos Agroindustriales",
+                                            "descripción": "La sublínea de investigación de manejo integral de residuos agroindustriales se orienta al aprovechamiento de los residuos agroindustriales y urbanos, mediante tecnologías convencionales y el desarrollo de tecnologías innovadoras. Con esto se busca la conversión de los residuos en energía, en poder fertilizante y en procesos biotecnológicos que generen subproductos con valor agregado, logrando así una economía circular en la gestión de residuos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "Ingeniería y Tecnología",
+                                                    "disciplina_snii": "Ingenieria Ambiental"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Servicios",
+                                            "descripción": "Servicios que ofrecen las lineas de investigación y más",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "Ingeniería y Tecnología",
+                                                    "disciplina_snii": "Ingenieria Ambiental"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "departamento": "Tecnología Alimentaria",
+                            "descripción_departamento": "Es necesario generar ciencia básica y tecnología aplicada que permita innovar y proponer nuevas alternativas al sector de alimentos y bebidas, que tengan un beneficio para la salud, incorporen nuevos ingredientes y conserven sus propiedades para beneficio de los consumidores.",
+                            "áreas": [
+                                {
+                                    "área": "Tecnología Alimentaria",
+                                    "descripción_del_área": "La inclusión de nuevas tecnologías, la difusión de las ya existentes, los mejoramientos de procesos y vinculación con el sector productivo a través de licenciamientos, han propiciado un entorno en el que productores, consumidores y expertos buscan alternativas viables para disfrutar de los beneficios que la innovación tecnológica les ofrece.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Desarrollo y Calidad de Alimentos y Bebidas",
+                                            "descripción": "El desarrollo y la calidad de alimentos y bebidas es un campo multifacético que se enfoca en crear productos alimenticios seguros, nutritivos y atractivos para los consumidores, mientras se aseguran de cumplir con regulaciones y estándares de calidad.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Medicina y Ciencias de la Salud",
+                                                    "campo_snii": "Especialidad Médica",
+                                                    "disciplina_snii": "Seguridad Alimentaria y Nutricional"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Tecnología de Procesos Agroalimentarios",
+                                            "descripción": "Este campo abarca desde la producción y recolección de materias primas hasta el procesamiento, conservación, empaquetado y distribución de alimentos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Medicina y Ciencias de la Salud",
+                                                    "campo_snii": "Especialidad Médica",
+                                                    "disciplina_snii": "Seguridad Alimentaria y Nutricional"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Calidad e Inocuidad Alimentaría",
+                                            "descripción": "La calidad e inocuidad alimentaria son aspectos cruciales en la industria de alimentos y bebidas, garantizando que los productos sean seguros para el consumo y cumplan con las expectativas de los consumidores en términos de sabor, textura, apariencia y valor nutricional.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Medicina y Ciencias de la Salud",
+                                                    "campo_snii": "Especialidad Médica",
+                                                    "disciplina_snii": "Seguridad Alimentaria y Nutricional"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Tecnologías Emergentes",
+                                            "descripción": "Las tecnologías emergentes están transformando la industria agroalimentaria, ofreciendo nuevas formas de mejorar la eficiencia, la sostenibilidad y la seguridad en la producción y procesamiento de alimentos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Medicina y Ciencias de la Salud",
+                                                    "campo_snii": "Especialidad Médica",
+                                                    "disciplina_snii": "Seguridad Alimentaria y Nutricional"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Nutrigenómica",
+                                            "descripción": "La nutrigenómica es un campo interdisciplinario que estudia la interacción entre los nutrientes y los genes, y cómo esta relación afecta la salud y el riesgo de desarrollar enfermedades.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Medicina y Ciencias de la Salud",
+                                                    "campo_snii": "Especialidad Médica",
+                                                    "disciplina_snii": "Seguridad Alimentaria y Nutricional"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "nombre_unidad": "CIATEJ Subsede ZAPOPAN",
+                    "descripción_unidad": "En CIATEJ Subsede ZAPOPAN estamos orgullosos de servir con dedicación e integridad al sector agrícola y agroindustrial a través de la innovación y servicios tecnológicos, así como colaborar en la formación de recursos humanos, incrementando su ventaja competitiva en un mercado global, con productos y servicios innovadores y de calidad mediante la aplicación de las herramientas de la biotecnología.",
+                    "dirección_postal": "45019",
+                    "latitud": 20.7011057,
+                    "longitud": -103.4734976,
+                    "departamentos": [
+                        {
+                            "departamento": "Tecnología Alimentaria",
+                            "descripción_departamento": "Es necesario generar ciencia básica y tecnología aplicada que permita innovar y proponer nuevas alternativas al sector de alimentos y bebidas, que tengan un beneficio para la salud, incorporen nuevos ingredientes y conserven sus propiedades para beneficio de los consumidores.",
+                            "áreas": [
+                                {
+                                    "área": "Tecnología Alimentaria",
+                                    "descripción_del_área": "La inclusión de nuevas tecnologías, la difusión de las ya existentes, los mejoramientos de procesos y vinculación con el sector productivo a través de licenciamientos, han propiciado un entorno en el que productores, consumidores y expertos buscan alternativas viables para disfrutar de los beneficios que la innovación tecnológica les ofrece.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Desarrollo y Calidad de Alimentos y Bebidas",
+                                            "descripción": "El desarrollo y la calidad de alimentos y bebidas es un campo multifacético que se enfoca en crear productos alimenticios seguros, nutritivos y atractivos para los consumidores, mientras se aseguran de cumplir con regulaciones y estándares de calidad.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Medicina y Ciencias de la Salud",
+                                                    "campo_snii": "Especialidad Médica",
+                                                    "disciplina_snii": "Seguridad Alimentaria y Nutricional"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Tecnología de Procesos Agroalimentarios",
+                                            "descripción": "Este campo abarca desde la producción y recolección de materias primas hasta el procesamiento, conservación, empaquetado y distribución de alimentos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Medicina y Ciencias de la Salud",
+                                                    "campo_snii": "Especialidad Médica",
+                                                    "disciplina_snii": "Seguridad Alimentaria y Nutricional"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Calidad e Inocuidad Alimentaría",
+                                            "descripción": "La calidad e inocuidad alimentaria son aspectos cruciales en la industria de alimentos y bebidas, garantizando que los productos sean seguros para el consumo y cumplan con las expectativas de los consumidores en términos de sabor, textura, apariencia y valor nutricional.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Medicina y Ciencias de la Salud",
+                                                    "campo_snii": "Especialidad Médica",
+                                                    "disciplina_snii": "Seguridad Alimentaria y Nutricional"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Tecnologías Emergentes",
+                                            "descripción": "Las tecnologías emergentes están transformando la industria agroalimentaria, ofreciendo nuevas formas de mejorar la eficiencia, la sostenibilidad y la seguridad en la producción y procesamiento de alimentos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Medicina y Ciencias de la Salud",
+                                                    "campo_snii": "Especialidad Médica",
+                                                    "disciplina_snii": "Seguridad Alimentaria y Nutricional"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Nutrigenómica",
+                                            "descripción": "La nutrigenómica es un campo interdisciplinario que estudia la interacción entre los nutrientes y los genes, y cómo esta relación afecta la salud y el riesgo de desarrollar enfermedades.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Medicina y Ciencias de la Salud",
+                                                    "campo_snii": "Especialidad Médica",
+                                                    "disciplina_snii": "Seguridad Alimentaria y Nutricional"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "departamento": "Biotecnología Industrial",
+                            "descripción_departamento": "La Unidad de Biotecnología Industrial está enfocada en la generación de conocimiento con el propósito de encontrar soluciones biotecnológicas para el desarrollo sustentable de bioprocesos y energías renovables. En conjunto con las líneas de investigación del CIATEJ, atiende de manera transversal los sectores Agropecuario, Agua y Medio Ambiente, Alimentos y bebidas, Salud Humana y Animal y Bioprocesos y Energía.",
+                            "áreas": [
+                                {
+                                    "área": "Biotecnología Industrial",
+                                    "descripción_del_área": "La Unidad de Biotecnología industrial se orienta hacia al desarrollo de productos y servicios en sectores claves de la industria agroalimentaria tales como: la biotransformación, el aprovechamiento de residuos agroindustriales y el desarrollo de bio-combustibles.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Diseño y optimización de procesos fermentativos",
+                                            "descripción": "El diseño y la optimización de procesos fermentativos son fundamentales en la biotecnología industrial para maximizar la producción de productos deseables como biocombustibles, productos químicos, alimentos y más.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "Ingeniería y Tecnología",
+                                                    "disciplina_snii": "Ingeniería Industrial"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Diseño, optimización y aplicación de biocatalizadores",
+                                            "descripción": "Esta sublínea está orientada a la búsqueda y selección de enzimas con aplicaciones en distintos sectores de la industria. Una vez que las enzimas han sido seleccionadas mediante procesos de cribado específicos, desarrollamos bioprocesos para su producción ya sea de forma nativa o recombinante, desde nivel laboratorio hasta nivel piloto.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "Ingeniería y Tecnología",
+                                                    "disciplina_snii": "Ingeniería Industrial"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Biología Sintética",
+                                            "descripción": "La Biología Sintética (SynBio) es una disciplina capaz de diseñar y construir nuevos sistemas biológicos a través del Intercambio de componentes y/o partes de su genoma con el fin de otorgarles nuevas o mejoradas funciones que no se encuentran en la naturaleza.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "Ingeniería y Tecnología",
+                                                    "disciplina_snii": "Ingeniería Industrial"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Bioelectrónica",
+                                            "descripción": "CIATEJ durante las últimas décadas se ha posicionado como una institución líder en el ámbito Biotecnológico, donde ha utilizado herramientas biológicas, moleculares y ómicas para atender las necesidades de nuestros clientes.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "Ingeniería y Tecnología",
+                                                    "disciplina_snii": "Ingeniería Industrial"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "departamento": "Biotecnología Vegetal",
+                            "descripción_departamento": "La Unidad de Biotecnología Vegetal como elemento sustantivo del CIATEJ sirve con dedicación al sector agrícola, agropecuario y agroindustrial a través de investigación; desarrollo; servicios tecnológicos y formación de recursos humanos, con el propósito de contribuir al incremento de sus ventajas competitivas e innovadoras en los mercados globales actuales-",
+                            "áreas": [
+                                {
+                                    "área": "Biotecnología Vegetal",
+                                    "descripción_del_área": "La Biotecnología Vegetal (BV) es el conjunto de técnicas utilizadas para mejorar las variedades de plantas en función de características de interés agrícola y de ornamentación. Esta línea de investigación comprende conocimientos de diversas áreas de la ciencia como bioquímica, agronomía, biología celular y genética.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Micropropagación de Especies Vegetales",
+                                            "descripción": "La propagación in vitro (micropropagación) de especies vegetales es una herramienta biotecnológica muy importante para la producción masiva de plantas de interés comercial.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Agropecuarias y Biotecnología",
+                                                    "campo_snii": "Biotecnología",
+                                                    "disciplina_snii": "Biotecnología Vegetal"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Fitopatología",
+                                            "descripción": "La biotecnología vegetal tiene como objetivo generar conocimiento que ayude a la resolución de los problemas que se presentan en la agricultura. Una problemática importante a resolver es el manejo de las plagas y enfermedades de los principales cultivos agrícolas de importancia económica del país.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Agropecuarias y Biotecnología",
+                                                    "campo_snii": "Biotecnología",
+                                                    "disciplina_snii": "Biotecnología Vegetal"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Mejoramiento Genético Vegetal",
+                                            "descripción": "El mejoramiento genético de los cultivos son procesos por medio de los cuales se producen nuevas y mejores variedades de plantas cultivadas para el beneficio del hombre. Estas nuevas variedades pueden estar orientadas a un mayor rendimiento, mejor calidad nutritiva, resistencia a plagas y enfermedades, resistencia a diversos tipos de estrés abiótico, mejor aprovechamiento de nutrientes del suelo.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Agropecuarias y Biotecnología",
+                                                    "campo_snii": "Biotecnología",
+                                                    "disciplina_snii": "Biotecnología Vegetal"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Fitoquímica y Biocompuestos",
+                                            "descripción": "En esta sub-línea de investigación se enriquece el conocimiento fitoquímico de la flora de la región, se valida sus usos a través de estudios multidisciplinarios y se estudian los metabolitos secundarios, los cuales son compuestos de bajo peso molecular que juegan un papel fundamental para garantizar la supervivencia de las especies dentro del ecosistema, formando parte de las respuestas de defensa contra animales herbívoros, microorganismos, virus o plantas competentes.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Agropecuarias y Biotecnología",
+                                                    "campo_snii": "Biotecnología",
+                                                    "disciplina_snii": "Biotecnología Vegetal"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "nombre_unidad": "Unidad Sureste de Servicios Tecnológicos (USETEC)",
+                    "descripción_unidad": "La Subsede Sureste cuenta con capacidades científicas y tecnológicas y equipamiento para coadyuvar en el desarrollo de la Industria de la región Sureste (Yucatán, Quintana Roo, Campeche, Tabasco, Chiapas y Oaxaca).",
+                    "dirección_postal": "97302",
+                    "latitud": 21.1313324,
+                    "longitud": -89.7832512,
+                    "departamentos": [
+                        {
+                            "departamento": "Tecnología Alimentaria",
+                            "descripción_departamento": "Es necesario generar ciencia básica y tecnología aplicada que permita innovar y proponer nuevas alternativas al sector de alimentos y bebidas, que tengan un beneficio para la salud, incorporen nuevos ingredientes y conserven sus propiedades para beneficio de los consumidores.",
+                            "áreas": [
+                                {
+                                    "área": "Tecnología Alimentaria",
+                                    "descripción_del_área": "La inclusión de nuevas tecnologías, la difusión de las ya existentes, los mejoramientos de procesos y vinculación con el sector productivo a través de licenciamientos, han propiciado un entorno en el que productores, consumidores y expertos buscan alternativas viables para disfrutar de los beneficios que la innovación tecnológica les ofrece.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Desarrollo y Calidad de Alimentos y Bebidas",
+                                            "descripción": "El desarrollo y la calidad de alimentos y bebidas es un campo multifacético que se enfoca en crear productos alimenticios seguros, nutritivos y atractivos para los consumidores, mientras se aseguran de cumplir con regulaciones y estándares de calidad.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Medicina y Ciencias de la Salud",
+                                                    "campo_snii": "Especialidad Médica",
+                                                    "disciplina_snii": "Seguridad Alimentaria y Nutricional"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Tecnología de Procesos Agroalimentarios",
+                                            "descripción": "Este campo abarca desde la producción y recolección de materias primas hasta el procesamiento, conservación, empaquetado y distribución de alimentos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Medicina y Ciencias de la Salud",
+                                                    "campo_snii": "Especialidad Médica",
+                                                    "disciplina_snii": "Seguridad Alimentaria y Nutricional"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Calidad e Inocuidad Alimentaría",
+                                            "descripción": "La calidad e inocuidad alimentaria son aspectos cruciales en la industria de alimentos y bebidas, garantizando que los productos sean seguros para el consumo y cumplan con las expectativas de los consumidores en términos de sabor, textura, apariencia y valor nutricional.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Medicina y Ciencias de la Salud",
+                                                    "campo_snii": "Especialidad Médica",
+                                                    "disciplina_snii": "Seguridad Alimentaria y Nutricional"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Tecnologías Emergentes",
+                                            "descripción": "Las tecnologías emergentes están transformando la industria agroalimentaria, ofreciendo nuevas formas de mejorar la eficiencia, la sostenibilidad y la seguridad en la producción y procesamiento de alimentos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Medicina y Ciencias de la Salud",
+                                                    "campo_snii": "Especialidad Médica",
+                                                    "disciplina_snii": "Seguridad Alimentaria y Nutricional"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Nutrigenómica",
+                                            "descripción": "La nutrigenómica es un campo interdisciplinario que estudia la interacción entre los nutrientes y los genes, y cómo esta relación afecta la salud y el riesgo de desarrollar enfermedades.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Medicina y Ciencias de la Salud",
+                                                    "campo_snii": "Especialidad Médica",
+                                                    "disciplina_snii": "Seguridad Alimentaria y Nutricional"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "departamento": "Biotecnología Vegetal",
+                            "descripción_departamento": "La Unidad de Biotecnología Vegetal como elemento sustantivo del CIATEJ sirve con dedicación al sector agrícola, agropecuario y agroindustrial a través de investigación; desarrollo; servicios tecnológicos y formación de recursos humanos, con el propósito de contribuir al incremento de sus ventajas competitivas e innovadoras en los mercados globales actuales-",
+                            "áreas": [
+                                {
+                                    "área": "Biotecnología Vegetal",
+                                    "descripción_del_área": "La Biotecnología Vegetal (BV) es el conjunto de técnicas utilizadas para mejorar las variedades de plantas en función de características de interés agrícola y de ornamentación. Esta línea de investigación comprende conocimientos de diversas áreas de la ciencia como bioquímica, agronomía, biología celular y genética.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Micropropagación de Especies Vegetales",
+                                            "descripción": "La propagación in vitro (micropropagación) de especies vegetales es una herramienta biotecnológica muy importante para la producción masiva de plantas de interés comercial.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Agropecuarias y Biotecnología",
+                                                    "campo_snii": "Biotecnología",
+                                                    "disciplina_snii": "Biotecnología Vegetal"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Fitopatología",
+                                            "descripción": "La biotecnología vegetal tiene como objetivo generar conocimiento que ayude a la resolución de los problemas que se presentan en la agricultura. Una problemática importante a resolver es el manejo de las plagas y enfermedades de los principales cultivos agrícolas de importancia económica del país.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Agropecuarias y Biotecnología",
+                                                    "campo_snii": "Biotecnología",
+                                                    "disciplina_snii": "Biotecnología Vegetal"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Mejoramiento Genético Vegetal",
+                                            "descripción": "El mejoramiento genético de los cultivos son procesos por medio de los cuales se producen nuevas y mejores variedades de plantas cultivadas para el beneficio del hombre. Estas nuevas variedades pueden estar orientadas a un mayor rendimiento, mejor calidad nutritiva, resistencia a plagas y enfermedades, resistencia a diversos tipos de estrés abiótico, mejor aprovechamiento de nutrientes del suelo.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Agropecuarias y Biotecnología",
+                                                    "campo_snii": "Biotecnología",
+                                                    "disciplina_snii": "Biotecnología Vegetal"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Fitoquímica y Biocompuestos",
+                                            "descripción": "En esta sub-línea de investigación se enriquece el conocimiento fitoquímico de la flora de la región, se valida sus usos a través de estudios multidisciplinarios y se estudian los metabolitos secundarios, los cuales son compuestos de bajo peso molecular que juegan un papel fundamental para garantizar la supervivencia de las especies dentro del ecosistema, formando parte de las respuestas de defensa contra animales herbívoros, microorganismos, virus o plantas competentes.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Agropecuarias y Biotecnología",
+                                                    "campo_snii": "Biotecnología",
+                                                    "disciplina_snii": "Biotecnología Vegetal"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "nombre_unidad": "CIATEJ Subsede NORESTE",
+                    "descripción_unidad": "La Subsede Noreste del CIATEJ con enfoque integral de innovación en biotecnología y especialidad en alimentos está ubicada dentro del Parque de Investigación e Innovación Tecnológica (PIIT) del estado de Nuevo León.",
+                    "dirección_postal": "66629",
+                    "latitud": 25.7634503,
+                    "longitud": -100.1155651,
+                    "departamentos": [
+                        {
+                            "departamento": "Biotecnología Médica y Farmacéutica",
+                            "descripción_departamento": "Atender las demandas y retos del sector médico y farmacéutico en México a través de la investigación, desarrollo y transferencia de productos innovadores para la prevención, diagnóstico, tratamiento y control de patologías humanas y veterinarias considerando las bases moleculares de la salud y la enfermedad.",
+                            "áreas": [
+                                {
+                                    "área": "Biotecnología Médica y Farmacéutica",
+                                    "descripción_del_área": "La Unidad de Biotecnología Médica y Farmacéutica la conformamos 22-24 investigadores comprometidos a atender las demandas y retos del sector médico y farmacéutico a nivel global a través de la investigación, desarrollo y transferencia de productos innovadores y oferta de servicios altamente especializados para la prevención, diagnóstico, tratamiento y control de patologías humanas y animales, infecciosas y no infecciosas, considerando las bases moleculares de la salud y la enfermedad.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Desarrollo y evaluación de productos con potencial terapéutico",
+                                            "descripción": "Somos un grupo multidisciplinario orientado a desarrollar estrategias terapéuticas innovadoras y que realiza investigación en la frontera de la ciencia, dando prioridad a la protección intelectual y la transferencia tecnológica. Los proyectos se realizan vinculando instituciones de educación superior, empresas nacionales y/o extranjeras.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "Ingeniería y Tecnología",
+                                                    "disciplina_snii": "Bioingeniería Ingeniería Biomédica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Desarrollo y evaluación de vacunas y compuestos inmunomoduladores",
+                                            "descripción": "Desarrollamos y evaluamos estrategias para mejorar la protección conferida por las vacunas. Para ello, empleamos virus o bacterias, ya sea aislados de pacientes y atenuados o modificados por ingeniería genética, o bien por el empleo de compuestos (ADN o proteínas) derivados de estos microorganismos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "Ingeniería y Tecnología",
+                                                    "disciplina_snii": "Bioingeniería Ingeniería Biomédica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Ingeniería biomédica de medicamentos biotecnológicos e ingeniería de tejidos",
+                                            "descripción": "Somos un grupo de investigadores especialistas en el área de la Ingeniería de Medicamentos e Ingeniería de Tejidos, cuyo objetivo es ofrecer soluciones e innovar en el área de la bioingeniería médica a nivel Nacional e Internacional. Nuestra investigación aborda temas como la; terapia génica, la terapia celular, la ingeniería tisular, la ciencia de materiales y la nanotecnología. Tenemos colaboración con diferentes Universidades, Institutos, Centros de Investigación Empresas de base biotecnológica y organizaciones sin fines de lucro.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "Ingeniería y Tecnología",
+                                                    "disciplina_snii": "Bioingeniería Ingeniería Biomédica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Desarrollo y validación de pruebas de diagnóstico molecular",
+                                            "descripción": "Desarrollo de nuevos métodos diagnósticos cualitativos o cuantitativos, que sean mínimamente invasivos, eficientes, sensibles, específicos, de fácil uso e interpretación, así como económicos para su aplicación en campo o en puntos de atención. Además, del enfoque del diagnóstico asociado a la medicina personalizada.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "Ingeniería y Tecnología",
+                                                    "disciplina_snii": "Bioingeniería Ingeniería Biomédica"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "departamento": "Tecnología Alimentaria",
+                            "descripción_departamento": "Es necesario generar ciencia básica y tecnología aplicada que permita innovar y proponer nuevas alternativas al sector de alimentos y bebidas, que tengan un beneficio para la salud, incorporen nuevos ingredientes y conserven sus propiedades para beneficio de los consumidores.",
+                            "áreas": [
+                                {
+                                    "área": "Tecnología Alimentaria",
+                                    "descripción_del_área": "La inclusión de nuevas tecnologías, la difusión de las ya existentes, los mejoramientos de procesos y vinculación con el sector productivo a través de licenciamientos, han propiciado un entorno en el que productores, consumidores y expertos buscan alternativas viables para disfrutar de los beneficios que la innovación tecnológica les ofrece.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Desarrollo y Calidad de Alimentos y Bebidas",
+                                            "descripción": "El desarrollo y la calidad de alimentos y bebidas es un campo multifacético que se enfoca en crear productos alimenticios seguros, nutritivos y atractivos para los consumidores, mientras se aseguran de cumplir con regulaciones y estándares de calidad.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Medicina y Ciencias de la Salud",
+                                                    "campo_snii": "Especialidad Médica",
+                                                    "disciplina_snii": "Seguridad Alimentaria y Nutricional"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Tecnología de Procesos Agroalimentarios",
+                                            "descripción": "Este campo abarca desde la producción y recolección de materias primas hasta el procesamiento, conservación, empaquetado y distribución de alimentos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Medicina y Ciencias de la Salud",
+                                                    "campo_snii": "Especialidad Médica",
+                                                    "disciplina_snii": "Seguridad Alimentaria y Nutricional"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Calidad e Inocuidad Alimentaría",
+                                            "descripción": "La calidad e inocuidad alimentaria son aspectos cruciales en la industria de alimentos y bebidas, garantizando que los productos sean seguros para el consumo y cumplan con las expectativas de los consumidores en términos de sabor, textura, apariencia y valor nutricional.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Medicina y Ciencias de la Salud",
+                                                    "campo_snii": "Especialidad Médica",
+                                                    "disciplina_snii": "Seguridad Alimentaria y Nutricional"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Tecnologías Emergentes",
+                                            "descripción": "Las tecnologías emergentes están transformando la industria agroalimentaria, ofreciendo nuevas formas de mejorar la eficiencia, la sostenibilidad y la seguridad en la producción y procesamiento de alimentos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Medicina y Ciencias de la Salud",
+                                                    "campo_snii": "Especialidad Médica",
+                                                    "disciplina_snii": "Seguridad Alimentaria y Nutricional"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Nutrigenómica",
+                                            "descripción": "La nutrigenómica es un campo interdisciplinario que estudia la interacción entre los nutrientes y los genes, y cómo esta relación afecta la salud y el riesgo de desarrollar enfermedades.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Medicina y Ciencias de la Salud",
+                                                    "campo_snii": "Especialidad Médica",
+                                                    "disciplina_snii": "Seguridad Alimentaria y Nutricional"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "departamento": "Biotecnología Vegetal",
+                            "descripción_departamento": "La Unidad de Biotecnología Vegetal como elemento sustantivo del CIATEJ sirve con dedicación al sector agrícola, agropecuario y agroindustrial a través de investigación; desarrollo; servicios tecnológicos y formación de recursos humanos, con el propósito de contribuir al incremento de sus ventajas competitivas e innovadoras en los mercados globales actuales-",
+                            "áreas": [
+                                {
+                                    "área": "Biotecnología Vegetal",
+                                    "descripción_del_área": "La Biotecnología Vegetal (BV) es el conjunto de técnicas utilizadas para mejorar las variedades de plantas en función de características de interés agrícola y de ornamentación. Esta línea de investigación comprende conocimientos de diversas áreas de la ciencia como bioquímica, agronomía, biología celular y genética.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Micropropagación de Especies Vegetales",
+                                            "descripción": "La propagación in vitro (micropropagación) de especies vegetales es una herramienta biotecnológica muy importante para la producción masiva de plantas de interés comercial.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Agropecuarias y Biotecnología",
+                                                    "campo_snii": "Biotecnología",
+                                                    "disciplina_snii": "Biotecnología Vegetal"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Fitopatología",
+                                            "descripción": "La biotecnología vegetal tiene como objetivo generar conocimiento que ayude a la resolución de los problemas que se presentan en la agricultura. Una problemática importante a resolver es el manejo de las plagas y enfermedades de los principales cultivos agrícolas de importancia económica del país.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Agropecuarias y Biotecnología",
+                                                    "campo_snii": "Biotecnología",
+                                                    "disciplina_snii": "Biotecnología Vegetal"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Mejoramiento Genético Vegetal",
+                                            "descripción": "El mejoramiento genético de los cultivos son procesos por medio de los cuales se producen nuevas y mejores variedades de plantas cultivadas para el beneficio del hombre. Estas nuevas variedades pueden estar orientadas a un mayor rendimiento, mejor calidad nutritiva, resistencia a plagas y enfermedades, resistencia a diversos tipos de estrés abiótico, mejor aprovechamiento de nutrientes del suelo.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Agropecuarias y Biotecnología",
+                                                    "campo_snii": "Biotecnología",
+                                                    "disciplina_snii": "Biotecnología Vegetal"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Fitoquímica y Biocompuestos",
+                                            "descripción": "En esta sub-línea de investigación se enriquece el conocimiento fitoquímico de la flora de la región, se valida sus usos a través de estudios multidisciplinarios y se estudian los metabolitos secundarios, los cuales son compuestos de bajo peso molecular que juegan un papel fundamental para garantizar la supervivencia de las especies dentro del ecosistema, formando parte de las respuestas de defensa contra animales herbívoros, microorganismos, virus o plantas competentes.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Agropecuarias y Biotecnología",
+                                                    "campo_snii": "Biotecnología",
+                                                    "disciplina_snii": "Biotecnología Vegetal"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "departamento": "Tecnología Ambiental",
+                            "descripción_departamento": "En México al igual que en todo el mundo, las actividades productivas han deteriorado el ecosistema afectando la salud de las poblaciones. En los últimos años, las investigaciones en temas ambientales se han vuelto una prioridad para los gobiernos del mundo. Buscamos tecnologías innovadoras que prevengan, reduzcan y controlen la contaminación, es decir, que los desarrollos productivos sean solidarios con el cuidado del medio ambiente.",
+                            "áreas": [
+                                {
+                                    "área": "Tecnología Ambiental",
+                                    "descripción_del_área": "Somos un grupo de investigación que atiende las necesidades de los sectores productivos y gubernamental, generamos nuevo conocimiento mediante el desarrollo de proyectos de I+D+i con alto valor ambiental, de impacto social regional y nacional; llevamos a cabo la transferencia de servicios tecnológicos con valor agregado; formamos recursos humanos de licenciatura y posgrado en el campo ambiental y fomentamos la divulgación y la difusión del conocimiento a través de publicaciones nacionales e internacionales.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Tratamiento de Aguas Residuales",
+                                            "descripción": "Con la finalidad de evitar su contaminación, el agua residual doméstica e industrial requiere un tratamiento previo a su descarga a cuerpos receptores de agua y suelos fértiles. En Tecnología Ambiental generamos conocimiento aplicando procesos y tecnologías innovadoras, que sean eficientes y sustentables para el tratamiento de las aguas residuales.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "Ingeniería y Tecnología",
+                                                    "disciplina_snii": "Ingenieria Ambiental"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Evaluación de la Calidad del Agua",
+                                            "descripción": "En la UTAM tenemos el propósito de generar conocimiento e innovación para el estudio, preservación y aprovechamiento racional de uno de los recursos naturales con mayor valor para la sociedad: el agua para consumo humano. Además de determinar su calidad a través de la medición de numerosos parámetros fisicoquímicos, se genera información que permitirá su utilización sostenible para que este recurso detone el crecimiento y desarrollo en las distintas regiones del país.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "Ingeniería y Tecnología",
+                                                    "disciplina_snii": "Ingenieria Ambiental"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Manejo Integral de Residuos Agroindustriales",
+                                            "descripción": "La sublínea de investigación de manejo integral de residuos agroindustriales se orienta al aprovechamiento de los residuos agroindustriales y urbanos, mediante tecnologías convencionales y el desarrollo de tecnologías innovadoras. Con esto se busca la conversión de los residuos en energía, en poder fertilizante y en procesos biotecnológicos que generen subproductos con valor agregado, logrando así una economía circular en la gestión de residuos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "Ingeniería y Tecnología",
+                                                    "disciplina_snii": "Ingenieria Ambiental"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Servicios",
+                                            "descripción": "Servicios que ofrecen las lineas de investigación y más",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "Ingeniería y Tecnología",
+                                                    "disciplina_snii": "Ingenieria Ambiental"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "redes_sociales": [
+                {
+                    "red": "Facebook",
+                    "identificador": "https://www.facebook.com/Ciatej/",
+                    "activa": true,
+                    "propósito": "difusión científica"
+                },
+                {
+                    "red": "X",
+                    "identificador": "https://x.com/CIATEJ",
+                    "activa": true,
+                    "propósito": "difusión científica"
+                },
+                {
+                    "red": "YouTube",
+                    "identificador": "https://www.youtube.com/channel/UChB28DwhJUxaWd2iOyUNn8g",
+                    "activa": true,
+                    "propósito": "difusión científica"
+                }
+            ]
+        }
+    ]
+}
