@@ -1,7 +1,7 @@
 Última revisión: 16 de junio de 2023
-Centros correctamente capturados: CENTROGEO, CIAD, CIBNOR, CICESE, CICY, CIMAT, CIMAV, COLSAN, COMIMSA, ECOSUR, INAOE, IPICYT, MORA
+Centros correctamente capturados: CENTROGEO, CIAD, CIATEJ, CIBNOR, CICESE, CICY, CIMAT, CIMAV, COLSAN, COMIMSA, ECOSUR, INAOE, IPICYT, MORA
 Centros con errores: CIATEQ, CIATEC, CIDE, CIDESI, CIESAS, CIO, CIQA, COLMICH, FIDERH, INFOTEC
-No puestos en Github: CIATEJ, CIDETQ, COLEF e INECOL
+No puestos en Github: CIDETQ, COLEF e INECOL
 
 TODOS
    1. Poner el campo "siglas_cpi" en mayúsculas
