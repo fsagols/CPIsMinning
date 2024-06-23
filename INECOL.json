@@ -1,0 +1,395 @@
+{
+    "cpis": [
+        {
+            "nombre_cpi": "Instituto de Ecología",
+            "siglas_cpi": "INECOL",
+            "descripción_breve": "INECOL es una institución dedicada a la investigación y educación en ecología y medio ambiente.",
+            "descripción": "El Instituto de Ecología (INECOL) es una institución de investigación y educación que se centra en el estudio de la ecología y el medio ambiente. Su misión es generar y aplicar conocimientos científicos para el manejo y conservación de los recursos naturales.",
+            "misión": "Generar y aplicar conocimientos científicos para el manejo y conservación de los recursos naturales, contribuyendo al desarrollo sustentable y al bienestar social.",
+            "visión": "Ser una institución líder en investigación ecológica y conservación ambiental, reconocida a nivel nacional e internacional por su excelencia y contribuciones al desarrollo sustentable.",
+            "titular": "Dr. Armando Contreras Hernández",
+            "fecha_designación_titular": "2022-05-13",
+            "grado_académico_titular": "Doctorado",
+            "especialidad_titular": "Desarrollo Rural",
+            "origen": "Xalapa, Veracruz, México",
+            "fecha_creación": "1975-08-16",
+            "historia_establecimiento": "El INECOL fue fundado con el objetivo de investigar y educar sobre la ecología y la conservación ambiental, respondiendo a la necesidad de manejar y preservar los recursos naturales de México.",
+            "contexto_histórico": "Desde su creación, el INECOL ha desempeñado un papel crucial en la investigación ecológica en México, colaborando con diversas instituciones y contribuyendo significativamente a la conservación del medio ambiente.",
+            "tipo_entidad_legal": "Entidad paraestatal sectorizada",
+            "figura_jurídica": "Asociación Civil",
+            "marco_normativo": [
+                {
+                    "ley_o_instrumento_jurídico": "Ley de Ciencia y Tecnología"
+                }
+            ],
+            "presupuesto": [
+                {
+                    "año": 2020,
+                    "total": 337227790,
+                    "recursos_fiscales": 252920842.5,
+                    "recursos_propios": 84306947.5
+                },
+                {
+                    "año": 2021,
+                    "total": 346610723,
+                    "recursos_fiscales": 282788573,
+                    "recursos_propios": 63822150
+                },
+                {
+                    "año": 2022,
+                    "total": 360873571,
+                    "recursos_fiscales": 270655178.25,
+                    "recursos_propios": 90218392.75
+                },
+                {
+                    "año": 2023,
+                    "total": 379746686,
+                    "recursos_fiscales": 315302544,
+                    "recursos_propios": 64444142
+                },
+                {
+                    "año": 2024,
+                    "total": 398601481,
+                    "recursos_fiscales": 330436184,
+                    "recursos_propios": 68165297
+                }
+            ],
+            "programas_académicos": [
+                {
+                    "programa": "Biodiversidad Y Sistemática",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Biología y Química",
+                            "campo_snii": "CIENCIAS AMBIENTALES",
+                            "disciplina_snii": "CIENCIAS EN BIODIVERSIDAD"
+                        }
+                    ],
+                    "nivel": "maestría",
+                    "modalidad": "regular",
+                    "vía": "presencial"
+                },
+                {
+                    "programa": "Biodiversidad Y Sistemática",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Biología y Química",
+                            "campo_snii": "CIENCIAS AMBIENTALES",
+                            "disciplina_snii": "CIENCIAS EN BIODIVERSIDAD"
+                        }
+                    ],
+                    "nivel": "doctorado",
+                    "modalidad": "regular",
+                    "vía": "presencial"
+                },
+                {
+                    "programa": "Conservación",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Biología y Química",
+                            "campo_snii": "CIENCIAS AMBIENTALES",
+                            "disciplina_snii": "CONSERVACIÓN DE ECOSISTEMAS"
+                        }
+                    ],
+                    "nivel": "maestría",
+                    "modalidad": "regular",
+                    "vía": "presencial"
+                },
+                {
+                    "programa": "Conservación",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Biología y Química",
+                            "campo_snii": "CIENCIAS AMBIENTALES",
+                            "disciplina_snii": "CONSERVACIÓN DE ECOSISTEMAS"
+                        }
+                    ],
+                    "nivel": "doctorado",
+                    "modalidad": "regular",
+                    "vía": "presencial"
+                },
+                {
+                    "programa": "Ecología",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Biología y Química",
+                            "campo_snii": "CIENCIAS AMBIENTALES",
+                            "disciplina_snii": "ECOLOGÍA"
+                        }
+                    ],
+                    "nivel": "maestría",
+                    "modalidad": "regular",
+                    "vía": "presencial"
+                },
+                {
+                    "programa": "Ecología",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Biología y Química",
+                            "campo_snii": "CIENCIAS AMBIENTALES",
+                            "disciplina_snii": "ECOLOGÍA"
+                        }
+                    ],
+                    "nivel": "doctorado",
+                    "modalidad": "regular",
+                    "vía": "presencial"
+                },
+                {
+                    "programa": "Manejo De Recursos Naturales",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Biología y Química",
+                            "campo_snii": "CIENCIAS AMBIENTALES",
+                            "disciplina_snii": "BIOSISTEMÁTICA Y MANEJO"
+                        }
+                    ],
+                    "nivel": "maestría",
+                    "modalidad": "regular",
+                    "vía": "presencial"
+                },
+                {
+                    "programa": "Manejo De Recursos Naturales",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Biología y Química",
+                            "campo_snii": "CIENCIAS AMBIENTALES",
+                            "disciplina_snii": "BIOSISTEMÁTICA Y MANEJO"
+                        }
+                    ],
+                    "nivel": "doctorado",
+                    "modalidad": "regular",
+                    "vía": "presencial"
+                },
+                {
+                    "programa": "Química Biológica",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Biología y Química",
+                            "campo_snii": "BIOLOGÍA",
+                            "disciplina_snii": "QUÍMICA DE RECURSOS NATURALES"
+                        }
+                    ],
+                    "nivel": "maestría",
+                    "modalidad": "regular",
+                    "vía": "presencial"
+                },
+                {
+                    "programa": "Química Biológica",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Biología y Química",
+                            "campo_snii": "BIOLOGÍA",
+                            "disciplina_snii": "QUÍMICA DE RECURSOS NATURALES"
+                        }
+                    ],
+                    "nivel": "doctorado",
+                    "modalidad": "regular",
+                    "vía": "presencial"
+                },
+                {
+                    "programa": "Estudios Moleculares De Sistemas Biológicos",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Biología y Química",
+                            "campo_snii": "BIOLOGÍA",
+                            "disciplina_snii": "GENÉTICA Y EVOLUCIÓN"
+                        }
+                    ],
+                    "nivel": "maestría",
+                    "modalidad": "regular",
+                    "vía": "presencial"
+                },
+                {
+                    "programa": "Estudios Moleculares De Sistemas Biológicos",
+                    "disciplinas": [
+                        {
+                            "área_snii":"Biología y Química",
+                            "campo_snii": "BIOLOGÍA",
+                            "disciplina_snii": "GENÉTICA Y EVOLUCIÓN"
+                        }
+                    ],
+                    "nivel": "doctorado",
+                    "modalidad": "regular",
+                    "vía": "presencial"
+                }
+            ],
+            "unidades": [
+                {
+                    "nombre_unidad": "Instituto de Ecología, A.C.",
+                    "descripción_unidad": "El INECOL es una institución dedicada a la investigación y educación en ecología y medio ambiente.",
+                    "dirección_postal": "Carretera antigua a Coatepec 351, El Haya, C.P. 91070, Xalapa, Veracruz, México.",
+                    "latitud": 19.5139,
+                    "longitud": -96.9201,
+                    "departamentos": [
+                        {
+                            "departamento": "Ecología Funcional",
+                            "descripción_departamento": "Investigación sobre la función ecológica en diversos ecosistemas.",
+                            "áreas": [
+                                {
+                                    "área": "Ecología",
+                                    "descripción_del_área": "Estudio de las interacciones entre organismos y su ambiente.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Ecología Funcional",
+                                            "descripción": "Análisis de procesos ecológicos y funciones en diferentes entornos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Biología y Química",
+                                                    "campo_snii": "Ecología",
+                                                    "disciplina_snii": "Ecología Funcional"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "departamento": "Evolución de Interacciones",
+                            "descripción_departamento": "Estudio de cómo las interacciones entre especies han evolucionado.",
+                            "áreas": [
+                                {
+                                    "área": "Biología Evolutiva",
+                                    "descripción_del_área": "Investigación de los cambios en las especies a través del tiempo.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Evolución de Interacciones",
+                                            "descripción": "Estudio de la coevolución y otros procesos evolutivos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Biología y Química",
+                                                    "campo_snii": "Biología Evolutiva",
+                                                    "disciplina_snii": "Evolución de Interacciones"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "departamento": "Servicios Ambientales",
+                            "descripción_departamento": "Investigación sobre los beneficios que los ecosistemas proporcionan a la humanidad.",
+                            "áreas": [
+                                {
+                                    "área": "Conservación",
+                                    "descripción_del_área": "Estudio y prácticas para la preservación de los recursos naturales.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Servicios Ambientales",
+                                            "descripción": "Análisis de los servicios que los ecosistemas brindan, como agua limpia y aire puro.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Biología y Química",
+                                                    "campo_snii": "Conservación",
+                                                    "disciplina_snii": "Servicios Ambientales"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "nombre_unidad": "Subsedes Regionales, Pátzcuaro, Michoacán",
+                    "descripción_unidad": "Subsedes del INECOL en Pátzcuaro, enfocadas en la investigación ecológica regional.",
+                    "dirección_postal": "Pátzcuaro, Michoacán, México",
+                    "latitud": 19.5149,
+                    "longitud": -101.6114,
+                    "departamentos": [
+                        {
+                            "departamento": "Ecología Funcional",
+                            "descripción_departamento": "Investigación sobre la función ecológica en diversos ecosistemas.",
+                            "áreas": [
+                                {
+                                    "área": "Ecología",
+                                    "descripción_del_área": "Estudio de las interacciones entre organismos y su ambiente.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Ecología Funcional",
+                                            "descripción": "Análisis de procesos ecológicos y funciones en diferentes entornos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Biología y Química",
+                                                    "campo_snii": "Ecología",
+                                                    "disciplina_snii": "Ecología Funcional"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "departamento": "Evolución de Interacciones",
+                            "descripción_departamento": "Estudio de cómo las interacciones entre especies han evolucionado.",
+                            "áreas": [
+                                {
+                                    "área": "Biología Evolutiva",
+                                    "descripción_del_área": "Investigación de los cambios en las especies a través del tiempo.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Evolución de Interacciones",
+                                            "descripción": "Estudio de la coevolución y otros procesos evolutivos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Biología y Química",
+                                                    "campo_snii": "Biología Evolutiva",
+                                                    "disciplina_snii": "Evolución de Interacciones"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "departamento": "Servicios Ambientales",
+                            "descripción_departamento": "Investigación sobre los beneficios que los ecosistemas proporcionan a la humanidad.",
+                            "áreas": [
+                                {
+                                    "área": "Conservación",
+                                    "descripción_del_área": "Estudio y prácticas para la preservación de los recursos naturales.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Servicios Ambientales",
+                                            "descripción": "Análisis de los servicios que los ecosistemas brindan, como agua limpia y aire puro.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Biología y Química",
+                                                    "campo_snii": "Conservación",
+                                                    "disciplina_snii": "Servicios Ambientales"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "redes_sociales": [
+                {
+                    "red": "Facebook",
+                    "identificador": "https://www.facebook.com/inecol.mexico",
+                    "activa": true,
+                    "propósito": "difusión científica"
+                },
+                {
+                    "red": "X",
+                    "identificador": "https://twitter.com/INECOL_MX",
+                    "activa": true,
+                    "propósito": "difusión científica"
+                },
+                {
+                    "red": "YouTube",
+                    "identificador": "https://www.youtube.com/user/inecolmexico",
+                    "activa": true,
+                    "propósito": "difusión científica"
+                }
+            ]
+        }
+    ]
+}
