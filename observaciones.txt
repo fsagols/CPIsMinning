@@ -1,29 +1,27 @@
 Última revisión: 16 de junio de 2023
-Centros correctamente capturados: CENTROGEO, CIAD, CIATEJ, CIBNOR, CICESE, CICY, CIMAT, CIMAV, COLSAN, COMIMSA, ECOSUR, INAOE, INECOL, IPICYT, MORA
+Centros correctamente capturados: CENTROGEO, CIAD, CIATEJ, CIBNOR, CICESE, CICY, CIDETQ, CIMAT, CIMAV, COLSAN, COMIMSA, ECOSUR, INAOE, INECOL, IPICYT, MORA
 Centros con errores: CIATEQ, CIATEC, CIDE, CIDESI, CIESAS, CIO, CIQA, COLMICH, FIDERH, INFOTEC
-No puestos en Github: CIDETQ, COLEF
+No puestos en Github: COLEF
 
 TODOS
    1. Poner el campo "siglas_cpi" en mayúsculas
 
-CENTROGEO
-CIAD
-CIATEC
+CENTROGEO (Liliana Ramírez Castillo)
+CIAD (Hugo Domínguez Beltrán)
+CIATEC (Carlos Ramírez Salas)
   1. No compila en la versión 5. Produce muchos errores.
-CIATEJ
-  1. ***
-CIATEQ
+CIATEJ (Liliana Ramírez Castillo)
+CIATEQ (Jessica Gutiérrez Galván9
   1. No carga en json editor con la versión 5.
   2. Dice "cpis", debería decir "cpis":
   3. La estructura del archivo no corresponde con la del esquema. Habría que comparar con un
      archivo correcto como INAOE.json.
   4. El archivo usa un caracter comillas inapropiado. Usa “ y debería usar ". Hay que cambiar en todo el archivo.
   5. Consultarme en caso de dudas.
-CIBNOR
-CICESE
-CICY
-  1. Compila en la versión 5 pero la suma de recursos propios más recursos fiscales no corresponde con el total. 
-CIDE
+CIBNOR (Lilieana Ramírez Castillo)
+CICESE (Miroslava González Montiel)
+CICY (Uziel Mena Pérez)
+CIDE (Hugo Domínguez Beltrán)
   1 para la llave "unidades" no aparecen de:
                     "nombre_unidad": "",
                     "descripción_unidad": "",
@@ -32,13 +30,12 @@ CIDE
                     "longitud": 0,
     En casos como este, donde no hay más que una unidad,  se ponen los datos de la sede principal.
     Para el CIDE está en la Ciudad de México.
-CIDESI
+CIDESI (Carlos Ramírez Salas)
   1. No compila en la versión 5.
   2. El presupuesto no se tomó del archivo https://docs.google.com/spreadsheets/d/1lzHlCdnX-DNWh5KekpCGJ8ka_ibx_dzmino3YOOMdVY/edit?usp=drive_link
      De hecho solo aparece para 2023 pero el dato es incorrecto.
-CIDETQ
-  1. ***
-CIESAS
+CIDETQ (Miroslava González Montiel)
+CIESAS (Jéssica Gutiérrez Galván)
   1. No se puede cargar en Json Editor con la versión 5.
   2. Muestra el error.
      Load JSON document from file error: Unexpected token } in JSON at position 7510
@@ -46,15 +43,11 @@ CIESAS
                  { "nombre_departamento": "Antropología Social",
      La coma al final está de más. El error se repite en otros lugares.
   2. Hay más errores.
-CIMAT
-CIMAV
-  1. Se carga bien con la versión 5, pero no contiene el presupuesto para el 2024.
-CIO
-  1. El campo presupuesto no se capturó.
-     La información está incluida en el archivo https://docs.google.com/spreadsheets/d/1IqHb-XnQikgMwZ_04ZKjeVfFjJF5E7_q/edit?usp=drive_link&ouid=112981778137874757561&rtpof=true&sd=true. En las pestañas “CPI-Presupuesto Evolución Anual” y “CPI-Presupuesto Financiamiento” se encuentran respectivamente, la asignación histórica del presupuesto y el presupuesto del 2024.
-CIQA
+CIMAT (Miroslava González Montiel)
+CIMAV (Uziel Mena Pérez)
+CIQA (Carlos Ramírez Salas)
    1. El nombre del titular pónerlo usando mayúsculas y minúsculas.
-COLEF
+COLEF (Jéssica Gutiérrez Galván)
    1. En el campo "presupuesto" aparecen números que no corresponden con la realidad:
 
                   "presupuesto": [
@@ -90,7 +83,7 @@ COLEF
     }
       ],
     2. El archivo está incompleto.
-COLMICH
+COLMICH (Jéssica Gutiérrez Galván)
   1. Hay errores estructurales graves. Algunos los pude corregir, sobraban llaves o paréntesis cuadrados. Otros hay que revisarlos con cuidado. Por ejemplo en las líneas 300 a 305 aparece:
       "vía": "presencial"
 },
@@ -103,21 +96,22 @@ COLMICH
   3. Revisen cómo se ve en INAOE.json para vean cómo debería quedar.
   4. Contactarme en caso de duda.
   5. Hice algunos cambios al archivo json, así que antes de hacer cualquier corrección hay que descargar la última versión de Github.
-COLSAN
-COMIMSA
-ECOSUR
-FIDERH
+COLSAN (Jéssica Gutiérrez Galván)
+  1. No corre con la versión 5 del esquema.
+COMIMSA (Miroslava González Montiel)
+ECOSUR (Uziel Mena Pérez)
+FIDERH (Hugo Domínguez Beltrán)
   1. Compila bien en la versión 5 pero parece no estar completo.
   2. El tipo de entidad legal tenía "Sin fines de lucro", normalmente cuando eso pasa se pone "Asociación Civil", pero habría que verificarlo.
-  3. Faltan los programas académicos e información sobre las unidades. Díganme por favor si esta información no está disponible en los sitios públicos asociados al centro.
-INAOE
-INECOL
-INFOTEC
+  3. Faltan los programas académicos e información sobre l´as unidades. Díganme por favor si esta información no está disponible en los sitios públicos asociados al centro.
+INAOE (Carlos Ramírez Salas)
+INECOL (Uziel Mena Pérez)
+INFOTEC (Jéssica Gutiérrez Galván)
   1. El archivo no lo carga Json Editor. Aparece el siguiente error:
      Load JSON document from file error: Unexpected token { in JSON at position 29
      Esto sucede porque en la línea 4 hay un { que no debe ir. Hay que eliminar esa línea.
   2. Me da la impresión que se tienen errores estructurales similares a los que reporté para COLMICH.json pero no lo revisé con cuidado.
   3. En caso de dudas consultarme por favor.
-IPICYT
-MORA
+IPICYT (Liliana Ramírez Castillo)
+MORA (Miroslava González Montiel)
 
